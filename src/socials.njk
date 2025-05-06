@@ -1,0 +1,38 @@
+---
+title: Connect with Us
+layout: layouts/pages.njk
+---
+
+<center><h1> Howto connect with us </h1><br></center>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%; margin-top: 2rem;">
+
+  {% if social.instagram %}
+  <a href="{{ social.instagram }}" aria-label="Instagram" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="80" style="display: block; margin: 0 auto; filter: grayscale(100%);" />
+    <div>Instagram</div>
+  </a>
+  {% endif %}
+
+  {% if social.bluesky %}
+  <a href="{{ social.bluesky }}" aria-label="Bluesky" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+    <img src="https://simpleicons.org/icons/bluesky.svg" alt="Bluesky" width="80" style="display: block; margin: 0 auto; filter: grayscale(100%) brightness(0);" />
+    <div>Bluesky</div>
+  </a>
+  {% endif %}
+
+  {% if social.github %}
+  <a href="{{ social.github }}" aria-label="GitHub" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+    <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="80" style="display: block; margin: 0 auto;" />
+    <div>GitHub</div>
+  </a>
+  {% endif %}
+
+  {% if social.rss %}
+  <a href="{{ social.rss }}" aria-label="RSS" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+    <img src="https://simpleicons.org/icons/rss.svg" alt="RSS Feed" width="80" style="display: block; margin: 0 auto;" />
+    <div>RSS</div>
+  </a>
+  {% endif %}
+
+</div>

@@ -1,0 +1,32 @@
+{
+  "name": "inside-the-dugout",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run serve",
+    "watch": "concurrently -c auto npm:css:watch npm:11ty:watch",
+    "serve": "concurrently -c auto npm:css:watch npm:11ty:serve",
+    "build": "npm run 11ty:build && npm run css:build",
+    "debug": "cross-env DEBUG=Eleventy* npm run build",
+    "11ty:watch": "cross-env NODE_ENV=development eleventy --watch --incremental",
+    "11ty:serve": "cross-env NODE_ENV=development eleventy --serve --incremental",
+    "11ty:build": "cross-env NODE_ENV=production eleventy",
+    "css:watch": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css -w",
+    "css:build": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css"
+  },
+  "author": "Stefan Dillinger",
+  "license": "MIT",
+  "homepage": "https://github.com/daflh/vredeburg#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "concurrently": "^7.6.0",
+    "cross-env": "^7.0.3",
+    "dayjs": "^1.11.7",
+    "html-minifier": "^4.0.0",
+    "tailwindcss": "^3.2.4",
+    "terser": "^5.16.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-plugin-rss": "^2.0.3"
+  }
+}

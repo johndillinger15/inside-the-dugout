@@ -1,0 +1,14 @@
+[
+  {
+    "label": "About",
+    "url": "/about"
+  },
+  {
+    "label": "Tag List",
+    "url": "/tags"
+  },
+  {
+    "label": "Social Media",
+    "url": "/socials"
+  }
+]

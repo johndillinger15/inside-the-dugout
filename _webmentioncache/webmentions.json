@@ -1,0 +1,122 @@
+{
+  "lastFetched": "2025-05-09T21:19:07.486Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3loih2gw2hk24#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-05-09T21:17:18Z",
+      "wm-id": 1910229,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih2gw2hk24/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Grant Peace",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/269388fe9b90faf91ba2d710e13ef8f895b4d23a4562d26365003ebfa2d66716.jpg",
+        "url": "https://bsky.app/profile/grantpeace.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3loih2gw2hk24#liked_by_did:plc:sxhvvd27nuho3aqdfxybwt3d",
+      "published": null,
+      "wm-received": "2025-05-09T21:17:14Z",
+      "wm-id": 1910228,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih2gw2hk24/did%253Aplc%253Asxhvvd27nuho3aqdfxybwt3d",
+      "wm-target": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Trump Did That (sticker in bio)",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/eeb931836e64cd72ae33a04401ac4944a9bcedb9f5d0d879020d2d146101d127.jpg",
+        "url": "https://bsky.app/profile/fedupstudio.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3loih2gw2hk24#liked_by_did:plc:bb6gmquayu3khqddc2qzw4me",
+      "published": null,
+      "wm-received": "2025-05-09T21:17:13Z",
+      "wm-id": 1910227,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih2gw2hk24/did%253Aplc%253Abb6gmquayu3khqddc2qzw4me",
+      "wm-target": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lorce7qr2c2r",
+      "published": "2025-05-09T20:47:50+00:00",
+      "wm-received": "2025-05-09T21:17:10Z",
+      "wm-id": 1910226,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih2gw2hk24/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lorce7qr2c2r",
+      "wm-target": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "very nice! :)"
+      },
+      "in-reply-to": "https://inside-the-dugout.de/Ceremonial_First_Pitch/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3loih3vy4sc24#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-05-09T21:17:09Z",
+      "wm-id": 1910225,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih3vy4sc24/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/wk18/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/wk18/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": "https://bsky.app/profile/germanyanks.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3loih3vy4sc24#liked_by_did:plc:sfrcatzlrjyd3uewhly7tjvt",
+      "published": null,
+      "wm-received": "2025-05-09T21:17:04Z",
+      "wm-id": 1910224,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3loih3vy4sc24/did%253Aplc%253Asfrcatzlrjyd3uewhly7tjvt",
+      "wm-target": "https://inside-the-dugout.de/wk18/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/wk18/",
+      "wm-property": "like-of",
+      "wm-private": false
+    }
+  ]
+}

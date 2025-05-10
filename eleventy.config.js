@@ -1,4 +1,7 @@
+require("dotenv").config();
+
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
+const pluginWebmentions = require("eleventy-plugin-webmentions");
 
 module.exports = (config) => {
   // Passthrough copy
@@ -16,6 +19,7 @@ module.exports = (config) => {
   // Filters
   config.addFilter("readableDate", require("./lib/filters/readableDate"));
   config.addFilter("minifyJs", require("./lib/filters/minifyJs"));
+  config.addFilter("groupBy", require("./lib/filters/groupBy"));
 
   // Transforms
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));
@@ -30,6 +34,12 @@ module.exports = (config) => {
     "pagedPostsByTag",
     require("./lib/collections/pagedPostsByTag")
   );
+
+  // Webmentions
+  config.addPlugin(pluginWebmentions, {
+    domain: "inside-the-dugout.de",
+    token: process.env.WEBMENTION_IO_TOKEN,
+  });
 
   // RSS Plugin
   config.addPlugin(feedPlugin, {

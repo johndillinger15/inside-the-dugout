@@ -1,6 +1,7 @@
 {
   "instagram": "https://www.instagram.com/_insidethedugout",
   "bluesky": "https://bsky.app/profile/inside-the-dugout.bsky.social",
-  "github": "https://github.com/johndillinger15/inside-the-dugout",
-  "rss": "/feed.rss"
+  "github": "https://github.com/johndillinger15",
+  "rss": "/feed.rss",
+  "mastodon": "https://mastodon.social/@inside_the_dugout"
 }

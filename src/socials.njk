@@ -21,8 +21,15 @@ layout: layouts/pages.njk
   </a>
   {% endif %}
 
+  {% if social.mastodon %}
+  <a href="{{ social.mastodon }}" aria-label="Mastodon" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+    <img src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon" width="80" style="display: block; margin: 0 auto;" />
+    <div>Mastodon</div>
+  </a>
+  {% endif %}
+
   {% if social.github %}
-  <a href="{{ social.github }}" aria-label="GitHub" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;">
+  <a href="{{ social.github }}" aria-label="GitHub" style="text-align: center; text-decoration: none; color: inherit; flex: 1; min-width: 120px;" rel="me">
     <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="80" style="display: block; margin: 0 auto;" />
     <div>GitHub</div>
   </a>

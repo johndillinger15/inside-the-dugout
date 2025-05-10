@@ -21,6 +21,6 @@ Aktuell verfolge ich die MLB hauptsächlich über _mein_ Team – die San Franci
 
 Sonntagabend wäre eigentlich der ideale Zeitpunkt für die Veröffentlichung der Artikel. Leider sind da einige Spiele (und damit die Serien) – vor allem an der US-Westküste – oft noch nicht beendet, und das Sunday-Night Game fehlt dann komplett. Deshalb wird der Post in der Regel montags gegen 20 Uhr erscheinen. Je nachdem, wie es die Woche zulässt, kann es auch mal etwas später werden. Ich verspreche nichts, was ich nicht halten kann – aber ich verspreche, dranzubleiben.
 
-Und weil ein Blog von Austausch lebt: Ich freue mich über jedes Feedback. Egal ob Lob, Kritik oder Anregungen – schreibt mir einfach per Mail (Adresse folgt) oder über Social Media. Wenn jemand Lust hat, selbst etwas beizutragen – etwa Artikel über bestimmte Teams, Entwicklungen oder persönliche Perspektiven – meldet euch gerne!
+Und weil ein Blog von Austausch lebt: Ich freue mich über jedes Feedback. Egal ob Lob, Kritik oder Anregungen – schreibt mir einfach per Mail (redaktion@inside-the-dugout.de) oder über Social Media. Wenn jemand Lust hat, selbst etwas beizutragen – etwa Artikel über bestimmte Teams, Entwicklungen oder persönliche Perspektiven – meldet euch gerne!
 
 In diesem Sinne: _Play Ball_ – und bis nächsten Montag!

@@ -4,6 +4,15 @@ const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 const pluginWebmentions = require("eleventy-plugin-webmentions");
 
 module.exports = (config) => {
+  // Add a filter to extract the hostname from a URL
+  config.addFilter("urlHostname", function (url) {
+    try {
+      return new URL(url).hostname.replace("www.", "");
+    } catch (e) {
+      return url;
+    }
+  });
+
   // Passthrough copy
   config.addPassthroughCopy({ "src/posts/img/**/*": "assets/img/" });
   config.addPassthroughCopy("src/rss-style.xsl");

@@ -1,90 +1,85 @@
 ---
 layout: default
 ---
-
 <article class="max-w-5xl mx-auto px-4">
   <header class="mb-14">
-    <h1 class="text-3xl text-center font-bold text-slate-900 mt-0 mb-3">
-      {{ title }}
-    </h1>
+    <h1 class="text-3xl text-center font-bold text-slate-900 mt-0 mb-3">{{ title }}</h1>
     <div class="text-center text-sm text-slate-600">
-      Published on {{ page.date | readableDate }}
-      {% if author %} by {{ author.name }}{% endif %}
+      Published on {{ page.date | readableDate }}{% if author %} by {{ author.name }}{% endif %}
     </div>
-
     {% if tags %}
     <div class="mt-3 text-center">
       {% for tag in tags %}
-      <a href="{{ '/tags/' | url }}{{ tag }}"
-         class="inline-block bg-slate-200 rounded-full px-3 py-1 text-sm font-medium text-slate-700 m-0.5">
-        #{{ tag }}
-      </a>
+      <a href="{{ '/tags/' | url }}{{ tag }}" class="inline-block bg-slate-200 rounded-full px-3 py-1 text-sm font-medium text-slate-700 m-0.5">#{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if syndication %}
+    <div class="mt-4 text-center text-sm text-slate-600">
+      Also on:
+      {% for link in syndication %}
+      <a class="u-syndication text-cyan-700 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %},{% endif %}
       {% endfor %}
     </div>
     {% endif %}
   </header>
-
-  <div id="content" class="prose prose-slate max-w-none">
-    {{ content | safe }}
-  </div>
-
-  <!-- Divider -->
+  <div id="content" class="prose prose-slate max-w-none">{{ content | safe }}</div>
   <hr class="my-12 border-t border-slate-300">
-
-  <!-- Call to action -->
   <div class="text-base my-12 p-6 max-w-3xl w-full border rounded-xl mx-auto bg-slate-50 text-center">
     <span class="text-xl font-bold text-red-800 block mb-4">Hast du einen Kommentar zu diesem Post?</span>
-    <p>
-      Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst, schicke mir gerne eine
-      <a href="mailto:redaktion@inside-the-dugout.de" class="text-cyan-700 font-bold hover:underline">eMail</a>,
-      oder kommentiere auf <a href="/socials">Social Media</a>. Alle Social Media Kommentare werden unten aufgelistet.
-      Ich freue mich darauf von Dir zu hören.
-    </p>
+    <p>Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst, schicke mir gerne eine <a href="mailto:redaktion@inside-the-dugout.de" class="text-cyan-700 font-bold hover:underline">eMail</a>, oder kommentiere auf <a href="/socials">Social Media</a>. Alle Social Media Kommentare werden unten aufgelistet. Ich freue mich darauf von Dir zu hören.</p>
   </div>
-
-  <!-- Webmentions -->
   {% set pageUrl = 'https://inside-the-dugout.de' + page.url %}
-  {% if webmention.children %}
-    {% set mentions = webmention.children | groupBy("wm-target") %}
-    {% if mentions[pageUrl] %}
-      <section class="mt-12 max-w-3xl mx-auto px-4">
-        <h2 class="text-lg font-bold text-red-800 mb-6">Webmentions</h2>
-        <ul class="space-y-6">
-          {% for wm in mentions[pageUrl] %}
-          <li class="flex items-start space-x-4 border-b pb-4">
-            <!-- Author avatar -->
-            <img src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}"
-                 alt="{{ wm.author.name or 'Avatar' }}"
-                 class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy">
-
-            <div class="flex-1">
-              <div class="text-sm text-slate-600">
-                <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc"
-                   class="font-semibold text-blue-700 hover:underline">
-                  {{ wm.author.name or 'Anonymous' }}
-                </a>
-                <span class="ml-1">
-                  {% if wm['wm-property'] == 'like-of' %}❤️ liked
-                  {% elif wm['wm-property'] == 'repost-of' %}🔁 reposted
-                  {% elif wm['wm-property'] == 'in-reply-to' %}💬 replied
-                  {% else %}🔗 mentioned
-                  {% endif %}
-                </span>
-              </div>
-
-              {% if wm.content and wm.content.text %}
-              <p class="mt-2 text-slate-800">{{ wm.content.text }}</p>
-              {% else %}
-              <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc"
-                 class="inline-block mt-2 text-blue-600 hover:underline">
-                View on source
-              </a>
-              {% endif %}
-            </div>
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
+  {% set mentions = webmention.children | groupBy("wm-target") %}
+  {% set pageMentions = mentions[pageUrl] %}
+  {% if syndication or pageMentions %}
+  <section class="mt-12 max-w-3xl mx-auto px-4">
+    <h2 class="text-lg font-bold text-red-800 mb-6">Social Interactions</h2>
+    {% if pageMentions %}
+    {% set likes = 0 %}
+    {% set reposts = 0 %}
+    {% set replies = 0 %}
+    {% for wm in pageMentions %}
+      {% if wm["wm-property"] == "like-of" %}
+      {% set likes = likes + 1 %}
+      {% elif wm["wm-property"] == "repost-of" %}
+      {% set reposts = reposts + 1 %}
+      {% elif wm["wm-property"] == "in-reply-to" %}
+      {% set replies = replies + 1 %}
+      {% endif %}
+    {% endfor %}
+    <div class="mb-4 text-sm font-bold text-slate-700">❤️ Likes: {{ likes }} | 🔁 Shares: {{ reposts }} | 💬 Kommentare: {{ replies }}</div><br>
     {% endif %}
+    {% if syndication %}
+    <div class="mb-6 text-sm text-slate-600">
+      Also posted on:
+      {% for link in syndication %}
+      <a class="u-syndication text-cyan-700 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %},{% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if pageMentions %}
+    <ul class="space-y-6">
+      {% for wm in pageMentions %}
+      {% if wm["wm-property"] == "in-reply-to" %}
+      <li class="flex items-start space-x-4 border-b pb-4">
+        <img src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}" alt="{{ wm.author.name or 'Avatar' }}" class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy">
+        <div class="flex-1">
+          <div class="text-sm text-slate-600">
+            <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="font-semibold text-blue-700 hover:underline">{{ wm.author.name or 'Anonymous' }}</a>
+            <span class="ml-1">💬 replied</span>
+          </div>
+          {% if wm.content and wm.content.text %}
+          <p class="mt-2 text-slate-800">{{ wm.content.text }}</p>
+          {% else %}
+          <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="inline-block mt-2 text-blue-600 hover:underline">View on source</a>
+          {% endif %}
+        </div>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </section>
   {% endif %}
 </article>

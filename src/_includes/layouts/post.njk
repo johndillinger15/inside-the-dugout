@@ -14,14 +14,6 @@ layout: default
       {% endfor %}
     </div>
     {% endif %}
-    {% if syndication %}
-    <div class="mt-4 text-center text-sm text-slate-600">
-      Also on:
-      {% for link in syndication %}
-      <a class="u-syndication text-cyan-700 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %},{% endif %}
-      {% endfor %}
-    </div>
-    {% endif %}
   </header>
   <div id="content" class="prose prose-slate max-w-none">{{ content | safe }}</div>
   <hr class="my-12 border-t border-slate-300">

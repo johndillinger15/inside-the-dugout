@@ -19,7 +19,7 @@ layout: default
   <hr class="my-12 border-t border-slate-300">
   <div class="text-base my-12 p-6 max-w-3xl w-full border rounded-xl mx-auto bg-slate-50 text-center">
     <span class="text-xl font-bold text-red-800 block mb-4">Hast du einen Kommentar zu diesem Post?</span>
-    <p>Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst, schicke mir gerne eine <a href="mailto:redaktion@inside-the-dugout.de" class="text-cyan-700 font-bold hover:underline">eMail</a>, oder kommentiere auf <a href="/socials">Social Media</a>. Alle Social Media Kommentare werden unten aufgelistet. Ich freue mich darauf von Dir zu hören.</p>
+    <p>Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst, schicke mir gerne eine <a href="mailto:redaktion@inside-the-dugout.de" class="text-cyan-700 font-bold hover:underline">eMail</a>, oder kommentiere auf <a href="/socials" class="text-cyan-700 font-bold hover:underline">Social Media</a>. Alle Social Media Kommentare werden unten aufgelistet. Ich freue mich darauf von Dir zu hören.</p>
   </div>
   {% set pageUrl = 'https://inside-the-dugout.de' + page.url %}
   {% set mentions = webmention.children | groupBy("wm-target") %}

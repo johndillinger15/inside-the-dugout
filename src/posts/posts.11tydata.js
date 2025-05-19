@@ -2,10 +2,13 @@ module.exports = {
   layout: "post",
   title: "Untitled",
   eleventyComputed: {
-    permalink: (data) => `${data.page.fileSlug}/index.html`,
+    permalink: (data) => {
+      const year = data.page.date.getFullYear();
+      return `posts/${year}/${data.page.fileSlug}/index.html`;
+    },
     thumb: (data) => {
       if (data.thumb) {
-        if (data.thumb.search(/^https?:\/\//) !== -1) {
+        if (/^https?:\/\//.test(data.thumb)) {
           return data.thumb;
         }
         return `/assets/img/${data.thumb}`;

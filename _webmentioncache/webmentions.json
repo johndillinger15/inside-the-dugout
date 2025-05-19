@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2025-05-19T18:16:08.779Z",
+  "lastFetched": "2025-05-19T19:17:15.640Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884340359683#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-05-19T18:45:54Z",
+      "wm-id": 1912254,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884340359683/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/2a355e8ebe7968eff2c0f472b2ddf0e673bb20294c43adc29145fbe2c2a358e9.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884377689814#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-05-19T18:45:48Z",
+      "wm-id": 1912253,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884377689814/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884377689814#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-05-19T18:45:46Z",
+      "wm-id": 1912251,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884377689814/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884377689814#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-05-19T18:45:46Z",
+      "wm-id": 1912252,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884377689814/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

@@ -1,24 +1,42 @@
 @import "tailwindcss";
 
+@config '../../../tailwind.config.js';
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
+
+.visually-hidden {
+  @apply absolute block h-px w-px overflow-hidden whitespace-nowrap;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(1px);
+}
+
+.external-link::after {
+  content: " ↗";
+  font-size: 0.875rem; /* Tailwind text-sm */
+  vertical-align: super; /* align-super */
+  margin-left: 0.125rem; /* Tailwind ml-0.5 */
+}
+
 @layer base {
   body {
     font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, helvetica,
       Arial, sans-serif;
-  }
-}
-
-@layer utilities {
-  .visually-hidden {
-    @apply block absolute h-px w-px overflow-hidden whitespace-nowrap;
-    clip: rect(1px 1px 1px 1px);
-    clip: rect(1px, 1px, 1px, 1px);
-    clip-path: inset(1px);
-  }
-}
-
-@layer components {
-  .external-link::after {
-    content: " ↗";
-    @apply text-sm align-super ml-0.5;
   }
 }

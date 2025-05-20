@@ -10,8 +10,8 @@
     "11ty:watch": "eleventy --watch --incremental",
     "11ty:serve": "eleventy --serve --incremental",
     "11ty:build": "cross-env NODE_ENV=production eleventy",
-    "css:watch": "@tailwindcss/cli -i src/assets/css/main.css -o dist/assets/css/main.css -w",
-    "css:build": "@tailwindcss/cli -i src/assets/css/main.css -o dist/assets/css/main.css -m"
+    "css:watch": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css -w",
+    "css:build": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css -m"
   },
   "author": "Stefan Dillinger",
   "license": "MIT",

@@ -44,7 +44,7 @@
 
 <body class="flex flex-col h-screen bg-white text-slate-800 break-words">
     {% include "partials/header.njk" %}
-    <main class="mx-7 lg:mx-6 mt-32 flex-grow">
+    <main class="mx-7 lg:mx-6 mt-32 grow">
         {% if layout === "post" %}
         {{ content | safe }}
         {% else %}

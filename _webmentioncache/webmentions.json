@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2025-05-19T19:17:15.640Z",
+  "lastFetched": "2025-05-20T14:28:18.991Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884340359683#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-05-20T05:46:22Z",
+      "wm-id": 1912323,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884340359683/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3lpkfniqx5s2m#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-05-20T01:12:37Z",
+      "wm-id": 1912309,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3lpkfniqx5s2m/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "angela_underscore",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/fd9d38658fe0f2c0e0356ebd327d2447676d7092e9deac08d5f93d2886ffd643.png",
+        "url": "https://mstdn.ca/@angela_underscore"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884340359683#reblogged-by-114362305499756678",
+      "published": null,
+      "wm-received": "2025-05-19T22:03:09Z",
+      "wm-id": 1912287,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884340359683/114362305499756678",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk20/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "angela_underscore",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/fd9d38658fe0f2c0e0356ebd327d2447676d7092e9deac08d5f93d2886ffd643.png",
+        "url": "https://mstdn.ca/@angela_underscore"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114535884377689814#reblogged-by-114362305499756678",
+      "published": null,
+      "wm-received": "2025-05-19T22:03:06Z",
+      "wm-id": 1912286,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114535884377689814/114362305499756678",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Ceremonial_First_Pitch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

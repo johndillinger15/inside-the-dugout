@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 @layer base {
   body {
@@ -15,5 +13,12 @@
     clip: rect(1px 1px 1px 1px);
     clip: rect(1px, 1px, 1px, 1px);
     clip-path: inset(1px);
+  }
+}
+
+@layer components {
+  .external-link::after {
+    content: " ↗";
+    @apply text-sm align-super ml-0.5;
   }
 }

@@ -3,6 +3,27 @@ require("dotenv").config();
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 const pluginWebmentions = require("eleventy-plugin-webmentions");
 
+const markdownIt = require("markdown-it");
+const markdownItForInline = require("markdown-it-for-inline");
+
+const md = markdownIt({
+  html: true,
+  linkify: true,
+}).use(markdownItForInline, "external_links", "link_open", (tokens, idx) => {
+  const hrefAttr = tokens[idx].attrs?.find((attr) => attr[0] === "href");
+  if (!hrefAttr) return;
+
+  const href = hrefAttr[1];
+  const isExternal = () => {
+    try {
+      const url = new URL(href, "http://localhost"); // fallback for relative URLs
+      return !["inside-the-dugout.de", "localhost"].includes(url.hostname);
+    } catch {
+      return false;
+    }
+  };
+});
+
 module.exports = (config) => {
   // Add a filter to extract the hostname from a URL
   config.addFilter("urlHostname", function (url) {
@@ -12,6 +33,9 @@ module.exports = (config) => {
       return url;
     }
   });
+
+  // markdown-it
+  config.setLibrary("md", md);
 
   // Passthrough copy
   config.addPassthroughCopy({ "src/posts/img/**/*": "assets/img/" });

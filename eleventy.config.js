@@ -8,6 +8,7 @@ const markdownItForInline = require("markdown-it-for-inline");
 
 const tailwindcss = require("eleventy-plugin-tailwindcss-4");
 
+// Configure markdown-it with external link handling
 const md = markdownIt({
   html: true,
   linkify: true,
@@ -18,12 +19,26 @@ const md = markdownIt({
   const href = hrefAttr[1];
   const isExternal = () => {
     try {
-      const url = new URL(href, "http://localhost"); // fallback for relative URLs
+      const url = new URL(href, "http://localhost"); // Fallback base for relative URLs
       return !["inside-the-dugout.de", "localhost"].includes(url.hostname);
     } catch {
       return false;
     }
   };
+
+  if (isExternal()) {
+    // Add class="external-link"
+    let classAttr = tokens[idx].attrs.find((attr) => attr[0] === "class");
+    if (classAttr) {
+      classAttr[1] += " external-link";
+    } else {
+      tokens[idx].attrs.push(["class", "external-link"]);
+    }
+
+    // Optional: Add target and rel for safety and behavior
+    tokens[idx].attrs.push(["target", "_blank"]);
+    tokens[idx].attrs.push(["rel", "noopener noreferrer"]);
+  }
 });
 
 module.exports = (config) => {
@@ -47,7 +62,7 @@ module.exports = (config) => {
   // Passthrough copy
   config.addPassthroughCopy({ "src/posts/img/**/*": "assets/img/" });
   config.addPassthroughCopy("src/rss-style.xsl");
-  config.addPassthroughCopy("assets");
+  config.addPassthroughCopy("src/assets");
 
   // Watch targets
   config.addWatchTarget("src/assets/js/");

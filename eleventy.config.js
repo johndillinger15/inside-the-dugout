@@ -6,6 +6,8 @@ const pluginWebmentions = require("eleventy-plugin-webmentions");
 const markdownIt = require("markdown-it");
 const markdownItForInline = require("markdown-it-for-inline");
 
+const tailwindcss = require("eleventy-plugin-tailwindcss-4");
+
 const md = markdownIt({
   html: true,
   linkify: true,
@@ -32,6 +34,11 @@ module.exports = (config) => {
     } catch (e) {
       return url;
     }
+  });
+
+  // Tailwind plugiin
+  config.addPlugin(tailwindcss, {
+    input: "assets/css/main.css", // required
   });
 
   // markdown-it

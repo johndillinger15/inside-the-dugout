@@ -6,7 +6,7 @@ tags: Housekeeping
 description: Erster Post und Vorstellung.
 author:
   name: "Stefan Dillinger"
-thumb: Vorstellung des Projekts.png
+thumb: thumbnail_Vorstellung.png
 ---
 
 **Liebe deutsche Baseballgemeinde,**

@@ -29,6 +29,10 @@
     <meta name="keywords" content="{{ metaKeywords }}">
     <meta name="author" content="{{ author.name }}">
     <meta name="robots" content="index, follow">
+    <meta property="og:image" content="{{ site.url }}/img/{{ thumb }}" />
+    <meta property="og:image:alt" content="{{ title | escape }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ site.url }}/img/{{ thumb }}" />
     <link rel="authorization_endpoint" href="https://indieauth.com/auth">
     <link rel="me" href="https://mastodon.social/@inside_the_dugout">
     <link href="https://github.com/johndillinger15" rel="me">

@@ -1,5 +1,7 @@
 {
   "line-length": false,
   "list-marker-space": false,
-  "no-inline-html": false
+  "no-inline-html": false,
+  "MD045": false,
+  "MD025": false
 }

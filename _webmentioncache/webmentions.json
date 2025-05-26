@@ -1,6 +1,63 @@
 {
-  "lastFetched": "2025-05-22T11:45:01.979Z",
+  "lastFetched": "2025-05-22T17:29:03.278Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114551251436141902#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-05-22T12:26:37Z",
+      "wm-id": 1912771,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114551251436141902/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/2a355e8ebe7968eff2c0f472b2ddf0e673bb20294c43adc29145fbe2c2a358e9.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114551251436141902#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-05-22T11:50:40Z",
+      "wm-id": 1912760,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114551251436141902/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114551251436141902#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-05-22T11:50:39Z",
+      "wm-id": 1912759,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114551251436141902/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/City-Connect-v2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

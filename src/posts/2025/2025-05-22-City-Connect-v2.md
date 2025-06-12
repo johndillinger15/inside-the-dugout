@@ -3,7 +3,7 @@ title: Die City Connect Jerseys 2025
 date: 2025-05-22T11:00:00Z
 layout: post
 tags:
-  - "City Connect"
+  - City Connect
 description: "Das Ranking zum 2025er Jahrgang der City Connect Uniforms v2.0"
 author:
   name: "Stefan Dillinger"
@@ -87,16 +87,12 @@ Die Red Sox führten ein [neues Design](https://www.overthemonster.com/2025/5/16
 Natürlich kann dieser Artikel nicht ohne mein persöhnliches Ranking bleiben. Und ich muss sagen, dass es mir nicht leicht fällt eine Eindeutige Reihenfolge festzulegen.
 
 1. Der erste Platz geht eindeutig an die Diamondbacks, so war zumindest meine spontane Reaktion. Die Farbenkombination ist einfach der knaller Türkies auf Lila, und das Slytherin-artige Logo auf den Trikot passt perfekt. Wäre ich nicht Giants Fan ein klarer Kauf und Platz 1.
-1. Die Rockies setzen auf ihr bewährtes Thema: Rocky Mountains. Das etwas naturnahere Design der ersten Version wurde durch die intensiven Farben des Sonnenuntergangs ersetzt. Vor allem das Cap überzeugt. Für mich eine schöne Weiterentwicklung und ein klarer Platz 2.
-1. Auf Platz 3 landen bei mir die Marlins. Seit "Step Up to the Streets" hat Miami einen Stein bei mir im Brett und das dunkle Trikot mit Neonfarben hat mich irgendwie wieder an die Musik und den Way of Life aus dem Film erinnert.
-1. Das Trikot der Boston Red Sox lässt mich gespalten zurück. Einerseits finde ich das Design sehr gelungen: Retro, besticht durch den Minimalismus und die Farbe. Leider ist es eben "nur" selbstreferenziell und hat keine Verbindung zur Stadt. Ginge es nur nach dem Design, wäre es mein Platz 1, so bekommt es den Platz im Mittelfeld.
-
-1. Die Giants schaffen es leider nur auf Rang 5. Ähnlich wie bei den Red Sox hab ich auf den ersten Blick das Design nicht mit San Francisco verbunden. Ich finde das Trikot und die Cap vom Design her schon schön, aber mit Baseball habe ich das nicht verbunden, daher nur Platz 5.
-
-1. Das Design der Astros kommt, im Vergleich zu den anderen, etwas unspektakulär daher und erinnert mich zu sehr an das Weltraum Thema der ersten Version. Daher leider nur Platz 6.
-
-1. Der vorletzte Platz geht an die Nationals. Das Design ist solide, aber das hellblau überzeugt mich nicht. Den U-Bahnplan auf das Trikot zu drucken ist jetzt auch nicht der Weisheit letzter Schluss und etwas beliebig, eine U-Bahn gibt es schließlich in vielen Städten. Das eckige W gefällt mir allerdings besser als das "Curly W" das sie sonst haben.
-
-1. Den letzten Platz bekommen die White Sox. Zwar sind die Bulls ein Klassiker, aber irgendwie hat ein Basketballtrikot auf dem Baseballfeld nichts verloren.
+2. Die Rockies setzen auf ihr bewährtes Thema: Rocky Mountains. Das etwas naturnahere Design der ersten Version wurde durch die intensiven Farben des Sonnenuntergangs ersetzt. Vor allem das Cap überzeugt. Für mich eine schöne Weiterentwicklung und ein klarer Platz 2.
+3. Auf Platz 3 landen bei mir die Marlins. Seit "Step Up to the Streets" hat Miami einen Stein bei mir im Brett und das dunkle Trikot mit Neonfarben hat mich irgendwie wieder an die Musik und den Way of Life aus dem Film erinnert.
+4. Das Trikot der Boston Red Sox lässt mich gespalten zurück. Einerseits finde ich das Design sehr gelungen: Retro, besticht durch den Minimalismus und die Farbe. Leider ist es eben "nur" selbstreferenziell und hat keine Verbindung zur Stadt. Ginge es nur nach dem Design, wäre es mein Platz 1, so bekommt es den Platz im Mittelfeld.
+5. Die Giants schaffen es leider nur auf Rang 5. Ähnlich wie bei den Red Sox hab ich auf den ersten Blick das Design nicht mit San Francisco verbunden. Ich finde das Trikot und die Cap vom Design her schon schön, aber mit Baseball habe ich das nicht verbunden, daher nur Platz 5.
+6. Das Design der Astros kommt, im Vergleich zu den anderen, etwas unspektakulär daher und erinnert mich zu sehr an das Weltraum Thema der ersten Version. Daher leider nur Platz 6.
+7. Der vorletzte Platz geht an die Nationals. Das Design ist solide, aber das hellblau überzeugt mich nicht. Den U-Bahnplan auf das Trikot zu drucken ist jetzt auch nicht der Weisheit letzter Schluss und etwas beliebig, eine U-Bahn gibt es schließlich in vielen Städten. Das eckige W gefällt mir allerdings besser als das "Curly W" das sie sonst haben.
+8. Den letzten Platz bekommen die White Sox. Zwar sind die Bulls ein Klassiker, aber irgendwie hat ein Basketballtrikot auf dem Baseballfeld nichts verloren.
 
 Welche Designs sind eure Favoriten? Lasst es mich gerne auf Bluesky oder Mastodon wissen.

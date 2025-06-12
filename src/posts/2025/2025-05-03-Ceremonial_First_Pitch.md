@@ -2,7 +2,8 @@
 title: Ceremonial First Pitch
 date: 2025-05-03T20:00:00Z
 layout: post
-tags: Housekeeping
+tags:
+  - Housekeeping
 description: Erster Post und Vorstellung.
 author:
   name: "Stefan Dillinger"

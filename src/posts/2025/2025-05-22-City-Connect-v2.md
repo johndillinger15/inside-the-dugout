@@ -7,12 +7,12 @@ tags:
 description: "Das Ranking zum 2025er Jahrgang der City Connect Uniforms v2.0"
 author:
   name: "Stefan Dillinger"
-thumb: thumbnail_city_connect.png
+thumb: thumbnail_25_city_connect.png
 syndication:
   - https://www.instagram.com/p/DJ9FyBsKQOP
 ---
 
-<img src="../../img/thumbnail_city_connect.png" style="display:none"/>
+<img src="../../img/thumbnail_25_city_connect.png" style="display:none"/>
 
 Jetzt, da der 2025er Jahrgang der City Connect Uniforms v2.0 komplett ist, lohnt es sich darüber zu schreiben. So let's get into it.
 

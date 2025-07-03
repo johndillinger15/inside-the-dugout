@@ -13,7 +13,7 @@ syndication:
   -
 ---
 
-<img src='../../img/thumbnail_gitants_review.png' style='display:none'>
+<img src='../../img/thumbnail_giants_review.png' style='display:none'>
 
 Liebe Baseballgemeinde,
 

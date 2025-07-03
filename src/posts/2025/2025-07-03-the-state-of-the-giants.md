@@ -10,7 +10,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_giants_review.png
 syndication:
-  -
+  - https://www.instagram.com/p/DLpsrYeKHZG
 ---
 
 <img src='../../img/thumbnail_giants_review.png' style='display:none'>

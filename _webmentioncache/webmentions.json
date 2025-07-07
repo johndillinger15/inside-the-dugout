@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2025-07-01T19:14:16.549Z",
+  "lastFetched": "2025-07-07T09:17:17.147Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114790067439049388#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-07-03T20:04:34Z",
+      "wm-id": 1922268,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114790067439049388/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114790067439049388#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-07-03T20:04:34Z",
+      "wm-id": 1922269,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114790067439049388/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114790067439049388#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-07-03T15:58:54Z",
+      "wm-id": 1922231,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114790067439049388/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114790067439049388#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-07-03T15:58:52Z",
+      "wm-id": 1922230,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114790067439049388/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/the-state-of-the-giants/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

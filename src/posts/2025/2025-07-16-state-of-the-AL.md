@@ -8,7 +8,7 @@ tags:
 description: Im All-Star Break werfe ich einen kurzen Blick auf das Playoff-Rennen in den beiden Ligen
 author:
   name: Stefan Dillinger
-thumb: thumbnail_state_of_aL.png
+thumb: thumbnail_state_of_al.png
 syndication:
   -
 ---

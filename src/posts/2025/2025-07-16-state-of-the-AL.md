@@ -10,7 +10,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_al.png
 syndication:
-  -
+  - https://www.instagram.com/p/DMK9qFgKbZw
 ---
 
 <img src='../../img/thumbnail_state_of_al.png' style='display:none'>

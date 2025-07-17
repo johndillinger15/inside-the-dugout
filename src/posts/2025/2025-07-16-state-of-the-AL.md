@@ -77,7 +77,7 @@ Die Mariners (51–45, .531) waren schon einmal acht Spiele über .500 und vier 
 
 ### Texas Rangers und Los Angeles Angels
 
-Die defending Champions Texas Rangers (48–49, .495) und die Los Angeles Angels (47–49, .490) liegen beide zurück. Beide Teams haben dabei einen leicht schwereren Schedule: Rangers (.513), Los Angeles (.508). Insgeheim roote ich immer ein wenig für die Angels, denn Mike Trout hätte es einfach verdient, in seiner Karriere einen tiefen Playoff-Run zu haben. Dieses Jahr schaut es etwas besser aus als letztes Jahr, mehr dazu aber unten im Wild-Card-Race.
+Die Texas Rangers (48–49, .495) und die Los Angeles Angels (47–49, .490) liegen beide zurück. Beide Teams haben dabei einen leicht schwereren Schedule: Rangers (.513), Los Angeles (.508). Insgeheim roote ich immer ein wenig für die Angels, denn Mike Trout hätte es einfach verdient, in seiner Karriere einen tiefen Playoff-Run zu haben. Dieses Jahr schaut es etwas besser aus als letztes Jahr, mehr dazu aber unten im Wild-Card-Race.
 
 Ähnlich wie die White Sox sind auch die Athletics (41–57, .418) einfach nur schlecht und spielen für die Zukunft.
 

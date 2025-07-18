@@ -10,7 +10,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_NL.png
 syndication:
-  -
+  - https://www.instagram.com/p/DMP6fprKFfM/
 ---
 
 <img src='../../img/thumbnail_state_of_NL.png' style='display:none'>

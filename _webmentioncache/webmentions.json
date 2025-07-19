@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2025-07-16T15:39:06.787Z",
+  "lastFetched": "2025-07-18T16:40:02.195Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114874129255222656#favorited-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-07-18T12:44:55Z",
+      "wm-id": 1925155,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/114874129255222656/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/114874129255222656#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-07-18T12:44:55Z",
+      "wm-id": 1925156,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/114874129255222656/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3luafk67brd2v#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-07-18T12:32:07Z",
+      "wm-id": 1925154,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3luafk67brd2v/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3luafk67brd2v#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-07-18T12:32:05Z",
+      "wm-id": 1925153,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3luafk67brd2v/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/state-of-the-NL/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

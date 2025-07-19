@@ -28,10 +28,12 @@
 }
 
 .external-link::after {
-  content: " ↗";
-  font-size: 0.875rem; /* Tailwind text-sm */
-  vertical-align: super; /* align-super */
-  margin-left: 0.125rem; /* Tailwind ml-0.5 */
+  content: "↗";
+  font-style: normal;
+  font-weight: 600;
+  color: #00bcd4;
+  padding-left: 2px;
+  line-height: 0.75;
 }
 
 @layer base {

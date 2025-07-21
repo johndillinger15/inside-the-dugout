@@ -8,12 +8,12 @@ tags:
 description: Im All-Star Break werfe ich einen kurzen Blick auf das Playoff-Rennen in den beiden Ligen
 author:
   name: Stefan Dillinger
-thumb: thumbnail_state_of_NL.png
+thumb: thumbnail_state_of_nl.png
 syndication:
   - https://www.instagram.com/p/DMP6fprKFfM/
 ---
 
-<img src='../../img/thumbnail_state_of_NL.png' style='display:none'>
+<img src='../../img/thumbnail_state_of_nl.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum All-Star Break. Die spielfreie Zeit nutze ich, um einen kurzen Überblick über das Playoffrennen zu geben.
 

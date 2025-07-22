@@ -19,7 +19,7 @@ const md = markdownIt({
   const href = hrefAttr[1];
   const isExternal = () => {
     try {
-      const url = new URL(href, "http://localhost"); // Fallback base for relative URLs
+      const url = new URL(href, "http://localhost"); // fallback for relative URLs
       return !["inside-the-dugout.de", "localhost"].includes(url.hostname);
     } catch {
       return false;
@@ -27,6 +27,9 @@ const md = markdownIt({
   };
 
   if (isExternal()) {
+    const url = new URL(href, "http://localhost");
+    const hostname = url.hostname.replace("www.", "");
+
     // Add class="external-link"
     let classAttr = tokens[idx].attrs.find((attr) => attr[0] === "class");
     if (classAttr) {
@@ -35,14 +38,20 @@ const md = markdownIt({
       tokens[idx].attrs.push(["class", "external-link"]);
     }
 
-    // Optional: Add target and rel for safety and behavior
+    // Add target and rel attributes
     tokens[idx].attrs.push(["target", "_blank"]);
     tokens[idx].attrs.push(["rel", "noopener noreferrer"]);
+
+    // Add Umami tracking attribute with dynamic hostname
+    tokens[idx].attrs.push(["data-umami-event", `Click to ${hostname}`]);
   }
 });
 
 module.exports = (config) => {
-  // Add a filter to extract the hostname from a URL
+  // Add the Markdown parser with external link handling
+  config.setLibrary("md", md);
+
+  // Optional: A filter to extract hostnames from URLs
   config.addFilter("urlHostname", function (url) {
     try {
       return new URL(url).hostname.replace("www.", "");

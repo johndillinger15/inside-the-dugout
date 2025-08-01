@@ -30,7 +30,7 @@ Ich versuche mal die wichtigsten Trades zusammenzufassen.
 A.J. Preller strikes again! Der GM opferte Leo De Vries (Prospect #3 der gesamten Liga), plus Braden Nett, Henry Baez und Eduarniel Nuñez für den Velocity-König Miller (unter Kontrolle bis 2029) und Starter Sears. Miller könnte zurück in die Rotation wechseln. Ein enormer Preis für enormes Talent.
 
 ### Astros holen Carlos Correa von den Twins
-Der wohl emotionalste Trade der Deadline involviert Carlos Correa, denn er kehrt für praktisch nichts (Matt Mikulski plus Cash) nach Houston zurück und wird Third Base spielen. Die Twins übernehmen einen Großteil seines 200-Millionen-Vertrags (letzte Quellen sagen, dass sie 33M$ nach Houston schicken). Correa musste seine No-Trade-Clause aufheben dafür kehrt er nach Hause zurück.
+Der wohl emotionalste Trade der Deadline involviert Carlos Correa, denn er kehrt für praktisch nichts (Matt Mikulski plus Cash) nach Houston zurück und wird Third Base spielen. Die Twins werden den Astros 33M$ für den Rest des Sechsjahresvertrages mit 200M$ Zahlen, den er vor der Saison 2023 unterschrieben hat. Correa musste seine No-Trade-Clause aufheben dafür kehrt er nach Hause zurück.
 
 ### Mariners bekommen Eugenio Suárez von den Diamondbacks
 

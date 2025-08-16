@@ -8,8 +8,6 @@ description: Newsletter und WhatsApp Channel
 author:
   name: Stefan Dillinger
 thumb: thumbnail_neue_kanäle.png
-syndication:
-  -
 ---
 
 <img src='../../img/thumbnail_neue_kanäle.png' style='display:none'>
@@ -23,10 +21,10 @@ Beide Links findet ihr hier:
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6 pb-12">
     <!-- Newsletter -->
-    <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up" 
+    <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up"
        class="flex items-center justify-center p-4 border rounded-lg bg-white shadow hover:shadow-lg transition">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 text-cyan-700 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                  d="M16 12H8m8-4H8m8 8H8m-2 4h12a2 2 0 002-2V6a2 2 0 
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 text-cyan-700 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M16 12H8m8-4H8m8 8H8m-2 4h12a2 2 0 002-2V6a2 2 0
                      00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
         <span class="font-bold text-cyan-700">Newsletter abonnieren</span>
     </a>

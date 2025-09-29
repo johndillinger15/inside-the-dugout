@@ -1,6 +1,44 @@
 {
-  "lastFetched": "2025-09-22T19:57:35.738Z",
+  "lastFetched": "2025-09-29T20:06:16.619Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Inside The Dugout",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/82975d4a5db90206cce051dbb771823e424ff2af2b56a04694f3e9dcfa37dde5.jpg",
+        "url": "https://bsky.app/profile/inside-the-dugout.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3lzgrqe7bbq2d#liked_by_did:plc:uist7xrhua5qlapalx4bwtt7",
+      "published": null,
+      "wm-received": "2025-09-23T12:47:59Z",
+      "wm-id": 1941730,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3lzgrqe7bbq2d/did%253Aplc%253Auist7xrhua5qlapalx4bwtt7",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk38/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/wk38/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Inside The Dugout",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/82975d4a5db90206cce051dbb771823e424ff2af2b56a04694f3e9dcfa37dde5.jpg",
+        "url": "https://bsky.app/profile/inside-the-dugout.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3lzgrqe7bbq2d#reposted_by_did:plc:uist7xrhua5qlapalx4bwtt7",
+      "published": null,
+      "wm-received": "2025-09-23T12:47:31Z",
+      "wm-id": 1941729,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3lzgrqe7bbq2d/did%253Aplc%253Auist7xrhua5qlapalx4bwtt7",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk38/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk38/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

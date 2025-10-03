@@ -9,10 +9,6 @@
         <nav id="menu" class="order-last md:order-none grow w-full md:w-auto hidden md:flex mt-2 md:mt-0 justify-evenly items-center">
             {% for item in menu %} <a href="{{ item.url | url }}" {% if item.newTab %}target="_blank" rel="noopener"{% endif %} class="text-base font-medium text-slate-700 hover:text-teal-600"> {{ item.label }}</a>{% endfor %}
         </nav>
-        <form id="search" action="{{ '/search' | url }}" class="order-last sm:order-none grow items-center justify-end hidden sm:block mt-6 sm:mt-0">
-            <label class="visually-hidden" for="header-searchbox">Hier suchen ...</label>
-            <input type="text" id="header-searchbox" name="q" placeholder="Hier suchen ..." class="w-full sm:max-w-xs bg-slate-200 border border-transparent float-right focus:bg-white focus:border-slate-300 focus:outline-hidden h-8 p-4 placeholder-slate-500 rounded-sm text-slate-700 text-sm">
-        </form>
         <div id="menu-toggle" class="flex items-center md:hidden text-slate-700 hover:text-teal-600 cursor-pointer sm:ml-6">
             {% include "icons/menu.svg" %}
         </div>

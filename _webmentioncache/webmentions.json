@@ -1,6 +1,101 @@
 {
-  "lastFetched": "2025-09-29T20:06:16.619Z",
+  "lastFetched": "2025-10-03T07:38:19.768Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115289404106868584#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-09-29T21:39:57Z",
+      "wm-id": 1942960,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115289404106868584/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115289404106868584#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-09-29T21:39:57Z",
+      "wm-id": 1942961,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115289404106868584/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115289404106868584#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-09-29T21:39:55Z",
+      "wm-id": 1942959,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115289404106868584/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115289404106868584#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-09-29T21:39:54Z",
+      "wm-id": 1942958,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115289404106868584/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115289404106868584#favorited-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-09-29T21:39:53Z",
+      "wm-id": 1942957,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/115289404106868584/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/wk39/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

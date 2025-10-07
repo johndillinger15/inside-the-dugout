@@ -46,3 +46,6 @@ deploy
 .vscode
 
 _webmentioncache/
+
+.obsidian/workspace.json
+.obsidian/plugins/

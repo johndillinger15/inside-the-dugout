@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2025-10-03T10:54:31.019Z",
+  "lastFetched": "2025-10-09T18:49:44.903Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115328059342188331#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-10-06T16:05:14Z",
+      "wm-id": 1945639,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115328059342188331/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk40/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk40/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115328059342188331#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-10-06T16:05:13Z",
+      "wm-id": 1945638,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115328059342188331/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/wk40/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/wk40/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m2blibtsbi2a#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-10-03T12:48:26Z",
+      "wm-id": 1944313,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m2blibtsbi2a/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Wildcard-Series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Wildcard-Series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m2blibtsbi2a#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-10-03T12:48:26Z",
+      "wm-id": 1944314,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m2blibtsbi2a/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Wildcard-Series/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/Wildcard-Series/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

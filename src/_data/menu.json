@@ -1,5 +1,9 @@
 [
   {
+    "label": "Blog",
+    "url": "/"
+  },
+  {
     "label": "About",
     "url": "/posts/2025/Ceremonial_First_Pitch/"
   },

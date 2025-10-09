@@ -1,13 +1,6 @@
 ---
-layout: default
-eleventyExcludeFromCollections: true
-pagination:
-    data: collections.pagedPostsByTag
-    size: 1
-    alias: paged
-permalink: "tags/{{ paged.tagName }}/{% if paged.number > 1 %}{{ paged.number }}/{% endif %}index.html"
-eleventyComputed:
-    title: "Tagged with \"{{ paged.tagName | capitalize }}\""
+title: Shortposts
+layout: layouts/pages.njk
 ---
 
 coming soon

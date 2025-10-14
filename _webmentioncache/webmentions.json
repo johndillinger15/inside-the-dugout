@@ -1,6 +1,120 @@
 {
-  "lastFetched": "2025-10-09T18:49:44.903Z",
+  "lastFetched": "2025-10-14T19:28:41.418Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Markus Bracht",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/6059b570b58c8e650d5fbf611e0a9a997782a8e9069a2a54e67f57e4a26d44e7.jpg",
+        "url": "https://bsky.app/profile/mbracht.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m2ytzizbxw2m#liked_by_did:plc:xyny3cvnolkqznw6vtxsworq",
+      "published": null,
+      "wm-received": "2025-10-12T17:35:32Z",
+      "wm-id": 1946794,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m2ytzizbxw2m/did%253Aplc%253Axyny3cvnolkqznw6vtxsworq",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m2ytzizbxw2m#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-10-12T17:35:32Z",
+      "wm-id": 1946795,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m2ytzizbxw2m/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m2ytzizbxw2m#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-10-12T17:35:32Z",
+      "wm-id": 1946796,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m2ytzizbxw2m/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115361532891339336#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-10-12T13:56:03Z",
+      "wm-id": 1946772,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115361532891339336/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115361532891339336#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-10-12T13:56:02Z",
+      "wm-id": 1946771,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115361532891339336/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115361532891339336#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-10-12T13:56:00Z",
+      "wm-id": 1946770,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115361532891339336/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/division-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

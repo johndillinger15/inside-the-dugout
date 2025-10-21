@@ -10,7 +10,7 @@ author:
 thumb: thumbnail_25_championship_series.png
 ---
 
-<img src='../../img/thumbnail_25wk_championship_series.png' style='display:none'>
+<img src='../../img/thumbnail_25_championship_series.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf die Championship Series in der Major League Baseball.
 

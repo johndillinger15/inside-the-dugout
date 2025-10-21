@@ -3,7 +3,7 @@ title: Rückblick auf die Division Series der Playoffs in der MLB
 date: 2025-10-12T16:00:00Z
 layout: post
 tags:
-  - Wochenrückblick
+  - Playoffs
 description: Der ausführliche Rückblick auf die Division Series der Playoffs in der MLB
 author:
   name: Stefan Dillinger

@@ -5,7 +5,7 @@ layout: post
 tags:
   - Playoffs
   - World Series
-description:
+description: Heute ist Travel-Day in der World Series also möchte ich die Zeit nutzen und auf die beiden Spiele in Toronto zurückblicken.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_25_ws_g1_2.png
@@ -29,7 +29,7 @@ Das sechste Inning war dann das Highlight des Spiels und brachte die Entscheidun
 
 Die Blue Jays haben aktuell das Momentum und für die Dodgers wird Spiel 2 schon zu einem wichtigen Spiel. Es ist zwar kein must-Win (siehe ALCS), aber die Blue Jays haben nicht nur gezeigt, dass sie die Starter der Dodgers früh vom Mound holen können, sondern sie haben auch ein Statement gesetzt und die Euphorie aus der ALCS in die World Series übertragen.
 
-## Spiel 2 -
+## Spiel 2 - 5:1 Dodgers
 
 Und die Dodgers lieferten ab und glichen die World Series in Game 2 durch einen 5-1-Sieg aus. Yoshinobu Yamamoto dominierte über neun Innings und lieferte sein zweites Complete Game in Folge ab. Nach einem schwierigen ersten Inning mit 23 Pitches fand er seinen Rhythmus und retirete die Blue Jays in den letzten 20 At-Bats in Serie. Mit acht Strikeouts, keinem Walk und nur vier zugelassenen Hits bewies Yamamoto seine Klasse. Er ist der erste Pitcher seit Curt Schilling 2001 mit zwei aufeinanderfolgenden Complete Games in den Playoffs.
 
@@ -37,4 +37,4 @@ Kevin Gausman hielt auf der anderen Seite dagegen und arbeitete stark über 6.2 
 
 ### Ausblick
 
-Die ersten beiden Spiele in Toronto hatten sehr unterschiedliche Charakteristiken. Das erste Spiel war ein offensives Feuerwerk der Blue Jays, das zweite eine Demonstration der Stärke des Pitchings der Dodgers. Was wir bisher noch nicht gesehen haben, ist die Offensive der Dodgers. Bisher ist diese noch nicht wirklich in Erscheinung getreten und hat in der World Series nur 12 Hits produziert (Blue Jays: 18). Werden wir also in Los Angeles eine Explosion der Bats der Dodgers sehen? Betts, Ohtani, Freeman, I am looking at you... Oder eine Wiederholung des Themas aus Spiel 1 oder 2? Die Dodgers schicken Glasnow und Ohtani auf den Mound und die Blue Jays haben Scherzer für Spiel 3 nominiert, dass er für ein Spiel 7 verfügbar wäre, und Shane Bieber für Spiel 4. Die Blue Jays müssen ein Spiel gewinnen um die Serie wieder zurück nach Kanada zu holen. 
+Die ersten beiden Spiele in Toronto hatten sehr unterschiedliche Charakteristiken. Das erste Spiel war ein offensives Feuerwerk der Blue Jays, das zweite eine Demonstration der Stärke des Pitchings der Dodgers. Was wir bisher noch nicht gesehen haben, ist die Offensive der Dodgers. Bisher ist diese noch nicht wirklich in Erscheinung getreten und hat in der World Series nur 12 Hits produziert (Blue Jays: 18). Werden wir also in Los Angeles eine Explosion der Bats der Dodgers sehen? Betts, Ohtani, Freeman, I am looking at you... Oder eine Wiederholung des Themas aus Spiel 1 oder 2? Die Dodgers schicken Glasnow und Ohtani auf den Mound und die Blue Jays haben Scherzer für Spiel 3 nominiert, dass er für ein Spiel 7 verfügbar wäre, und Shane Bieber für Spiel 4. Die Blue Jays müssen ein Spiel gewinnen um die Serie wieder zurück nach Kanada zu holen.

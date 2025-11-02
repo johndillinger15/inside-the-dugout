@@ -1,6 +1,215 @@
 {
-  "lastFetched": "2025-10-21T12:01:36.526Z",
+  "lastFetched": "2025-11-02T07:34:55.497Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115441425778590509#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-10-26T16:43:14Z",
+      "wm-id": 1949797,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115441425778590509/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/World-Series-Game-1-2/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/World-Series-Game-1-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115428673872079398#favorited-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-10-24T11:16:15Z",
+      "wm-id": 1949459,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/115428673872079398/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115428673872079398#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-10-24T11:15:41Z",
+      "wm-id": 1949458,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115428673872079398/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115428673872079398#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-10-24T10:39:17Z",
+      "wm-id": 1949457,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115428673872079398/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115428673872079398#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-10-24T10:39:15Z",
+      "wm-id": 1949455,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115428673872079398/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115428673872079398#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-10-24T10:39:15Z",
+      "wm-id": 1949456,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115428673872079398/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/world-series-vorschau/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115412193455565644#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-10-21T13:17:21Z",
+      "wm-id": 1948644,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115412193455565644/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115412193455565644#favorited-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-10-21T13:16:21Z",
+      "wm-id": 1948640,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/115412193455565644/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115412193455565644#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-10-21T12:47:27Z",
+      "wm-id": 1948634,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115412193455565644/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115412193455565644#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-10-21T12:47:24Z",
+      "wm-id": 1948633,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115412193455565644/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115412193455565644#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-10-21T12:47:23Z",
+      "wm-id": 1948632,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115412193455565644/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/championship-series/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

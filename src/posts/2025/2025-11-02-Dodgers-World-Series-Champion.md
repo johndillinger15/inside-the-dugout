@@ -15,7 +15,7 @@ thumb: thumbnail_25_ws_review.png
 
 **Liebe Baseballgemeinde**, die Los Angeles Dodgers sind World Series Champion 2025.
 
-Damit wiederholt sich, was den Dodgers in der ALCS gelang, nämlich Spiel 6 und 7 zum Seriengewinn zu gewinnen. Dazu wurde den Dodgers allerdings alles abverlangt, inklusive extra Innings und Yamamoto nicht on "short rest" sondern mit 0 rest einzusetzen. Aber von Anfang an, zuerst stand in Toronto noch Spiel 6 an...
+Damit wiederholt sich, was den Blue Jays in der ALCS gelang, nämlich Spiel 6 und 7 zum Seriengewinn zu gewinnen. Dazu wurde den Dodgers allerdings alles abverlangt, inklusive extra Innings und Yamamoto nicht on "short rest" sondern mit 0 rest einzusetzen. Aber von Anfang an, zuerst stand in Toronto noch Spiel 6 an...
 
 ### Spiel 6 - 3:1 Dodgers
 

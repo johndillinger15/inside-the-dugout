@@ -1,0 +1,119 @@
+---
+title: "Offseason News #1"
+date: 2025-11-10T16:00:00Z
+layout: post
+tags:
+  - News
+description: Nach der World Series gab es viele News die ich in diesem Artikel zusammenfassen will.
+author:
+  name: Stefan Dillinger
+thumb: thumbnail_25_offseason_01.png
+---
+<img src='../../img/thumbnail_25_offseason_01.png' style='display:none'>
+
+**Liebe Baseballgemeinde**, willkommen zur ersten Edition der Offseason News.
+
+Nach dem Ende der World Series begann die Free Agency und Spieler konnten ihre Optionen ausüben. Außerdem wurden schon einige Manager-Posten neu besetzt. Es gab viele, viele News diesbezüglich und ich hoffe dass ich die wichtigsten News diesbezüglich für euch zusammenkehren kann.
+
+### World Series
+
+Bevor wir das machen möchte ich aber noch einmal kurz auf diese überragende World Series zurückblicken und auf ein paar außergewöhnliche Fakten hinweisen.
+
+- Das entscheidende Spiel erreichte 51 Millionen Zuschauer über alle Märkte hinweg und war damit das meistgesehene Game seit 1991. 
+- Die Blue Jays, die nach 32 Jahren erstmals wieder den AL Pennant gewonnen hatten, führten die Majors mit einem .265 Team Batting Average und der niedrigsten Strikeout-Rate seit acht Jahren an. Toronto kombinierte Elite-Kontakt mit Power und steigerte sich in den Playoffs auf 5.83 Runs pro Spiel bei nur 17.1% Strikeouts. Vladimir Guerrero Jr. dominierte mit einem .397/.494/.795 Slash Line, 8 Home Runs und 15 RBIs, während Ernie Clement 30 Hits sammelte und in 17 von 18 Spielen traf. Ihr Erfolg basierte auf einer revolutionären Offensive-Philosophie unter Hitting Coach David Popkins, bei dem Hitter situativ verschiedene Schlagtypen anwenden sollten statt einer eindimensionalen Launch-Angle-Philosophie. Mehrere Spieler verzeichneten drastische Sprünge im Batting Average: George Springer von .220 auf .309, Bo Bichette von .225 auf .311, Ernie Clement von .263 auf .277. Erhöhte Bat Speed kombiniert mit verbesserter Kontrolle ermöglichte es, gegen moderne Velocity-Pitcher zu bestehen. Vladimir Guerrero Jr. verkörperte diese Philosophie perfekt und terrorisierte gegnerische Pitcher mit seiner Mischung aus Kontakt und Power. Torontos Ansatz könnte wegweisend sein, da die Industrie bereits verstärkt auf Contact Hitting setzt.
+- Die Dodgers setzten im Gegensatz zur Vorsaison vollständig auf ihre Starting Rotation. Yoshinobu Yamamoto, Blake Snell, Tyler Glasnow und Shohei Ohtani warfen 68.4% aller Innings mit einem kombinierten 2.55 ERA und 127 Strikeouts. Als Beispiel: In Game Seven führten Bo Bichettes Three-Run Home Run gegen Ohtani im dritten Inning zu einem frühen 3-0 Rückstand. Manager Dave Roberts setzte nacheinander Glasnow, Snell und schließlich Yamamoto ein, der auf zero days rest nach seinem 96-Pitch Complete Game in Spiel sechs die letzten acht Outs holte. Yamamoto wurde mit 235 geworfenen Pitches über 17.2 Innings zum World Series MVP ernannt und gewann als erster Pitcher drei Road Games in einer Series.​​​​​​​​​​​​​​​​
+- Die World Series 2025 illustrierte außerdem die unterschiedlichen physischen Belastungen moderner Superstars. Mookie Betts vollbrachte eine historische defensive Leistung, indem er als einziger Spieler seit 1901 seine League in defensive WAR an zwei verschiedenen Positionen anführte (Outfield 2016, Shortstop 2025). Der Wechsel zum anspruchsvollsten Infield-Spot mit 32 Jahren forderte jedoch seinen Tribut. Betts’ offensive Zahlen fielen dramatisch: 30 Punkte im Batting Average, 40 Punkte in OBP und 100 Punkte in Slugging Percentage unter seinen Karrieredurchschnitt. Diese defensive Belastung hatte direkte taktische Konsequenzen. Die Blue Jays walkten Shohei Ohtani im 18-Inning Game fünfmal, davon vier intentional, weil sie Betts nicht mehr fürchteten. Der Shortstop-Spot verursacht mehr Dives, Würfe und Kollisionen als das Outfield. Der historische Kontext verdeutlicht Ohtanis Privilegierung durch moderne Regeln. Babe Ruth hatte 1920 keine Wahl und musste als Hitter die entsprechende Abnutzung erdulden. Ohtanis Greatness profitiert davon, dass er die defensive Belastung nicht zahlen muss, die Betts’ offensive Performance limitierte.​​​​​​​​​​​​​​​​
+
+### Coaches/Managers
+
+#### San Francisco Giants
+
+Die San Francisco Giants verpflichten Tony Vitello als neuen Manager und vollziehen damit einen beispiellosen Schritt. ﻿Der 47-jährige Head Coach der University of Tennessee wird der erste College-Coach ohne jegliche professionelle Erfahrung, der direkt in eine MLB-Managerposition wechselt. ﻿Vitello baute Tennessee in sieben Jahren zu einem Powerhouse auf, postete eine 341-131 Bilanz und gewann 2024 die Men’s College World Series mit dem ersten Baseballtitel der Programmgeschichte. Die Verpflichtung verlief turbulent über mehrere Tage mit widersprüchlichen Berichten über Vitellos Entscheidung, bevor er offiziell vorgestellt wurde. President of Baseball Operations Buster Posey setzte auf Vitellos Leadership, innovative Ansätze und Entwicklungsfähigkeiten, bevorzugte ihn vor Brandon Hyde, Kurt Suzuki und Vance Wilson. Vitello ersetzt Bob Melvin nach einer 81-81 Saison 2025, der vierten Spielzeit in Folge ohne Playoff-Teilnahme für die Giants.
+
+#### New York Mets
+
+Die New York Mets vollziehen einen umfassenden Umbau ihres Coaching Staffs unter Manager Carlos Mendoza. Mit Kai Correa als neuem Bench Coach holen die Mets einen erfahrenen Coach, der von 2020 bis 2023 bei den San Francisco Giants tätig war und kurzzeitig als Interim Manager fungierte. Bei den Cleveland Guardians verantwortete Correa zuletzt Defense, Baserunning und Game Strategy. Er wird der neunte Bench Coach seit 2015 und ersetzt John Gibbons.
+
+Als Hitting Coach verpflichten die Mets Troy Snitker, Sohn des ehemaligen Braves-Managers Brian Snitker (siehe weiter unten). Der 36-Jährige war sieben Saisons bei den Houston Astros, gewann 2022 die World Series, sein Vertrag wurde nach der enttäuschenden 2025er Kampagne jedoch nicht verlängert. Snitker arbeitet unter Jeff Albert, dem neuen Director of Hitting. Das Duo ersetzt Eric Chavez und Jeremy Barnes, die nach der verpassten Playoff-Qualifikation entlassen wurden. Die offensive Diskrepanz der Mets 2025 war eklatant: Platz vier in fWAR, aber nur Rang zehn in Runs Scored verdeutlichte die ineffiziente Produktion, die nun adressiert werden soll.​​​​​​​​​​​​​​​​
+
+#### Los Angeles Angels
+
+Die Los Angeles Angels verpflichten Kurt Suzuki als neuen Manager, obwohl der 42-jährige ehemalige Catcher keinerlei professionelle Coaching-Erfahrung mitbringt. Suzuki spielte 16 Jahre in der MLB für fünf Franchises, gewann 2019 die World Series mit den Washington Nationals und arbeitete die letzten drei Jahre als Special Assistant unter General Manager Perry Minasian. Er übernimmt ein Team mit offensivem Talent um Zach Neto, Jo Adell und Taylor Ward, die zusammen 73 Home Runs schlugen, sowie Mike Trout, der noch bis 2030 unter Vertrag steht. Die Pitching-Rotation abseits von Yusei Kikuchi und Jose Soriano sowie das Bullpen sind die Schwäche des Teams. Suzuki wird der fünfte Manager seit Mike Scioscias 19-jähriger Ära endete und erbt eine Franchise mit der längsten aktiven Playoff-Dürre der MLB. Die Angels verpassten seit 2014 jedes Jahr die Postseason und beendeten 2025 mit einer 72-90 Bilanz die zehnte Losing Season in Folge.
+
+Außerdem holten sie mit Mike Maddux einen der renommiertesten Pitching Coaches der MLB, der die Texas Rangers nach drei Jahren verlässt. Der 64-Jährige konnte sich mit dem neuen Rangers-Manager Skip Schumaker nicht auf einen neuen Vertrag einigen, obwohl Texas ihm ein Angebot unterbreitete. Maddux war bereits von 2009 bis 2015 bei den Rangers tätig, kehrte 2023 zurück und gewann in jenem Jahr die World Series. In seiner 23-jährigen Coaching-Karriere arbeitete er für Milwaukee Brewers, Washington Nationals, St. Louis Cardinals und zweimal für Texas. Bei den Angels soll Maddux einen Pitching Staff entwickeln, der in den letzten beiden Jahren zu den fünf schwächsten der Liga nach ERA gehörte. Talentierte junge Pitcher wie Jose Soriano, Reid Detmers, Cadan Dana und Jack Kochanowicz müssen entscheidende Fortschritte machen, um die Serie von zehn Losing Seasons zu beenden und Mike Trout endlich zu einem Playoff-Sieg zu verhelfen.
+
+#### Baltimore Orioles
+
+Die Baltimore Orioles verpflichten Craig Albernaz als neuen Manager, der vom Associate Manager der Cleveland Guardians zum Head Coach bei den Orioles aufsteigt. Der 42-Jährige, ein ehemaliger Minor League Catcher, arbeitete als Bullpen und Catching Coach bei den San Francisco Giants, bevor er 2023 als Bench Coach zu Cleveland wechselte und 2025 zum Associate Manager befördert wurde. Albernaz ersetzt Interim Manager Tony Mansolino, der nach Brandon Hydes Entlassung im Mai einen 60-59 Record postete. Die Orioles beendeten 2025 mit 75-87 auf dem letzten Platz der AL East und verpassten erstmals seit 2022 die Playoffs. Albernaz erbt einen talentierten, aber underperformenden Core mit Adley Rutschman, Colton Cowser und Jackson Holliday, die alle unter .700 OPS blieben. 
+
+#### Minnesota Twins
+
+Die Minnesota Twins verpflichten Derek Shelton als neuen Manager für die Saison 2026. Der 54-Jährige war bereits 2018 unter Paul Molitor und 2019 unter Rocco Baldelli Bench Coach der Twins, bevor er von 2020 bis zur Entlassung in der 2025er Saison Manager der Pittsburgh Pirates war. Shelton setzte sich gegen die Finalisten James Rowson, Nick Punto und Scott Servais durch, wobei seine Vertrautheit mit der Organisation den Ausschlag gab.
+
+#### Miami Marlins
+
+Die Miami Marlins befördern Gabe Kapler zum General Manager im Rahmen einer Front-Office-Umstrukturierung. Der 49-Jährige kam 2024 als Assistant GM mit Fokus auf Player, Coaching und Staff Development zu den Marlins, nachdem er zuvor sechs Saisons als Manager bei den Philadelphia Phillies (2018-19) und San Francisco Giants (2020-23) tätig war. Kapler wird der sechste GM der Franchise und arbeitete bereits als Director of Player Development bei den Los Angeles Dodgers (2015-17) mit dem aktuellen Marlins-Manager Clayton McCullough zusammen. Unter McCullough übertrafen die Marlins 2025 mit 79-83 deutlich die Erwartungen von 62,5 prognostizierten Wins, die 16,5-Win-Überperformance war ligaweit die beste.
+
+#### Atlanta Braves
+
+Die Atlanta Braves befördern Walt Weiss zum neuen Manager. Der 61-jährige war seit 2018 Bench Coach unter Brian Snitker, der nach zehn Jahren als Manager in eine Beraterrolle wechselt. Snitker führte die Braves zur World Series 2021 und zu sechs aufeinanderfolgenden NL East Titeln zwischen 2018 und 2023. Weiss übernimmt nach einer enttäuschenden Saison mit 76-86, die durch Verletzungen geprägt war. Seine bisherige Managerkarriere bei den Colorado Rockies von 2013 bis 2016 verlief mit 283-365 (.437) eher durchwachsen, wobei das Team nie über den dritten Platz hinauskam. General Manager Alex Anthopoulos führte einen umfassenden 33-tägigen Suchprozess durch, bevor er sich für die interne Lösung entschied. Für 2026 kehrt ein starker Kern zurück, angeführt von Ronald Acuña Jr., Matt Olson, Austin Riley sowie den Pitchern Chris Sale, Spencer Strider und Spencer Schwellenbach.
+
+#### San Diego Padres
+
+Die San Diego Padres haben Craig Stammen mit einem Dreijahresvertrag als neuen Manager verpflichtet. Die Entscheidung überraschte die gesamte Branche, da Stammen während des dreiwöchigen Suchprozesses nicht öffentlich als Kandidat gehandelt wurde und er keine Erfahrung als Coach hat. Er folgt auf Mike Shildt, der nach der Saison seinen Rücktritt erklärt hatte. Der ehemalige Reliever verbrachte die letzten sechs seiner 13 MLB-Spielzeiten in San Diego und kam zwischen 2017 und 2022 auf 333 Appearances, die fünftmeisten in der Franchise-Geschichte. Nach seinem Karriereende 2022 wechselte Stammen als Special Assistant ins Front Office.
+
+#### Colorado Rockies
+
+Die Colorado Rockies haben Paul DePodesta zum President of Baseball Operations ernannt. Der langjährige Baseball- und Football-Executive wechselt von den Cleveland Browns, wo er seit 2016 als Chief Strategy Officer tätig war, nach Denver. Seine Kandidatur wurde erst am Donnerstagnachmittag bekannt, nachdem er während des gesamten Suchprozesses nicht öffentlich erwähnt worden war. DePodesta arbeitete zuvor in verschiedenen Front Office Rollen für die Cleveland Guardians, Oakland Athletics, Los Angeles Dodgers, San Diego Padres und New York Mets. Owner Dick Monfort betonte DePodesta sei der erste Kandidat gewesen, der interviewed wurde, und seine prozessbasierte Denkweise sowie sein Verständnis des Spiels hätten überzeugt.
+
+### Opt-in/Opt-out
+
+Die ersten Wochen nach der World Series brachten bereits erhebliche Bewegung. Mehrere Spieler nutzten ihre Opt-out-Klauseln, während andere Teams bewusst auf die Aktivierung von Optionen verzichteten. Die Entscheidungen zeichnen ein klares Bild der unterschiedlichen Karrieresituationen und Marktpositionen dieser Spieler.
+
+**Alex Bregman** aktivierte erwartungsgemäß seine Opt-out-Klausel bei den Boston Red Sox und verzichtet damit auf zwei Jahre und 80 Millionen Dollar. Der 31-jährige Third Baseman hatte in seiner ersten Saison in Boston solide Zahlen produziert und slashte .273/.360/.462, musste jedoch von Ende Mai bis Mitte Juli mit einer Quadriceps-Verletzung pausieren. Seine Entscheidung kommt nur acht Monate nach seiner Unterschrift unter einen Dreijahresvertrag über 120 Millionen Dollar, den er erst Mitte Februar finalisiert hatte. Bregman wird nun zum zweiten Mal in Folge Free Agent, nachdem er im vergangenen Winter erst spät einen Deal fand. Seine defensive Stabilität und sein Leadership wurden in Boston geschätzt, doch sein Alter und die bisherigen Abnutzungserscheinungen lassen Zweifel aufkommen, ob die Red Sox ihm nun einen langfristigen Deal anbieten werden.
+
+**Cody Bellinger** nutzte ebenfalls seine Opt-out-Möglichkeit nach einer produktiven Saison bei den New York Yankees. Der 30-jährige slashte .272/.334/.480 mit 29 Home Runs, 98 RBI und einem wRC+ von 125 in 152 Spielen. Nach fWAR war nur Aaron Judge unter den Yankees Position Players wertvoller. Bellinger spielte solide Defense an allen drei Outfield-Positionen und erwies sich als perfekte Ergänzung für Yankee Stadium, wo er alle seine Home Runs nach Right oder Right-Center schlug. Seine Leistung dürfte ihm einen mehrjährigen Vertrag im Bereich von sechs Jahren und knapp 30 Millionen Dollar pro Saison einbringen. Die Yankees stehen nun vor der Entscheidung, ob sie Bellinger zurückholen oder sich auf Kyle Tucker konzentrieren, der als der bessere Spieler gilt.
+
+**Ha-Seong Kim** entschied sich ebenfalls gegen die Aktivierung seiner Option und wird die Atlanta Braves verlassen. Der Shortstop, der im September zu den Braves kam, hatte einen starken Schlussspurt hingelegt und wird nun als Crown Jewel der diesjährigen Shortstop Free Agency Class gehandelt. Als Scott Boras Client war der Opt-out absehbar, zumal der Markt für Shortstops extrem dünn besetzt ist. Die Braves haben öffentlich ihr Interesse bekundet, Kim zu halten, doch sie müssen nun mit anderen Teams konkurrieren.
+
+**Trevor Story** hingegen aktivierte seine Opt-out-Option nicht und kehrt für zwei Jahre und 55 Millionen Dollar zu den Red Sox zurück. Der 32-jährige Shortstop hatte eine Bounce-back-Saison mit .263/.308/.433, 25 Home Runs, 96 RBI und 31 Stolen Bases in 32 Versuchen hingelegt. Nach drei von Verletzungen geprägten Jahren war die Entscheidung nahezu sicher, zugleich bot seine produktive 2025er-Kampagne durchaus Argumente für einen erneuten Gang auf den Free Agent Markt. Seine Defense rangierte laut öffentlichen Metriken allerdings unter den schlechtesten der Liga.
+
+**Jorge Polanco** lehnte seine 6-Millionen-Dollar-Option bei den Seattle Mariners ab und wird Free Agent. Der 32-jährige Second Baseman und Designated Hitter hatte eine solide Saison mit .265 Average, 26 Home Runs und 78 RBI produziert. Die Mariners erreichten die ALCS, bevor sie in sieben Spielen gegen die Blue Jays verloren. Polanco erhält eine Buyout-Zahlung von 750.000 Dollar.
+
+Die Chicago Cubs lehnten die 10-Millionen-Dollar-Mutual-Option von **Justin Turner** ab. Der bald 41-jährige Corner Infielder hatte in 80 Spielen nur .219 mit drei Home Runs und 18 RBI geschlagen. Turner erhält eine Buyout-Zahlung von zwei Millionen Dollar. Im Gegenzug verlängerten die Cubs mit **Colin Rea** für ein Jahr und 6,5 Millionen Dollar. Der 35-jährige Right-hander hatte eine 3.95 ERA in 32 Games produziert.
+
+Die Los Angeles Dodgers aktivierten die 10-Millionen-Dollar-Club-Option für **Max Muncy**. Der 35-jährige Third Baseman ist nach Clayton Kershaws Rücktritt nun der dienstälteste Dodger. Von 2018 bis 2025 produzierte Muncy ein .843 OPS, 209 Home Runs und 587 RBI. Seine 16 Postseason Home Runs sind Franchise-Rekord. Ebenfalls aktivierten die Dodgers die 3,55-Millionen-Dollar-Option für Reliever **Alex Vesia**.
+
+**Kyle Tucker und Shota Imanaga** erhielten von den Cubs das 22,025-Millionen-Dollar-Qualifying Offer. Insgesamt bekamen 13 Spieler das Angebot, darunter auch Bo Bichette, Framber Valdez, Dylan Cease und Kyle Schwarber. Die Spieler haben nun bis zum 18. November Zeit, das einjährige Angebot anzunehmen oder abzulehnen. 
+
+### Free Agents
+
+Der Free-Agent-Markt für die Offseason 2025-26 präsentiert sich vielschichtig mit einigen etablierten Stars und mehreren Fragezeichen. An der Spitze steht wohl Kyle Tucker, der trotz einer Fraktur der rechten Hand im Juni seine Klasse unter Beweis stellte. Mit 17 Home Runs, 52 RBIs und einem .931 OPS bis Juni sowie mindestens 4.0 fWAR in jeder Saison seit 2021 verkörpert er den komplettesten Spieler auf dem Markt. Es bleibt zu hoffen, dass er sich nicht den Dodgers anschließen, sondern gegen sie Spielen will. Alex Bregman folgt auf Rang zwei, nachdem er nach nur einem Jahr aus seinem Vertrag bei den Red Sox ausgestiegen ist. Seine 114 Spiele wurden durch Verletzungen limitiert, dennoch produzierte er einen soliden .822 OPS mit 18 Home Runs.
+
+Weitere Free Agents sind Kyle Schwarber der die National League mit 56 Home Runs und 132 RBIs anführte, alle 162 Spiele spielte und mit 4.9 fWAR einen Karrierebestwert erreichte. Außerdem Bo Bichette, der sich nach einem katastrophalen 2024 mit 181 Hits und einem .840 OPS in 139 Spielen  rehabilitierte, bevor eine Knieverletzung seine Regular Season beendete und er erst zur World Series zurück kehrte. Ein Duo Guerrero-Bichette in Toronto wäre für das Team und die Stadt ein starkes Zeichen für die Zukunft.
+
+Bei den Pitchern findet sich Dylan Cease, der trotz eines 8-12 Records und 4.55 ERA zum fünften Mal in Folge über 200 Strikeouts warf. Außerdem Michael King, der sich mit einem 3.10 ERA über zwei Saisons als Starting Pitcher etablierte, er verpasste allerdings zehn Starts durch Verletzungen. Dazu kommt Framber Valdez, der zwar dominant startete (2.62 ERA in den ersten 21 Starts), aber dann aber mit einem 6.05 ERA in den letzten zehn Spielen einbrach. Der kontroverse Cross-up-Vorfall mit seinem Catcher wirft zusätzliche Fragen auf. Die World Series zeigte, dass das Starting Pitching einer der wichtigesten Faktoren für Erfolg ist. Daher werden diese Free Agents heiß begehrt für Teams wie die Giants, Mariners sein.
+
+### Verletzungen
+
+#### Yu Darvish
+
+Yu Darvish unterzog sich vergangenen Mittwoch einer Operation am Ellbogen und wird die gesamte Saison 2026 verpassen. Der 40-jährige Padres-Pitcher hatte eine "Internal Brace Surgery" zur Reparatur eines beschädigten UCL und Flexor Tendon.﻿ Für Darvish, der bereits 2015 als Ranger eine Tommy John Surgery durchlief, ist dies die zweite schwerwiegende Ellbogen-Operation seiner Karriere. Seine letzten beiden Saisons waren eher enttäuschend. 2024 brachte er es auf nur 16 Starts und 2025 erreichte er in 15 Starts einen ERA von 5.38. Darvish steht noch bis 2028 bei den Padres unter Vertrag (6 Jahre, $108 Millionen), womit San Diego nun erhebliche Gehaltslast ohne Gegenwert trägt. Die Rückkehrprognose nach der Operation bleibt angesichts seines Alters ungewiss und ein Karriereende durch diese Verletzung scheint nicht ausgeschlossen.
+
+#### Anthony Volpe
+
+Anthony Volpe unterzog sich einer arthroskopischen Operation zur Reparatur eines teilweise gerissenen Labrum in der linken Schulter. ﻿Die Yankees rechnen mit seiner Rückkehr im April, schlimmstenfalls im Mai 2026, wobei Volpe mindestens vier Monate nicht schlagen und sechs Monate nicht auf die operierte Schulter fallen darf. ﻿Seine enttäuschende Saison 2025 mit .212 AVG, .663 OPS und 19 Errors führte General Manager Brian Cashman nachträglich auf die Verletzung zurück, obwohl er dies während der Saison ausgeschlossen hatte. ﻿Volpe erhielt zwei Cortison-Injektionen und spielte trotz der Beschwerden durch, was seine Performance beeinträchtigte. Mit einem Career-wRC+ von 85 und .222 AVG über drei Saisons gehört der 24-Jährige zu den schwächsten Regular-Spielern der Liga, dennoch halten die Yankees an ihm als Starting Shortstop fest.
+
+#### Francisco Lindor
+
+Francisco Lindor unterzog sich nach der Saison 2025 einem Debridement-Eingriff am rechten Ellbogen, einer minimalinvasiven Prozedur zur Entfernung von Narbengewebe. Der Shortstop hatte bereits 2023 am selben Ellbogen einen Bone Spur entfernen lassen und war 2024 komplett gesund. Lindors Arm Strength sank 2025 deutlich ab (87.5 MPH Maximum, 5 MPH weniger als 2024), was zusammen mit rückläufiger Range und Sprint Speed defensive Bedenken aufwirft. Trotz seiner zweiten 30-30 Season als Met wird die Entwicklung seiner athletischen Werte 2026 genau zu beobachten sein.
+
+### Andere News
+
+Los Angeles Dodgers Reliever **Alex Vesia** gab am Freitag bekannt, dass seine Tochter Sterling am 26. Oktober verstorben ist. Das Team hatte vor Game 1 der World Series am 23. Oktober mitgeteilt, Vesia sei aus persönlichen Gründen nicht in Toronto anwesend. ﻿Vesia und seine Frau Kayla teilten auf Instagram mit, ihre Tochter sei am Sonntag in den Himmel gekommen, und dankten dem medizinischen Personal des Cedars-Sinai Medical Center. Der 29-jährige Left-hander hatte in der Regular Season eine 3.02 ERA in 68 Games und ging 4-2, während er in sieben Postseason Appearances 2-0 mit einer 3.86 ERA verzeichnete. Die Dodgers Relievers trugen Vesias Nummer 51 auf ihren Caps, die Blue Jays schlossen sich dieser Geste in Game 6 an.
+
+Das Department of Justice hat **Emmanuel Clase und Luis Ortiz** wegen illegaler Sportwetten angeklagt. Die Dimensionen des Falls sind gravierend. Clase war seit 2023 involviert und rekrutierte Ortiz 2025 für das Schema. Clase verschaffte seinen Wettpartnern Gewinne von 400.000 Dollar, Ortiz 60.000 Dollar. Die Manipulation erfolgte durch gezielt geworfene Balls beim ersten Pitch eines Innings oder bei Clase durch Pitches unter 94 mph. Die MLB hat noch keine offizielle Sperre verkündet, doch beide Karrieren sind faktisch beendet. Clase war der Franchise-Leader der Cleveland Guardians in Saves und einer der dominantesten Closer der jüngeren Vergangenheit. Ortiz galt als vielversprechender junger Pitcher. Der Verlust beider Spieler ohne Trade-Kompensation oder On-Field-Value stellt einen immensen Rückschlag für Cleveland dar. Die Textnachrichten aus der Anklageschrift deuten nicht auf Zwang durch organisierte Kriminalität hin, sondern auf eine kurzsichtige Entscheidung beider Spieler.
+
+
+
+Das war's für diese Woche mit den Baseball News. Jetzt in der Offseason wird die Frequenz hier auf der Seit auch etwas geringer werden, denn ich will nur was schreiben, wenn es auch wirklich was zu schreiben gibt. Ich melde mich dann also wieder, wenn genügen News für einen Artikel zusammen gekommen sind. Außerdem arbeite ich noch an einem anderen Artikel, der hoffentlich bald fertig sein wrid. Bis dahin - Play Ball!

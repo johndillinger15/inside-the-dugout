@@ -4,7 +4,7 @@ date: 2025-11-14T16:00:00Z
 layout: post
 tags:
   - Awards
-description:
+description: Ich fasse die MLB Awards 2025 kurz zusammen.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_25_awards.png

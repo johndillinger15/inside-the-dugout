@@ -1,0 +1,47 @@
+---
+title: Die 2025er MLB Awards
+date: 2025-11-14T16:00:00Z
+layout: post
+tags:
+  - Awards
+description:
+author:
+  name: Stefan Dillinger
+thumb: thumbnail_25_awards.png
+---
+
+<img src='../../img/thumbnail_25_awards.png' style='display:none'>
+
+**Liebe Baseballgemeinde**, willkommen zum Rückblick auf die Woche 46 in der Major League Baseball.
+
+## Rookie of the Year
+
+Nick Kurtz von den Oakland Athletics wurde einstimmig zum American League Rookie of the Year gewählt. Der 22-jährige First Baseman erhielt alle 30 Erststimmen, nachdem er eine beeindruckende Rookie-Saison mit .290, 1.002 OPS, 36 Home Runs und 86 RBIs hingelegt hatte. Trotz seines verspäteten Callups Ende April platzierte sich Kurtz mit 4.6 fWAR auf Rang 25 ligaweit und verzeichnete den drittbesten OPS-Wert der gesamten MLB hinter Aaron Judge und Shohei Ohtani. Den Höhepunkt seiner Debütsaison erlebte Kurtz am 25. Juli gegen die Houston Astros, als er vier Home Runs in einem Spiel versenkte. Damit wurde er erst der 20. Spieler in der MLB-Geschichte, dem dieses Kunststück gelang. Unter allen Rookies führte er die Kategorien Home Runs und RBIs an, während er bei der On-Base Percentage den zweiten Platz belegte. Bemerkenswert war das Abschneiden der Athletics insgesamt: Teammate Jacob Wilson erhielt 23 Zweitstimmen und komplettierte damit das erste 1-2-Finish von Teamkollegen im AL Rookie Voting seit 1984.
+
+In der National League setzte sich Drake Baldwin von den Atlanta Braves durch und erhielt 21 Erststimmen, während Cubs-Starter Cade Horton auf neun Stimmen kam. Der 24-jährige Catcher absolvierte die gesamte Saison für Atlanta und schlug .274 mit 19 Home Runs, einer .341 On-Base Percentage und 80 RBIs in 124 Spielen. Unter den qualifizierten Rookie-Catchern führte Baldwin den OPS an. Horton überzeugte in der zweiten Saisonhälfte mit einem 1.03 ERA, konnte Baldwin aber nicht mehr einholen.
+
+## Manager of the Year
+
+Die Milwaukee Brewers stellten 2025 mit 97 Siegen einen Franchise-Rekord auf und führten damit die National League an. Manager Pat Murphy wurde dafür mit seiner zweiten aufeinanderfolgenden Manager of the Year-Auszeichnung belohnt. Die meisten Prognosen hatten Milwaukee bei 80 bis 84 Siegen gesehen, nachdem man mit Devin Williams und Willy Adames erneut bedeutende Leistungsträger verloren hatte. Murphy ist erst der dritte Manager, der diese Ehrung in Folge gewinnt, nach Bobby Cox und Kevin Cash. Seine Leistung wird besonders deutlich beim Blick auf die Konkurrenz: Philadelphia gewann mit doppelt so hoher Payroll nur ein Spiel weniger. Murphy erhielt 27 First-Place-Votes und setzte sich gegen Rob Thomson und Terry Francona durch.​​​​​​​​​​​
+
+Stephen Vogt schrieb MLB-Geschichte als erster Manager, der in seinen ersten beiden Saisons die AL Manager of the Year-Auszeichnung gewann. Die Cleveland Guardians vollbrachten unter seiner Führung eine der bemerkenswertesten Aufholjagden der Ligageschichte. Im Juli lagen die Guardians 15,5 Spiele hinter Detroit zurück und kämpften sich dennoch zum Division-Sieg zurück. Diese Differenz markiert die größte jemals aufgeholte Distanz in der MLB-Historie. Die Leistung wird umso bemerkenswerter, wenn man berücksichtigt, dass Cleveland während der Saison mit einem Gambling-Skandal konfrontiert war. Closer Emmanuel Clase und Starter Luis Ortiz wurden auf Administrative Leave gesetzt, nachdem gegen sie Anklage wegen illegaler Wetten erhoben wurde. Vogt schaffte es in dieser schwierigen Phase, das Team zusammenzuhalten und die Saison erfolgreich zu gestalten. Mit 88 Siegen sicherte sich Cleveland die Division trotz einer der schwächsten Offenses der Liga. Die Guardians lagen bei Runs per Game ligaweit auf dem drittletzten Platz.​​​​​​​​​​​​​​​​
+
+## Cy Young Award
+
+Paul Skenes sicherte sich 2025 einstimmig den National League Cy Young Award und setzte damit ein historisches Ausrufezeichen in seiner ersten vollständigen Major-League-Saison. Der 23-Jährige erhielt alle 30 Erststimmen und ließ Christopher Sanchez und Yoshinobu Yamamoto hinter sich. Skenes führte die Liga mit einem 1.97 ERA an und lag 24 Punkte vor Tarik Skubal. In 187.2 Innings erlaubte er lediglich 41 Earned Runs bei einem 2.36 FIP und einer Strikeout Rate von 29.5 Prozent. Mit 216 Strikeouts stellte er einen neuen Pirates-Rekord für rechtshändige Starter auf. Seine 0.95 WHIP war ligaweit Spitze, während sein Opponent Average von .199 auf Rang vier landete. Trotz dieser dominanten Zahlen blieb Skenes bei 10-10 Wins stehen, was die offensive Schwäche der Pirates widerspiegelt. Nach dem 19. August lieferte er einen beeindruckenden 1.07 ERA ab. Skenes ist der dritte Cy-Young-Gewinner in der Pirates-Geschichte nach Vern Law und Doug Drabek.​​​​​​​​​​​​​​​​
+
+Tarik Skubal verteidigte seinen AL Cy Young Award erfolgreich und reiht sich als zwölfter Pitcher in der MLB-Geschichte ein, der die Auszeichnung in aufeinanderfolgenden Jahren gewann. Der Linkshänder erhielt 26 Erststimmen und setzte sich gegen Garrett Crochet und Hunter Brown durch. Skubal steigerte seine ohnehin beeindruckenden Zahlen aus 2024 nochmals. In 195.1 Innings erzielte er einen 2.21 ERA und einen 2.45 FIP bei ligaweit führenden 241 Strikeouts. Sein WHIP verbesserte sich von 0.92 auf 0.89. Den Höhepunkt markierte sein Complete Game Shutout gegen Cleveland am 25. Mai mit 13 Strikeouts, zwei Hits und null Walks in unter 100 Pitches. In der Postseason lieferte Skubal über 20.2 Innings einen 1.74 ERA ab und trug die Tigers bis ins entscheidende Game 5. Ohne Skubal wären die Tigers lediglich ein durchschnittliches Team. In Non-Skubal-Starts steht Detroit über zwei Jahre bei exakt .500, was seine überragende Bedeutung für den Playoff-Einzug unterstreicht.​​​​​​​​​​​​​​​​
+
+## MVP
+
+Aaron Judge sicherte sich 2025 seinen dritten AL MVP Award in vier Jahren und setzte sich knapp mit 17 First-Place Votes gegen Cal Raleigh (13) durch. Judge dominierte MLB-weit mit 10.1 fWAR und gewann seinen ersten Batting Title (.331 AVG). Seine 53 Home Runs markierten bereits das vierte Mal in seiner Karriere, dass er die 50-Homer-Marke durchbrach. Ein Feat, das vor ihm nur Babe Ruth, Mark McGwire und Sammy Sosa gelang. Mit einem wRC+ von 204 war Judge über 100 Prozent produktiver als der durchschnittliche MLB Hitter, während der nächstbeste Wert bei Ohtani bei 172 lag. Judge reiht sich nun in die illustre Gruppe von Foxx, Musial, Schmidt, Rodriguez und Trout ein und liegt nur noch hinter Ohtani und Bonds bei den All-Time MVP Wins.​​​​​​​​​​​​​​​​
+
+Shohei Ohtani sicherte sich 2025 seinen zweiten NL MVP in Folge – erneut einstimmig mit allen 30 First-Place Votes. Der Dodgers-Superstar steht damit nach zwei Jahren in Los Angeles bei zwei World Series Titeln und zwei MVP Awards. Mit seinem vierten MVP insgesamt isoliert sich Ohtani als alleiniger Zweiter hinter Barry Bonds (7) und ist der erste Spieler, der den Award zweimal in jeder Liga gewann. Seine offensive Dominanz zeigte sich in praktisch allen Kategorien: Mit .392 OBP und .622 SLG übertraf er Kyle Schwarber (.365/.563) deutlich, obwohl dieser mit 56 Home Runs knapp vor Ohtanis 55 lag. Zusätzlich steuerte Ohtani knapp 50 Innings als Starting Pitcher bei, wobei die Dodgers seine Rückkehr zum Mound methodisch dosierten. Die 20 Stolen Bases markierten einen deutlichen Rückgang gegenüber dem Vorjahr, was seiner Pitching-Vorbereitung geschuldet war. Ohtani ist damit der erste Dodger mit Back-to-Back MVP Awards und reiht sich neben Bonds und Albert Pujols als einziger 21st-Century-Spieler mit aufeinanderfolgenden NL MVP Wins ein.​​​​​​​​​​​​​​​​
+
+### Reliever of the Year
+
+Aroldis Chapman und Edwin Díaz sicherten sich die Reliever of the Year Awards ihrer jeweiligen Ligen. Chapman gewann die Mariano Rivera AL Reliever of the Year Auszeichnung zum zweiten Mal nach 2019 mit den Yankees. Der 37-jährige Lefty führte alle qualifizierten Relievers mit einem 1.17 ERA und 0.70 WHIP über 61 1/3 Innings an und verdiente sich seine achte All-Star-Nominierung mit den Red Sox. Díaz erhielt die Trevor Hoffman NL Reliever of the Year Honors ebenfalls zum zweiten Mal, nachdem er den Award bereits 2022 mit den Mets gewonnen hatte. Insgesamt ist es sein dritter Reliever of the Year Award, da er 2018 mit den Mariners bereits die AL-Auszeichnung holte. Die beiden Closer dominierten 2025 ihre jeweiligen Leagues und bewiesen eindrucksvoll, dass sie weiterhin zu den Elite-Relievers der MLB gehören. Chapman bewies dabei besonders beeindruckend, dass sein Arm trotz fortgeschrittenen Alters weiterhin zu den dominantesten im Baseball zählt.​​​​​​​​​​​​​​​​
+
+### Comeback Player of the Year
+
+Jacob deGrom und Ronald Acuña Jr. wurden zu den Comeback Players of the Year ihrer Ligen gekürt. Der 37-jährige deGrom kehrte nach fast zwei Jahren Pause zurück und dominierte die AL mit einem 2.97 ERA und 0.92 WHIP über 172 2/3 Innings in 30 Starts. Unter allen qualifizierten Pitchern hatte nur Tarik Skubal einen besseren WHIP. deGrom ging 12-8, wurde zum fünften Mal All-Star und landete auf Platz acht im AL Cy Young Voting. Acuña demonstrierte seine vollständige Rückkehr nach ACL-Riss eindrucksvoll: Beim ersten Pitch seiner Season am 23. Mai schlug er einen 467-Fuß-Home Run. In 95 Games slashte er .290/.417/.518 mit 21 Home Runs und einem .935 OPS – nur fünf Spieler mit mindestens 400 Plate Appearances erreichten einen höheren Wert. Der Braves-Outfielder startete zum vierten Mal im All-Star Game und ist bereits der fünfte Atlanta-Spieler mit diesem Award nach Chris Sale 2024.​​​​​​​​​​​​​​​​

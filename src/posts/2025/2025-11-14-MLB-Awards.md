@@ -12,7 +12,7 @@ thumb: thumbnail_25_awards.png
 
 <img src='../../img/thumbnail_25_awards.png' style='display:none'>
 
-**Liebe Baseballgemeinde**, willkommen zum Rückblick auf die Woche 46 in der Major League Baseball.
+**Liebe Baseballgemeinde**, willkommen zur Awards Week 2025.
 
 ## Rookie of the Year
 

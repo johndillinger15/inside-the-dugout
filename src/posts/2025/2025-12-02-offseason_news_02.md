@@ -3,7 +3,7 @@ title: "Offseason News #2"
 date: 2025-12-02T16:00:00Z
 layout: post
 tags:
-  - Wochenrückblick
+  - News
 description: Ich versuche die aktuelle Newslage zusammen zu fassen, bevor die Teams zu den Wintermeetings zusammenkommen.
 author:
   name: Stefan Dillinger
@@ -74,6 +74,3 @@ Die San Diego Padres könnten bald einen Besitzerwechsel erleben, denn die Seidl
 Major League Baseball hat neue dreijährige TV-Verträge mit ESPN, NBC und Netflix abgeschlossen, die durchschnittlich 800 Millionen Dollar pro Jahr einbringen. ESPN zahlt weiterhin 550 Millionen Dollar, verliert aber die Postseason und das Home Run Derby, gewinnt jedoch die Out-of-Market-Streaming-Rechte für MLB.TV, das künftig in der ESPN App verfügbar sein wird. Zusätzlich erhält ESPN die In-Market-Rechte für sechs Teams, deren Produktion MLB selbst übernimmt: Padres, Rockies, Diamondbacks, Guardians, Twins und Mariners. Das Paket umfasst 30 Spiele, primär unter der Woche und in den Sommermonaten. NBC kehrt nach längerer Absenz zurück und übernimmt Sunday Night Baseball sowie die Wild Card Series für 200 Millionen Dollar jährlich. Die 25 Sunday-Night-Spiele laufen überwiegend auf NBC und dem neuen NBC Sports Network, alle streamen auf Peacock. Der erste Broadcast findet am 26. März statt, wenn die Dodgers gegen Arizona antreten. NBC komplettiert damit sein Sonntagsprogramm ganzjährig mit NFL, NBA und nun MLB. Netflix investiert 50 Millionen Dollar für das Home Run Derby, das Season-Opening am 25. März (Yankees in San Francisco) und MLB at Field of Dreams.​​​​​​​​​​​​​​​​ Wie die Rechtelage für den deutschen Markt aussieht ist mir nicht ganz klar. Das wird sich dann wohl Anfang 2026 ergeben und ich werde euch darüber informieren.
 
 Das war es wieder für die Newslage in der MLB. Aktuell arbeite ich noch an einem "Weihnachtsartikel" und an ein paar Änderungen im Hintergrund. Dazu dann aber später mehr.
-
-
-

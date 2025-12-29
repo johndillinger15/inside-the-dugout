@@ -10,7 +10,7 @@ author:
 thumb: thumbnail_1925.png
 ---
 
-<img src='../../img/thumbnail_1915.png' style='display:none'>
+<img src='../../img/thumbnail_1925.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, für die Offseason habe ich mir einen speziellen Artikel aufgehoben bzw. vorgenommen. Es hat zwar jetzt ein wenig länger gedauert als geplant, diesen Artikel zu schreiben, aber ich will der Frage nachgehen, wie Baseball vor 100 Jahren aussah. In diesem Fall heißt das, dass ich auf die Baseball Saison 1925 zurückschauen will.
 

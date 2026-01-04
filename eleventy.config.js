@@ -79,6 +79,7 @@ module.exports = (config) => {
   // Layout aliases
   config.addLayoutAlias("default", "layouts/default.njk");
   config.addLayoutAlias("post", "layouts/post.njk");
+  config.addLayoutAlias("shortpost", "layouts/shortpost.njk");
 
   // Filters
   config.addFilter("readableDate", require("./lib/filters/readableDate"));
@@ -98,6 +99,11 @@ module.exports = (config) => {
     "pagedPostsByTag",
     require("./lib/collections/pagedPostsByTag")
   );
+  config.addCollection("shortposts", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("./src/shortposts/**/*.md")
+      .sort((a, b) => b.date - a.date);
+  });
 
   // Webmentions
   config.addPlugin(pluginWebmentions, {

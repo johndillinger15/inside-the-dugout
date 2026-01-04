@@ -1,0 +1,37 @@
+<div class="w-full self-stretch p-2 mb-2">
+  <div
+    class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
+           transition-all duration-200
+           hover:border-[#1D2D50]">
+
+    <!-- left accent bar -->
+    <div
+      class="absolute left-0 top-0 h-full w-1 bg-[#1D2D50]
+             opacity-70 transition-all duration-200
+             hover:bg-[#C8102E]">
+    </div>
+
+    <div class="pl-7 pr-6 py-5">
+      <p class="mb-3 text-xs font-medium tracking-wide uppercase"
+         style="color:#1D2D50"
+         title="Published date"
+         datetime="{{ post.date.toISOString() }}">
+        {{ post.date.toISOString().slice(0,16).replace("T"," ") }}
+      </p>
+
+      <div class="prose max-w-none text-sm text-slate-800">
+        {{ post.templateContent | safe }}
+      </div>
+    </div>
+
+    <div class="px-6 py-3 border-t flex items-center justify-end"
+         style="background-color:#F9F9F9; border-color:#E2E8F0;">
+      <a href="{{ post.url | url }}"
+         class="text-xs font-semibold tracking-wide hover:underline"
+         style="color:#C8102E">
+        Permalink →
+      </a>
+    </div>
+
+  </div>
+</div>

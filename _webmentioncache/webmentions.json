@@ -1,6 +1,416 @@
 {
-  "lastFetched": "2025-11-02T07:34:55.497Z",
+  "lastFetched": "2026-01-04T06:48:15.899Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mb4szmbc3w2g#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-12-29T17:40:34Z",
+      "wm-id": 1962779,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mb4szmbc3w2g/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/1925-baseball-season/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/1925-baseball-season/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m7zyxbwsle2k#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-12-20T15:13:51Z",
+      "wm-id": 1960879,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m7zyxbwsle2k/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115724419544545396#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-12-16T07:09:11Z",
+      "wm-id": 1959998,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115724419544545396/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115724419544545396#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-12-16T07:09:09Z",
+      "wm-id": 1959997,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115724419544545396/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115724419544545396#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2025-12-16T07:09:07Z",
+      "wm-id": 1959995,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115724419544545396/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115724419544545396#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-12-16T07:09:07Z",
+      "wm-id": 1959996,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115724419544545396/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m7zyxbwsle2k#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2025-12-15T20:24:45Z",
+      "wm-id": 1959956,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m7zyxbwsle2k/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/2025-mlb-winter-meetings/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Piehnat",
+        "photo": "",
+        "url": "https://piehnat.de"
+      },
+      "url": "https://piehnat.de/post/ich-habe-mir-einen-eigenen-nba-stats-server-auf-dem-raspberry-5-gebaut/?replytocom=214",
+      "published": "2025-12-01T16:37:50+00:00",
+      "wm-received": "2025-12-01T16:37:54Z",
+      "wm-id": 1956535,
+      "wm-source": "https://piehnat.de/post/ich-habe-mir-einen-eigenen-nba-stats-server-auf-dem-raspberry-5-gebaut/?replytocom=214",
+      "wm-target": "https://inside-the-dugout.de",
+      "wm-protocol": "webmention",
+      "summary": {
+        "content-type": "text/plain",
+        "value": "Dann viel Spaß dabei. Bei Fragen schreib mir dann gern. Peace."
+      },
+      "content": {
+        "html": "<p>Dann viel Spaß dabei. Bei Fragen schreib mir dann gern. Peace.</p>",
+        "text": "Dann viel Spaß dabei. Bei Fragen schreib mir dann gern. Peace."
+      },
+      "in-reply-to": "https://inside-the-dugout.de",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://piehnat.de/post/ich-habe-mir-einen-eigenen-nba-stats-server-auf-dem-raspberry-5-gebaut/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m5byodaq2n26#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-11-30T19:04:46Z",
+      "wm-id": 1956370,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m5byodaq2n26/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m5mlc4n4ff2s#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-11-30T19:04:45Z",
+      "wm-id": 1956369,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m5mlc4n4ff2s/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115550069148908739#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-11-14T21:24:27Z",
+      "wm-id": 1953934,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115550069148908739/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115550069148908739#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-11-14T21:22:09Z",
+      "wm-id": 1953933,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115550069148908739/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115550069148908739#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2025-11-14T21:21:56Z",
+      "wm-id": 1953932,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115550069148908739/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/MLB-Awards/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/a8625196264acc30e23b29f7d4a55ac563822cf90b149f4e1aba621f90515485.jpg",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m5byodaq2n26#reposted_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2025-11-10T18:33:21Z",
+      "wm-id": 1953300,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m5byodaq2n26/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/a8625196264acc30e23b29f7d4a55ac563822cf90b149f4e1aba621f90515485.jpg",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m5byodaq2n26#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2025-11-10T18:33:14Z",
+      "wm-id": 1953299,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m5byodaq2n26/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115526241563729330#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2025-11-10T16:32:36Z",
+      "wm-id": 1953264,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115526241563729330/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/offseason_news_01/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m44dd5y6jt26#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-11-08T06:33:56Z",
+      "wm-id": 1952864,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m44dd5y6jt26/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/World-Series-Game-1-2/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/World-Series-Game-1-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m4fziciqoz25#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-11-08T06:33:50Z",
+      "wm-id": 1952863,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m4fziciqoz25/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/World-Series-Game-3-4-5/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/World-Series-Game-3-4-5/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Go4Know",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/91f9c32145f050f22e78dd8067775fa5d041b1bd2de4dae6d27288011950341e.jpg",
+        "url": "https://bsky.app/profile/go4know.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m4mz7372lq2b#liked_by_did:plc:ydqzin7kctnatbefaxcp6f7s",
+      "published": null,
+      "wm-received": "2025-11-08T06:33:47Z",
+      "wm-id": 1952862,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m4mz7372lq2b/did%253Aplc%253Aydqzin7kctnatbefaxcp6f7s",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Trending - World",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/ea4d117961778c32732f08382db864449e67e9999e9ed333d5e3b8735648e6ce.jpg",
+        "url": "https://bsky.app/profile/trendingworld.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3m4mz7372lq2b#liked_by_did:plc:ifeda2auw5iicswhcdtgelai",
+      "published": null,
+      "wm-received": "2025-11-02T08:37:34Z",
+      "wm-id": 1951507,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3m4mz7372lq2b/did%253Aplc%253Aifeda2auw5iicswhcdtgelai",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115478982242368065#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2025-11-02T08:14:04Z",
+      "wm-id": 1951503,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115478982242368065/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2025/Dodgers-World-Series-Champion/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

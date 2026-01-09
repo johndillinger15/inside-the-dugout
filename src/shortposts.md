@@ -7,7 +7,7 @@ layout: layouts/default.njk
 <div class="mx-auto max-w-2xl mb-6">
   <div class="rounded-sm border border-slate-200 bg-slate-50 px-5 py-4 text-sm text-slate-700">
     <p>
-      Kurze Updates und Gedanken rund um die MLB – zuerst hier veröffentlicht.
+      Kurze Updates und Gedanken rund um die MLB, die nicht für einen Blogartikel gereicht haben.
     </p>
     <p class="mt-2">
       <a href="/shortposts/feed.xml"

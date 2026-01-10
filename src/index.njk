@@ -1,16 +1,57 @@
 ---
 layout: default
-pagination:
-    data: collections.pagedPosts
-    size: 1
-    alias: paged
-permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.html"
 ---
 
-<div class="flex flex-wrap -mx-2">
-    {% include "partials/post-grid.njk" %}
-</div>
+<section class="max-w-4xl mx-auto px-4 mb-14">
+  <p class="text-sm text-slate-600 leading-relaxed">
+    <strong>Inside The Dugout</strong> ist ein deutschsprachiger Blog rund um die MLB. Jeden Montag fasse ich die wichtigsten Entwicklungen der Woche kompakt zusammen, mit dem Ziel, in 5–10 Minuten Lesezeit einen guten Überblick zu geben. Ergänzt werden die Artikel durch kurze Shortposts für aktuelle Gedanken, Links oder Ereignisse der letzten Nacht.
+  </p>
+</section>
 
-{% if collections.posts.length > site.paginate %}
-{% include "partials/paginator.njk" %}
-{% endif %}
+<section class="max-w-6xl mx-auto px-4">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-14 items-stretch">
+
+    <!-- Latest blog post -->
+    <div>
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-sm font-semibold uppercase tracking-wide text-slate-600">
+          Latest Blog Post
+        </h2>
+        <a href="/blog/" class="text-xs text-slate-500 hover:underline">
+          All blog posts →
+        </a>
+      </div>
+
+      {% set paged = { posts: [collections.homeFeed.posts[0]] } %}
+      {% set isIndex = true %}
+
+      <div class="flex flex-col items-center h-full">
+        <div class="w-4/5 max-w-md flex-1">
+          <div class="flex flex-wrap -mx-2">
+            {% include "partials/post-grid.njk" %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Latest shortpost -->
+    <div>
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-sm font-semibold uppercase tracking-wide text-slate-600">
+          Latest Shortpost
+        </h2>
+        <a href="/shortposts/" class="text-xs text-slate-500 hover:underline">
+          All shortposts →
+        </a>
+      </div>
+
+      <div class="flex flex-col items-center h-full">
+        <div class="w-8/10 max-w-md flex-1">
+          {% set post = collections.homeFeed.shortposts[0] %}
+          {% set isIndex = true %}
+          {% include "partials/shortpost-card.njk" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

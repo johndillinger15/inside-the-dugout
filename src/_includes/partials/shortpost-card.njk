@@ -1,8 +1,8 @@
 <div class="w-full self-stretch p-2 mb-2">
-  <div
+    <div
     class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
-           transition-all duration-200
-           hover:border-[#1D2D50]">
+          transition-all duration-200 hover:border-[#1D2D50]
+          flex flex-col">
 
     <!-- left accent bar -->
     <div
@@ -11,7 +11,8 @@
              hover:bg-[#C8102E]">
     </div>
 
-    <div class="pl-7 pr-6 py-5">
+    <!-- content -->
+    <div class="pl-7 pr-6 py-4 flex-1">
       <p class="mb-3 text-xs font-medium tracking-wide uppercase"
          style="color:#1D2D50"
          title="Published date"
@@ -20,10 +21,15 @@
       </p>
 
       <div class="prose max-w-none text-sm text-slate-800">
-        {{ post.templateContent | safe }}
+        {% if isIndex %}
+          {{ post.templateContent | plainExcerpt(400) }}…
+        {% else %}
+          {{ post.templateContent | safe }}
+        {% endif %}
       </div>
-    </div>
+    </div> <!-- ✅ THIS was missing -->
 
+    <!-- footer -->
     <div class="px-6 py-3 border-t flex items-center justify-end"
          style="background-color:#F9F9F9; border-color:#E2E8F0;">
       <a href="{{ post.url | url }}"

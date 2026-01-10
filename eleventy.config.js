@@ -105,6 +105,43 @@ module.exports = (config) => {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Home feed collection
+  config.addCollection("homeFeed", function (collectionApi) {
+    const posts = collectionApi
+      .getFilteredByGlob("./src/posts/**/*.md")
+      .sort((a, b) => b.date - a.date)
+      .slice(0, 3);
+
+    const shortposts = collectionApi
+      .getFilteredByGlob("./src/shortposts/**/*.md")
+      .sort((a, b) => b.date - a.date)
+      .slice(0, 3);
+
+    return {
+      posts,
+      shortposts,
+    };
+  });
+
+  config.addFilter("plainExcerpt", function (html, length = 700) {
+    if (!html) return "";
+
+    const text = html
+      .replace(/<[^>]*>/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    // Decode basic HTML entities
+    const decoded = text
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&amp;/g, "&")
+      .replace(/&lt;/g, "<")
+      .replace(/&gt;/g, ">");
+
+    return decoded.slice(0, length);
+  });
+
   // Webmentions
   config.addPlugin(pluginWebmentions, {
     domain: "inside-the-dugout.de",

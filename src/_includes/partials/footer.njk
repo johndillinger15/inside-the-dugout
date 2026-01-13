@@ -1,8 +1,13 @@
 <footer class="mt-12 px-10 py-4 bg-slate-200">
 
   <div class="max-w-5xl mx-auto text-slate-700 text-center text-sm leading-relaxed">
-    © 2025 <a href="{{ '/' | url }}" class="font-medium underline" target="_blank" rel="noopener">{{ site.title }}</a> | 
-    Erstellt von <a href="{{ author.homepage | url }}" class="font-medium underline" target="_blank" rel="noopener">{{ author.name }}</a> mit <a href="https://11ty.dev" class="font-medium underline" target="_blank" rel="noopener">11ty</a>.<br>
+    © 2025–{{ site.year }} <a href="{{ '/' | url }}" class="font-medium underline" target="_blank" rel="noopener">{{ site.title }}</a> | 
+    Erstellt von <a href="{{ author.homepage | url }}" class="font-medium underline" target="_blank" rel="noopener">{{ author.name }}</a> mit <a href="https://11ty.dev" class="font-medium underline" target="_blank" rel="noopener"><img
+    src="/assets/img/eleventy-brands-solid-full.svg"
+    alt="Eleventy"
+    class="h-4 w-auto inline-block align-text-bottom"
+    loading="lazy"
+  /></a><br>
     
     <span class="mt-2"><a href="/datenschutz" class="underline">Datenschutz</a> | <a href="/impressum" class="underline">Impressum</a></span>
 

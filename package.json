@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.3",
+    "@11ty/font-awesome": "^1.0.1",
     "@tailwindcss/cli": "^4.1.7",
     "dotenv": "^16.5.0",
     "eleventy-plugin-tailwindcss-4": "^2.0.1",

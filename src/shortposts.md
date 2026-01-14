@@ -23,4 +23,5 @@ layout: layouts/default.njk
   {% for post in collections.shortposts %}
     {% include "partials/shortpost-card.njk" %}
   {% endfor %}
+
 </div>

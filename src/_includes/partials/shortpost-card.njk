@@ -1,3 +1,31 @@
+{# --------------------------------
+   Webmentions (same pattern as posts)
+--------------------------------- #}
+
+{% set pageUrl = 'https://inside-the-dugout.de' + post.page.url %}
+{% set mentionsByTarget = webmention.children | groupBy("wm-target") %}
+{% set pageMentions = mentionsByTarget[pageUrl] %}
+
+{% set likes = 0 %}
+{% set reposts = 0 %}
+{% set replies = 0 %}
+
+{% if pageMentions %}
+  {% for wm in pageMentions %}
+    {% if wm["wm-property"] == "like-of" %}
+      {% set likes = likes + 1 %}
+    {% elif wm["wm-property"] == "repost-of" %}
+      {% set reposts = reposts + 1 %}
+    {% elif wm["wm-property"] == "in-reply-to" %}
+      {% set replies = replies + 1 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{# -------------------------------
+   Shortpost card layout
+-------------------------------- #}
+
 <div class="w-full self-stretch p-2 mb-2">
     <div
     class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
@@ -27,17 +55,46 @@
           {{ post.templateContent | safe }}
         {% endif %}
       </div>
-    </div> <!-- ✅ THIS was missing -->
+    </div>
 
     <!-- footer -->
-    <div class="px-6 py-3 border-t flex items-center justify-end"
-         style="background-color:#F9F9F9; border-color:#E2E8F0;">
-      <a href="{{ post.url | url }}"
-         class="text-xs font-semibold tracking-wide hover:underline"
-         style="color:#C8102E">
-        Permalink →
-      </a>
-    </div>
+<div
+  class="px-6 py-3 border-t flex items-center justify-between text-xs"
+  style="background-color:#F9F9F9; border-color:#E2E8F0;"
+>
+
+  <!-- LEFT: reactions -->
+  <div class="flex items-center gap-4 text-slate-600">
+
+    {% if likes > 0 %}
+      <span class="flex items-center gap-1" title="Likes">
+        ❤️ Likes: {{ likes }}
+      </span>
+    {% endif %}
+
+    {% if reposts > 0 %}
+      <span class="flex items-center gap-1" title="Reposts">
+        🔁 Shares: {{ reposts }}
+      </span>
+    {% endif %}
+
+    {% if replies > 0 %}
+      <span class="flex items-center gap-1" title="Replies">
+        💬 Kommentare: {{ replies }}
+      </span>
+    {% endif %}
+
+  </div>
+
+  <!-- RIGHT: permalink -->
+  <a href="{{ post.url | url }}"
+    class="font-semibold hover:underline"
+    style="color:#C8102E">
+    Permalink →
+  </a>
+
+</div>
+
 
   </div>
 </div>

@@ -29,6 +29,49 @@ layout: layouts/default.njk
       {{ content | safe }}
     </div>
 
+    <!-- Divider -->
+    <hr class="mx-6 mb-6 border-t border-slate-200" />
+
+
+{# --------------------------------
+   Webmentions for this shortpost
+--------------------------------- #}
+
+  {% set pageUrl = 'https://inside-the-dugout.de' + page.url %}
+  {% set mentionsByTarget = webmention.children | groupBy("wm-target") %}
+  {% set pageMentions = mentionsByTarget[pageUrl] %}
+
+  {% set likes = 0 %}
+  {% set reposts = 0 %}
+  {% set replies = 0 %}
+
+  {% if pageMentions %}
+    {% for wm in pageMentions %}
+      {% if wm["wm-property"] == "like-of" %}
+        {% set likes = likes + 1 %}
+      {% elif wm["wm-property"] == "repost-of" %}
+        {% set reposts = reposts + 1 %}
+      {% elif wm["wm-property"] == "in-reply-to" %}
+        {% set replies = replies + 1 %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if likes > 0 or reposts > 0 or replies > 0 %}
+  <section class="px-6 pb-4 text-sm text-slate-700">
+    <strong>Social Interactions:</strong>
+    {% if likes > 0 %}❤️ Likes: {{ likes }}{% endif %}
+    {% if reposts > 0 %} | 🔁 Shares: {{ reposts }}{% endif %}
+    {% if replies > 0 %} | 💬 Kommentare: {{ replies }}{% endif %}
+  </section>
+  {% endif %}
+
+  {% if pageMentions and replies > 0 %}
+  <section class="px-6 pt-6 pb-8 border-t border-slate-200">
+    <h2 class="text-base font-semibold mb-6">Diskussion</h2>
+    … replies …
+  </section>
+  {% endif %}
   </div>
 
 </article>

@@ -16,7 +16,7 @@
       {% set likes = likes + 1 %}
     {% elif wm["wm-property"] == "repost-of" %}
       {% set reposts = reposts + 1 %}
-    {% elif wm["wm-property"] == "in-reply-to" %}
+    {% elif wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
       {% set replies = replies + 1 %}
     {% endif %}
   {% endfor %}

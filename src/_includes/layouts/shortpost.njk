@@ -51,7 +51,7 @@ layout: layouts/default.njk
         {% set likes = likes + 1 %}
       {% elif wm["wm-property"] == "repost-of" %}
         {% set reposts = reposts + 1 %}
-      {% elif wm["wm-property"] == "in-reply-to" %}
+      {% elif wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
         {% set replies = replies + 1 %}
       {% endif %}
     {% endfor %}
@@ -69,9 +69,60 @@ layout: layouts/default.njk
   {% if pageMentions and replies > 0 %}
   <section class="px-6 pt-6 pb-8 border-t border-slate-200">
     <h2 class="text-base font-semibold mb-6">Diskussion</h2>
-    … replies …
+
+    <ul class="space-y-6">
+      {% for wm in pageMentions %}
+        {% if wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
+        <li class="flex items-start space-x-4">
+
+          <img
+            src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}"
+            alt="{{ wm.author.name or 'Avatar' }}"
+            class="w-10 h-10 rounded-full object-cover mt-1"
+            loading="lazy"
+          >
+
+          <div class="flex-1">
+            <div class="text-sm text-slate-600">
+              <a
+                href="{{ wm.url }}"
+                target="_blank"
+                rel="nofollow ugc"
+                class="font-semibold hover:underline"
+              >
+                {{ wm.author.name or 'Anonymous' }}
+              </a>
+            </div>
+
+            {% if wm.content %}
+              {% if wm.content.text %}
+                <p class="mt-2 text-slate-800">
+                  {{ wm.content.text }}
+                </p>
+              {% elif wm.content.html %}
+                <div class="mt-2 text-slate-800 prose prose-slate max-w-none">
+                  {{ wm.content.html | safe }}
+                </div>
+              {% endif %}
+            {% else %}
+              <a
+                href="{{ wm.url }}"
+                target="_blank"
+                rel="nofollow ugc"
+                class="inline-block mt-2 text-sm hover:underline"
+              >
+                View on source
+              </a>
+            {% endif %}
+
+          </div>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </section>
   {% endif %}
+
   </div>
 
 </article>

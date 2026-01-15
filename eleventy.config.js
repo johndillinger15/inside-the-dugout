@@ -170,7 +170,7 @@ config.addCollection("combined", function (collectionApi) {
     },
     metadata: {
       language: "de",
-      title: "Inside The Dugout",
+      title: "Inside The Dugout - Blogposts",
       subtitle: "Das wöchentliche MLB Update.",
       base: "https://inside-the-dugout.de",
       author: {

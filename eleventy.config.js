@@ -123,6 +123,15 @@ module.exports = (config) => {
     };
   });
 
+  // Combined collection
+  config.addCollection("combined", (collectionApi) => {
+  return [
+    ...collectionApi.getFilteredByTag("posts"),
+    ...collectionApi.getFilteredByTag("shortposts"),
+  ].sort((a, b) => b.date - a.date);
+});
+
+
   config.addFilter("plainExcerpt", function (html, length = 700) {
     if (!html) return "";
 
@@ -167,6 +176,7 @@ module.exports = (config) => {
       },
     },
   });
+
 
   // Return Eleventy config
   return {

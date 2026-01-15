@@ -124,13 +124,12 @@ module.exports = (config) => {
   });
 
   // Combined collection
-  config.addCollection("combined", (collectionApi) => {
+  config.addCollection("combined", function (collectionApi) {
   return [
-    ...collectionApi.getFilteredByTag("posts"),
-    ...collectionApi.getFilteredByTag("shortposts"),
+    ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
+    ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
   ].sort((a, b) => b.date - a.date);
 });
-
 
   config.addFilter("plainExcerpt", function (html, length = 700) {
     if (!html) return "";

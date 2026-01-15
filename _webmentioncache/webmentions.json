@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-01-14T14:34:10.615Z",
+  "lastFetched": "2026-01-15T09:29:06.207Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/115895700811972716#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-01-14T22:36:04Z",
+      "wm-id": 1967975,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/115895700811972716/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/01/14/2252/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/01/14/2252/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

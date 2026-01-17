@@ -2,5 +2,16 @@
 permalink: "/robots.txt"
 ---
 User-agent: *
-Disallow: 
-Sitemap: {{ site.url | url }}/sitemap.xml
+Disallow: /debug-shortposts/
+Disallow: /search/
+Disallow: /page/
+Disallow: /assets/
+Disallow: /index.json
+
+Allow: /posts/
+Allow: /shortposts/
+Allow: /blog/
+Allow: /tags/
+Allow: /
+
+Sitemap: https://inside-the-dugout.de/sitemap.xml

@@ -1,6 +1,6 @@
 ---
 title: "Offeason News #3"
-date: 2026-MM-DDT16:00:00Z
+date: 2026-01-19T09:00:00Z
 layout: post
 tags:
   - News

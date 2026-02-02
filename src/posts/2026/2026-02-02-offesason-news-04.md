@@ -55,7 +55,7 @@ Die Athletics sicherten sich All-Star Shortstop Jacob Wilson mit einem siebenjä
 
 ### San Francisco Giants
 
-Die San Francisco Giants verpflichteten den dreifachen All-Star Luis Arráez mit einem Einjahresvertrag über 12 Millionen Dollar als Second Baseman. Der 28-Jährige gewann drei Batting Titles in Folge (2022-2024) und schlug 2025 bei nur 3,1% Strikeout Rate .292 mit einem OPS+ von 99. Während Arráez mit 100th Percentile in Whiff und Strikeout Percentage überzeugt, rangiert er bei Hard Hit Rate im 1st Percentile. Defensiv ist er allerdings schwach, was für mich diese Verpflichtung etwas komisch erscheinen lässt. Sein Fielding Run Value von -25 seit 2023 platziert ihn auf Rang 296 von 303 qualifizierten Spielern
+Die San Francisco Giants verpflichteten den dreifachen All-Star Luis Arráez mit einem Einjahresvertrag über 12 Millionen Dollar als Second Baseman. Der 28-Jährige gewann drei Batting Titles in Folge (2022-2024) und schlug 2025 bei nur 3,1% Strikeout Rate .292 mit einem OPS+ von 99. Während Arráez mit 100th Percentile in Whiff und Strikeout Percentage überzeugt, rangiert er bei Hard Hit Rate im 1st Percentile. Defensiv ist er allerdings schwach, was für mich diese Verpflichtung etwas komisch erscheinen lässt. Sein Fielding Run Value von -25 seit 2023 platziert ihn auf Rang 296 von 303 qualifizierten Spielern.
 
 ### Eugenio Suárez
 

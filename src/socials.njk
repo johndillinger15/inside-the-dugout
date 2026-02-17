@@ -23,7 +23,7 @@ layout: layouts/pages.njk
     gap: 0.8rem;
 
     width: 100%;
-    padding: 0.9rem 1.2rem;
+    padding: 0.95rem 1.2rem;
     margin-bottom: 1rem;
 
     border-radius: 14px;
@@ -31,35 +31,36 @@ layout: layouts/pages.njk
     font-weight: 500;
     font-size: 1rem;
 
-    background: #f4f4f5;
-    color: #222;
+    color: #ffffff;
 
-    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
   }
 
   .linktree-link:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    filter: brightness(1.05);
   }
 
   .linktree-link img {
     width: 20px;
     height: 20px;
-    opacity: 0.85;
+    filter: brightness(0) invert(1);
+    opacity: 0.95;
   }
 
-  /* Softer Brand Accents (border-left highlight instead of full color background) */
-  .discord   { border-left: 4px solid #7C83D6; }
-  .newsletter{ border-left: 4px solid #6BBAD9; }
-  .rss       { border-left: 4px solid #F2B66D; }
-  .instagram { border-left: 4px solid #E88AA3; }
-  .bluesky   { border-left: 4px solid #6FAFF5; }
-  .mastodon  { border-left: 4px solid #9A9BEF; }
+  /* Muted Brand Colors */
+  .discord   { background: #6E75C9; }
+  .newsletter{ background: #5DAFC8; }
+  .rss       { background: #E6A85C; }
+  .instagram { background: #D97A92; }
+  .bluesky   { background: #5C9FE6; }
+  .mastodon  { background: #8687D9; }
 
   @media (max-width: 480px) {
     .linktree-link {
       font-size: 0.95rem;
-      padding: 0.8rem 1rem;
+      padding: 0.85rem 1rem;
     }
   }
 </style>

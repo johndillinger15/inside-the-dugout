@@ -3,56 +3,108 @@ title: Connect with Us
 layout: layouts/pages.njk
 ---
 
-<center><h1>How to connect with us</h1><br></center>
+<style>
+  .linktree-wrapper {
+    max-width: 520px;
+    margin: 0 auto;
+    padding: 2rem 1rem 3rem;
+    text-align: center;
+  }
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; width: 100%; margin-top: 2rem;">
+  .linktree-wrapper h1 {
+    margin-bottom: 2rem;
+  }
+
+  .linktree-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    width: 100%;
+    padding: 0.9rem 1.2rem;
+    margin-bottom: 1rem;
+
+    border-radius: 14px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+
+    background: #111;
+    color: #fff;
+
+    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+  }
+
+  .linktree-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    opacity: 0.95;
+  }
+
+  .linktree-link img {
+    width: 22px;
+    height: 22px;
+  }
+
+  /* Brand Colors */
+  .instagram { background: #E4405F; }
+  .bluesky   { background: #0285FF; }
+  .mastodon  { background: #6364FF; }
+  .rss       { background: #FFA500; }
+  .newsletter{ background: #00A9E0; }
+  .discord   { background: #5865F2; }
+
+  @media (max-width: 480px) {
+    .linktree-link {
+      font-size: 0.95rem;
+      padding: 0.8rem 1rem;
+    }
+  }
+</style>
+
+<div class="linktree-wrapper">
+  <h1>Connect with Us</h1>
 
   {% if social.instagram %}
-  <a href="{{ social.instagram }}" aria-label="Instagram" style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="80" style="display: block; margin: 0 auto; fill: #E4405F; filter: none;" />
-    <div style="color:#E4405F; font-weight:bold; margin-top:6px;">Instagram</div>
+  <a href="{{ social.instagram }}" class="linktree-link instagram" target="_blank">
+    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram">
+    Instagram
   </a>
   {% endif %}
 
   {% if social.bluesky %}
-  <a href="{{ social.bluesky }}" aria-label="Bluesky" style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-    <img src="https://simpleicons.org/icons/bluesky.svg" alt="Bluesky" width="80" style="display: block; margin: 0 auto; filter: none;" />
-    <div style="color:#0285FF; font-weight:bold; margin-top:6px;">Bluesky</div>
+  <a href="{{ social.bluesky }}" class="linktree-link bluesky" target="_blank">
+    <img src="https://simpleicons.org/icons/bluesky.svg" alt="Bluesky">
+    Bluesky
   </a>
   {% endif %}
 
   {% if social.mastodon %}
-  <a href="{{ social.mastodon }}" aria-label="Mastodon" style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-    <img src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon" width="80" style="display: block; margin: 0 auto; filter: none;" />
-    <div style="color:#6364FF; font-weight:bold; margin-top:6px;">Mastodon</div>
+  <a href="{{ social.mastodon }}" class="linktree-link mastodon" target="_blank">
+    <img src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon">
+    Mastodon
   </a>
   {% endif %}
 
   {% if social.rss %}
-  <a href="{{ social.rss }}" aria-label="RSS" style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-    <img src="https://simpleicons.org/icons/rss.svg" alt="RSS Feed" width="80" style="display: block; margin: 0 auto; filter: none;" />
-    <div style="color:#FFA500; font-weight:bold; margin-top:6px;">RSS</div>
+  <a href="{{ social.rss }}" class="linktree-link rss" target="_blank">
+    <img src="https://simpleicons.org/icons/rss.svg" alt="RSS Feed">
+    RSS Feed
   </a>
   {% endif %}
 
-  <!-- Newsletter -->
-  <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up" aria-label="Newsletter" style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-    <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Newsletter" width="80" style="display: block; margin: 0 auto; filter: none;" />
-    <div style="color:#00A9E0; font-weight:bold; margin-top:6px;">Newsletter</div>
+  <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up"
+     class="linktree-link newsletter"
+     target="_blank">
+    <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Newsletter">
+    Newsletter
   </a>
 
-<!-- Discord -->
-<a href="{{ social.discord }}"
-   aria-label="Discord Server"
-   style="text-align: center; text-decoration: none; color: inherit; width: 120px;">
-  <img src="https://simpleicons.org/icons/discord.svg"
-       alt="Discord Server"
-       width="80"
-       style="display: block; margin: 0 auto; filter: none;" />
-  <div style="color:#5865F2; font-weight:bold; margin-top:6px;">
-    Discord
-  </div>
-</a>
-
-
+  {% if social.discord %}
+  <a href="{{ social.discord }}" class="linktree-link discord" target="_blank">
+    <img src="https://simpleicons.org/icons/discord.svg" alt="Discord">
+    Discord Server
+  </a>
+  {% endif %}
 </div>

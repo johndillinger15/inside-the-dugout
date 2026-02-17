@@ -23,10 +23,10 @@ layout: layouts/pages.njk
     gap: 0.8rem;
 
     width: 100%;
-    padding: 0.95rem 1.2rem;
-    margin-bottom: 1rem;
+    padding: 0.7rem 1.1rem;   /* reduced height */
+    margin-bottom: 0.7rem;    /* tighter spacing */
 
-    border-radius: 14px;
+    border-radius: 10px;      /* slightly less rounded */
     text-decoration: none;
     font-weight: 500;
     font-size: 1rem;
@@ -66,7 +66,7 @@ layout: layouts/pages.njk
 </style>
 
 <div class="linktree-wrapper">
-  <h1>Connect with Us</h1>
+  <h2>Connect with Us</h2>
 
   {% if social.discord %}
   <a href="{{ social.discord }}" class="linktree-link discord" target="_blank">

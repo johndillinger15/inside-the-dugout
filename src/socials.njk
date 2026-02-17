@@ -13,13 +13,14 @@ layout: layouts/pages.njk
 
   .linktree-wrapper h1 {
     margin-bottom: 2rem;
+    font-weight: 600;
   }
 
   .linktree-link {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.8rem;
 
     width: 100%;
     padding: 0.9rem 1.2rem;
@@ -27,33 +28,33 @@ layout: layouts/pages.njk
 
     border-radius: 14px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1rem;
 
-    background: #111;
-    color: #fff;
+    background: #f4f4f5;
+    color: #222;
 
-    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
   }
 
   .linktree-link:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-    opacity: 0.95;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
   }
 
   .linktree-link img {
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
+    opacity: 0.85;
   }
 
-  /* Brand Colors */
-  .instagram { background: #E4405F; }
-  .bluesky   { background: #0285FF; }
-  .mastodon  { background: #6364FF; }
-  .rss       { background: #FFA500; }
-  .newsletter{ background: #00A9E0; }
-  .discord   { background: #5865F2; }
+  /* Softer Brand Accents (border-left highlight instead of full color background) */
+  .discord   { border-left: 4px solid #7C83D6; }
+  .newsletter{ border-left: 4px solid #6BBAD9; }
+  .rss       { border-left: 4px solid #F2B66D; }
+  .instagram { border-left: 4px solid #E88AA3; }
+  .bluesky   { border-left: 4px solid #6FAFF5; }
+  .mastodon  { border-left: 4px solid #9A9BEF; }
 
   @media (max-width: 480px) {
     .linktree-link {
@@ -65,6 +66,27 @@ layout: layouts/pages.njk
 
 <div class="linktree-wrapper">
   <h1>Connect with Us</h1>
+
+  {% if social.discord %}
+  <a href="{{ social.discord }}" class="linktree-link discord" target="_blank">
+    <img src="https://simpleicons.org/icons/discord.svg" alt="Discord">
+    Discord Server
+  </a>
+  {% endif %}
+
+  <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up"
+     class="linktree-link newsletter"
+     target="_blank">
+    <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Newsletter">
+    Newsletter
+  </a>
+
+  {% if social.rss %}
+  <a href="{{ social.rss }}" class="linktree-link rss" target="_blank">
+    <img src="https://simpleicons.org/icons/rss.svg" alt="RSS Feed">
+    RSS Feed
+  </a>
+  {% endif %}
 
   {% if social.instagram %}
   <a href="{{ social.instagram }}" class="linktree-link instagram" target="_blank">
@@ -84,27 +106,6 @@ layout: layouts/pages.njk
   <a href="{{ social.mastodon }}" class="linktree-link mastodon" target="_blank">
     <img src="https://simpleicons.org/icons/mastodon.svg" alt="Mastodon">
     Mastodon
-  </a>
-  {% endif %}
-
-  {% if social.rss %}
-  <a href="{{ social.rss }}" class="linktree-link rss" target="_blank">
-    <img src="https://simpleicons.org/icons/rss.svg" alt="RSS Feed">
-    RSS Feed
-  </a>
-  {% endif %}
-
-  <a href="https://steady.page/de/inside-the-dugout/newsletter/sign_up"
-     class="linktree-link newsletter"
-     target="_blank">
-    <img src="https://simpleicons.org/icons/minutemailer.svg" alt="Newsletter">
-    Newsletter
-  </a>
-
-  {% if social.discord %}
-  <a href="{{ social.discord }}" class="linktree-link discord" target="_blank">
-    <img src="https://simpleicons.org/icons/discord.svg" alt="Discord">
-    Discord Server
   </a>
   {% endif %}
 </div>

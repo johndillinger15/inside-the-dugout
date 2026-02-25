@@ -1,6 +1,101 @@
 {
-  "lastFetched": "2026-02-23T19:31:38.608Z",
+  "lastFetched": "2026-02-25T15:54:15.841Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mfkfyhsaiq26#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-02-23T21:44:04Z",
+      "wm-id": 1978330,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mfkfyhsaiq26/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mfkfyhsaiq26#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-02-23T21:44:04Z",
+      "wm-id": 1978331,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mfkfyhsaiq26/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116121657469855377#reblogged-by-109371151333628304",
+      "published": null,
+      "wm-received": "2026-02-23T20:30:30Z",
+      "wm-id": 1978302,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116121657469855377/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Dillinger",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/8a85fde5d8abe12898f5cf05fe974e2235c6478573f4cc79976d88f2ccdfeec3.jpg",
+        "url": "https://sueden.social/@johndillinger15"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116121657469855377#favorited-by-109371151333628304",
+      "published": null,
+      "wm-received": "2026-02-23T20:30:30Z",
+      "wm-id": 1978303,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/116121657469855377/109371151333628304",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116121657469855377#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-02-23T19:58:57Z",
+      "wm-id": 1978300,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116121657469855377/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/offseason-news-05/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

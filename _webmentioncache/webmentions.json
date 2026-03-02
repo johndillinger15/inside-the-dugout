@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-02-25T15:54:15.841Z",
+  "lastFetched": "2026-03-02T21:28:22.360Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/3f7520e69acb2d6e5fe0bca9c76d052b0592f22736c0424a13929a3e6b301720.jpg",
+        "url": "https://bsky.app/profile/r-satzmann.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mfs5mornen26#liked_by_did:plc:b7vb63bieaopgejn3nnamf74",
+      "published": null,
+      "wm-received": "2026-02-27T20:51:05Z",
+      "wm-id": 1979480,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mfs5mornen26/did%253Aplc%253Ab7vb63bieaopgejn3nnamf74",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/02/26/2222/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/02/26/2222/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

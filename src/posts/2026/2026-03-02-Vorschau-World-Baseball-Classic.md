@@ -16,21 +16,21 @@ thumb: thumbnail_26_WBC_preview.png
 
 ## Modus
 
-Am World Baseball Classic (WBC) 2026 werden 20 Nationalteams teilnehmen. Es ist die sechste Ausgabe des WBC und wird vom 5. bis 17. März 2026 ausgetragen. Die Spiele der Gruppenphase werden in Miami (Florida), Houston (Texas), San Juan (Puerto Rico) und Tokio (Japan) gespielt. Das Viertelfinale wird zwischen Miami und Houston aufgeteilt, das Halbfinale und das Finale werden dann in Miami stattfinden.
+Am World Baseball Classic (WBC) 2026 nehmen 20 Nationalteams teil. Es ist die sechste Ausgabe des Turniers und wird vom 5. bis 17. März 2026 ausgetragen. Die Spiele der Gruppenphase finden in Miami (Florida), Houston (Texas), San Juan (Puerto Rico) und Tokio (Japan) statt. Die Viertelfinals werden zwischen Miami und Houston aufgeteilt, während Halbfinale und Finale in Miami ausgetragen werden.
 
-Pro Gruppe spielen 5 Teams in einem Round-Robin Format, das heißt, Jeder spielt gegen Jeden. Aus der Gruppenphase qualifizieren sich die ersten beiden jeder Gruppe für das Viertelfinale, in dem die Gruppenersten gegen die Gruppenzweiten spielen. Die Gewinner spielen das Halbfinale und dann das Finale. Es wird kein Spiel um Platz 3 geben.
+Pro Gruppe spielen fünf Teams im Round-Robin-Format, das heißt, jeder spielt gegen jeden. Aus der Gruppenphase qualifizieren sich die beiden besten Teams jeder Gruppe für das Viertelfinale. Dort treffen die Gruppenersten auf die Gruppenzweiten. Die Sieger ziehen ins Halbfinale ein und spielen anschließend das Finale. Ein Spiel um Platz drei wird es nicht geben.
 
 ## Qualifizierte Teams
 
-16 der 20 Teams qualifizierten sich über ihre Platzierung im World Baseball Classic 2023: Australien, Kanada, Kuba, Tschechien, Dominikanische Republik, Vereinigtes Königreich, Israel, Italien, Japan, Mexiko, Niederlande, Panama, Puerto Rico, Südkorea, USA und Venezuela.
+16 der 20 Teams qualifizierten sich über ihre Platzierung beim World Baseball Classic 2023: Australien, Kanada, Kuba, Tschechien, die Dominikanische Republik, das Vereinigte Königreich, Israel, Italien, Japan, Mexiko, die Niederlande, Panama, Puerto Rico, Südkorea, die USA und Venezuela.
 
-Die restlichen 4 Teilnehmer wurden in einer Qualifikationsrunde vom 21. Februar bis 6. März 2025 im Rahmen der World Baseball Classic Qualifiers ermittelt. Insgesamt nahmen acht Nationen an zwei separaten Qualifikationsturnieren in Taipeh (Taiwan) und Tucson, Arizona (USA) teil. In jedem Turnier spielten vier Teams im Round-Robin-Modus, und sowohl der Gruppensieger als auch der Gewinner eines Entscheidungsspiels zwischen dem Zweiten und Dritten sicherten sich die Teilnahme am Hauptturnier. Über diese Qualifikation qualifizierten sich Kolumbien, Nicaragua, Brasilien und Chinesisch Taipeh.
+Die restlichen vier Teilnehmer wurden in einer Qualifikationsrunde vom 21. Februar bis 6. März 2025 im Rahmen der World Baseball Classic Qualifiers ermittelt. Insgesamt nahmen acht Nationen an zwei separaten Turnieren in Taipeh (Taiwan) und Tucson, Arizona (USA), teil. In jedem Turnier spielten vier Teams im Round-Robin-Modus. Sowohl der Gruppensieger als auch der Gewinner eines Entscheidungsspiels zwischen dem Zweiten und Dritten sicherten sich die Teilnahme am Hauptturnier. Über diesen Weg qualifizierten sich Kolumbien, Nicaragua, Brasilien und Chinesisch Taipeh.
 
-Die deutsche Nationalmannschaft trat im Qualifier in Tucson, Arizona, gemeinsam mit China, Brasilien und Kolumbien an.
+Die deutsche Nationalmannschaft trat im Qualifier in Tucson gemeinsam mit China, Brasilien und Kolumbien an.
 
-Zum Auftakt gelang Deutschland ein beeindruckender Sieg gegen China, welches man mit 12:2 nach nur sieben Innings im Rahmen der Mercy Rule gewann. Dieser Sieg war der erste Qualifikations-Erfolg für die DBV-Auswahl in diesem Wettbewerb. Allerdings folgten zwei enge und harte Spiele gegen Brasilien und Kolumbien. Zunächst unterlag Deutschland 9:7 gegen Brasilien, ehe im entscheidenden Gruppenspiel gegen Kolumbien eine deutliche 0:10-Niederlage stand.
+Zum Auftakt gelang Deutschland ein beeindruckender Sieg gegen China, das man mit 12:2 nach nur sieben Innings im Rahmen der Mercy Rule bezwang. Es war der erste Qualifikationssieg der DBV-Auswahl in diesem Wettbewerb. Allerdings folgten zwei enge und intensive Spiele gegen Brasilien und Kolumbien. Zunächst unterlag Deutschland mit 7:9 gegen Brasilien, ehe im entscheidenden Gruppenspiel gegen Kolumbien eine deutliche 0:10-Niederlage stand.
 
-Damit belegte Deutschland am Ende den dritten Platz in der Qualifikationsgruppe, war aber noch für ein Entscheidungsspiel um den zweiten Qualifikationsplatz berechtigt. In diesem Match um den letzten Startplatz für das WBC unterlag die deutsche Mannschaft mit 4:6 erneut Brasilien, womit die Qualifikation für das Turnier 2026 verpasst wurde.
+Damit belegte Deutschland am Ende den dritten Platz in der Qualifikationsgruppe und war noch für ein Entscheidungsspiel um den zweiten Qualifikationsplatz berechtigt. In diesem Spiel um den letzten Startplatz für das WBC unterlag die deutsche Mannschaft erneut Brasilien mit 4:6 und verpasste damit die Qualifikation für das Turnier 2026.
 
 ## Gruppeneinteilung
 

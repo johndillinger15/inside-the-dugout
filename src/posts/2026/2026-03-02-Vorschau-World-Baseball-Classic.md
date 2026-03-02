@@ -9,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26_WBC_preview.png
 ---
+
 <img src='../../img/thumbnail_26_WBC_preview.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, das Spring Training läuft schon seit etwas mehr als einer Woche, aber das erste Highlight der 2026er Saison steht jetzt direkt vor der Tür. Am Donnerstag (05. März) beginnt das World Baseball Classic 2026. In diesem Artikel will ich eine kurze, kompakte Vorschau dazu geben.
@@ -45,7 +46,7 @@ Mit Puerto Rico mit dem Heimvorteil wird Ihnen der Gruppensieg schwer streitig z
 
 ### Gruppe B
 
-Ebenfalls vom 6. bis 11. März 2026 werden die Spiele der Gruppe B im Minute Maid Park in Houston, Texas, ausgetragen. Die USA (#3) gehen als Gastgeber in die Gruppenphase und treffen auf Mexiko (#6), Italien (#14), das Vereinigte Königreich (#19) und Brasilien (#22).
+Ebenfalls vom 6. bis 11. März 2026 werden die Spiele der Gruppe B im Daikin Park in Houston, Texas, ausgetragen. Die USA (#3) gehen als Gastgeber in die Gruppenphase und treffen auf Mexiko (#6), Italien (#14), das Vereinigte Königreich (#19) und Brasilien (#22).
 
 Der Kader der **USA** ist natürlich gespickt mit MLB All-Stars, zu nennen sind hier vorallem OF Aaron Judge (Yankees), RHP Paul Skenes (Pirates), LHP Tarik Skubal (Tigers), RHP Logan Webb (Giants), C Cal Raleigh (Mariners), INF Bryce Harper (Phillies), DH Kyle Schwarber (Phillies), CF Pete Crow-Armstrong (Cubs); für **Mexiko** spielen u.a. C Alejandro Kirk (Blue Jays), OF Jarren Duran (Red Sox), OF Randy Arozarena (Mariners), RHP Andrés Muñoz (Mariners); für **Italien** spielen u.a. 1B Vinnie Pasquantino (Royals), RHP Aaron Nola (Phillies), OF Jac Caglianone (Royals); für das **Vereinigte Königreich** spielen u.a. INF Jazz Chisholm Jr. (Yankees), C Harry Ford (Nationals); bei Brasilien konnte ich leider keinen Top MLB-Spieler erkennen, was die Sache für Brasilien nicht einfacher macht. Sie haben auch die zweifelhafte "Ehre" das erste Spiel gegen die USA zu spielen.
 

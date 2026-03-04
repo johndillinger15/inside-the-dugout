@@ -1,6 +1,158 @@
 {
-  "lastFetched": "2026-03-02T21:28:22.360Z",
+  "lastFetched": "2026-03-04T20:09:55.781Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/ada9dadaabb52cd2a1df4778e43fb2d93b9829a65055a52eed252e79d504020e.jpg",
+        "url": "https://bsky.app/profile/bfalkensteiner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mg7zpdy4hw2h#liked_by_did:plc:taoo44lklhy5yionqcy2zjhl",
+      "published": null,
+      "wm-received": "2026-03-04T18:36:16Z",
+      "wm-id": 1980850,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mg7zpdy4hw2h/did%253Aplc%253Ataoo44lklhy5yionqcy2zjhl",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "James",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/6e8596b5d519c03e0aa77f833ed8fda3c20964599edd5ea406810f0868dcd233.png",
+        "url": "https://mastodon.social/@nonzerosumjames"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116170328781321968#favorited-by-110635833467728192",
+      "published": null,
+      "wm-received": "2026-03-04T16:45:48Z",
+      "wm-id": 1980822,
+      "wm-source": "https://brid.gy/like/mastodon/@inside_the_dugout@mastodon.social/116170328781321968/110635833467728192",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/a8625196264acc30e23b29f7d4a55ac563822cf90b149f4e1aba621f90515485.jpg",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mg7zpdy4hw2h#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-03-04T11:01:59Z",
+      "wm-id": 1980735,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mg7zpdy4hw2h/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116170328781321968#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-04T10:09:47Z",
+      "wm-id": 1980729,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116170328781321968/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/04/1017/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/ada9dadaabb52cd2a1df4778e43fb2d93b9829a65055a52eed252e79d504020e.jpg",
+        "url": "https://bsky.app/profile/bfalkensteiner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mg47dle6ss26#liked_by_did:plc:taoo44lklhy5yionqcy2zjhl",
+      "published": null,
+      "wm-received": "2026-03-03T07:08:06Z",
+      "wm-id": 1980470,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mg47dle6ss26/did%253Aplc%253Ataoo44lklhy5yionqcy2zjhl",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116161717971796265#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2026-03-03T00:48:15Z",
+      "wm-id": 1980422,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116161717971796265/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116161717971796265#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2026-03-03T00:47:57Z",
+      "wm-id": 1980421,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116161717971796265/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116161717971796265#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-03T00:47:55Z",
+      "wm-id": 1980420,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116161717971796265/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/Vorschau-World-Baseball-Classic/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

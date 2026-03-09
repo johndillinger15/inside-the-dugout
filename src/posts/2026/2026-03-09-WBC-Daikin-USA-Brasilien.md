@@ -4,6 +4,7 @@ date: 2026-03-09T08:00:00Z
 layout: post
 tags:
   - Spielbericht
+  - Gastbeitrag
 description: "Freitagabend im Daikin Park: Aaron Judge, neun brasilianische Pitcher, 20 Runs insgesamt – und ein Ballpark, der selbst zwischen den Pitches nie stillsteht."
 author:
   name: Dominic Helm

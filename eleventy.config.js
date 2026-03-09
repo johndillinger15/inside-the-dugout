@@ -97,7 +97,7 @@ module.exports = (config) => {
   config.addCollection("pagedPosts", require("./lib/collections/pagedPosts"));
   config.addCollection(
     "pagedPostsByTag",
-    require("./lib/collections/pagedPostsByTag")
+    require("./lib/collections/pagedPostsByTag"),
   );
   config.addCollection("shortposts", function (collectionApi) {
     return collectionApi
@@ -123,17 +123,16 @@ module.exports = (config) => {
     };
   });
 
-config.addCollection("combined", function (collectionApi) {
-  return [
-    ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
-    ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
-  ].sort((a, b) => {
-    const dateA = a.date instanceof Date ? a.date.getTime() : 0;
-    const dateB = b.date instanceof Date ? b.date.getTime() : 0;
-    return dateB - dateA;
+  config.addCollection("combined", function (collectionApi) {
+    return [
+      ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
+      ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
+    ].sort((a, b) => {
+      const dateA = a.date instanceof Date ? a.date.getTime() : 0;
+      const dateB = b.date instanceof Date ? b.date.getTime() : 0;
+      return dateB - dateA;
+    });
   });
-});
-
 
   config.addFilter("plainExcerpt", function (html, length = 700) {
     if (!html) return "";
@@ -179,7 +178,6 @@ config.addCollection("combined", function (collectionApi) {
       },
     },
   });
-
 
   // Return Eleventy config
   return {

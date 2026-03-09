@@ -64,10 +64,10 @@ Schon vor Spielbeginn war klar, dass das hier keine stille Freitagabendvorstellu
 <button class="carousel-btn prev" onclick="carouselScroll(this,-1)">‹</button>
 
 <div class="carousel" id="carousel">
-  <img src="/assets/img/2026/1_Stadon1.jpeg">
-  <img src="/assets/img/2026/2_Stadon2.jpeg">
-  <img src="/assets/img/2026/3_Beginn1.jpeg">
-  <img src="/assets/img/2026/4_Beginn2.jpeg">
+  <img src="/assets/img/2026/1_Stadon1.jpg">
+  <img src="/assets/img/2026/2_Stadon2.jpg">
+  <img src="/assets/img/2026/3_Beginn1.jpg">
+  <img src="/assets/img/2026/4_Beginn2.jpg">
 </div>
 
 <button class="carousel-btn next" onclick="carouselScroll(this,1)">›</button>

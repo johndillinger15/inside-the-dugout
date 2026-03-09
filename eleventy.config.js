@@ -69,7 +69,7 @@ module.exports = (config) => {
   config.setLibrary("md", md);
 
   // Passthrough copy
-  config.addPassthroughCopy({ "src/posts/img/**/*": "assets/img/" });
+  config.addPassthroughCopy({ "src/posts/img": "assets/img" });
   config.addPassthroughCopy("src/rss-style.xsl");
   config.addPassthroughCopy("src/assets");
 

@@ -12,7 +12,7 @@ thumb: thumbnail_26_WBC_bericht.png
 
 <img src='../../img/thumbnail_26_WBC_bericht.png' style='display:none'>
 
-**Liebe Baseballgemeinde**, diese Woche habe ich einen etwas anderen Artikel im Angebot. Ein Freund von mir ist letztes Jahr temporär nach Houston Texas ausgewandert. Da er auch Baseballfan ist, besuchte er am Freitag das Spiel der USA gegen Brasilien im Ramen der WBC. Dazu hat er mir einen Erfahrungsbericht geschickt, den ihr unten lesen könnt.
+**Liebe Baseballgemeinde**, diese Woche habe ich einen etwas anderen Artikel im Angebot. Ein Freund von mir ist letztes Jahr temporär nach Houston Texas ausgewandert. Da er auch Baseballfan ist, besuchte er am Freitag das Spiel der USA gegen Brasilien im Ramen der WBC. Dazu hat er mir einen Erfahrungsbericht geschickt, den ihr unten lesen könnt. **Danke, Dominic, für den Bericht!**
 
 ## Howdy y’all! Ein WBC-Abend in Houston
 

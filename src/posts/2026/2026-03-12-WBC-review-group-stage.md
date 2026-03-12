@@ -9,11 +9,12 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26_WBC-group-stage.png
 ---
+
 <img src='../../img/thumbnail_26_WBC-group-stage.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, die Gruppenphase des WBC ist vorbei und die Viertelfinals stehen fest. Wie es dazu kam schauen wir uns im folgenden ein wenig genauer an. Ich will auch nochmal auf unseren [Gastbeitrag zum Spiel der USA gegen Mexiko](https://inside-the-dugout.de/posts/2026/WBC-Daikin-USA-Brasilien/) hinweisen.
 
-Natürlich gab es in den 4 Gruppen mit je 10 Spielen eine Menge Geschichten, wie z.B. das Italien eine [Espresso-Homerun-Zelebrierung](https://www.instagram.com/reel/DVmRwNljlHE/?igsh=eGVldXN0aHVtNzZz) hatte, der Tschechische Elektriker Ondrej Satoria, der [seinen großen Moment](https://www.instagram.com/reel/DVtcy7HAM7v/?igsh=MTN6N3d1ZXVmNWRmNw==) bekam, die Statements von Tarik Skubal oder einfach die Leistungen von Australien, Italien und Kanada. 
+Natürlich gab es in den 4 Gruppen mit je 10 Spielen eine Menge Geschichten, wie z.B. das Italien eine [Espresso-Homerun-Zelebrierung](https://www.instagram.com/reel/DVmRwNljlHE/?igsh=eGVldXN0aHVtNzZz) hatte, der Tschechische Elektriker Ondrej Satoria, der [seinen großen Moment](https://www.instagram.com/reel/DVtcy7HAM7v/?igsh=MTN6N3d1ZXVmNWRmNw==) bekam, die Statements von Tarik Skubal oder einfach die Leistungen von Australien, Italien und Kanada.
 
 ## Pool A
 
@@ -41,7 +42,7 @@ In Gruppe B spielten Brasilien, Großbritannien, Italien, Mexiko und die USA in 
 | Großbritannien | 1   | 3   | .250  |
 | Brasilien      | 0   | 4   | .000  |
 
-Italien gewann diese Gruppe überaschenderweise ohne eine einzige Niederlage und konnten im Verlauf gegen die USA gewinnen und sicherten den souveränen Gruppensieg durch einen 9:1-Sieg über Mexiko im letzten Gruppenspiel. Die Amerikaner mussten ihrerseits auf Italiens Spiel gegen Mexiko warten, um in die KO-Phase zu kommen. Dabei war den Amerikanern wohl vor dem Spiel gegen Italien selbst nicht ganz klar wie die Regeln sind. Nach dem Sieg gegen Mexiko haben sie wohl etwas zu lange im Clubhouse gefeiert und ihr Manager Paul De Rosa sagte auf vor dem Spiel dass sie schon sicher für das Viertelfinale qualifiziert wären, was aber nicht stimmte. Letzendlich gewann Italien souverän gegen Mexiko und das wird wohl nur eine Randnotiz bleiben. Mexiko und Großbritannien sind für das nächste WBC qualifiziert, Brasilien hingegen war absolutes Schlusslicht und muss sich für das nächste WBC erst wieder qualifizieren.
+Italien gewann diese Gruppe überaschenderweise ohne eine einzige Niederlage und konnten im Verlauf gegen die USA gewinnen und sicherten den souveränen Gruppensieg durch einen 9:1-Sieg über Mexiko im letzten Gruppenspiel. Die Amerikaner mussten ihrerseits auf Italiens Spiel gegen Mexiko warten, um in die KO-Phase zu kommen. Dabei war den Amerikanern wohl vor dem Spiel gegen Italien selbst nicht ganz klar wie die Regeln sind. Nach dem Sieg gegen Mexiko haben sie wohl etwas zu lange im Clubhouse gefeiert und ihr Manager Mark De Rosa sagte auf vor dem Spiel dass sie schon sicher für das Viertelfinale qualifiziert wären, was aber nicht stimmte. Letzendlich gewann Italien souverän gegen Mexiko und das wird wohl nur eine Randnotiz bleiben. Mexiko und Großbritannien sind für das nächste WBC qualifiziert, Brasilien hingegen war absolutes Schlusslicht und muss sich für das nächste WBC erst wieder qualifizieren.
 
 ## Pool C
 
@@ -54,7 +55,6 @@ Im Tokio Dome fing das WBC an und hier fielen auch die ersten Entscheidungen. Hi
 | Australien     | 2   | 2   | .500  |
 | Chinese Taipei | 2   | 2   | .500  |
 | Tschechien     | 0   | 4   | .000  |
-
 
 Analog zu Italien lässt Japan, der amtierende Champion, in der Gruppenphase nichts anbrennen und marschiert mit einer makellosen 4:0-Bilanz zum Gruppensieg. Spannend war es dafür im Kampf um Platz 2. Südkorea, Australien und Chinese Taipei beendeten die Gruppenphase alle mit 2:2. Letzendlich setzte sich Südkorea im 3-way-Tie durch, weil sie in den direkten Duellen die wenigsten Runs pro Defensiv-Out zuließen. Eines der spannendsten Spiele des Turniers lieferte Chinese Taipei gegen Südkorea. Chinese Taipei gewann es mit einem Sacrificce Bunt im oberen 1. Inning mit 5:4 nach 10 Innings. Australien und Chinese Taipei sind im nächsten WBC wieder dabei, Tschechien muss in die Qualifikation.
 
@@ -76,10 +76,10 @@ Die Dominikanische Republik gewann diese Gruppe souverän. Juan Soto, Ketel Mart
 
 Die Duelle des Viertelfinales sehen nun also wie folgt aus:
 
- - Südkorea vs Dominikanische Republik
- - USA vs Kanada
+- Südkorea vs Dominikanische Republik
+- USA vs Kanada
 
- - Puerto Rico vs Italien
- - Japan vs Venezuela
+- Puerto Rico vs Italien
+- Japan vs Venezuela
 
 Alle 4 Spiele versprechen Spannung und es ist schwer voraus zu sagen wer sich durchsetzen wird. Allein das Spiel USA gegen Kanada dürfte etwas klarer sein. Im Halbfinale treffen dann die Sieger der oberen beiden Spiele sowie der unteren beiden Spiele aufeinander. Ein Finale USA gegen Japan ist für mich noch nicht ausgemachte Sache.

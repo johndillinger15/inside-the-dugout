@@ -1,6 +1,234 @@
 {
-  "lastFetched": "2026-03-12T21:49:46.999Z",
+  "lastFetched": "2026-03-24T22:00:27.646Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116250497661498104#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-18T14:33:36Z",
+      "wm-id": 1984501,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116250497661498104/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116250497661498104#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2026-03-18T13:56:48Z",
+      "wm-id": 1984484,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116250497661498104/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116250497661498104#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2026-03-18T13:56:44Z",
+      "wm-id": 1984483,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116250497661498104/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116237898937843361#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-16T08:52:30Z",
+      "wm-id": 1983803,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116237898937843361/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/16/0915/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/16/0915/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:taoo44lklhy5yionqcy2zjhl/bafkreiavv4ihgabp66ktou5bmh6nqqye6dsaqe4kvqxrf7kvmfqz5f322m",
+        "url": "https://bsky.app/profile/bfalkensteiner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mgyxrqblfo2n#liked_by_did:plc:taoo44lklhy5yionqcy2zjhl",
+      "published": null,
+      "wm-received": "2026-03-14T09:39:54Z",
+      "wm-id": 1983181,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mgyxrqblfo2n/did%253Aplc%253Ataoo44lklhy5yionqcy2zjhl",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116226488373479915#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2026-03-14T08:21:56Z",
+      "wm-id": 1983153,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116226488373479915/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116226488373479915#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2026-03-14T08:21:50Z",
+      "wm-id": 1983151,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116226488373479915/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116226488373479915#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-14T08:21:50Z",
+      "wm-id": 1983152,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116226488373479915/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "My children suffer. I beg you for mercy and help. ????",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:jlt4sqgmkinvijopbttx4uxr/bafkreifu6h3wffsxrfq63nkkug5ena5776xf4qsqwqnczm2arybzcxgt4u",
+        "url": "https://bsky.app/profile/lu32f2.phlo.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mgyxrqblfo2n#reposted_by_did:plc:jlt4sqgmkinvijopbttx4uxr",
+      "published": null,
+      "wm-received": "2026-03-14T08:07:17Z",
+      "wm-id": 1983147,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mgyxrqblfo2n/did%253Aplc%253Ajlt4sqgmkinvijopbttx4uxr",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/14/0820/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Journalism & Comment Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@journalismandcomment"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116218435081317613#reblogged-by-111645561931596980",
+      "published": null,
+      "wm-received": "2026-03-12T22:20:36Z",
+      "wm-id": 1982658,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116218435081317613/111645561931596980",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EchoFeed Amplify",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/dbb5ad255dc5c8d0514757f359949620b511db0af111853b0de3eb801b6582d8.png",
+        "url": "https://beep.town/@echofeedamplify"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116218435081317613#reblogged-by-112257242328855992",
+      "published": null,
+      "wm-received": "2026-03-12T22:20:22Z",
+      "wm-id": 1982657,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116218435081317613/112257242328855992",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "US Sport Channel",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@ussport"
+      },
+      "url": "https://mastodon.social/@inside_the_dugout/116218435081317613#reblogged-by-111653102395807197",
+      "published": null,
+      "wm-received": "2026-03-12T22:20:21Z",
+      "wm-id": 1982656,
+      "wm-source": "https://brid.gy/repost/mastodon/@inside_the_dugout@mastodon.social/116218435081317613/111653102395807197",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/WBC-review-group-stage/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

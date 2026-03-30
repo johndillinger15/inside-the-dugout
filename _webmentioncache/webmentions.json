@@ -1,6 +1,120 @@
 {
-  "lastFetched": "2026-03-24T22:00:27.646Z",
+  "lastFetched": "2026-03-30T19:54:53.762Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mic5bmoxmu25#reposted_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-03-30T19:51:49Z",
+      "wm-id": 1987415,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mic5bmoxmu25/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/30/1810/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/30/1810/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mic5bmoxmu25#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-03-30T19:51:49Z",
+      "wm-id": 1987416,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mic5bmoxmu25/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/30/1810/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/30/1810/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MakesMeWannaUke????????",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:cu6dxbbkudt2rhqk5rhfe725/bafkreidpwrueh33kgk7gu5l4boxe2lfdysv2ckxbimmextfyr5bhoybura",
+        "url": "https://bsky.app/profile/makesmewannauke.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mi6onbnv2v22#liked_by_did:plc:cu6dxbbkudt2rhqk5rhfe725",
+      "published": null,
+      "wm-received": "2026-03-29T14:54:29Z",
+      "wm-id": 1987118,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mi6onbnv2v22/did%253Aplc%253Acu6dxbbkudt2rhqk5rhfe725",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/29/0939/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/29/0939/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mi2rovk7on27#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-03-27T22:49:09Z",
+      "wm-id": 1986798,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mi2rovk7on27/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/27/1937/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/27/1937/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mi2rovk7on27#reposted_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-03-27T22:49:08Z",
+      "wm-id": 1986797,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mi2rovk7on27/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/27/1937/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/03/27/1937/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:taoo44lklhy5yionqcy2zjhl/bafkreiavv4ihgabp66ktou5bmh6nqqye6dsaqe4kvqxrf7kvmfqz5f322m",
+        "url": "https://bsky.app/profile/bfalkensteiner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mhxwjfum6u2f#liked_by_did:plc:taoo44lklhy5yionqcy2zjhl",
+      "published": null,
+      "wm-received": "2026-03-26T20:52:20Z",
+      "wm-id": 1986618,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mhxwjfum6u2f/did%253Aplc%253Ataoo44lklhy5yionqcy2zjhl",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/03/26/1625/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/03/26/1625/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

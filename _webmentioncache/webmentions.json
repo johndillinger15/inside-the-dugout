@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-04-10T20:42:37.630Z",
+  "lastFetched": "2026-04-12T11:38:54.110Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tim Schlappohr",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:tdhhfbn3azw33woyvoylnoyi/bafkreigg75hkdadjd62o3ix7zdmx756m4x3fmisj3hcf2rpeanp3qydata",
+        "url": "https://bsky.app/profile/tschlappohr.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mja3ban2gk22#liked_by_did:plc:tdhhfbn3azw33woyvoylnoyi",
+      "published": null,
+      "wm-received": "2026-04-11T15:12:13Z",
+      "wm-id": 1989479,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mja3ban2gk22/did%253Aplc%253Atdhhfbn3azw33woyvoylnoyi",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/04/11/1638/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/04/11/1638/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

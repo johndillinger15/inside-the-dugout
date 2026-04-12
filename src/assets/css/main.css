@@ -38,7 +38,47 @@
 
 @layer base {
   body {
-    font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, helvetica,
-      Arial, sans-serif;
+    font-family:
+      Inter,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      helvetica,
+      Arial,
+      sans-serif;
   }
+}
+
+.toc ol {
+  list-style: decimal;
+  padding-left: 1.25rem;
+  margin: 0;
+}
+.toc ol ol {
+  list-style: disc;
+  margin-top: 0.25rem;
+}
+.toc a {
+  color: #475569;
+  text-decoration: none;
+}
+.toc a:hover {
+  color: #b91c1c;
+  text-decoration: underline;
+}
+
+.toc summary {
+  list-style: none; /* entfernt den Standard-Pfeil in Firefox */
+}
+.toc summary::-webkit-details-marker {
+  display: none; /* entfernt den Standard-Pfeil in Chrome/Safari */
+}
+.toc summary::before {
+  content: "▶ ";
+  font-size: 0.7em;
+  transition: transform 0.2s;
+  display: inline-block;
+}
+details[open].toc summary::before {
+  transform: rotate(90deg);
 }

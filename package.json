@@ -28,9 +28,11 @@
     "@tailwindcss/cli": "^4.1.7",
     "dotenv": "^16.5.0",
     "eleventy-plugin-tailwindcss-4": "^2.0.1",
+    "eleventy-plugin-toc": "^1.1.5",
     "eleventy-plugin-webmentions": "^2.1.0",
     "lodash": "^4.17.21",
     "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
     "markdown-it-for-inline": "^2.0.1",
     "node-fetch": "^2.7.0"
   }

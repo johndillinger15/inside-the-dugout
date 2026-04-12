@@ -6,46 +6,62 @@ const pluginWebmentions = require("eleventy-plugin-webmentions");
 const markdownIt = require("markdown-it");
 const markdownItForInline = require("markdown-it-for-inline");
 
+const markdownItAnchor = require("markdown-it-anchor");
+const pluginTOC = require("eleventy-plugin-toc");
+
 const tailwindcss = require("eleventy-plugin-tailwindcss-4");
 
 // Configure markdown-it with external link handling
 const md = markdownIt({
   html: true,
   linkify: true,
-}).use(markdownItForInline, "external_links", "link_open", (tokens, idx) => {
-  const hrefAttr = tokens[idx].attrs?.find((attr) => attr[0] === "href");
-  if (!hrefAttr) return;
+})
+  .use(markdownItForInline, "external_links", "link_open", (tokens, idx) => {
+    const hrefAttr = tokens[idx].attrs?.find((attr) => attr[0] === "href");
+    if (!hrefAttr) return;
 
-  const href = hrefAttr[1];
-  const isExternal = () => {
-    try {
-      const url = new URL(href, "http://localhost"); // fallback for relative URLs
-      return !["inside-the-dugout.de", "localhost"].includes(url.hostname);
-    } catch {
-      return false;
+    const href = hrefAttr[1];
+    const isExternal = () => {
+      try {
+        const url = new URL(href, "http://localhost"); // fallback for relative URLs
+        return !["inside-the-dugout.de", "localhost"].includes(url.hostname);
+      } catch {
+        return false;
+      }
+    };
+
+    if (isExternal()) {
+      const url = new URL(href, "http://localhost");
+      const hostname = url.hostname.replace("www.", "");
+
+      // Add class="external-link"
+      let classAttr = tokens[idx].attrs.find((attr) => attr[0] === "class");
+      if (classAttr) {
+        classAttr[1] += " external-link";
+      } else {
+        tokens[idx].attrs.push(["class", "external-link"]);
+      }
+
+      // Add target and rel attributes
+      tokens[idx].attrs.push(["target", "_blank"]);
+      tokens[idx].attrs.push(["rel", "noopener noreferrer"]);
+
+      // Add Umami tracking attribute with dynamic hostname
+      tokens[idx].attrs.push(["data-umami-event", `Click to ${hostname}`]);
     }
-  };
-
-  if (isExternal()) {
-    const url = new URL(href, "http://localhost");
-    const hostname = url.hostname.replace("www.", "");
-
-    // Add class="external-link"
-    let classAttr = tokens[idx].attrs.find((attr) => attr[0] === "class");
-    if (classAttr) {
-      classAttr[1] += " external-link";
-    } else {
-      tokens[idx].attrs.push(["class", "external-link"]);
-    }
-
-    // Add target and rel attributes
-    tokens[idx].attrs.push(["target", "_blank"]);
-    tokens[idx].attrs.push(["rel", "noopener noreferrer"]);
-
-    // Add Umami tracking attribute with dynamic hostname
-    tokens[idx].attrs.push(["data-umami-event", `Click to ${hostname}`]);
-  }
-});
+  })
+  .use(markdownItAnchor, {
+    slugify: (s) =>
+      s
+        .toLowerCase()
+        .replace(/ä/g, "ae")
+        .replace(/ö/g, "oe")
+        .replace(/ü/g, "ue")
+        .replace(/ß/g, "ss")
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .trim(),
+  });
 
 module.exports = (config) => {
   // Add the Markdown parser with external link handling
@@ -67,6 +83,11 @@ module.exports = (config) => {
 
   // markdown-it
   config.setLibrary("md", md);
+  config.addPlugin(pluginTOC, {
+    tags: ["h2", "h3"],
+    wrapper: "nav",
+    wrapperClass: "toc",
+  });
 
   // Passthrough copy
   config.addPassthroughCopy({ "src/posts/img": "assets/img" });

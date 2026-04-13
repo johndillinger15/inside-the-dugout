@@ -1,6 +1,44 @@
 {
-  "lastFetched": "2026-04-13T17:37:10.625Z",
+  "lastFetched": "2026-04-13T20:28:11.287Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mjfh5vhqnc2n#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-04-13T18:27:05Z",
+      "wm-id": 1990077,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mjfh5vhqnc2n/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/MLB-Rueckblick-Woche-3/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/MLB-Rueckblick-Woche-3/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mjfh5vhqnc2n#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-04-13T18:26:15Z",
+      "wm-id": 1990076,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mjfh5vhqnc2n/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/MLB-Rueckblick-Woche-3/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/MLB-Rueckblick-Woche-3/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

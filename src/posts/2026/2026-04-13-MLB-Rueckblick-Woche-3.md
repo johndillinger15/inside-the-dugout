@@ -85,14 +85,22 @@ Die Serie wird komischerweise erst am Montag abgeschlossen, ich werde den Artike
 
 ## Giants Corner
 
-<table style="width: 100%;">
-<thead><tr><th>Standings</th><th>Offense</th><th>Pitching</th></tr></thead>
-<tbody><tr>
-<td>Gesamt: <strong>6-10</strong> <small>(#25 in MLB)</small><br>L10: 4-6 · Streak: L2<br>GB: 5.5<br>Home: 3-7 · Away: 3-3<br>Run Differential: <strong>-21</strong> <small>(#28 in MLB)</small></td>
-<td>AVG: <strong>.243</strong> <small>(#8 in MLB)</small> · OPS: <strong>.645</strong> <small>(#27 in MLB)</small><br>HRs: <strong>8</strong> <small>(#30 in MLB)</small><br>HR-Leader: Willy Adames (2)<br>SB: <strong>5</strong> <small>(#30 in MLB)</small></td>
-<td>ERA: <strong>4.28</strong> <small>(#23 in MLB)</small><br>WHIP: <strong>1.39</strong> <small>(#22 in MLB)</small><br>Strikeouts: <strong>139</strong> <small>(#14 in MLB)</small></td>
-</tr></tbody>
-</table>
+### Standings
+
+- Gesamt: 6-10 (#25 in MLB) | L10: 4-6 | Streak: L2
+- GB: 5.5 | Home: 3-7 | Away: 3-3
+- Run Differential: -21 (#28 in MLB)
+
+### Offense
+
+- AVG: .243 (#8 in MLB) | OPS: .645 (#28 in MLB)
+- HRs: 8 (#30 in MLB) | HR-Leader: Willy Adames (2)
+- SB: 5 (#30 in MLB)
+
+### Pitching
+
+- ERA: 4.28 (#23 in MLB) | WHIP: 1.39 (#22 in MLB)
+- Strikeouts: 139 (#14 in MLB)
 
 Ich muss zugeben, dass ich letzte Woche nicht so viel von den Giants gesehen habe. Weiterhin spielen sie sehr wechselhaft und in allen Statistiken sind die im letzten drittel der Liga. Nur eine Zahl sticht heraus und das ist der Batting Average. Dort liegen sie auf Platz 8 in der Liga und verzeichnen 129 Hits. Andererseits sind sie mit einem OPS von .645 nur 27. in der Liga. Sie haben auch nur 48 RBIs und sind damit 28. in der Liga. Das heißt, wenn sie ihre Hits besser verteilen würden, könnten sie auch mehr scoren.
 
@@ -104,29 +112,29 @@ Jetzt geht es für die Giants weiter nach Cincinnati, wo es gegen die etwas abge
 
 ## Stats Corner
 
-<div style="display: flex; gap: 0; flex-wrap: wrap; align-items: flex-start;">
-<div style="flex: 1;">
-<h2 style="margin-bottom: 0.75rem;">Top 5 Teams – Last 15 Games</h2>
-<table style="width: 100%;">
-<thead><tr><th>Team</th><th>W-L</th><th>Win%</th></tr></thead>
-<tbody><tr><td>Los Angeles Dodgers</td><td>11-4</td><td>0.733</td></tr><tr><td>San Diego Padres</td><td>10-5</td><td>0.667</td></tr><tr><td>Cincinnati Reds</td><td>9-6</td><td>0.600</td></tr><tr><td>Atlanta Braves</td><td>9-6</td><td>0.600</td></tr><tr><td>Arizona Diamondbacks</td><td>9-6</td><td>0.600</td></tr></tbody>
-</table>
-</div>
-<div style="flex: 1; padding-left: 2rem;">
-<h2 style="margin-bottom: 0.75rem;">Top Hitters – Last 7 Days</h2>
-<table style="width: 100%;">
-<thead><tr><th>Spieler</th><th>OPS</th><th>HR</th><th>RBI</th><th>PA</th></tr></thead>
-<tbody><tr><td>James Wood (WSH)</td><td>1.746</td><td>3</td><td>8</td><td>29</td></tr><tr><td>Bryce Harper (PHI)</td><td>1.535</td><td>1</td><td>6</td><td>25</td></tr><tr><td>Willson Contreras (BOS)</td><td>1.471</td><td>2</td><td>9</td><td>28</td></tr><tr><td>Casey Schmitt (SF)</td><td>1.467</td><td>1</td><td>2</td><td>17</td></tr><tr><td>Moisés Ballesteros (CHC)</td><td>1.429</td><td>2</td><td>4</td><td>16</td></tr></tbody>
-</table>
-</div>
-<div style="flex: 1; padding-left: 2rem;">
-<h2 style="margin-bottom: 0.75rem;">Top Pitchers – Last 7 Days (Game Score)</h2>
-<table style="width: 100%;">
-<thead><tr><th>Spieler</th><th>IP</th><th>K</th><th>Game Score</th></tr></thead>
-<tbody><tr><td>Kris Bubic (KC)</td><td>7.0</td><td>11</td><td>83</td></tr><tr><td>José Soriano (LAA)</td><td>8.0</td><td>10</td><td>82</td></tr><tr><td>José Soriano (LAA)</td><td>7.0</td><td>10</td><td>80</td></tr><tr><td>Shota Imanaga (CHC)</td><td>6.0</td><td>9</td><td>80</td></tr><tr><td>Michael Wacha (KC)</td><td>8.0</td><td>7</td><td>80</td></tr></tbody>
-</table>
-</div>
-</div>
+### Top 5 Teams – Last 15 Games
+
+1. Los Angeles Dodgers | 11-4 | 0.733
+2. San Diego Padres | 10-5 | 0.667
+3. Cincinnati Reds | 9-6 | 0.600
+4. Atlanta Braves | 9-6 | 0.600
+5. Arizona Diamondbacks | 9-6 | 0.600
+
+### Top Hitters – Last 7 Days
+
+1. James Wood (WSH) | OPS 1.746 | 3 HR | 8 RBI | 29 PA
+2. Bryce Harper (PHI) | OPS 1.535 | 1 HR | 6 RBI | 25 PA
+3. Willson Contreras (BOS) | OPS 1.471 | 2 HR | 9 RBI | 28 PA
+4. Casey Schmitt (SF) | OPS 1.467 | 1 HR | 2 RBI | 17 PA
+5. Moisés Ballesteros (CHC) | OPS 1.429 | 2 HR | 4 RBI | 16 PA
+
+### Top Pitchers – Last 7 Days
+
+1. Kris Bubic (KC, 10.04.) | 7.0 IP | 11 K | GS 83
+2. José Soriano (LAA, 6.04.) | 8.0 IP | 10 K | GS 82
+3. José Soriano (LAA, 12.04.) | 7.0 IP | 10 K | GS 80
+4. Shota Imanaga (CHC, 10.04.) | 6.0 IP | 9 K | GS 80
+5. Michael Wacha (KC, 11.04.) | 8.0 IP | 7 K | GS 80
 
 ## Vorschau auf die kommende Woche
 

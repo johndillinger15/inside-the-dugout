@@ -4,7 +4,7 @@ date: 2026-04-13T18:00:00Z
 layout: post
 tags:
   - Wochenrückblick
-description: "Brawl in Anaheim, Braves noch ohne Series Loss, Mariners brechen den Slump, Griffin bekommt 140 Mio. $ mit 19"
+description: Brawl in Anaheim, Braves noch ohne Series Loss, Mariners brechen den Slump, Griffin bekommt 140 Mio. $ mit 19
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk3.png

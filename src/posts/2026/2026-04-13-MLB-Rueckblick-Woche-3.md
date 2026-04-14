@@ -75,6 +75,10 @@ Am Sonntag betrat dannLogan Gilbert den Mound und dieser Auftritt war sein beste
 
 Die Serie wird komischerweise erst am Montag abgeschlossen, ich werde den Artikel dann aktualisieren.
 
+--- Update Dienstag 14.04. ---
+
+Die Mariners konnten dann die Serie erfolgreich abschließen, mit 6:2 gewinnen und die Astros sweepen. George Kirby dominierte über 7,2 Innings, ließ nur zwei Runs zu und arbeitete Houston mit Slidern konsequent in den Boden. Eine Performance, die eher an Logan Webb oder Marcus Stroman erinnerte als an den bekannten Fly-Ball-Pitcher. Josh Naylor schlug zwei Home Runs, darunter einen Two-Run-Shot im dritten Inning. Luke Raley steuerte drei Line Drives bei, während Brendan Donovan, Cal Raleigh und Julio Rodríguez je zwei Hits sammelten. Houston, durch Verletzungen dezimiert, steht jetzt bei einer Bilanz von 6-11 und reiten einen Losingstreak von 8 Spielen. 
+
 ## Around the League
 
 - Letzte Woche hatte ich es glatt vergessen, aber ich wollte es diese Woche wenigstens noch erwähnen. Die Rays sind wieder "zu Hause" und haben ihren ersten Homestand in Tropicana Field absolviert. Die erste Serie war gegen die Cubs, die haben sie leider verloren. Die zweite Serie gegen die Yankees konnten sie dann mit 3-0 gewinnen.

@@ -114,12 +114,7 @@ module.exports = (config) => {
   config.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/posts/**/*.md");
   });
-  config.addCollection("tagList", function(collectionApi) {
-  return [
-    ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
-    ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
-  ];
-  });
+  config.addCollection("tagList", require("./lib/collections/tagList"));
   config.addCollection("pagedPosts", require("./lib/collections/pagedPosts"));
   config.addCollection(
     "pagedPostsByTag",

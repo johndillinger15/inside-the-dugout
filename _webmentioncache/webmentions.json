@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-04-13T20:28:11.287Z",
+  "lastFetched": "2026-04-15T19:43:45.483Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:taoo44lklhy5yionqcy2zjhl/bafkreiavv4ihgabp66ktou5bmh6nqqye6dsaqe4kvqxrf7kvmfqz5f322m",
+        "url": "https://bsky.app/profile/bfalkensteiner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mjgw46ohul2x#liked_by_did:plc:taoo44lklhy5yionqcy2zjhl",
+      "published": null,
+      "wm-received": "2026-04-14T14:27:03Z",
+      "wm-id": 1990306,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mjgw46ohul2x/did%253Aplc%253Ataoo44lklhy5yionqcy2zjhl",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/04/14/0942/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/04/14/0942/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

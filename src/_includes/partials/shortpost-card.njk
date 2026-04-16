@@ -26,11 +26,11 @@
    Shortpost card layout
 -------------------------------- #}
 
-<div class="{% if isIndex %}w-full self-stretch{% else %}max-w-2xl mx-auto w-full{% endif %} p-2 mb-2">
+<div class="{% if isIndex %}w-full self-stretch{% endif %} p-2 mb-2">
   <div
     class="relative rounded-sm shadow-md bg-[#F9F9F9] border border-slate-200
            transition-all duration-200 hover:border-[#1D2D50]
-           flex flex-col {% if isIndex %}min-h-[300px] max-h-[300px] overflow-hidden{% else %}h-full{% endif %}">
+           flex flex-col {% if isIndex %}min-h-[320px] max-h-[320px] overflow-hidden{% else %}h-full{% endif %}">
 
     <!-- left accent bar -->
     <div

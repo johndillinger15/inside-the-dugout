@@ -19,12 +19,9 @@ layout: layouts/default.njk
   </div>
 </div>
 
-<div class="mx-auto max-w-xl">
+<div class="mx-auto max-w-xl px-5">
   {% for post in collections.shortposts %}
-    <div>
       {% include "partials/shortpost-card.njk" %}
-    </div>
   {% endfor %}
-</div>
 
 </div>

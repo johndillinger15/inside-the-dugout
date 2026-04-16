@@ -28,9 +28,9 @@
 
 <div class="w-full self-stretch p-2 mb-2">
     <div
-    class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
-          transition-all duration-200 hover:border-[#1D2D50]
-          flex flex-col">
+      class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
+        transition-all duration-200 hover:border-[#1D2D50]
+        flex flex-col min-h-[480px]">
 
     <!-- left accent bar -->
     <div
@@ -50,7 +50,10 @@
 
       <div class="prose max-w-none text-sm text-slate-800">
         {% if isIndex %}
-          {{ post.templateContent | plainExcerpt(400) }}…
+          <div class="max-h-64 overflow-hidden relative">
+            {{ post.templateContent | safe }}
+            <div class="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-[#F9F9F9] to-transparent"></div>
+          </div>
         {% else %}
           {{ post.templateContent | safe }}
         {% endif %}

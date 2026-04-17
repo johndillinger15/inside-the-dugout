@@ -49,11 +49,7 @@
       </p>
 
       <div class="prose max-w-none text-sm text-slate-800">
-        {% if isIndex %}
-          {{ post.templateContent | plainExcerpt(400) }}…
-        {% else %}
           {{ post.templateContent | safe }}
-        {% endif %}
       </div>
     </div>
 

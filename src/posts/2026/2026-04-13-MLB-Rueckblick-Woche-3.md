@@ -4,7 +4,9 @@ date: 2026-04-13T18:00:00Z
 layout: post
 tags:
   - Wochenrückblick
-description: Brawl in Anaheim, Braves noch ohne Series Loss, Mariners brechen den Slump, Griffin bekommt 140 Mio. $ mit 19
+metaTitle: "MLB Wochenrückblick KW15 2026 – Brawl Anaheim, Mariners, Griffin-Deal"
+metaDesc: "Brawl zwischen Soler und López in Anaheim, Mariners sweepen die Astros nach 1-7-Slump, Pirates binden Griffin mit 140 Mio. $ – MLB Woche 3."
+description: "Brawl in Anaheim, Braves als einziges Team ohne Series Loss, Mariners brechen den Slump mit einem Astros-Sweep, Griffin unterschreibt Mega-Deal mit 19."
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk3.png

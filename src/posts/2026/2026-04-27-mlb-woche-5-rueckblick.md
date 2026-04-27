@@ -19,7 +19,7 @@ thumb: thumbnail_26wk5.png
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 5 in der Major League Baseball.
 
-Vergangenes Wochenende stand die "**Mexico Series 2026**" zwischen den Diamondbacks und den Padres an. Die Padres fungierten formell als Heimteam. Am Ende splittenten die beiden Teams die Serie. Das erstes Spiel gewannen die Padres mit 6:4. Ty France schlug zwei Home Runs, Gavin Sheets lieferte im entscheidenden Four-Run Rally im siebten Inning einen Two-Run Single. Mason Miller beendete das Spiel mit einem perfekten neunten Inning und seinem zehnten Save. Und auch das zweite Spiel lief lange für die Padres und sie führten 7:2 im siebten Inning, aber dann initiierte Tim Tawa mit einem Grand-Slam die Aufholjagd und die D-Backs gewannen das spiel noch mit 12:7. Beendet wurde das Spiel durch einen spektakulären diving-Catch von Nolan Arenado, welches ihn nochmal wie 25 aussehen lies ;).
+Vergangenes Wochenende stand die "**Mexico Series 2026**" zwischen den Diamondbacks und den Padres an. Die Padres fungierten formell als Heimteam. Am Ende splittenten die beiden Teams die Serie. Das erstes Spiel gewannen die Padres mit 6:4. Ty France schlug zwei Home Runs, Gavin Sheets lieferte im entscheidenden Four-Run Rally im siebten Inning einen Two-Run Single. Mason Miller beendete das Spiel mit einem perfekten neunten Inning und seinem zehnten Save. Und auch das zweite Spiel lief lange für die Padres und sie führten 7:2 im siebten Inning, aber dann initiierte Tim Tawa mit einem Grand-Slam die Aufholjagd und die D-Backs gewannen das Spiel noch mit 12:7. Beendet wurde das Spiel durch einen spektakulären diving-Catch von Nolan Arenado, welches ihn nochmal wie 25 aussehen lies ;).
 
 ## Standings
 

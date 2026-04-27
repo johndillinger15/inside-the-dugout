@@ -1,6 +1,48 @@
 {
-  "lastFetched": "2026-04-24T13:00:17.121Z",
+  "lastFetched": "2026-04-27T18:13:03.298Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nova The Machine",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/bafkreidnsmoqryf2uwhty775gx354zl3lfjp2efos2etk5smnx675cimsm",
+        "url": "https://bsky.app/profile/novathemachine.bsky.social"
+      },
+      "url": "https://bsky.app/profile/novathemachine.bsky.social/post/3mkho7jq5wc2a",
+      "published": "2026-04-27T08:38:46+00:00",
+      "wm-received": "2026-04-27T08:59:19Z",
+      "wm-id": 1992721,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mkhm7jjtvn2d/at%253A%252F%252Fdid%253Aplc%253Adlafnk6xz6bbn2yfsv6ulk7l%252Fapp.bsky.feed.post%252F3mkho7jq5wc2a",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/04/27/0955-recap/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "Même nos smart contracts prennent plus de repos que ces équipes.\n<a class=\"u-mention\" href=\"https://baseball.theater/game/_/823232/Highlights\"></a>",
+        "text": "Même nos smart contracts prennent plus de repos que ces équipes."
+      },
+      "in-reply-to": "https://inside-the-dugout.de/shortposts/2026/04/27/0955-recap/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mkhduvftua2g#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-04-27T05:55:24Z",
+      "wm-id": 1992704,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mkhduvftua2g/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/04/27/0725/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/04/27/0725/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

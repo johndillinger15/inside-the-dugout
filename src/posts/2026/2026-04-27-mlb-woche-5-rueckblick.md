@@ -79,7 +79,7 @@ Die Yankees gewannen dann mit dem zweiten Speil der Serie auch ihr achtes Spiel 
 
 Im dritten Spiel der Serie konnten die Astros den weep dann wenigstens abwenden und gewannen das Spiel mit 7-4. Spencer Arrighetti beschränkte die Yankees über sieben Innings auf nur einen Run und verbesserte seine Saisonbilanz auf 3-0 mit einem 2.00 ERA. Christian Walker lieferte einen 432-Fuß-Two-Run Homer sowie ein Two-Run Double und kam auf 3-for-4 . Die Astros beendeten mit diesem Sieg ihren Sechs-Spiele-Losing-Streak zu Hause.
 
-Offensiver MVP dieser Serie wurde meiner Meinung nach Christian Walker mit einem OPS von 1.583, 2 HR und 5 RBI. Im Pitching nomioniere ich Spencer Arrighettimit 7.0 IP, 1 ER, 8 K, 1 BB und einem Game Score von 74.
+Offensiver MVP dieser Serie wurde meiner Meinung nach Christian Walker mit einem OPS von 1.583, 2 HR und 5 RBI. Im Pitching nominiere ich Spencer Arrighetti mit 7.0 IP, 1 ER, 8 K, 1 BB und einem Game Score von 74.
 
 ## Around the League
 
@@ -136,7 +136,7 @@ Vor der Serie mussten die Giants einen empfindlichen Rückschlag verkraften, da 
 
 Ansonsten gab es auch in dieser Serie wieder einen kleinen Disput. Dodgers Catcher Dalton Rushing, kommentierte wohl eine mögliche Verletzung von Jung Hoo Lee in ersten Spiel mit den Worten "F_ck Em". Was den Giants natürlich nicht gefiel, aber es kam erst im Spiel am Donnerstag zu einer Racheaktion bei der Logan Webb Rushing abwarf und er dann in nächsten At Bat beim Lauf auf 2B zu aggressiv in Willy Adames rutschte, der aber das Double Play noch beenden konnte. Nach dem Spiel konnte sich dann keiner mehr an irgendwas erinnern und die Wogen glätteten sich wieder. Mal sehen wie es beim nächsten Aufeinandertreffen (erst im August) aussehen wird.
 
-Zum Wochenende stand für die Giants dann die Serie gegen die Marlins an und auch diese Serie konnten die Giants mit 2:1 gewinnen, das ist nun die dritte Serie in Folge die sie mit 2:1 gewannen, demenstrpechend stehen sie auch 7-3 in den letzten 10 Spielen und können nun mit einem etwas besserem Gefühl auf den Ostküsten Roadtrip nach Phillie und Tampa Bay fahren. Landon Roupp überzeugt in den letzten Serien wirklich. Gegen die Dodgers, wie oben erwähnt, und auch gegen die Marlins, wo er 7.2IP bei nur 3ER ablieferte sind seine Auftritte wirklich stark.
+Zum Wochenende stand für die Giants dann die Serie gegen die Marlins an und auch diese Serie konnten die Giants mit 2:1 gewinnen, das ist nun die dritte Serie in Folge die sie mit 2:1 gewannen, demenstrpechend stehen sie auch 7-3 in den letzten 10 Spielen und können nun mit einem etwas besserem Gefühl auf den Ostküsten Roadtrip nach Phillie und Tampa Bay fahren. Landon Roupp überzeugt in den letzten Serien wirklich. Gegen die Dodgers, wie oben erwähnt, und auch gegen die Marlins, wo er 7.2 IP bei nur 3 ER ablieferte sind seine Auftritte wirklich stark.
 
 ## Stats Corner
 
@@ -166,7 +166,7 @@ Zum Wochenende stand für die Giants dann die Serie gegen die Marlins an und auc
 
 ## Vorschau auf die kommende Woche
 
-Anfang der Woche stehen jetzt die Serien der Red Sox bei den Blue Jays an. In der AL East ist das das Krisenduell der beiden Letztplatzierten der Division; außerdem spielen die Cubs bei den Padres, die Tigers bei den Braves und die Giants bei den Phillies.
+Anfang der Woche stehen jetzt die Serien der Red Sox bei den Blue Jays an. In der AL East ist das das Kriesenduell der beiden Letztplatzierten der Division; außerdem spielen die Cubs bei den Padres, die Tigers bei den Braves und die Giants bei den Phillies.
 
 Zum Wochenende spielen dann die Reds bei den Pirates, die Dodgers bei den Cardinals und die Giants bei den Rays.
 

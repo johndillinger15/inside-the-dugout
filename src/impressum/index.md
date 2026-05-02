@@ -4,22 +4,48 @@ layout: layouts/pages.njk
 title: Impressum
 ---
 
-# Impressum<br>
+**Impressum**
 
-Dr. Stefan Dillinger<br>
-Baderstr. 8<br>
-94315 Straubing<br>
+**Angaben gemäß § 5 TMG**
 
-## Kontakt
+Dr. Stefan Dillinger
+Baderstr. 8
+94315 Straubing
+Deutschland
 
-Telefon: 0941/942845<br>
-E-Mail: [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de)<br>
+**Kontakt**
 
-## Haftung
+Telefon: 0941/942845
+E-Mail: [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de)
 
-Die auf [http://www.inside-the-dugout.de](http://www.inside-the-dugout.de) veröffentlichten Inhalte sind mit größter Sorgfalt recherchiert, die technischen Services bestmöglich programmiert. Dennoch kann ich keine Gewähr für die vollständige Richtigkeit übernehmen. Alle Angaben erfolgen ohne Gewähr. Eine Haftung für Schäden, die sich aus der Verwendung der in [http://inside-the-dugout.de](http://inside-the-dugout.de) veröffentlichten Inhalte oder Services ergeben, ist ausgeschlossen.
+**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
 
-## Verweise und Links
+Dr. Stefan Dillinger
+Anschrift wie oben
 
-Auf den Inhalt von Webseiten hinter externen Links habe ich keinen Einfluss. Zum Zeitpunkt des Setzens waren weder illegale, fehlerhafte oder unvollständige Inhalte feststellbar. Die Haftung für die verlinkten Webseiten schließe ich dediziert aus, da ich keinen Einfluss auf die aktuelle und zukünftige Gestaltung habe.
-Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist
+---
+
+**Haftung für Inhalte**
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
+
+---
+
+**Haftung für Links**
+
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Zum Zeitpunkt der Verlinkung waren keine rechtswidrigen Inhalte erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar.
+
+---
+
+**Urheberrecht**
+
+Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+
+---
+
+**EU-Streitschlichtung**
+
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
+https://ec.europa.eu/consumers/odr/
+
+Wir sind nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

@@ -6,29 +6,119 @@ title: Datenschutz
 
 # Datenschutzerklärung
 
-Der Schutz Ihrer persönlichen Daten ist mir wichtig. Ich verarbeite Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informiere ich Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen meiner Website.
+Der Schutz Ihrer persönlichen Daten ist mir wichtig. Die Verarbeitung Ihrer Daten erfolgt ausschließlich im Rahmen der gesetzlichen Bestimmungen, insbesondere der Datenschutz-Grundverordnung (DSGVO).
 
-**tl;dr:** Das hier ist ein privater Blog, daher interessieren mich eure Daten nicht. Ich benutze weder Google Analytics noch binde ich Google oder Adobe Schriftarten ein. Diese Webseite verwendet keine Cookies oder ein Content Delivery Network. Zur Analyse der Zugriffszahlen verwende ich <a href="https://umami.is" class="external" target='_blank' rel='noopener'>Umami</a>. Umami sammelt keine personenbezogenen Daten und anonymisiert alle gesammelten Daten. Benutzer können nicht identifiziert werden und werden niemals über Websites hinweg verfolgt.
+---
+
+## Verantwortlicher
+
+Verantwortlicher im Sinne der DSGVO ist:
+
+Dr. Stefan Dillinger
+Baderstr. 8
+94315 Straubing
+Deutschland
+
+Telefon: 09421/942845
+E-Mail: [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de)
+
+---
 
 ## Hosting
 
-Die von mir in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
+Diese Website wird bei einem externen Dienstleister gehostet (Hostinganbieter). Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert.
 
-Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
+Hierbei kann es sich insbesondere um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Webseitenzugriffe und sonstige Daten handeln, die über eine Website generiert werden.
 
-## Erhebung von Zugriffsdaten und Logfiles
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer sicheren und effizienten Bereitstellung dieses Onlineangebotes) sowie auf Grundlage von Art. 28 DSGVO (Auftragsverarbeitung).
 
-Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
+Ein entsprechender Vertrag zur Auftragsverarbeitung wurde mit dem Hostinganbieter geschlossen.
 
-Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+---
 
-## Kontakt
+## Server-Logfiles
 
-Sie erreichen mich unter folgenden Kontaktdaten:
+Der Hostinganbieter erhebt und speichert automatisch Informationen in sogenannten Server-Logfiles, die Ihr Browser automatisch übermittelt.
 
-Dr. Stefan Dillinger<br>
-Baderstr. 8<br>
-94315 Straubing<br>
+Dies sind insbesondere:
 
-09421/942845<br>
-redaktion@inside-the-dugout.de
+- Browsertyp und Browserversion
+- verwendetes Betriebssystem
+- Referrer URL
+- Hostname des zugreifenden Rechners
+- Uhrzeit der Serveranfrage
+- IP-Adresse
+
+Diese Daten werden nicht mit anderen Datenquellen zusammengeführt.
+
+Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website.
+
+Die Daten werden aus Sicherheitsgründen für maximal 7 Tage gespeichert und anschließend gelöscht, sofern keine weitere Aufbewahrung zu Beweiszwecken erforderlich ist.
+
+---
+
+## Webanalyse mit Umami
+
+Diese Website nutzt das Analyse-Tool **Umami** zur statistischen Auswertung der Besucherzugriffe.
+
+Umami ist eine datenschutzfreundliche Webanalyse-Software, die ohne Cookies arbeitet und keine personenbezogenen Daten speichert. Insbesondere werden keine vollständigen IP-Adressen gespeichert und keine Nutzerprofile erstellt.
+
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Analyse und Optimierung des Webangebots).
+
+Sofern Umami auf Servern außerhalb der Europäischen Union betrieben wird, erfolgt die Datenübermittlung auf Grundlage geeigneter Garantien gemäß Art. 44 ff. DSGVO (z. B. Standardvertragsklauseln).
+
+---
+
+## Kontaktaufnahme
+
+Wenn Sie mich per E-Mail oder Telefon kontaktieren, werden Ihre Angaben zwecks Bearbeitung der Anfrage sowie für den Fall von Anschlussfragen gespeichert.
+
+Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
+
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Verarbeitung zur Durchführung vorvertraglicher Maßnahmen) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bearbeitung der Anfrage).
+
+Die Daten werden gelöscht, sobald sie für die Zweckerreichung nicht mehr erforderlich sind, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.
+
+---
+
+## Speicherdauer
+
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei mir, bis der Zweck für die Datenverarbeitung entfällt.
+
+Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung widerrufen, werden Ihre Daten gelöscht, sofern keine anderen rechtlich zulässigen Gründe für die Speicherung bestehen.
+
+---
+
+## Ihre Rechte
+
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf:
+
+- Auskunft über Ihre gespeicherten personenbezogenen Daten
+- Berichtigung unrichtiger Daten
+- Löschung Ihrer Daten
+- Einschränkung der Verarbeitung
+- Widerspruch gegen die Verarbeitung
+- Datenübertragbarkeit
+
+Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an mich wenden.
+
+---
+
+## Beschwerderecht bei der Aufsichtsbehörde
+
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
+
+Zuständige Aufsichtsbehörde in Bayern ist:
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)
+Promenade 27
+91522 Ansbach
+Deutschland
+
+Website: https://www.lda.bayern.de
+
+---
+
+## Pflicht zur Bereitstellung von Daten
+
+Die Bereitstellung personenbezogener Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Sie sind nicht verpflichtet, personenbezogene Daten bereitzustellen. Allerdings kann ohne bestimmte Daten (z. B. bei Kontaktanfragen) eine Bearbeitung nicht erfolgen.

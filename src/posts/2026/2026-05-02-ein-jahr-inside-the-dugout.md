@@ -6,8 +6,8 @@ tags:
   - Meta
   - Inside The Dugout
   - Housekeeping
-metaTitle: Ein Jahr Inside The Dugout – 62 Artikel, WBC, Newsletter
-metaDesc: Inside The Dugout wird ein Jahr alt: 62 Artikel, 94 Shortposts und volle WBC-2026-Coverage. Neu: Morning Briefing, Fantasy League. – Ein Jahr ITD.
+metaTitle: "Ein Jahr Inside The Dugout – 62 Artikel, WBC, Newsletter"
+metaDesc: "Inside The Dugout wird ein Jahr alt: 62 Artikel, 94 Shortposts und volle WBC-2026-Coverage. Neu: Morning Briefing, Fantasy League. – Ein Jahr ITD."
 description: "Rückblick auf zwölf Monate Inside The Dugout mit 62 Artikeln, 94 Shortposts, WBC-Coverage, neuen Formaten wie Morning Briefing und der ersten Fantasy Baseball Liga."
 author:
   name: Stefan Dillinger
@@ -34,6 +34,6 @@ Ein weiteres Stück die Community ein wenig weiter zusammen zu bringen ist das F
 
 An alle, die in den letzten zwölf Monaten einen Artikel gelesen, den Newsletter abonniert oder geöffnet haben oder mir in irgendeiner Weise Feedback gegeben haben: **Danke**. Ein Blog entsteht nicht im Vakuum, auch wenn es sich manchmal so anfühlt, ins nichts zu schreiben. Jede Rückmeldung – ob per Mail, über Discord oder anderweitig – trägt dazu bei, dass es nächstes Jahr hoffentlich einen zweiten Geburtstag geben wird. Ehrlichgesagt war ich nicht mal sicher ob es den ersten Geburtstag geben wird, aber es macht mir tatsächlich immer mehr Spaß den Artikel am Montag zu schreiben.
 
-Wer den Blog unterstützen möchte, kann das gerne auf [Steady](https://steadyhq.com/de/insidethedugout) tun. Inside The Dugout ist und bleibt kostenlos und frei zugänglich, weil es mir spaß macht über Baseball zu schreiben. Aber wer das Projekt ein bisschen anschieben möchte, ist herzlich willkommen. Jeder Unterstützer zählt.
+Wer den Blog unterstützen möchte, kann das gerne auf [Steady](https://steadyhq.com/de/inside-the-dugout) tun. Inside The Dugout ist und bleibt kostenlos und frei zugänglich, weil es mir spaß macht über Baseball zu schreiben. Aber wer das Projekt ein bisschen anschieben möchte, ist herzlich willkommen. Jeder Unterstützer zählt.
 
 _Auf ein weiteres Jahr – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: Inside the Dugout – der deutsche MLB-Wochenrückblick._

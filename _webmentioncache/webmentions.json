@@ -1,6 +1,63 @@
 {
-  "lastFetched": "2026-04-27T18:13:03.298Z",
+  "lastFetched": "2026-05-04T20:15:38.238Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:zyb2tadbq7b6nowrrxxv3qn5/bafkreid3xth2b7qeclg4wkbhjfu5vc7pkht45u2xoi6aj7gqe65qno7sdy",
+        "url": "https://bsky.app/profile/kreisklasse1910.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mkvdud3s4y2g#liked_by_did:plc:zyb2tadbq7b6nowrrxxv3qn5",
+      "published": null,
+      "wm-received": "2026-05-02T21:01:45Z",
+      "wm-id": 1993993,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mkvdud3s4y2g/did%253Aplc%253Azyb2tadbq7b6nowrrxxv3qn5",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:q22jthmjubvlztnoy4h4bmqn/bafkreifskdddjajalfxjjjgyuw47iaug6exwzh2l52we6redftsmv4zo5q",
+        "url": "https://bsky.app/profile/weberch84.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mkvdud3s4y2g#liked_by_did:plc:q22jthmjubvlztnoy4h4bmqn",
+      "published": null,
+      "wm-received": "2026-05-02T20:31:02Z",
+      "wm-id": 1993986,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mkvdud3s4y2g/did%253Aplc%253Aq22jthmjubvlztnoy4h4bmqn",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:b7vb63bieaopgejn3nnamf74/bafkreidydkg34ymsrj5jjpo7u2pqta7mbcpmxqyu626gfrsmrji772a55e",
+        "url": "https://bsky.app/profile/r-satzmann.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mkvdud3s4y2g#liked_by_did:plc:b7vb63bieaopgejn3nnamf74",
+      "published": null,
+      "wm-received": "2026-05-02T19:30:38Z",
+      "wm-id": 1993981,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mkvdud3s4y2g/did%253Aplc%253Ab7vb63bieaopgejn3nnamf74",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/ein-jahr-inside-the-dugout/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

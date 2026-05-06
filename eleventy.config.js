@@ -106,6 +106,10 @@ module.exports = (config) => {
   config.addFilter("readableDate", require("./lib/filters/readableDate"));
   config.addFilter("minifyJs", require("./lib/filters/minifyJs"));
   config.addFilter("groupBy", require("./lib/filters/groupBy"));
+  config.addFilter(
+    "groupPostsByYear",
+    require("./lib/filters/groupPostsByYear"),
+  );
 
   // Transforms
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));

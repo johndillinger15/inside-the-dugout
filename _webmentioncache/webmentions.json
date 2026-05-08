@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-05-06T20:52:30.171Z",
+  "lastFetched": "2026-05-08T18:51:09.905Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mlar3hsj632l#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-07T08:48:30Z",
+      "wm-id": 1994850,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlar3hsj632l/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/07/0955-recap/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/07/0955-recap/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

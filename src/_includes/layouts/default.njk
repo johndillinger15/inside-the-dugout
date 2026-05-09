@@ -29,25 +29,43 @@
     <meta name="keywords" content="{{ metaKeywords }}">
     <meta name="author" content="{{ author.name }}">
     <meta name="robots" content="index, follow">
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:site_name" content="Inside The Dugout" />
     <meta property="og:image" content="{{ site.url }}/img/{{ thumb }}" />
     <meta property="og:image:alt" content="{{ title | escape }}" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="{{ site.url }}/img/{{ thumb }}" />
     <meta property="og:title" content="{{ metaTitle }}" />
     <meta property="og:description" content="{{ metaDesc }}" />
     <meta property="og:type" content="article" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ metaTitle }}" />
+    <meta name="twitter:description" content="{{ metaDesc }}" />
+    <meta name="twitter:image" content="{{ site.url }}/img/{{ thumb }}" />
     <link rel="authorization_endpoint" href="https://indieauth.com/auth">
     <link rel="me" href="https://mastodon.social/@inside_the_dugout">
     <link rel="me" href="https://sueden.social/@johndillinger15">
     <link href="https://github.com/johndillinger15" rel="me">
     <link rel="webmention" href="https://webmention.io/inside-the-dugout.de/webmention" />
-    <link rel="canonical" href="{{ site.url | url }}{{ page.url }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <link rel="shortcut icon" type="image/png" href="{{ '/assets/img/favicon.png' | url }}">
     <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | url }}">
     <link rel="stylesheet" href="/styles.css">
     <link rel="alternate" type="application/rss+xml" title="Inside The Dugout RSS Feed" href="/feed.rss" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "name": "Inside The Dugout",
+      "description": "Tägliche MLB-Berichterstattung auf Deutsch – Morning Briefing, Serien Recaps, Serien Spotlights und wöchentlicher Rückblick.",
+      "url": "https://inside-the-dugout.de",
+      "inLanguage": "de",
+      "publisher": {
+        "@type": "Person",
+        "name": "Stefan Dillinger"
+      }
+    }
+    </script>
     <script defer src="https://cloud.umami.is/script.js" data-website-id="2b4fe8ab-cd7c-4ebc-b94d-ee691cd76a81" data-domains="inside-the-dugout.de"></script>
-</head>	
+</head>
 <body class="flex flex-col h-screen bg-white text-slate-800 break-words">
     {% include "partials/header.njk" %}
     <main class="mx-7 lg:mx-6 mt-30 grow">

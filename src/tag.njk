@@ -7,17 +7,33 @@ pagination:
     alias: paged
 permalink: "tags/{{ paged.tagName }}/{% if paged.number > 1 %}{{ paged.number }}/{% endif %}index.html"
 eleventyComputed:
-    title: "Tagged with \"{{ paged.tagName | capitalize }}\""
+    title: "Tagged with \"{{ formats[paged.tagName] if formats[paged.tagName] else paged.tagName | capitalize }}\""
 ---
 
+{% set isFormat = formats[paged.tagName] %}
+
 <div class="mb-8 text-center">
-    <h3 class="text-xl font-medium text-slate-700 my-0">Tagged with</h3>
-    <h1 class="text-4xl font-medium leading-normal mt-0">{{ paged.tagName | capitalize }}</h1>
+    <h3 class="text-xl font-medium text-slate-700 my-0">
+        {% if isFormat %}Format{% else %}Tagged with{% endif %}
+    </h3>
+    <h1 class="text-4xl font-medium leading-normal mt-0">
+        {% if isFormat %}{{ formats[paged.tagName] }}{% else %}{{ paged.tagName | capitalize }}{% endif %}
+    </h1>
 </div>
+
+{% if isFormat %}
+<div class="mx-auto max-w-xl px-5">
+    {% for post in paged.posts %}
+        {% include "partials/shortpost-card.njk" %}
+    {% endfor %}
+</div>
+{% else %}
 <div class="flex flex-wrap -mx-2">
     {% include "partials/post-grid.njk" %}
 </div>
+{% endif %}
 
-{% if collections.tagList[paged.tagName] > site.paginate %}
+{% set tagCount = collections.tagList[paged.tagName] or collections.formatList[paged.tagName] %}
+{% if tagCount > site.paginate %}
 {% include "partials/paginator.njk" %}
 {% endif %}

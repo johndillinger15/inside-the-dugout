@@ -119,6 +119,7 @@ module.exports = (config) => {
     return collectionApi.getFilteredByGlob("./src/posts/**/*.md");
   });
   config.addCollection("tagList", require("./lib/collections/tagList"));
+  config.addCollection("formatList", require("./lib/collections/formatList"));
   config.addCollection("pagedPosts", require("./lib/collections/pagedPosts"));
   config.addCollection(
     "pagedPostsByTag",

@@ -1,6 +1,29 @@
 {
-  "lastFetched": "2026-05-08T18:51:09.905Z",
+  "lastFetched": "2026-05-09T20:20:25.546Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://bsky.app/profile/did:plc:uist7xrhua5qlapalx4bwtt7/post/3mlglhnmitn26",
+      "published": "2026-05-09T15:42:08+00:00",
+      "wm-received": "2026-05-09T15:42:14Z",
+      "wm-id": 1995195,
+      "wm-source": "https://bsky.brid.gy/convert/web/at://did:plc:uist7xrhua5qlapalx4bwtt7/app.bsky.feed.post/3mlglhnmitn26%23bridgy-fed-create-2026-05-09T15:42:09.990233+00:00",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/09/1734/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "Oh wow, anscheinend haben die Giants Patrick Bayley zu den Guardians für einen Erstrundenpick im Draft dieses Jahr und einen LHP getradet. Niemand ist mehr sicher...\n\n<a href=\"https://inside-the-dugout.de/shortposts/2026/05/09/1734/\">https://inside-the-dugout.de/shortposts/2026/05/09/1734/</a>",
+        "text": "Oh wow, anscheinend haben die Giants Patrick Bayley zu den Guardians für einen Erstrundenpick im Draft dieses Jahr und einen LHP getradet. Niemand ist mehr sicher...\n\nhttps://inside-the-dugout.de/shortposts/2026/05/09/1734/"
+      },
+      "mention-of": "https://inside-the-dugout.de/shortposts/2026/05/09/1734/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

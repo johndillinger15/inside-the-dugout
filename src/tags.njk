@@ -5,6 +5,18 @@ permalink: "tags/index.html"
 ---
 
 <h1 class="text-3xl leading-normal font-bold mt-0 mb-7 text-center">{{ title }}</h1>
+
+<h2 class="text-xl font-semibold mb-4 text-center text-slate-700">Formate</h2>
+<div class="flex justify-center flex-wrap mb-12">
+    {% for slug, length in collections.formatList %}
+    <a href="{{ '/tags/' | url }}{{ slug }}" class="inline-block mx-1 mb-3 px-4 py-2 bg-red-50 text-red-800 font-medium rounded-full border border-red-200">
+        {{ formats[slug] }}
+        <span class="px-2 py-1 ml-1 text-xs font-semibold bg-red-200 text-red-900 rounded-full">{{ length }}</span>
+    </a>
+    {% endfor %}
+</div>
+
+<h2 class="text-xl font-semibold mb-4 text-center text-slate-700">Themen</h2>
 <div class="flex justify-center flex-wrap pb-24">
     {% for name, length in collections.tagList %}
     <a href="{{ '/tags/' | url }}{{ name }}" class="inline-block mx-1 mb-3 px-4 py-2 bg-slate-200 text-slate-700 font-medium rounded-full">
@@ -35,7 +47,7 @@ permalink: "tags/index.html"
             <span class="w-34 shrink-0 text-sm text-slate-500">
               {{ post.date | readableDate }}
             </span>
-            <a
+            
               href="{{ post.url }}"
               class="text-slate-800 hover:text-blue-700 underline"
             >

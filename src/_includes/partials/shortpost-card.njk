@@ -22,6 +22,17 @@
   {% endfor %}
 {% endif %}
 
+{# --------------------------------
+   Format-Tag des Shortposts ermitteln
+--------------------------------- #}
+
+{% set formatTag = null %}
+{% if post.data.tags %}
+  {% for tag in post.data.tags %}
+    {% if formats[tag] %}{% set formatTag = tag %}{% endif %}
+  {% endfor %}
+{% endif %}
+
 {# -------------------------------
    Shortpost card layout
 -------------------------------- #}
@@ -41,12 +52,23 @@
 
     <!-- content -->
     <div class="pl-7 pr-6 py-4 flex-1">
-      <p class="mb-3 text-xs font-medium tracking-wide uppercase"
-         style="color:#1D2D50"
-         title="Published date"
-         datetime="{{ post.date.toISOString() }}">
-        {{ post.date.toISOString().slice(0,16).replace("T"," ") }}
-      </p>
+
+      <div class="mb-3 flex items-center justify-between gap-3">
+        <p class="text-xs font-medium tracking-wide uppercase"
+           style="color:#1D2D50"
+           title="Published date"
+           datetime="{{ post.date.toISOString() }}">
+          {{ post.date.toISOString().slice(0,16).replace("T"," ") }}
+        </p>
+        {% if formatTag %}
+          <a href="{{ '/tags/' | url }}{{ formatTag }}/"
+            class="text-xs font-medium tracking-wide uppercase hover:underline whitespace-nowrap px-1 py-0.5 rounded-sm border"
+            style="color:#C8102E; border-color:#C8102E; background-color:#FFF1F1;"
+            title="Alle Posts dieses Formats">
+            {{ formats[formatTag] }}
+          </a>
+        {% endif %}
+      </div>
 
       <div class="prose max-w-none text-sm text-slate-800">
           {{ post.templateContent | safe }}

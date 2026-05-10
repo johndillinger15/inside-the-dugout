@@ -38,14 +38,12 @@
 -------------------------------- #}
 
 <div class="w-full self-stretch p-2 mb-2">
-    <div
-    class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
+    <div class="relative rounded-sm shadow-md h-full bg-[#F9F9F9] border border-slate-200 overflow-hidden
           transition-all duration-200 hover:border-[#1D2D50]
           flex flex-col">
 
     <!-- left accent bar -->
-    <div
-      class="absolute left-0 top-0 h-full w-1 bg-[#1D2D50]
+    <div class="absolute left-0 top-0 h-full w-1 bg-[#1D2D50]
              opacity-70 transition-all duration-200
              hover:bg-[#C8102E]">
     </div>
@@ -58,7 +56,7 @@
            style="color:#1D2D50"
            title="Published date"
            datetime="{{ post.date.toISOString() }}">
-          {{ post.date.toISOString().slice(0,16).replace("T"," ") }}
+          {{ post.date.toLocaleString('sv-SE', { timeZone: 'Europe/Berlin' }).slice(0, 16) }}
         </p>
         {% if formatTag %}
           <a href="{{ '/tags/' | url }}{{ formatTag }}/"

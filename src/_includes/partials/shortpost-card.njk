@@ -56,7 +56,7 @@
            style="color:#1D2D50"
            title="Published date"
            datetime="{{ post.date.toISOString() }}">
-          {{ post.date.toLocaleString('sv-SE', { timeZone: 'Europe/Berlin' }).slice(0, 16) }}
+          {{ post.date | berlinDateTime }}
         </p>
         {% if formatTag %}
           <a href="{{ '/tags/' | url }}{{ formatTag }}/"

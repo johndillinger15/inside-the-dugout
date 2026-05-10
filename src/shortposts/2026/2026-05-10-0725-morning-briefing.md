@@ -1,5 +1,5 @@
 ---
-date: 2026-05-10T09:00:00
+date: 2026-05-10T07:25:00+02:00
 tags: [morning-briefing]
 ---
 
@@ -12,11 +12,11 @@ tags: [morning-briefing]
 - Astros @ **Reds**: [1–3](https://baseball.theater/game/_/824523/Highlights)
 - Nationals @ **Marlins**: [7–8](https://baseball.theater/game/_/823869/Highlights)
 - Rockies @ **Phillies**: [3–9](https://baseball.theater/game/_/823468/Highlights)
-- **Twins** @ Guardians: [2–1](https://baseball.theater/game/_/824444/Highlights) *(F11)*
+- **Twins** @ Guardians: [2–1](https://baseball.theater/game/_/824444/Highlights) _(F11)_
 - Cubs @ **Rangers**: [0–6](https://baseball.theater/game/_/822905/Highlights)
 - Tigers @ **Royals**: [1–5](https://baseball.theater/game/_/824115/Highlights)
 - Mariners @ **White Sox**: [1–6](https://baseball.theater/game/_/824606/Highlights)
-- Yankees @ **Brewers**: [3–4](https://baseball.theater/game/_/823792/Highlights) *(F10)*
+- Yankees @ **Brewers**: [3–4](https://baseball.theater/game/_/823792/Highlights) _(F10)_
 - Mets @ **D-backs**: [1–2](https://baseball.theater/game/_/825089/Highlights)
 - Cardinals @ **Padres**: [2–4](https://baseball.theater/game/_/823304/Highlights)
 - **Pirates** @ Giants: [13–3](https://baseball.theater/game/_/823224/Highlights)

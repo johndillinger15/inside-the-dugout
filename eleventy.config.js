@@ -110,6 +110,7 @@ module.exports = (config) => {
     "groupPostsByYear",
     require("./lib/filters/groupPostsByYear"),
   );
+  config.addFilter("berlinDateTime", require("./lib/filters/berlinDateTime"));
 
   // Transforms
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));

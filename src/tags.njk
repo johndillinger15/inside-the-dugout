@@ -28,7 +28,7 @@ permalink: "tags/index.html"
 
 <h1 class="text-3xl font-bold mb-10 text-center">Artikelarchiv</h1>
 {% set groupedPosts = collections.posts | groupPostsByYear %}
-<div class="space-y-12">
+<div class="space-y-12 max-w-2xl mx-auto">
 
   {% for group in groupedPosts %}
 

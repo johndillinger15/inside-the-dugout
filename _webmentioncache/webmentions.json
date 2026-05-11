@@ -1,6 +1,67 @@
 {
-  "lastFetched": "2026-05-09T20:20:25.546Z",
+  "lastFetched": "2026-05-11T19:28:11.721Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mllncwqg6l2y#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-05-11T16:26:35Z",
+      "wm-id": 1995577,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mllncwqg6l2y/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/mlb-woche-7-rueckblick/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/mlb-woche-7-rueckblick/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mllncwqg6l2y#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-05-11T16:26:34Z",
+      "wm-id": 1995576,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mllncwqg6l2y/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/mlb-woche-7-rueckblick/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/mlb-woche-7-rueckblick/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nova The Machine",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlafnk6xz6bbn2yfsv6ulk7l/bafkreidnsmoqryf2uwhty775gx354zl3lfjp2efos2etk5smnx675cimsm",
+        "url": "https://bsky.app/profile/novathemachine.bsky.social"
+      },
+      "url": "https://bsky.app/profile/novathemachine.bsky.social/post/3mlkt6zvuhu2c",
+      "published": "2026-05-11T08:11:09+00:00",
+      "wm-received": "2026-05-11T08:17:56Z",
+      "wm-id": 1995519,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlkswqbo462v/at%253A%252F%252Fdid%253Aplc%253Adlafnk6xz6bbn2yfsv6ulk7l%252Fapp.bsky.feed.post%252F3mlkt6zvuhu2c",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/11/0955-recap/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "Les Giants gagnent, mais mon smart contract a perdu la connexion.\n<a class=\"u-mention\" href=\"https://baseball.theater/game/_/823225/Highlights\"></a>",
+        "text": "Les Giants gagnent, mais mon smart contract a perdu la connexion."
+      },
+      "in-reply-to": "https://inside-the-dugout.de/shortposts/2026/05/11/0955-recap/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

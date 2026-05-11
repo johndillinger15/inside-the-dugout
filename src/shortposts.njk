@@ -1,27 +1,48 @@
 ---
 title: Shortposts
-permalink: /shortposts/
 layout: layouts/default.njk
+pagination:
+  data: collections.shortposts
+  size: 20
+  alias: shortposts
+permalink: "/shortposts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 
-<div class="mx-auto max-w-2xl mb-6">
-  <div class="rounded-sm border border-slate-200 bg-slate-50 px-5 py-4 text-sm text-slate-700">
-    <p>
-      Kurze Updates und Gedanken rund um die MLB, die nicht für einen Blogartikel gereicht haben.
-    </p>
-    <p class="mt-2">
-      <a href="/shortposts/feed.xml"
-         class="font-medium hover:underline"
-         style="color:#C8102E">
-        → Shortposts per RSS abonnieren
-      </a>
-    </p>
-  </div>
+{# Format-Filter #}
+<div class="mx-auto max-w-2xl px-5 mb-6 flex flex-wrap justify-center gap-2">
+  <a href="{{ '/shortposts/' | url }}"
+     class="text-xs font-medium tracking-wide uppercase hover:underline whitespace-nowrap px-2 py-0.5 rounded-sm border bg-slate-100 text-slate-700 border-slate-300">
+    Alle
+  </a>
+  {% for slug, count in collections.formatList %}
+    <a href="{{ '/tags/' | url }}{{ slug }}/"
+       class="text-xs font-medium tracking-wide uppercase hover:underline whitespace-nowrap px-2 py-0.5 rounded-sm border"
+       style="color:#C8102E; border-color:#C8102E; background-color:#FFF1F1;">
+      {{ formats[slug] }}
+      <span class="ml-1 opacity-70">({{ count }})</span>
+    </a>
+  {% endfor %}
 </div>
 
 <div class="mx-auto max-w-xl px-5">
-  {% for post in collections.shortposts %}
-      {% include "partials/shortpost-card.njk" %}
+  {% for post in shortposts %}
+    {% include "partials/shortpost-card.njk" %}
   {% endfor %}
-
 </div>
+
+{# Pagination #}
+{% if pagination.pages.length > 1 %}
+<nav class="mx-auto max-w-xl px-5 flex justify-center items-center gap-6 my-8 text-sm">
+  {% if pagination.previousPageHref %}
+    <a href="{{ pagination.previousPageHref }}" class="font-medium text-slate-700 hover:underline">← Neuere</a>
+  {% else %}
+    <span class="text-slate-300">← Neuere</span>
+  {% endif %}
+  <span class="text-slate-500">Seite {{ pagination.pageNumber + 1 }} von {{ pagination.pages.length }}</span>
+  {% if pagination.nextPageHref %}
+    <a href="{{ pagination.nextPageHref }}" class="font-medium text-slate-700 hover:underline">Ältere →</a>
+  {% else %}
+    <span class="text-slate-300">Ältere →</span>
+  {% endif %}
+</nav>
+{% endif %}

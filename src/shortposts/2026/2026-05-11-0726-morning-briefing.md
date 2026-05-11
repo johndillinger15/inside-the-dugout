@@ -1,6 +1,6 @@
 ---
 date: 2026-05-11T00:00:00+02:00
-tags: [shortpost]
+tags: [morning-briefing]
 ---
 
 ### Morning Briefing vom 11.5.2026

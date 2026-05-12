@@ -1,43 +1,35 @@
 ---
-permalink: /combined_feed.xml
+permalink: /feed.rss
 layout: false
 eleventyExcludeFromCollections: true
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/rss-style.xsl"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inside The Dugout – Alle Updates</title>
-    <description>
-      Blog posts und Shortposts auf Inside The Dugout.
-    </description>
-
+    <title>Inside The Dugout - Blogposts</title>
+    <description>Das wöchentliche MLB Update.</description>
+    <language>de</language>
     <link>{{ site.url }}/</link>
 
     <atom:link
-      href="{{ site.url }}/combined_feed.xml"
+      href="{{ site.url }}/feed.rss"
       rel="self"
       type="application/rss+xml" />
 
-    {% for post in collections.combined %}
+    {% for post in collections.posts | reverse %}
+    {% if loop.index0 < 20 %}
     <item>
-      <title>
-        {% if post.data.title %}
-          {{ post.data.title }}
-        {% else %}
-          {{ post.templateContent | striptags | truncate(60, true) }}
-        {% endif %}
-      </title>
-
+      <title>{{ post.data.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date.toUTCString() }}</pubDate>
-
       <description><![CDATA[
         {{ post.templateContent | safe }}
       ]]></description>
     </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>

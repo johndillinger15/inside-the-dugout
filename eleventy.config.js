@@ -186,26 +186,6 @@ module.exports = (config) => {
     token: process.env.WEBMENTION_IO_TOKEN,
   });
 
-  // RSS Plugin
-  config.addPlugin(feedPlugin, {
-    type: "rss",
-    outputPath: "/feed.rss",
-    collection: {
-      name: "posts",
-      limit: 20,
-    },
-    metadata: {
-      language: "de",
-      title: "Inside The Dugout - Blogposts",
-      subtitle: "Das wöchentliche MLB Update.",
-      base: "https://inside-the-dugout.de",
-      author: {
-        name: "Stefan Dillinger",
-        email: "",
-      },
-    },
-  });
-
   // Return Eleventy config
   return {
     dir: {

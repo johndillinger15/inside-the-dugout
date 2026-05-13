@@ -1,6 +1,82 @@
 {
-  "lastFetched": "2026-05-12T13:41:04.940Z",
+  "lastFetched": "2026-05-13T18:59:07.102Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:b7vb63bieaopgejn3nnamf74/bafkreidydkg34ymsrj5jjpo7u2pqta7mbcpmxqyu626gfrsmrji772a55e",
+        "url": "https://bsky.app/profile/r-satzmann.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mlqjzc3ttc2v#liked_by_did:plc:b7vb63bieaopgejn3nnamf74",
+      "published": null,
+      "wm-received": "2026-05-13T15:03:11Z",
+      "wm-id": 1996207,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlqjzc3ttc2v/did%253Aplc%253Ab7vb63bieaopgejn3nnamf74",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/13/1636-storylines/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/13/1636-storylines/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mlo652bry32f#liked_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-05-12T16:32:29Z",
+      "wm-id": 1995735,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlo652bry32f/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mlo652bry32f#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-05-12T16:32:28Z",
+      "wm-id": 1995734,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlo652bry32f/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Penny Lane",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:qbzo6kfx34jj25ohvqsgrzcg/bafkreiactz5ag6sf2z3usgmwxio5x7bpwodlg2w36mvl7dxm422vutbsv4",
+        "url": "https://bsky.app/profile/quarkbaellchen.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mlo652bry32f#liked_by_did:plc:qbzo6kfx34jj25ohvqsgrzcg",
+      "published": null,
+      "wm-received": "2026-05-12T16:32:26Z",
+      "wm-id": 1995733,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mlo652bry32f/did%253Aplc%253Aqbzo6kfx34jj25ohvqsgrzcg",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/12/1750-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

@@ -1,5 +1,5 @@
 ---
-title: Rückblick auf Woche 3 in der MLB
+title: Woche 3 Recap
 date: 2026-04-13T18:00:00Z
 layout: post
 tags:

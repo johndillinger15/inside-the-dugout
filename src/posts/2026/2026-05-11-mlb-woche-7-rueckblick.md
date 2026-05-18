@@ -1,5 +1,5 @@
 ---
-title: Rückblick auf Woche 7 in der MLB
+title: Woche 7 Recap
 date: 2026-05-11T18:00:00+02:00
 layout: post
 tags:

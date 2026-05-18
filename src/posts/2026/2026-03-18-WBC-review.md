@@ -1,5 +1,5 @@
 ---
-title: Venezuela gewinnt das WBC 2026
+title: Venezuela gewinnt das WBC 26
 date: 2026-03-18T12:00:00Z
 layout: post
 tags:
@@ -9,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26_WBC-review.png
 ---
+
 <img src='../../img/thumbnail_26_WBC-review.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, das World Baseball Classic 2026 ist Geschichte und hat mit Venezuela einen etwas unerwarteten Sieger. Aber gehen wir nochmal ein paar Tage zurück und schauen darauf, wie sich das Turnier nach dem letzten Artikel weiter entwickelt hat und wie es zu diesem Finale kam.
@@ -38,7 +39,6 @@ Im letzten Halbfinale bezwang dann Venezuela, etwas überraschend, den amtierend
 Im WBC-Semifinale zwischen den USA und der Dominikanischen Republik lieferten die jungen Stars beider Teams früh spektakuläre Momente ab.
 Im WBC-Halbfinale bezwang Team USA die Dominikanische Republik mit 2:1 vor 36.337 Zuschauern im ausverkauften LoanDepot Park in Miami.Paul Skenes limitierte das dominikanische Lineup, das in den ersten fünf Turnierspielen 51 Runs erzielt hatte, auf einen einzigen Run in 4⅓ InningsJunior Camineros 401-Fuß-Homerun im zweiten Inning. Gunnar Henderson und Roman Anthony antworteten im vierten Inning mit zwei Homeruns über kombinierte 821 Fuß. Das Relief Pitching um David Bednar, der im siebten Inning mit Runners on Second and Third Tatis und Marte strikeout, war entscheidend. Closer Mason Miller sicherte den Sieg, wobei der letzte Strike gegen Geraldo Perdomo als Ball hätte gewertet werden müssen — ein schmerzhafter Reminder, dass das Automated Ball-Strike System beim WBC nicht verfügbar war.​​​​​​​​​​​​​​​​
 
-
 ### Venezuela vs Italien
 
 Venezuela zog durch ein 4:2 gegen Italien ins WBC-Finale ein und trifft am Dienstag auf die USA. Nach einem 0:2-Rückstand im vierten Inning initiierte Eugenio Suárez mit einem Solo-Homerun off Aaron Nola die Aufholjagd. Den entscheidenden Durchbruch lieferte das siebte Inning: Gleyber Torres leitete ihn mit einem Leadoff Walk ein, Jackson Chourio verlängerte mit einem Two-Out Single, und anschließend schlugen Ronald Acuña Jr., Maikel Garcia sowie Luis Arraez drei aufeinanderfolgende RBI-Singles — von 2:2 auf 4:2. Loser Michael Lorenzen konnte dem Angriff nicht standhalten. Italiens starke 5:0-Bilanz im Turnierverlauf verlor damit gegen ein venezuelanisches Lineup, das bereits Japan im Quarterfinal aus dem Turnier geworfen hatte. Daniel Palencia sicherte mit drei Outs den Save.​​​​​​​​​​​​​​​​
@@ -49,9 +49,5 @@ Das Finale der WBC war natürlich aufgrund der aufgeladenen politischen Situatio
 
 ### Fazit
 
-Venezuela hat auf dem Weg zum WBC-Sieg Japan, Italien und schließlich die USA gesschlagen, daher kann man wohl davon sprechen, dass sie ein verdienter Sieger des Turniers sind. Was das USA-Team angeht, bin ich mir unsicher was die Performance und die Einstellung angeht. Einerseits sind die Statements die sie abgegeben haben alle sehr positiv und alle heben die Stimmung hervor (sie sei sogar besser als bei der World Series gewesen), andererseits war die Leistung auf dem Feld wechselhaft und vor allem im (Halb-)Finale, dann offensiv zu wenig. 
-Auf der anderen Seite war das ganze Turnier ein voller Erfolg voller einzigartiger Geschichten und vor allem voller Stimmung. Hoffentlich wird sich Deutschland dann für die nächste Ausgabe qualifizieren können. 
-
-
-
-
+Venezuela hat auf dem Weg zum WBC-Sieg Japan, Italien und schließlich die USA gesschlagen, daher kann man wohl davon sprechen, dass sie ein verdienter Sieger des Turniers sind. Was das USA-Team angeht, bin ich mir unsicher was die Performance und die Einstellung angeht. Einerseits sind die Statements die sie abgegeben haben alle sehr positiv und alle heben die Stimmung hervor (sie sei sogar besser als bei der World Series gewesen), andererseits war die Leistung auf dem Feld wechselhaft und vor allem im (Halb-)Finale, dann offensiv zu wenig.
+Auf der anderen Seite war das ganze Turnier ein voller Erfolg voller einzigartiger Geschichten und vor allem voller Stimmung. Hoffentlich wird sich Deutschland dann für die nächste Ausgabe qualifizieren können.

@@ -1,5 +1,5 @@
 ---
-title: Rückblick auf Woche 5 in der MLB
+title: Woche 5 Recap
 date: 2026-04-27T16:00:00Z
 layout: post
 tags:

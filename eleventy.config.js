@@ -115,6 +115,20 @@ module.exports = (config) => {
   // Transforms
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));
 
+  // Wordcount
+  config.addFilter("readingStats", (content) => {
+    const wordsPerMinute = 250;
+
+    const text = content.replace(/<[^>]*>/g, "").trim();
+
+    const wordCount = text.split(/\s+/).length;
+
+    return {
+      words: wordCount,
+      minutes: Math.ceil(wordCount / wordsPerMinute),
+    };
+  });
+
   // Collections
   config.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/posts/**/*.md");

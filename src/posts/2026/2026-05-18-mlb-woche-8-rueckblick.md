@@ -1,5 +1,5 @@
 ---
-title: Rückblick auf Woche 8 in der MLB
+title: Woche 8 Recap
 date: 2026-05-18T18:00:00+02:00
 layout: post
 tags:

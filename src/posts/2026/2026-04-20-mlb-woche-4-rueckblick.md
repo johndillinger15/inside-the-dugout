@@ -1,5 +1,5 @@
 ---
-title: Rückblick auf Woche 4 in der MLB
+title: Woche 4 Recap
 date: 2026-04-20T16:00:00Z
 layout: post
 tags:

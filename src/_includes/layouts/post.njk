@@ -4,8 +4,11 @@ layout: layouts/default
 <article class="max-w-5xl mx-auto px-4">
   <header class="mb-14">
     <h1 class="text-3xl text-center font-bold text-slate-900 mt-3 mb-3">{{ title }}</h1>
+    {% set stats = content | readingStats %}
     <div class="text-center text-sm text-slate-600">
-      Published on {{ page.date | readableDate }}{% if author %} by {{ author.name }}{% endif %}
+      Published on {{ page.date | readableDate }}
+      {% if author %} by {{ author.name }}{% endif %}<br>
+      {{ stats.words }} Wörter | {{ stats.minutes }} min Lesezeit
     </div>
     {% if tags %}
     <div class="mt-3 text-center">

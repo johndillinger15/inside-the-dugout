@@ -20,7 +20,7 @@ layout: layouts/default.njk
       <time datetime="{{ page.date.toISOString() }}"
             class="text-xs font-medium tracking-wide uppercase"
             style="color:#1D2D50">
-        {{ page.date.toISOString().slice(0,16).replace("T"," ") }}
+        {{ page.date | berlinDateTime }}
       </time>
     </header>
 

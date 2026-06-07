@@ -1,6 +1,177 @@
 {
-  "lastFetched": "2026-05-18T19:52:11.802Z",
+  "lastFetched": "2026-06-07T11:13:04.333Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MLB-Blog.de",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:fr6ehgygtzvqwvwoquwroadw/bafkreihan4eg4px2qwdpovbuz6j2bqnsiravav55xwzx4aadvu27sidoiu",
+        "url": "https://bsky.app/profile/mlb-blog.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mncrqs7lho2f#liked_by_did:plc:fr6ehgygtzvqwvwoquwroadw",
+      "published": null,
+      "wm-received": "2026-06-02T16:13:12Z",
+      "wm-id": 2000151,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mncrqs7lho2f/did%253Aplc%253Afr6ehgygtzvqwvwoquwroadw",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/02/1606-storylines/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/02/1606-storylines/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:b7vb63bieaopgejn3nnamf74/bafkreidydkg34ymsrj5jjpo7u2pqta7mbcpmxqyu626gfrsmrji772a55e",
+        "url": "https://bsky.app/profile/r-satzmann.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mnbup55mpd2a#liked_by_did:plc:b7vb63bieaopgejn3nnamf74",
+      "published": null,
+      "wm-received": "2026-06-02T13:31:08Z",
+      "wm-id": 2000124,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mnbup55mpd2a/did%253Aplc%253Ab7vb63bieaopgejn3nnamf74",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/02/0726-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/02/0726-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mn7jllx5vv2h#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-06-01T07:41:52Z",
+      "wm-id": 1999835,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mn7jllx5vv2h/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/01/0908-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/01/0908-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mn3oes5ur325#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-30T18:48:35Z",
+      "wm-id": 1999406,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mn3oes5ur325/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/30/2018-shortpost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/30/2018-shortpost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mn3oes5ur325#reposted_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-30T18:48:34Z",
+      "wm-id": 1999405,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mn3oes5ur325/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/30/2018-shortpost/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/05/30/2018-shortpost/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:3yams5zbv7palph6kw6i5uh4/bafkreicj5z25ommjf6hmkyex5oiom5qm6igxn4jbxixww4yfznhwaoc22u",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mmvkw5clpk2p#reposted_by_did:plc:3yams5zbv7palph6kw6i5uh4",
+      "published": null,
+      "wm-received": "2026-05-28T11:26:07Z",
+      "wm-id": 1998904,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mmvkw5clpk2p/did%253Aplc%253A3yams5zbv7palph6kw6i5uh4",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/28/0955-recap/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/shortposts/2026/05/28/0955-recap/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mmqboqiv462v#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-26T06:21:01Z",
+      "wm-id": 1998441,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mmqboqiv462v/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/05/26/0726-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/05/26/0726-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mmpcfotsnn2y#reposted_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-25T20:59:21Z",
+      "wm-id": 1998360,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mmpcfotsnn2y/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/mlb-woche-9-rueckblick/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://inside-the-dugout.de/posts/2026/mlb-woche-9-rueckblick/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mmpcfotsnn2y#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-05-25T20:59:20Z",
+      "wm-id": 1998359,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mmpcfotsnn2y/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/mlb-woche-9-rueckblick/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/posts/2026/mlb-woche-9-rueckblick/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

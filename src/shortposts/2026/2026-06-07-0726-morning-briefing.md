@@ -10,7 +10,7 @@ tags: [morning-briefing]
 - **Mariners** @ Tigers: [4:0](https://baseball.theater/game/_/824269/Highlights)
 - **Royals** @ Twins: [3:2](https://baseball.theater/game/_/823697/Highlights)
 - Reds @ **Cardinals**: [5:6](https://baseball.theater/game/_/823048/Highlights)
-- Giants @ **Cubs**: [2:3](https://baseball.theater/game/_/824669/Highlights) *(F10, WO)*
+- Giants @ **Cubs**: [2:3](https://baseball.theater/game/_/824669/Highlights) _(F10, WO)_
 - Orioles @ **Blue Jays**: [4:6](https://baseball.theater/game/_/822808/Highlights)
 - **White Sox** @ Phillies: [6:3](https://baseball.theater/game/_/823454/Highlights)
 - **Nationals** @ D-backs: [6:1](https://baseball.theater/game/_/825075/Highlights)
@@ -66,3 +66,7 @@ tags: [morning-briefing]
 - 21:15 — Nationals @ D-backs
 - 22:10 — Angels @ Dodgers
 - 22:10 — Mets @ Padres
+
+---
+
+<small>_Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste._</small>

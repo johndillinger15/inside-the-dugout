@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2026-06-07T11:13:04.333Z",
+  "lastFetched": "2026-06-08T19:58:41.871Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "☆Sabi Bat Princess☆",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:ufu5oem3ifxftkewd54f2oqk/bafkreicjf374hv4ymx34l5ofrqukyffeiqrfoqjkhkhqjjdxy6gcfuez2i",
+        "url": "https://bsky.app/profile/cherryfizz71.wastelandseraphim.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mns2lpf4rl2e#liked_by_did:plc:ufu5oem3ifxftkewd54f2oqk",
+      "published": null,
+      "wm-received": "2026-06-08T18:06:23Z",
+      "wm-id": 2001287,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mns2lpf4rl2e/did%253Aplc%253Aufu5oem3ifxftkewd54f2oqk",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/08/1751-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/08/1751-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

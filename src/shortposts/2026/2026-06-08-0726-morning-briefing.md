@@ -11,7 +11,7 @@ tags: [morning-briefing]
 - White Sox @ **Phillies**: [5:9](https://baseball.theater/game/_/823453/Highlights)
 - Red Sox @ **Yankees**: [1:6](https://baseball.theater/game/_/823537/Highlights)
 - Orioles @ **Blue Jays**: [4:6](https://baseball.theater/game/_/822807/Highlights)
-- Mariners @ **Tigers**: [4:5](https://baseball.theater/game/_/824268/Highlights) *(WO)*
+- Mariners @ **Tigers**: [4:5](https://baseball.theater/game/_/824268/Highlights) _(WO)_
 - Rays @ **Marlins**: [1:4](https://baseball.theater/game/_/823857/Highlights)
 - **Athletics** @ Astros: [5:0](https://baseball.theater/game/_/824183/Highlights)
 - **Royals** @ Twins: [6:5](https://baseball.theater/game/_/823696/Highlights)
@@ -21,7 +21,7 @@ tags: [morning-briefing]
 - Nationals @ **D-backs**: [1:5](https://baseball.theater/game/_/825074/Highlights)
 - **Angels** @ Dodgers: [13:5](https://baseball.theater/game/_/823941/Highlights)
 - **Mets** @ Padres: [7:3](https://baseball.theater/game/_/823291/Highlights)
-- **Giants** @ Cubs: [2:1](https://baseball.theater/game/_/824670/Highlights) *(F10)*
+- **Giants** @ Cubs: [2:1](https://baseball.theater/game/_/824670/Highlights) _(F10)_
 
 #### Top Hitter
 
@@ -51,6 +51,4 @@ tags: [morning-briefing]
 
 - Kyle Schwarber (PHI): 23 HR
 
----
-
-<small>*Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste.*</small>
+<small>_Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste._</small>

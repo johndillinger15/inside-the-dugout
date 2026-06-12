@@ -42,5 +42,3 @@ tags: [morning-briefing]
 #### MLB HR Leader
 
 - Kyle Schwarber (PHI): 24 HR
-
-<small>*Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste.*</small>

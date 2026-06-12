@@ -7,16 +7,16 @@ tags: [morning-briefing]
 
 #### Ergebnisse
 
-- **Mariners** @ Orioles: [6:5](https://baseball.theater/game/_/824830/Highlights) *(F10)*
+- **Mariners** @ Orioles: [6:5](https://baseball.theater/game/_/824830/Highlights) _(F10)_
 - **Dodgers** @ Pirates: [12:3](https://baseball.theater/game/_/823374/Highlights)
 - Red Sox @ **Rays**: [3:4](https://baseball.theater/game/_/822969/Highlights)
 - Twins @ **Tigers**: [4:10](https://baseball.theater/game/_/824267/Highlights)
 - D-backs @ **Marlins**: [6:10](https://baseball.theater/game/_/823858/Highlights)
 - **Yankees** @ Guardians: [3:2](https://baseball.theater/game/_/824429/Highlights)
-- Phillies @ **Blue Jays**: [2:3](https://baseball.theater/game/_/822805/Highlights) *(WO)*
+- Phillies @ **Blue Jays**: [2:3](https://baseball.theater/game/_/822805/Highlights) _(WO)_
 - **Cardinals** @ Mets: [7:0](https://baseball.theater/game/_/823620/Highlights)
 - Rangers @ **Royals**: [3:5](https://baseball.theater/game/_/824105/Highlights)
-- Braves @ **White Sox**: [5:6](https://baseball.theater/game/_/824591/Highlights) *(F10, WO HR)*
+- Braves @ **White Sox**: [5:6](https://baseball.theater/game/_/824591/Highlights) _(F10, WO HR)_
 - Cubs @ **Rockies**: [3:7](https://baseball.theater/game/_/824347/Highlights)
 - Astros @ **Angels**: [1:10](https://baseball.theater/game/_/824023/Highlights)
 - **Nationals** @ Giants: [6:3](https://baseball.theater/game/_/823214/Highlights)
@@ -56,5 +56,3 @@ tags: [morning-briefing]
 - 19:10 — Yankees @ Guardians
 - 21:45 — Nationals @ Giants
 - 22:10 — Reds @ Padres
-
-<small>*Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste.*</small>

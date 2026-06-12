@@ -9,19 +9,19 @@ tags: [morning-briefing]
 
 - Red Sox @ **Rays**: [5:7](https://baseball.theater/game/_/822970/Highlights)
 - **Yankees** @ Guardians: [8:4](https://baseball.theater/game/_/824428/Highlights)
-- Nationals @ **Giants**: [10:11](https://baseball.theater/game/_/823215/Highlights) *(WO HR)*
-- Reds @ **Padres**: [4:5](https://baseball.theater/game/_/823287/Highlights) *(WO HR)*
+- Nationals @ **Giants**: [10:11](https://baseball.theater/game/_/823215/Highlights) _(WO HR)_
+- Reds @ **Padres**: [4:5](https://baseball.theater/game/_/823287/Highlights) _(WO HR)_
 - Mariners @ **Orioles**: [2:7](https://baseball.theater/game/_/824831/Highlights)
 - Dodgers @ **Pirates**: [8:9](https://baseball.theater/game/_/823372/Highlights)
 - **Twins** @ Tigers: [6:4](https://baseball.theater/game/_/824266/Highlights)
 - D-backs @ **Marlins**: [0:8](https://baseball.theater/game/_/823856/Highlights)
 - **Phillies** @ Blue Jays: [7:4](https://baseball.theater/game/_/822804/Highlights)
 - **Cardinals** @ Mets: [9:2](https://baseball.theater/game/_/823618/Highlights)
-- **Rangers** @ Royals: [6:4](https://baseball.theater/game/_/824103/Highlights) *(F10)*
+- **Rangers** @ Royals: [6:4](https://baseball.theater/game/_/824103/Highlights) _(F10)_
 - Braves @ **White Sox**: [1:2](https://baseball.theater/game/_/824590/Highlights)
-- Cubs @ **Rockies**: [2:3](https://baseball.theater/game/_/824348/Highlights) *(WO)*
+- Cubs @ **Rockies**: [2:3](https://baseball.theater/game/_/824348/Highlights) _(WO)_
 - Brewers @ **Athletics**: [3:4](https://baseball.theater/game/_/824996/Highlights)
-- Astros @ **Angels**: [2:3](https://baseball.theater/game/_/824022/Highlights) *(F10, WO)*
+- Astros @ **Angels**: [2:3](https://baseball.theater/game/_/824022/Highlights) _(F10, WO)_
 
 #### Top Hitter
 
@@ -58,5 +58,3 @@ tags: [morning-briefing]
 - 19:10 — D-backs @ Marlins
 - 20:10 — Rangers @ Royals
 - 21:10 — Cubs @ Rockies
-
-<small>*Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste.*</small>

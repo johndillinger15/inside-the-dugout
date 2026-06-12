@@ -66,7 +66,3 @@ tags: [morning-briefing]
 - 21:15 — Nationals @ D-backs
 - 22:10 — Angels @ Dodgers
 - 22:10 — Mets @ Padres
-
----
-
-<small>_Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste._</small>

@@ -9,12 +9,12 @@ tags: [morning-briefing]
 
 - **Mariners** @ Orioles: [6:3](https://baseball.theater/game/_/824829/Highlights)
 - Red Sox @ **Rays**: [1:3](https://baseball.theater/game/_/822972/Highlights)
-- **Yankees** @ Guardians: [7:5](https://baseball.theater/game/_/824427/Highlights) *(F10)*
+- **Yankees** @ Guardians: [7:5](https://baseball.theater/game/_/824427/Highlights) _(F10)_
 - **Phillies** @ Blue Jays: [5:2](https://baseball.theater/game/_/822806/Highlights)
-- **Astros** @ Angels: [5:4](https://baseball.theater/game/_/824025/Highlights) *(F10)*
+- **Astros** @ Angels: [5:4](https://baseball.theater/game/_/824025/Highlights) _(F10)_
 - Reds @ **Padres**: [2:6](https://baseball.theater/game/_/823289/Highlights)
 - **Nationals** @ Giants: [4:3](https://baseball.theater/game/_/823218/Highlights)
-- **Brewers** @ Athletics: [15:14](https://baseball.theater/game/_/824998/Highlights) *(F12)*
+- **Brewers** @ Athletics: [15:14](https://baseball.theater/game/_/824998/Highlights) _(F12)_
 
 #### Top Hitter
 
@@ -43,5 +43,3 @@ tags: [morning-briefing]
 #### MLB HR Leader
 
 - Kyle Schwarber (PHI): 23 HR
-
-<small>*Das Morning Briefing täglich in deine Inbox? Schreib mir eine kurze Mail an [redaktion@inside-the-dugout.de](mailto:redaktion@inside-the-dugout.de) und ich nehme dich auf die Liste.*</small>

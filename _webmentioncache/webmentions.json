@@ -1,6 +1,124 @@
 {
-  "lastFetched": "2026-06-08T19:58:41.871Z",
+  "lastFetched": "2026-06-22T19:08:22.549Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "☆Sabi Bat Princess☆",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:ufu5oem3ifxftkewd54f2oqk/bafkreicjf374hv4ymx34l5ofrqukyffeiqrfoqjkhkhqjjdxy6gcfuez2i",
+        "url": "https://bsky.app/profile/cherryfizz71.wastelandseraphim.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3monppaetjr2x#liked_by_did:plc:ufu5oem3ifxftkewd54f2oqk",
+      "published": null,
+      "wm-received": "2026-06-19T16:12:47Z",
+      "wm-id": 2003792,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3monppaetjr2x/did%253Aplc%253Aufu5oem3ifxftkewd54f2oqk",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/19/1751-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/19/1751-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Emma Wilson",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:bbnmrgq5k7td53h7vgfz6tsv/bafkreih3zb2ka4fgc2luliocq4ajwdql7x4luwmthtell6p6zspwgnhdrq",
+        "url": "https://bsky.app/profile/matthew-nayor.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mof37bczhq2p#liked_by_did:plc:bbnmrgq5k7td53h7vgfz6tsv",
+      "published": null,
+      "wm-received": "2026-06-16T06:00:28Z",
+      "wm-id": 2002946,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mof37bczhq2p/did%253Aplc%253Abbnmrgq5k7td53h7vgfz6tsv",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/16/0726-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/16/0726-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "☆Sabi Bat Princess☆",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:ufu5oem3ifxftkewd54f2oqk/bafkreicjf374hv4ymx34l5ofrqukyffeiqrfoqjkhkhqjjdxy6gcfuez2i",
+        "url": "https://bsky.app/profile/cherryfizz71.wastelandseraphim.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3modntpjnhm2l#liked_by_did:plc:ufu5oem3ifxftkewd54f2oqk",
+      "published": null,
+      "wm-received": "2026-06-15T16:10:32Z",
+      "wm-id": 2002851,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3modntpjnhm2l/did%253Aplc%253Aufu5oem3ifxftkewd54f2oqk",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/15/1751-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/15/1751-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:b7vb63bieaopgejn3nnamf74/bafkreidydkg34ymsrj5jjpo7u2pqta7mbcpmxqyu626gfrsmrji772a55e",
+        "url": "https://bsky.app/profile/r-satzmann.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mockqc3qln2x#liked_by_did:plc:b7vb63bieaopgejn3nnamf74",
+      "published": null,
+      "wm-received": "2026-06-15T06:08:41Z",
+      "wm-id": 2002720,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mockqc3qln2x/did%253Aplc%253Ab7vb63bieaopgejn3nnamf74",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/15/0726-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/15/0726-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mo6j3wk5qd2m#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-06-13T17:28:08Z",
+      "wm-id": 2002314,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mo6j3wk5qd2m/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/13/1650-storylines/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/13/1650-storylines/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://bsky.app/profile/did:plc:uist7xrhua5qlapalx4bwtt7/post/3mnsighqprq2r",
+      "published": "2026-06-08T20:10:07+00:00",
+      "wm-received": "2026-06-08T20:10:18Z",
+      "wm-id": 2001298,
+      "wm-source": "https://bsky.brid.gy/convert/web/at://did:plc:uist7xrhua5qlapalx4bwtt7/app.bsky.feed.post/3mnsighqprq2r%23bridgy-fed-create-2026-06-08T20:10:11.587203+00:00",
+      "wm-target": "https://inside-the-dugout.de/posts/2026/mlb-woche-11-rueckblick/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "Woche 11 Recap \n\n<a href=\"https://inside-the-dugout.de/posts/2026/mlb-woche-11-rueckblick/\">https://inside-the-dugout.de/posts/2026/mlb-woche-11-rueckblick/</a>\n<a href=\"https://bsky.app/search?q=%23baseball\">#baseball</a> <a href=\"https://bsky.app/search?q=%23MLB\">#MLB</a> <a href=\"https://bsky.app/search?q=%23baseballblog\">#baseballblog</a>",
+        "text": "Woche 11 Recap \n\nhttps://inside-the-dugout.de/posts/2026/mlb-woche-11-rueckblick/\n#baseball #MLB #baseballblog"
+      },
+      "mention-of": "https://inside-the-dugout.de/posts/2026/mlb-woche-11-rueckblick/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

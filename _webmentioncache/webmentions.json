@@ -1,6 +1,44 @@
 {
-  "lastFetched": "2026-06-22T19:08:22.549Z",
+  "lastFetched": "2026-06-29T16:10:00.544Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "☆Sabi Bat Princess☆",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:ufu5oem3ifxftkewd54f2oqk/bafkreicjf374hv4ymx34l5ofrqukyffeiqrfoqjkhkhqjjdxy6gcfuez2i",
+        "url": "https://bsky.app/profile/cherryfizz71.wastelandseraphim.com"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mp7cxrwaum2u#liked_by_did:plc:ufu5oem3ifxftkewd54f2oqk",
+      "published": null,
+      "wm-received": "2026-06-26T16:14:42Z",
+      "wm-id": 2004950,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mp7cxrwaum2u/did%253Aplc%253Aufu5oem3ifxftkewd54f2oqk",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/26/1751-spotlight/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/26/1751-spotlight/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carsten",
+        "photo": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5da7ucwqpck6otiupvdddo2/bafkreidq2tekv3a5ku47lt7rg6ctn3pwmyedmwr77cr7ao6cwwjzzhtiuu",
+        "url": "https://bsky.app/profile/carlito1904.bsky.social"
+      },
+      "url": "https://bsky.app/profile/inside-the-dugout.bsky.social/post/3mowuca55mc2x#liked_by_did:plc:p5da7ucwqpck6otiupvdddo2",
+      "published": null,
+      "wm-received": "2026-06-23T08:54:02Z",
+      "wm-id": 2004308,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:uist7xrhua5qlapalx4bwtt7/at%253A%252F%252Fdid%253Aplc%253Auist7xrhua5qlapalx4bwtt7%252Fapp.bsky.feed.post%252F3mowuca55mc2x/did%253Aplc%253Ap5da7ucwqpck6otiupvdddo2",
+      "wm-target": "https://inside-the-dugout.de/shortposts/2026/06/23/0914-morning-briefing/",
+      "wm-protocol": "webmention",
+      "like-of": "https://inside-the-dugout.de/shortposts/2026/06/23/0914-morning-briefing/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {

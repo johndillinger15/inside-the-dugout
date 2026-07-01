@@ -48,4 +48,4 @@ deploy
 _webmentioncache/
 
 .obsidian/workspace.json
-.obsidian/plugins/
+.obsidian/plugins/_webmentioncache/webmentions.json

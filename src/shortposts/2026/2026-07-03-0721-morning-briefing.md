@@ -19,15 +19,15 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- Jake McCarthy (COL) | 1 HR | 4 RBI
-- Jordan Walker (STL) | 1 HR | 4 RBI
-- Dalton Rushing (LAD) | 1 2B | 1 HR | 4 RBI
+- [**Jake McCarthy**](https://baseballsavant.mlb.com/savant-player/664983) (COL) | 1 HR | 4 RBI
+- [**Jordan Walker**](https://baseballsavant.mlb.com/savant-player/691023) (STL) | 1 HR | 4 RBI
+- [**Dalton Rushing**](https://baseballsavant.mlb.com/savant-player/687221) (LAD) | 1 2B | 1 HR | 4 RBI
 
 #### Top Pitcher
 
-- Bryce Miller (SEA) | 7.0 IP | 0 ER | 8 K | 0 BB | GS 81
-- Ian Seymour (TB) | 6.0 IP | 1 ER | 8 K | 1 BB | GS 69
-- Walbert Ureña (LAA) | 5.2 IP | 1 ER | 6 K | 4 BB | GS 65
+- [**Bryce Miller**](https://baseballsavant.mlb.com/savant-player/682243) (SEA) | 7.0 IP | 0 ER | 8 K | 0 BB | GS 81
+- [**Ian Seymour**](https://baseballsavant.mlb.com/savant-player/693855) (TB) | 6.0 IP | 1 ER | 8 K | 1 BB | GS 69
+- [**Walbert Ureña**](https://baseballsavant.mlb.com/savant-player/700712) (LAA) | 5.2 IP | 1 ER | 6 K | 4 BB | GS 65
 
 #### Top 3 – Last 15 Games
 
@@ -43,7 +43,7 @@ tags: [morning-briefing]
 
 #### MLB HR Leader
 
-- Kyle Schwarber (PHI): 30 HR
+- [**Kyle Schwarber**](https://baseballsavant.mlb.com/savant-player/656941) (PHI): 30 HR
 
 #### Heute live in MESZ-tauglicher Zeit
 

@@ -1,6 +1,6 @@
 ---
 title: The State of the San Francisco Giants
-date: 2026-07-09T22:00:00+02:00
+date: 2026-07-09T23:00:00+02:00
 layout: post
 tags:
   - Special

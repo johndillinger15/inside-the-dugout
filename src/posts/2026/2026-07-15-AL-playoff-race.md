@@ -19,7 +19,7 @@ Die American League ist derzeit so ausgeglichen wie selten. Die Rays an der Spit
 
 ### AL East
 
-[<img src='/assets/img/2026/26_AL_East_ASB.png' class='w-4/5 mx-auto block' />](/assets/img/2026/26_AL_East_ASB.png)<br><br>
+[<img src='assets/img/2026/26_AL_East_ASB.png' class='w-4/5 mx-auto block' />](assets/img/2026/26_AL_East_ASB.png)<br><br>
 Die AL East ist aktuell eine Zweiklassengesellschaft. Die **Tampa Bay Rays** (56-38, +32) führen die Division 3 Spiele vor den **New York Yankees** (54-42, +91) an. Danach klafft eine Lücke von 7 Spielen und die **Boston Red Sox** (46-48, +27), **Baltimore Orioles** (46-51, -19) und **Toronto Blue Jays** (45-51, -35) folgen dahinter relativ eng beieinander, aber unter .500.
 
 An der Spitze konnten sich die Rays und Yankees von Ende April bis Mitte Mai absetzen und halten den Vorsprung seit dem konstant und wechseln sich an der Spitze der Division immer mal wieder ab. Das Restprogramm der Rays ist dabei etwas leichter (.488) als das der Yankees (.504). Wenn es nach dem ASB wieder losgeht, müssen die Rays erstmal auf einen Roadtrip durch die AL East mit Serien in Boston und Toronto, da könnte sich also mit einem Fehlstart schon noch eine Dynamik aufbauen. Die Yankees spielen zu Hause gegen die Dodgers und Pirates.

@@ -91,6 +91,10 @@ Die Rangers dominierten die Mariners dann auch am Samstag mit einem 7:1-Sieg und
 
 Die Rangers unterlagen den Seattle Mariners im dritten Spiel dann 4:6. Texas führte im siebten Inning noch mit 3:1, doch dann übernahm Reliever Cole Winn und kassierte innerhalb von zwei Pitches zwei Home Runs hintereinander; zunächst einen Three-Run Homer von Dominic Canzone, direkt gefolgt von einem Solo-Homer von Randy Arozarena. Im achten Inning erzielte Ezequiel Duran mit einem Solo-Homer den einzigen weiteren Run der Rangers nach Winns Kollaps, während die Mariners im neunten Inning noch einen Ensurance-Run nachlegten. Player of the Game war Joc Pederson, der im ersten Inning mit einem Hustle-Double den ersten Run der Partie erzielte.
 
+Das Serienfinale konnten die Rangers dann mit 7:3 gewinnen und sicherten sich damit den Series Win sowie die Season Series mit 7-6. Im Mittelpunkt stand Joc Pederson, der gegen George Kirby, gegen den die Rangers zuvor eine miserable Bilanz aufwiesen, zwei Home Runs schlagen konnte. Kirby stand vor dem Spiel bei 9-1 gegen Texas mit einem ERA von 1.33 in zwölf Karrierestarts. Pederson eröffnete mit einem Solo-Homerun zur 1:0-Führung und traf im zweiten Inning nach einem Ausgleich der Mariners mit zwei Runnern auf Base zum 4:1. Im dritten Inning bauten Ezequiel Duran und Jake Burger mit weiteren Homeruns die Führung auf 7:2 aus, ehe Kirby nach sieben Outs und sieben Runs vom Mound musste. Kumar Rocker warf starke 6 2/3 Innings für die Rangers.
+
+Die Rangers konnten die Serie also mit 3-1 gewinnen und stehen nun auf Platz 1 der AL West mit 2 Spielen Vorsprung auf die Astros und 2.5 Spielen Vorsprung auf die Mariners. Offensiver MVP der Serie ist Ezequiel Duran (OPS 1.308, 2 HR, 5 RBI), Pitching MVP der Serie ist Nathan Eovaldi (7.0 IP, 1 ER, 8 K, 1 BB, GS 74).
+
 ## Around the League
 
 - Nolan Arenado von den D-Backs erreichte am Montag dieser Woche im Spiel gegen die A's als 6. noch aktiver Spieler 2.000 Hits.

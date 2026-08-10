@@ -4,7 +4,7 @@ date: 2026-08-10T18:00:00+02:00
 layout: post
 tags:
   - Wochenrückblick
-description: "Die Cubs sweepen die Dodgers, die White Sox verteidigen die AL-Central-Spitze gegen Cleveland, und Mike Krukow kündigt seinen Rücktritt aus dem Giants-Broadcast an."
+description: "Die Cubs sweepen die Dodgers, die White Sox verteidigen die AL-Central-Spitze gegen Cleveland, und Mike Krukow kündigt seinen Rücktritt als Giants-Broadcaster an."
 metaTitle: "MLB Wochenrückblick MLB Woche 20 2026 – Cubs-Sweep, Krukow"
 metaDesc: "Die Cubs sweepen die Dodgers und nähern sich der NL-Central-Spitze, die White Sox verteidigen knapp gegen Cleveland, Krukow kündigt Rücktritt an – MLB Woche 20."
 author:

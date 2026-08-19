@@ -25,7 +25,7 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Jo Adell**](https://www.fangraphs.com/players/jo-adell/20220/stats) (LAA) | 1 HR | 6 RBI
+- [**Jo Adell**](https://www.fangraphs.com/players/jo-adell/20220/stats) (CLE) | 1 HR | 6 RBI
 - [**Fernando Tatis Jr.**](https://www.fangraphs.com/players/fernando-tatis-jr./19709/stats) (SD) | 2 HR | 3 RBI
 - [**Alejandro Kirk**](https://www.fangraphs.com/players/alejandro-kirk/22581/stats) (TOR) | 1 2B | 1 HR | 3 RBI
 

@@ -4,7 +4,7 @@ date: 2026-08-31T23:00:00+02:00
 layout: post
 tags:
   - Wochenrückblick
-description:
+description: "PCA ist weiter in MVP-Form und die Yankees gewinnen die Saison-Serie gegen die Red Sox."
 metaTitle:
 metaDesc:
 author:

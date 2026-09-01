@@ -4,9 +4,9 @@ date: 2026-08-31T23:00:00+02:00
 layout: post
 tags:
   - Wochenrückblick
-description: "PCA ist weiter in MVP-Form und die Yankees gewinnen die Saison-Serie gegen die Red Sox."
-metaTitle:
-metaDesc:
+description: "Braves sweepen Dodgers dank Chris-Sale-Shutouts, PCA weiter in MVP-Form und Yankees gewinnen Saison-Serie gegen Red Sox."
+metaTitle: "MLB Wochenrückblick MLB Woche 23 2026 – Braves-Sweep, Devers"
+metaDesc: "Die Braves sweepen die Dodgers dank eines Shutouts von Chris Sale. Die Yankees siegen knapp gegen die Red Sox. Devers glänzt bei den Giants. – MLB Woche 23."
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk23.png

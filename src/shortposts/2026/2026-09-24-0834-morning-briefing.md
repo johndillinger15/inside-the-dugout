@@ -1,5 +1,5 @@
 ---
-date: 2026-09-24T07:22:20+02:00
+date: 2026-09-24T08:34:17+02:00
 tags: [morning-briefing]
 ---
 
@@ -21,13 +21,14 @@ tags: [morning-briefing]
 - **Mets** @ Rangers: [7:2](https://baseball.theater/game/_/822841/Highlights)
 - **D-backs** @ Rockies: [5:3](https://baseball.theater/game/_/824301/Highlights)
 - Angels @ **Athletics**: [3:7](https://baseball.theater/game/_/824951/Highlights)
+- Astros @ **Mariners**: [5:6](https://baseball.theater/game/_/823086/Highlights) *(F10, WO)*
 - **Padres** @ Dodgers: [5:1](https://baseball.theater/game/_/823894/Highlights)
 
 #### Top Hitter
 
 - [**Ben Rice**](https://www.fangraphs.com/players/ben-rice/29576/stats) (NYY) | 2 HR | 2 RBI
+- [**Yainer Diaz**](https://www.fangraphs.com/players/yainer-diaz/23003/stats) (HOU) | 1 3B | 1 HR | 3 RBI
 - [**Ryan McMahon**](https://www.fangraphs.com/players/ryan-mcmahon/15112/stats) (NYY) | 1 HR | 5 RBI
-- [**Christian Encarnacion-Strand**](https://www.fangraphs.com/players/christian-encarnacion-strand/30011/stats) (BAL) | 1 HR | 3 RBI
 
 #### Top Pitcher
 

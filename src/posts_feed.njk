@@ -19,7 +19,7 @@ eleventyExcludeFromCollections: true
       type="application/rss+xml" />
 
     {% for post in collections.posts | reverse %}
-    {% if loop.index0 < 20 %}
+    {% if loop.index0 < 10 %}
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>

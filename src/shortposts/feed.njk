@@ -16,6 +16,7 @@ eleventyExcludeFromCollections: true
                type="application/rss+xml" />
 
     {% for post in collections.shortposts %}
+    {% if loop.index0 < 50 %}
     <item>
       <title>
         {{ post.templateContent | striptags | truncate(60, true) }}
@@ -31,6 +32,7 @@ eleventyExcludeFromCollections: true
         ]]></description>
 
     </item>
+    {% endif %}
     {% endfor %}
 
   </channel>

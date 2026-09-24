@@ -21,6 +21,7 @@ eleventyExcludeFromCollections: true
       type="application/rss+xml" />
 
     {% for post in collections.combined %}
+    {% if loop.index0 < 50 %}
     <item>
       <title>
         {% if post.data.title %}
@@ -38,6 +39,7 @@ eleventyExcludeFromCollections: true
         {{ post.templateContent | safe }}
       ]]></description>
     </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>

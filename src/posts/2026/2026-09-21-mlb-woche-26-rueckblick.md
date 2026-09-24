@@ -4,7 +4,7 @@ date: 2026-09-21T16:00:00+02:00
 layout: post
 tags:
   - Wochenrückblick
-description: “Die Guardians erobern die AL-Central-Spitze, die Rangers übernehmen die AL West, Pete Alonso knackt die 300-Homerun-Marke und Aaron Judge muss erneut auf die IL.”
+description: Die Guardians erobern die AL-Central-Spitze, die Rangers übernehmen die AL West, Pete Alonso knackt die 300-Homerun-Marke und Aaron Judge muss erneut auf die IL.
 metaTitle: "MLB Wochenrückblick Woche 26 2026 – Guardians, Rangers"
 metaDesc: ”Die Cleveland Guardians übernehmen die AL-Central-Spitze. Die Texas Rangers erobern die AL West. Pete Alonso knackt die 300-Homerun-Marke. – MLB Woche 26."
 author:

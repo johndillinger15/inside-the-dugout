@@ -12,116 +12,126 @@ layout: layouts/default.njk
     </a>
   </nav>
 
+  {# --------------------------------
+     Format-Tag des Shortposts ermitteln
+  --------------------------------- #}
+  {% set formatTag = null %}
+  {% if tags %}
+    {% for tag in tags %}
+      {% if formats[tag] %}{% set formatTag = tag %}{% endif %}
+    {% endfor %}
+  {% endif %}
+
   <!-- Post container -->
-  <div class="rounded-sm border border-slate-200 bg-[#F9F9F9] shadow-sm">
+  <div class="rounded-sm border border-slate-300 shadow-sm overflow-hidden">
 
     <!-- Header / meta -->
-    <header class="px-6 py-4 border-b border-slate-200">
+    <header class="px-6 py-3 border-b flex items-center justify-between gap-3"
+            style="background-color:#EDEDED; border-color:#E2E8F0;">
       <time datetime="{{ page.date.toISOString() }}"
             class="text-xs font-medium tracking-wide uppercase"
             style="color:#1D2D50">
         {{ page.date | berlinDateTime }}
       </time>
+      {% if formatTag %}
+        <a href="{{ '/tags/' | url }}{{ formatTag }}/"
+           class="text-xs font-medium tracking-wide uppercase hover:underline whitespace-nowrap px-1 py-0.5 rounded-sm border"
+           style="color:#C8102E; border-color:#C8102E; background-color:#FFF1F1;"
+           title="Alle Posts dieses Formats">
+          {{ formats[formatTag] }}
+        </a>
+      {% endif %}
     </header>
 
     <!-- Content -->
-    <div class="px-6 py-6 prose prose-slate max-w-none text-slate-800">
+    <div class="px-6 py-6 prose prose-slate max-w-none text-slate-800"
+         style="background-color:#F5F5F5;">
       {{ content | safe }}
     </div>
 
-    <!-- Divider -->
-    <hr class="mx-6 mb-6 border-t border-slate-200" />
+    {# --------------------------------
+       Webmentions for this shortpost
+    --------------------------------- #}
 
+    {% set pageUrl = 'https://inside-the-dugout.de' + page.url %}
+    {% set mentionsByTarget = webmention.children | groupBy("wm-target") %}
+    {% set pageMentions = mentionsByTarget[pageUrl] %}
 
-{# --------------------------------
-   Webmentions for this shortpost
---------------------------------- #}
+    {% set likes = 0 %}
+    {% set reposts = 0 %}
+    {% set replies = 0 %}
 
-  {% set pageUrl = 'https://inside-the-dugout.de' + page.url %}
-  {% set mentionsByTarget = webmention.children | groupBy("wm-target") %}
-  {% set pageMentions = mentionsByTarget[pageUrl] %}
-
-  {% set likes = 0 %}
-  {% set reposts = 0 %}
-  {% set replies = 0 %}
-
-  {% if pageMentions %}
-    {% for wm in pageMentions %}
-      {% if wm["wm-property"] == "like-of" %}
-        {% set likes = likes + 1 %}
-      {% elif wm["wm-property"] == "repost-of" %}
-        {% set reposts = reposts + 1 %}
-      {% elif wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
-        {% set replies = replies + 1 %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-
-  {% if likes > 0 or reposts > 0 or replies > 0 %}
-  <section class="px-6 pb-4 text-sm text-slate-700">
-    <strong>Social Interactions:</strong>
-    {% if likes > 0 %}❤️ Likes: {{ likes }}{% endif %}
-    {% if reposts > 0 %} | 🔁 Shares: {{ reposts }}{% endif %}
-    {% if replies > 0 %} | 💬 Kommentare: {{ replies }}{% endif %}
-  </section>
-  {% endif %}
-
-  {% if pageMentions and replies > 0 %}
-  <section class="px-6 pt-6 pb-8 border-t border-slate-200">
-    <h2 class="text-base font-semibold mb-6">Diskussion</h2>
-
-    <ul class="space-y-6">
+    {% if pageMentions %}
       {% for wm in pageMentions %}
-        {% if wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
-        <li class="flex items-start space-x-4">
-
-          <img
-            src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}"
-            alt="{{ wm.author.name or 'Avatar' }}"
-            class="w-10 h-10 rounded-full object-cover mt-1"
-            loading="lazy"
-          >
-
-          <div class="flex-1">
-            <div class="text-sm text-slate-600">
-              <a
-                href="{{ wm.url }}"
-                target="_blank"
-                rel="nofollow ugc"
-                class="font-semibold hover:underline"
-              >
-                {{ wm.author.name or 'Anonymous' }}
-              </a>
-            </div>
-
-            {% if wm.content %}
-              {% if wm.content.text %}
-                <p class="mt-2 text-slate-800">
-                  {{ wm.content.text }}
-                </p>
-              {% elif wm.content.html %}
-                <div class="mt-2 text-slate-800 prose prose-slate max-w-none">
-                  {{ wm.content.html | safe }}
-                </div>
-              {% endif %}
-            {% else %}
-              <a
-                href="{{ wm.url }}"
-                target="_blank"
-                rel="nofollow ugc"
-                class="inline-block mt-2 text-sm hover:underline"
-              >
-                View on source
-              </a>
-            {% endif %}
-
-          </div>
-        </li>
+        {% if wm["wm-property"] == "like-of" %}
+          {% set likes = likes + 1 %}
+        {% elif wm["wm-property"] == "repost-of" %}
+          {% set reposts = reposts + 1 %}
+        {% elif wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
+          {% set replies = replies + 1 %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </section>
-  {% endif %}
+    {% endif %}
+
+    {% if likes > 0 or reposts > 0 or replies > 0 %}
+    <section class="px-6 py-3 border-t text-sm text-slate-700"
+             style="background-color:#EDEDED; border-color:#E2E8F0;">
+      <strong>Social Interactions:</strong>
+      {% if likes > 0 %}❤️ Likes: {{ likes }}{% endif %}
+      {% if reposts > 0 %} | 🔁 Shares: {{ reposts }}{% endif %}
+      {% if replies > 0 %} | 💬 Kommentare: {{ replies }}{% endif %}
+    </section>
+    {% endif %}
+
+    {% if pageMentions and replies > 0 %}
+    <section class="px-6 py-6 border-t"
+             style="background-color:#EDEDED; border-color:#E2E8F0;">
+      <h2 class="text-base font-semibold mb-6">Diskussion</h2>
+
+      <ul class="space-y-6">
+        {% for wm in pageMentions %}
+          {% if wm["wm-property"] == "in-reply-to" or wm["in-reply-to"] %}
+          <li class="flex items-start space-x-4">
+            <img
+              src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}"
+              alt="{{ wm.author.name or 'Avatar' }}"
+              class="w-10 h-10 rounded-full object-cover mt-1"
+              loading="lazy"
+            >
+            <div class="flex-1">
+              <div class="text-sm text-slate-600">
+                <a href="{{ wm.url }}"
+                   target="_blank"
+                   rel="nofollow ugc"
+                   class="font-semibold hover:underline">
+                  {{ wm.author.name or 'Anonymous' }}
+                </a>
+              </div>
+              {% if wm.content %}
+                {% if wm.content.text %}
+                  <p class="mt-2 text-slate-800">
+                    {{ wm.content.text }}
+                  </p>
+                {% elif wm.content.html %}
+                  <div class="mt-2 text-slate-800 prose prose-slate max-w-none">
+                    {{ wm.content.html | safe }}
+                  </div>
+                {% endif %}
+              {% else %}
+                <a href="{{ wm.url }}"
+                   target="_blank"
+                   rel="nofollow ugc"
+                   class="inline-block mt-2 text-sm hover:underline">
+                  View on source
+                </a>
+              {% endif %}
+            </div>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
 
   </div>
 

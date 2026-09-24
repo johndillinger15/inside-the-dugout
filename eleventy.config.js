@@ -175,6 +175,26 @@ module.exports = (config) => {
     });
   });
 
+  config.addCollection("combinedFeed", function (collectionApi) {
+  return [
+    ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
+    ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
+  ]
+    .sort((a, b) => {
+      const dateA = a.date instanceof Date ? a.date.getTime() : 0;
+      const dateB = b.date instanceof Date ? b.date.getTime() : 0;
+      return dateB - dateA;
+    })
+    .slice(0, 50);
+});
+
+  config.addCollection("shortpostsFeed", function (collectionApi) {
+  return collectionApi
+    .getFilteredByGlob("./src/shortposts/**/*.md")
+    .sort((a, b) => b.date - a.date)
+    .slice(0, 50);
+});
+
   config.addFilter("plainExcerpt", function (html, length = 700) {
     if (!html) return "";
 

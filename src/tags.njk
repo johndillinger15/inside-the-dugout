@@ -16,15 +16,6 @@ permalink: "tags/index.html"
     {% endfor %}
 </div>
 
-<h2 class="text-xl font-semibold mb-4 text-center text-slate-700">Themen</h2>
-<div class="flex justify-center flex-wrap pb-24">
-    {% for name, length in collections.tagList %}
-    <a href="{{ '/tags/' | url }}{{ name }}" class="inline-block mx-1 mb-3 px-4 py-2 bg-slate-200 text-slate-700 font-medium rounded-full">
-        {{ name | capitalize }}
-        <span class="px-2 py-1 ml-1 text-xs font-semibold bg-teal-300 text-teal-800 rounded-full">{{ length }}</span>
-    </a>
-    {% endfor %}
-</div>
 
 <h1 class="text-3xl font-bold mb-10 text-center">Artikelarchiv</h1>
 {% set groupedPosts = collections.posts | groupPostsByYear %}

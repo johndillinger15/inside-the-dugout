@@ -15,7 +15,7 @@
                 <a class="text-slate-900 hover:text-slate-700" href="{{ post.url | url }}">{{ post.data.title }}</a>
                 <p class="text-slate-700 mb-1 text-xs" title="Published date">{{ post.data.page.date | readableDate }}</p>
             </div>
-            <p class="{% if isIndex %}text-sm leading-snug{% else %}text-base{% endif %} text-slate-800">
+            <p class="{% if isIndex %}text-sm leading-snug{% else %}text-sm{% endif %} text-slate-800">
                 {% if post.data.description %}
                 {{ post.data.description }}
                 {% else %}

@@ -7,9 +7,9 @@ tags: [series-spotlight, playoffs]
 
 ### [Boston Red Sox](https://www.fangraphs.com/teams/red-sox/stats) @ [New York Yankees](https://www.fangraphs.com/teams/yankees/stats) — ALWC (Best of 3)
 
-*29.9.–1.10.2026*
+_29.9.–1.10.2026_
 
-Viel größer kann eine Wild Card Series kaum werden. Zum siebten Mal treffen die Erzrivalen aus Boston und New York in den Playoffs aufeinander und nach dem Yankees-Sieg aus dem letzten Jahr gibt es direkt die Neuauflage.
+Viel größer kann eine Wild Card Series kaum werden. Zum siebten Mal treffen die Erzrivalen aus Boston und New York in den Playoffs aufeinander und nach dem Yankees-Sieg aus dem letzten Jahr gibt es dieses Jahr direkt die Neuauflage.
 
 #### [Boston Red Sox](https://www.fangraphs.com/teams/red-sox/stats) (87-75)
 
@@ -25,7 +25,7 @@ Viel größer kann eine Wild Card Series kaum werden. Zum siebten Mal treffen di
 
 - 29.9. | 02:00 MESZ | Payton Tolle (A) vs Cam Schlittler (H)
 - 30.9. | 02:00 MESZ | Sonny Gray (A) vs Max Fried (H)
-- 1.10. | 02:00 MESZ | Ranger Suarez (A) vs Gerrit Cole (H) *(falls nötig)*
+- 1.10. | 02:00 MESZ | Ranger Suarez (A) vs Gerrit Cole (H) _(falls nötig)_
 
 #### Regular Season
 

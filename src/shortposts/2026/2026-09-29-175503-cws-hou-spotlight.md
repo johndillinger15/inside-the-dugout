@@ -7,9 +7,9 @@ tags: [series-spotlight, playoffs]
 
 ### [Chicago White Sox](https://www.fangraphs.com/teams/white-sox/stats) @ [Houston Astros](https://www.fangraphs.com/teams/astros/stats) — ALWC (Best of 3)
 
-*29.9.–1.10.2026*
+_29.9.–1.10.2026_
 
-Kaum eine Mannschaft steht so sehr für den überraschenden Aufschwung 2026 wie die jungen White Sox. Nun treffen sie auf auf die Astros die mit den schlechtesten Record aller Zeiten in die Playoffs eingezogen sind.
+Kaum eine Mannschaft steht so sehr für einen überraschenden Aufschwung 2026 wie die jungen White Sox. Nun treffen sie auf die Astros die mit der schlechtesten Bilanz aller Zeiten in die Playoffs eingezogen sind.
 
 #### [Chicago White Sox](https://www.fangraphs.com/teams/white-sox/stats) (84-78)
 
@@ -25,7 +25,7 @@ Kaum eine Mannschaft steht so sehr für den überraschenden Aufschwung 2026 wie 
 
 - 29.9. | 23:00 MESZ | Hagen Smith (A) vs AJ Blubaugh (H)
 - 30.9. | 23:00 MESZ | TBD (A) vs TBD (H)
-- 1.10. | 23:00 MESZ | TBD (A) vs TBD (H) *(falls nötig)*
+- 1.10. | 23:00 MESZ | TBD (A) vs TBD (H) _(falls nötig)_
 
 #### Regular Season
 

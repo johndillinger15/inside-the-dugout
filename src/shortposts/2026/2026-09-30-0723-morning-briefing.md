@@ -12,12 +12,12 @@ tags: [morning-briefing]
 - Red Sox @ **Yankees**: [0:9](https://baseball.theater/game/_/849851/Highlights)
 - Cubs @ **Padres**: [0:8](https://baseball.theater/game/_/849843/Highlights)
 
-#### Serienstände
+#### Serienstände Wild-Card Round
 
-- Wild Card: Cubs @ Padres — Padres führt 1–0 *(Elimination Game)*
-- Wild Card: Phillies @ Braves — Braves führt 1–0 *(Elimination Game)*
-- Wild Card: Red Sox @ Yankees — Yankees führt 1–0 *(Elimination Game)*
-- Wild Card: White Sox @ Astros — White Sox führt 1–0 *(Elimination Game)*
+- Cubs @ Padres — Padres führen 1–0 _(Elimination Game)_
+- Phillies @ Braves — Braves führen 1–0 _(Elimination Game)_
+- Red Sox @ Yankees — Yankees führen 1–0 _(Elimination Game)_
+- White Sox @ Astros — White Sox führen 1–0 _(Elimination Game)_
 
 #### Top Hitter
 

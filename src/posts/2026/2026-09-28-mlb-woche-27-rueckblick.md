@@ -47,21 +47,21 @@ So sieht dann das finale Feld für die Playoffs 2026 aus:
 
 #### American League
 
-#1 Rays (Sieger AL East)
-#2 Guardians (Sieger AL Central)
-#3 Astros (Sieger AL West, host White Sox in Wild Card Series)
-#4 Yankees (AL Wild Card, host Red Sox in Wild Card Series)  
-#5 Red Sox (AL Wild Card, play at Yankees in Wild Card Series)  
-#6 White Sox (AL Wild Card, play at Astros in Wild Card Series)
+1. Rays (Sieger AL East)
+2. Guardians (Sieger AL Central)
+3. Astros (Sieger AL West, host White Sox in Wild Card Series)
+4. Yankees (AL Wild Card, host Red Sox in Wild Card Series)  
+5. Red Sox (AL Wild Card, play at Yankees in Wild Card Series)  
+6. White Sox (AL Wild Card, play at Astros in Wild Card Series)
 
 #### National League
 
-#1 Brewers (Sieger NL Central)  
-#2 Dodgers (Sieger NL West champ)  
-#3 Braves (Sieger NL East, host Phillies in Wild Card Series)  
-#4 Padres (NL Wild Card, host Cubs in Wild Card Series)  
-#5 Cubs (NL Wild Card, play at Padres in Wild Card Series)  
-#6 Phillies (NL Wild Card, play at Braves in Wild Card Series)
+1. Brewers (Sieger NL Central)  
+2. Dodgers (Sieger NL West champ)  
+3. Braves (Sieger NL East, host Phillies in Wild Card Series)  
+4. Padres (NL Wild Card, host Cubs in Wild Card Series)  
+5. Cubs (NL Wild Card, play at Padres in Wild Card Series)  
+6. Phillies (NL Wild Card, play at Braves in Wild Card Series)
 
 ## Serien der Woche
 

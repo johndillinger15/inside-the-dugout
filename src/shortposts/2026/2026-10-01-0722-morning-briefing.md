@@ -14,7 +14,10 @@ tags: [morning-briefing]
 
 #### Serienstände WC Round
 
+- Cubs @ Padres — Padres gewinnen 2–0
 - Phillies @ Braves — 1–1 (Gleichstand) *(Elimination Game)*
+- Red Sox @ Yankees — Yankees gewinnen 2–0
+- White Sox @ Astros — White Sox gewinnen 2–0
 
 #### Top Hitter
 

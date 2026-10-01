@@ -14,10 +14,10 @@ tags: [morning-briefing]
 
 #### Serienstände Wild-Card Round
 
-- Cubs @ Padres — Padres führen 1–0 _(Elimination Game)_
-- Phillies @ Braves — Braves führen 1–0 _(Elimination Game)_
-- Red Sox @ Yankees — Yankees führen 1–0 _(Elimination Game)_
-- White Sox @ Astros — White Sox führen 1–0 _(Elimination Game)_
+- Cubs @ Padres — Padres führen 1–0
+- Phillies @ Braves — Braves führen 1–0
+- Red Sox @ Yankees — Yankees führen 1–0
+- White Sox @ Astros — White Sox führen 1–0
 
 #### Top Hitter
 

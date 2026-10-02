@@ -1,6 +1,6 @@
 ---
 title: Wildcard Series Recap 2026
-date: 2025-10-02T13:00:00Z
+date: 2026-10-02T13:00:00Z
 layout: post
 tags:
   - Playoffs

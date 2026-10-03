@@ -21,10 +21,10 @@ tags: [series-spotlight, playoffs]
 
 #### Probable Pitchers
 
-- 3.10. | 19:00 MESZ | Hagen Smith (A) vs Parker Messick (H)
-- 5.10. | 23:00 MESZ | TBD (A) vs Gavin Williams (H)
-- 7.10. | 22:00 MESZ | TBD (A) vs TBD (H)
-- 8.10. | 23:00 MESZ | TBD (A) vs TBD (H) *(falls nötig)*
+- 3.10. @CLE 19:00 MESZ | Hagen Smith vs Parker Messick
+- 5.10. @CLE 23:00 MESZ | TBD vs Gavin Williams
+- 7.10. @CWS 22:00 MESZ | TBD vs TBD
+- 8.10. @CWS 23:00 MESZ | TBD vs TBD *(falls nötig)*
 
 #### Regular Season
 

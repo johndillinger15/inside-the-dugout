@@ -21,10 +21,10 @@ tags: [series-spotlight, playoffs]
 
 #### Probable Pitchers
 
-- 3.10. | 22:00 MESZ | TBD (A) vs Tarik Skubal (H)
-- 4.10. | 02:00 MESZ | TBD (A) vs Blake Snell (H)
-- 6.10. | 00:00 MESZ | TBD (A) vs TBD (H)
-- 7.10. | 00:00 MESZ | TBD (A) vs TBD (H) *(falls nötig)*
+- 3.10. @LAD 22:00 MESZ | TBD vs Tarik Skubal
+- 4.10. @LAD 02:00 MESZ | TBD vs Blake Snell
+- 6.10. @ATL 00:00 MESZ | TBD vs TBD
+- 7.10. @ATL 00:00 MESZ | TBD vs TBD *(falls nötig)*
 
 #### Regular Season
 

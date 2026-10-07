@@ -12,10 +12,8 @@ tags: [morning-briefing]
 
 #### Serienstände Division Series
 
-- Braves @ Dodgers — 1–1
-- Brewers @ Padres — Padres führen 1–0
-- Dodgers @ Braves — Dodgers führen 1–0
-- Padres @ Brewers — Brewers führen 2–0
+- Dodgers @ Braves — Dodgers führen 2–1
+- Padres @ Brewers — Brewers führen 2–1
 - White Sox @ Guardians — White Sox führen 2–0
 - Yankees @ Rays — Rays führen 2–0
 

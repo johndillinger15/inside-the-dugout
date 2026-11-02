@@ -1,5 +1,5 @@
 ---
-title: Offseason News 1
+title: "Offseason News #1"
 date: 2026-11-02T21:00:00+02:00
 layout: post
 tags:

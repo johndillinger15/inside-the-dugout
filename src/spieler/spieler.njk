@@ -1,0 +1,116 @@
+---
+pagination:
+  data: players
+  size: 1
+  alias: p
+permalink: "/spieler/{{ p.slug }}/index.html"
+layout: layouts/default
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  title: "{{ p.name }}"
+  description: "{{ p.name }}: Kennzahlen, Formkurve und Vergleich mit Vorsaison und Karriere."
+---
+<style>
+  .pl{--itd-navy:#1D2D50;--itd-red:#C8102E;--pl-better:#17803d;--pl-worse:#b42318;--pl-line:rgba(100,116,139,.3);padding:0 0 3rem;line-height:1.55}
+  .pl a{color:#1d5fa8;text-decoration:underline}
+  .pl h1{font-size:2rem;line-height:1.15;margin:0}
+  .pl h2{font-size:1.25rem;margin:2.2rem 0 .8rem;padding-bottom:.35rem;border-bottom:2px solid var(--itd-red)}
+  .pl .sub{opacity:.75;margin:.3rem 0 0}
+  .pl .cards{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr))}
+  .pl .card{border:1px solid var(--pl-line);border-radius:.6rem;padding:.9rem 1rem}
+  .pl .kick{font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;opacity:.7}
+  .pl .big{font-size:1.9rem;font-weight:700;color:var(--itd-navy);line-height:1.1;margin:.2rem 0}
+  .pl .ct{font-weight:600;margin:0 0 .25rem}
+  .pl .cx{margin:0;font-size:.92rem;opacity:.9}
+  .pl .wrap{overflow-x:auto}
+  .pl table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+  .pl th,.pl td{padding:.5rem .6rem;text-align:right;border-bottom:1px solid var(--pl-line)}
+  .pl th:first-child,.pl td:first-child{text-align:left;white-space:nowrap}
+  .pl thead th{font-size:.8rem;opacity:.75;font-weight:600}
+  .pl tr.main td{font-weight:700;background:rgba(200,16,46,.06)}
+  .pl .better{color:var(--pl-better)}.pl .worse{color:var(--pl-worse)}.pl .none,.pl .neutral{opacity:.7}
+  .pl .note{font-size:.82rem;opacity:.7;margin:.5rem 0 0}
+  .pl .split{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr))}
+  .pl .split dl{display:grid;grid-template-columns:1fr auto;gap:.2rem .8rem;margin:.5rem 0 0}
+  .pl .split dd{margin:0;font-weight:600;text-align:right}.pl .split dt{opacity:.8}
+  .pl .links a{margin-right:1rem}
+  .pl .kindtag{display:inline-block;font-size:.75rem;padding:.1rem .5rem;border-radius:1rem;background:var(--itd-navy);color:#fff;margin-left:.5rem;vertical-align:middle}
+</style>
+
+<div class="pl">
+  <nav class="note"><a href="/spieler/">← Alle Spieler</a></nav>
+  <h1>{{ p.name }}</h1>
+  <p class="sub">
+    {% if p.team %}{{ p.team }}{% endif %}{% if p.position %} · {{ p.position }}{% endif %}
+    {% if p.dataThrough %} · Daten bis {{ p.dataThrough }}{% endif %}
+  </p>
+
+  {% for b in p.blocks %}
+  <section>
+    <h2>{{ b.label }}: Warum er gerade gut ist</h2>
+    {% if b.findings.length %}
+    <div class="cards">
+      {% for f in b.findings %}
+      <article class="card">
+        <div class="kick">{{ f.kicker }}</div>
+        <div class="big">{{ f.wert }}</div>
+        <p class="ct">{{ f.titel }}</p>
+        <p class="cx">{{ f.text }}</p>
+      </article>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="note">{{ b.findingsNote }}</p>
+    {% endif %}
+
+    <h2>Kennzahlen</h2>
+    <div class="wrap">
+    <table>
+      <thead><tr><th></th><th>{{ b.season }}</th><th>{{ b.prevSeason }}</th><th>Karriere</th><th>Δ zur Vorsaison</th></tr></thead>
+      <tbody>
+      {% for r in b.rows %}
+        <tr{% if r.main %} class="main"{% endif %}><td>{{ r.name }}</td><td>{{ r.v26 }}</td><td>{{ r.v25 }}</td><td>{{ r.car }}</td><td class="{{ r.tone }}">{{ r.delta }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    {% if b.tableNote %}<p class="note">{{ b.tableNote }}</p>{% endif %}
+
+    {% if b.chart %}
+    <h2>Formkurve</h2>
+    <p class="note" style="margin-top:0">{{ b.chart.title }}</p>
+    <div class="wrap">{{ b.chart.svg | safe }}</div>
+    <p class="note">{{ b.chart.note }}</p>
+    {% endif %}
+
+    {% if b.split %}
+    <h2>Postseason und Regular Season</h2>
+    <div class="split">
+      {% for key, label in {"regular": "Regular Season", "post": "Postseason"} %}
+      {% set s = b.split[key] %}
+      {% if s %}
+      <div class="card">
+        <div class="kick">{{ label }}</div>
+        <p class="note" style="margin:.1rem 0 0">{{ s.sample }}</p>
+        <dl>{% for m in s.metrics %}<dt>{{ m.label }}</dt><dd>{{ m.value }}</dd>{% endfor %}</dl>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  <h2>Weitere Daten</h2>
+  <p class="links">
+    <a href="{{ p.links.savant }}" rel="noopener">Baseball Savant (Statcast)</a>
+    {% if p.links.fangraphs %}<a href="{{ p.links.fangraphs }}" rel="noopener">FanGraphs</a>{% endif %}
+  </p>
+
+  <h2>Methodik</h2>
+  <p class="note">
+    Quelle: MLB Stats API. wRC+ stammt von dort; Formkurve, FIP und Game Score sind selbst berechnet.
+    Spielerseiten werden mit dem Morning Briefing aktualisiert. Statcast-Werte (xwOBA, Exit Velocity)
+    stehen auf Baseball Savant.
+  </p>
+</div>

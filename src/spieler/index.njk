@@ -1,0 +1,16 @@
+---
+permalink: /spieler/index.html
+layout: layouts/default
+title: Spieler
+description: Spielerseiten von Inside The Dugout.
+eleventyExcludeFromCollections: true
+---
+<div class="pl-index" style="padding-bottom:3rem">
+  <h1 style="font-size:2rem;font-weight:700;margin-bottom:.5rem">Spieler</h1>
+  <p>Alle Spieler, die in den Morning Briefings auftauchen.</p>
+  <ul style="columns:2 14rem;list-style:none;padding:0">
+  {% for p in players %}
+    <li style="padding:.2rem 0"><a href="/spieler/{{ p.slug }}/" style="color:#1d5fa8;text-decoration:underline">{{ p.name }}</a> <span style="opacity:.6">{{ p.team }}</span></li>
+  {% endfor %}
+  </ul>
+</div>

@@ -4,14 +4,15 @@ date: 2026-11-02T21:00:00+02:00
 layout: post
 tags:
   - Wochenrückblick
-description: Die Gold Glove Gewinner wurden gestern bekannt gegeben, außerdem alle News die Seit dem Ende der Regular Season aufgelaufen waren.
+description: Die Gold Glove Gewinner wurden gestern bekannt gegeben, außerdem alle News die seit dem Ende der Regular Season aufgelaufen waren.
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_25_offseason_01.png
 ---
+
 <img src='../../img/thumbnail_25_offseason_01.png' style='display:none'>
 
-**Liebe Baseballgemeinde**, willkommen zum zur ersten Ausgabe der Offseason News 2026. Die Sektkorken in Milwaukee sind alle wieder auf dem Boden angekommen und [die Parade der Brewers](https://youtu.be/QQsRx-igoWc?is=ijhc_vugVIIV7_ao) hat auch stattgefunden. In den letzten Wochen hat sich die Baseballwelt, was die Nachrichten angeht trotzdem weitergedreht und diese Nachrichten möchte ich unten gerne zusammenkehren. Wie immer gibt es die Gliederung und ihr könnt einfach zu den Punkten springen, die euch interessieren. 
+**Liebe Baseballgemeinde**, willkommen zum zur ersten Ausgabe der Offseason News 2026. Die Sektkorken in Milwaukee sind alle wieder auf dem Boden angekommen und [die Parade der Brewers](https://youtu.be/QQsRx-igoWc?is=ijhc_vugVIIV7_ao) hat auch stattgefunden. In den letzten Wochen hat sich die Baseballwelt, was die Nachrichten angeht trotzdem weitergedreht und diese Nachrichten möchte ich unten gerne zusammenkehren. Wie immer gibt es die Gliederung und ihr könnt einfach zu den Punkten springen, die euch interessieren.
 
 ### Gold Gloves
 
@@ -33,7 +34,7 @@ Die Angels zogen die Club Option für 2027 bei Kurt Suzuki nicht und suchen nun 
 
 Aaron Boone bleint auch 2027 Manager der Yankees und geht damit in seine zehnte Saison. Es war das letzte Jahr seiner 2025 unterschriebenen Verlängerung über zwei Jahre und 10,5 Millionen Dollar. Die Entscheidung überraschte nicht, da Boone die Yankees trotz eines verletzungsgeplagten Rosters zur 61. Postseason-Teilnahme geführt hatte, wofür ihn Joe Girardi lobte. In neun Jahren erreichte er achtmal die Playoffs, gewann aber nur ein AL Pennant. Zuletzt scheiterte das Team zweimal in Folge in der ALDS an den Divisionsrivalen Blue Jays und Rays.
 
-### Orioles 
+### Orioles
 
 Die Orioles holten Jared Banner, seit 2023 Assistant GM der Cubs, als neuen General Manager. Die Entscheidungsgewalt bleibt jedoch bei Mike Elias als President of Baseball Operations. Banner soll vor allem das Player Development stärken, wo Elias selbst indirekt Defizite eingeräumt hatte. Seit 2007 arbeitete er bei Red Sox, Mets und Cubs im Player Development. Als Pluspunkt galt die Verpflichtung von Pete Crow-Armstrong, dem wahrscheinlichen NL MVP, den die Cubs 2021 von den Mets geholt hatten.
 
@@ -49,5 +50,6 @@ Die Astros verlängerten den auslaufenden Vertrag von Joe Espada nicht, obwohl d
 
 Die Phillies statteten Don Mattingly mit einem Zweijahresvertrag als Manager aus, nachdem der 65-Jährige nach 28 Spielen als Interim-Manager übernommen hatte. Der als Bench Coach geholte Vater von General Manager Preston Mattingly ersetzte im April den entlassenen Rob Thomson und kam auf eine Bilanz von 79-55. Trotz vier Niederlagen in Folge in der letzten Woche sicherte ein Sieg am letzten Spieltag die NL Wild Card. Gegen die Braves erzwangen die Phillies ein drittes Spiel der Wild Card Series, unterlagen dort aber 2:6. Präsident Dave Dombrowski hatte zweimal eine Absage von Alex Cora erhalten und landete beide Male bei Mattingly. Der Kern um Harper, Schwarber, Realmuto, Wheeler und Nola erreichte fünfmal in Folge die Playoffs mit durchschnittlich 91 Siegen, schied seit der World Series 2022 jedoch immer früher aus.
 
-### Zuschauerzahlen 
+### Zuschauerzahlen
+
 Die MLB verzeichnete 2026 zum vierten Mal in Folge einen Zuschauerzuwachs und kam in der regular Season auf 71,75 Millionen Besucher, den höchsten Wert seit 2017. Der Zuschauerschnitt pro Spiel stieg bei 2.425 Spielen um 0,4 Prozent auf 29.589. Allerdings legten nur 13 Teams zu, während 17 Rückgänge verzeichneten. Den größten Sprung machten die Rays, die nach der Rückkehr ins Tropicana Field 628.255 Fans mehr anzogen. Die White Sox, die nach drei 100-Loss-Seasons eine Wild Card holten, legten um 540.687 zu. Die Mets verloren trotz der höchsten Payroll 472.450 Besucher.

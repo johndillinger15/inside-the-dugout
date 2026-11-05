@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": 695578,
+ "slug": "james-wood-695578",
+ "name": "James Wood",
+ "team": "WSH",
+ "position": "RF",
+ "season": 2026,
+ "dataThrough": "2026-09-27",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "142",
+     "titel": "wRC+ deutlich über Liga-Durchschnitt",
+     "text": "wRC+ 142 heißt 42 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 125, Karriere 130."
+    },
+    {
+     "kicker": "Plate Discipline",
+     "wert": "16.4 %",
+     "titel": "Mehr Walks als in der Vorsaison",
+     "text": "BB-Rate 16.4 %, Vorsaison 12.3 %, Karriere 13.7 %. Das sind 4.0 Prozentpunkte mehr als 2025."
+    },
+    {
+     "kicker": "Strikeouts",
+     "wert": "28.7 %",
+     "titel": "Weniger Strikeouts als in der Vorsaison",
+     "text": "K-Rate 28.7 %, Vorsaison 32.1 %, Karriere 30.2 %. Das sind 3.3 Prozentpunkte weniger als 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.265",
+     "v25": "0.256",
+     "car": "0.261",
+     "delta": "▲ +0.009",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.388",
+     "v25": "0.350",
+     "car": "0.365",
+     "delta": "▲ +0.039",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.503",
+     "v25": "0.475",
+     "car": "0.475",
+     "delta": "▲ +0.028",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.891",
+     "v25": "0.825",
+     "car": "0.840",
+     "delta": "▲ +0.067",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "142",
+     "v25": "125",
+     "car": "130*",
+     "delta": "▲ +16",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "30",
+     "v25": "31",
+     "car": "70",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "28.7",
+     "v25": "32.1",
+     "car": "30.2",
+     "delta": "▼ −3.3",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "16.4",
+     "v25": "12.3",
+     "car": "13.7",
+     "delta": "▲ +4.0",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.289\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.500</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.600</text><path d=\"M52,220 L52.0,119.1 L59.4,127.2 L66.9,137.8 L74.3,135.3 L81.8,131.6 L89.2,134.9 L96.7,109.4 L104.1,97.9 L111.6,88.3 L119.0,89.9 L126.5,97.6 L133.9,97.1 L141.4,90.5 L148.8,111.8 L156.3,114.5 L163.7,110.2 L171.2,105.8 L178.6,101.0 L186.1,101.0 L193.5,101.1 L201.0,99.7 L208.4,94.1 L215.9,100.1 L223.3,95.0 L230.8,85.5 L238.2,89.6 L245.7,95.0 L253.1,105.9 L260.6,108.6 L268.0,126.0 L275.4,134.1 L282.9,145.2 L290.3,151.9 L297.8,163.2 L305.2,161.4 L312.7,159.6 L320.1,153.4 L327.6,159.6 L335.0,152.4 L342.5,141.5 L349.9,133.8 L357.4,128.1 L364.8,134.7 L372.3,130.8 L379.7,120.9 L387.2,136.6 L394.6,120.1 L402.1,103.3 L409.5,86.3 L417.0,88.6 L424.4,89.3 L431.9,92.6 L439.3,106.3 L446.8,98.7 L454.2,86.6 L461.7,86.6 L469.1,88.3 L476.6,87.4 L484.0,75.1 L491.4,76.5 L498.9,87.6 L506.3,92.6 L513.8,96.4 L521.2,110.8 L528.7,112.1 L536.1,130.2 L543.6,141.9 L551.0,146.1 L558.5,154.5 L565.9,165.7 L573.4,168.1 L580.8,167.9 L588.3,172.6 L595.7,165.0 L603.2,155.6 L610.6,155.6 L618.1,155.9 L625.5,157.5 L633.0,155.9 L640.4,150.6 L647.9,146.3 L655.3,168.5 L662.8,170.1 L670.2,175.3 L677.7,177.3 L685.1,175.7 L692.6,175.8 L700.0,175.3 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"52\" y1=\"128.5\" x2=\"700\" y2=\"128.5\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"132.5\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.383</text><line x1=\"52\" y1=\"162.6\" x2=\"700\" y2=\"162.6\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"166.6\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,119.1 59.4,127.2 66.9,137.8 74.3,135.3 81.8,131.6 89.2,134.9 96.7,109.4 104.1,97.9 111.6,88.3 119.0,89.9 126.5,97.6 133.9,97.1 141.4,90.5 148.8,111.8 156.3,114.5 163.7,110.2 171.2,105.8 178.6,101.0 186.1,101.0 193.5,101.1 201.0,99.7 208.4,94.1 215.9,100.1 223.3,95.0 230.8,85.5 238.2,89.6 245.7,95.0 253.1,105.9 260.6,108.6 268.0,126.0 275.4,134.1 282.9,145.2 290.3,151.9 297.8,163.2 305.2,161.4 312.7,159.6 320.1,153.4 327.6,159.6 335.0,152.4 342.5,141.5 349.9,133.8 357.4,128.1 364.8,134.7 372.3,130.8 379.7,120.9 387.2,136.6 394.6,120.1 402.1,103.3 409.5,86.3 417.0,88.6 424.4,89.3 431.9,92.6 439.3,106.3 446.8,98.7 454.2,86.6 461.7,86.6 469.1,88.3 476.6,87.4 484.0,75.1 491.4,76.5 498.9,87.6 506.3,92.6 513.8,96.4 521.2,110.8 528.7,112.1 536.1,130.2 543.6,141.9 551.0,146.1 558.5,154.5 565.9,165.7 573.4,168.1 580.8,167.9 588.3,172.6 595.7,165.0 603.2,155.6 610.6,155.6 618.1,155.9 625.5,157.5 633.0,155.9 640.4,150.6 647.9,146.3 655.3,168.5 662.8,170.1 670.2,175.3 677.7,177.3 685.1,175.7 692.6,175.8 700.0,175.3\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"175.3\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">19.5.</text><text x=\"379.7\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">7.7.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">27.9.</text></svg>"
+   },
+   "split": null
+  }
+ ],
+ "links": {
+  "mlb": "https://www.mlb.com/player/james-wood-695578",
+  "savant": "https://baseballsavant.mlb.com/savant-player/695578",
+  "fangraphs": "https://www.fangraphs.com/players/james-wood/29518/stats"
+ }
+}

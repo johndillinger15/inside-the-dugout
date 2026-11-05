@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": 646240,
+ "slug": "rafael-devers-646240",
+ "name": "Rafael Devers",
+ "team": "SF",
+ "position": "1B",
+ "season": 2026,
+ "dataThrough": "2026-09-12",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "136",
+     "titel": "wRC+ deutlich über Liga-Durchschnitt",
+     "text": "wRC+ 136 heißt 36 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 136, Karriere 128."
+    },
+    {
+     "kicker": "Form",
+     "wert": "0.530",
+     "titel": "Gerade heiß gelaufen",
+     "text": "wOBA 0.530 in den letzten 100 PA, Saison 0.367."
+    },
+    {
+     "kicker": "Power",
+     "wert": "0.525",
+     "titel": "Mehr Extra-Base-Power",
+     "text": "SLG 0.525, Vorsaison 0.479. 37 Homeruns in 2026, 35 in 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.258",
+     "v25": "0.252",
+     "car": "0.274",
+     "delta": "▲ +0.006",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.340",
+     "v25": "0.372",
+     "car": "0.348",
+     "delta": "▼ −0.032",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.525",
+     "v25": "0.479",
+     "car": "0.508",
+     "delta": "▲ +0.046",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.865",
+     "v25": "0.851",
+     "car": "0.856",
+     "delta": "▲ +0.014",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "136",
+     "v25": "136",
+     "car": "128*",
+     "delta": "▼ −1",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "37",
+     "v25": "35",
+     "car": "272",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "25.4",
+     "v25": "26.3",
+     "car": "22.4",
+     "delta": "▼ −0.9",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.9",
+     "v25": "15.4",
+     "car": "9.7",
+     "delta": "▼ −4.5",
+     "tone": "worse",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.530\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.000</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.600</text><path d=\"M52,220 L52.0,131.3 L57.2,133.3 L62.5,133.3 L67.7,140.4 L72.9,138.5 L78.1,140.9 L83.4,140.6 L88.6,143.7 L93.8,148.9 L99.0,144.8 L104.3,138.5 L109.5,138.5 L114.7,135.6 L119.9,130.9 L125.2,130.9 L130.4,133.5 L135.6,125.2 L140.8,114.9 L146.1,114.2 L151.3,113.0 L156.5,110.1 L161.7,110.9 L167.0,109.3 L172.2,109.6 L177.4,112.6 L182.6,108.7 L187.9,105.6 L193.1,105.6 L198.3,103.9 L203.5,99.4 L208.8,94.2 L214.0,94.1 L219.2,94.1 L224.5,88.1 L229.7,94.6 L234.9,86.1 L240.1,87.2 L245.4,98.2 L250.6,99.4 L255.8,106.9 L261.0,113.9 L266.3,111.6 L271.5,112.3 L276.7,113.3 L281.9,118.1 L287.2,111.9 L292.4,111.9 L297.6,115.8 L302.8,114.8 L308.1,106.8 L313.3,98.1 L318.5,97.0 L323.7,103.5 L329.0,105.4 L334.2,102.5 L339.4,105.0 L344.6,105.0 L349.9,105.4 L355.1,104.9 L360.3,106.6 L365.5,108.1 L370.8,95.9 L376.0,90.8 L381.2,82.7 L386.5,84.6 L391.7,80.1 L396.9,77.8 L402.1,75.8 L407.4,79.1 L412.6,72.3 L417.8,60.5 L423.0,65.3 L428.3,68.2 L433.5,77.4 L438.7,82.5 L443.9,94.5 L449.2,89.3 L454.4,91.6 L459.6,88.1 L464.8,83.0 L470.1,69.4 L475.3,71.2 L480.5,83.7 L485.7,83.7 L491.0,91.7 L496.2,89.4 L501.4,95.6 L506.6,92.6 L511.9,88.7 L517.1,100.7 L522.3,103.0 L527.5,100.1 L532.8,95.7 L538.0,102.6 L543.2,110.5 L548.5,110.5 L553.7,108.2 L558.9,110.3 L564.1,105.2 L569.4,107.8 L574.6,98.7 L579.8,98.7 L585.0,101.0 L590.3,106.7 L595.5,111.5 L600.7,112.6 L605.9,112.6 L611.2,105.8 L616.4,97.9 L621.6,94.6 L626.8,92.3 L632.1,95.1 L637.3,99.5 L642.5,92.6 L647.7,85.0 L653.0,83.5 L658.2,72.2 L663.4,77.9 L668.6,63.1 L673.9,51.7 L679.1,53.0 L684.3,44.2 L689.5,51.0 L694.8,46.1 L700.0,43.4 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"52\" y1=\"97.6\" x2=\"700\" y2=\"97.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"101.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.367</text><line x1=\"52\" y1=\"115.1\" x2=\"700\" y2=\"115.1\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"119.1\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,131.3 57.2,133.3 62.5,133.3 67.7,140.4 72.9,138.5 78.1,140.9 83.4,140.6 88.6,143.7 93.8,148.9 99.0,144.8 104.3,138.5 109.5,138.5 114.7,135.6 119.9,130.9 125.2,130.9 130.4,133.5 135.6,125.2 140.8,114.9 146.1,114.2 151.3,113.0 156.5,110.1 161.7,110.9 167.0,109.3 172.2,109.6 177.4,112.6 182.6,108.7 187.9,105.6 193.1,105.6 198.3,103.9 203.5,99.4 208.8,94.2 214.0,94.1 219.2,94.1 224.5,88.1 229.7,94.6 234.9,86.1 240.1,87.2 245.4,98.2 250.6,99.4 255.8,106.9 261.0,113.9 266.3,111.6 271.5,112.3 276.7,113.3 281.9,118.1 287.2,111.9 292.4,111.9 297.6,115.8 302.8,114.8 308.1,106.8 313.3,98.1 318.5,97.0 323.7,103.5 329.0,105.4 334.2,102.5 339.4,105.0 344.6,105.0 349.9,105.4 355.1,104.9 360.3,106.6 365.5,108.1 370.8,95.9 376.0,90.8 381.2,82.7 386.5,84.6 391.7,80.1 396.9,77.8 402.1,75.8 407.4,79.1 412.6,72.3 417.8,60.5 423.0,65.3 428.3,68.2 433.5,77.4 438.7,82.5 443.9,94.5 449.2,89.3 454.4,91.6 459.6,88.1 464.8,83.0 470.1,69.4 475.3,71.2 480.5,83.7 485.7,83.7 491.0,91.7 496.2,89.4 501.4,95.6 506.6,92.6 511.9,88.7 517.1,100.7 522.3,103.0 527.5,100.1 532.8,95.7 538.0,102.6 543.2,110.5 548.5,110.5 553.7,108.2 558.9,110.3 564.1,105.2 569.4,107.8 574.6,98.7 579.8,98.7 585.0,101.0 590.3,106.7 595.5,111.5 600.7,112.6 605.9,112.6 611.2,105.8 616.4,97.9 621.6,94.6 626.8,92.3 632.1,95.1 637.3,99.5 642.5,92.6 647.7,85.0 653.0,83.5 658.2,72.2 663.4,77.9 668.6,63.1 673.9,51.7 679.1,53.0 684.3,44.2 689.5,51.0 694.8,46.1 700.0,43.4\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"43.4\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">22.4.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">1.7.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">12.9.</text></svg>"
+   },
+   "split": null
+  }
+ ],
+ "links": {
+  "mlb": "https://www.mlb.com/player/rafael-devers-646240",
+  "savant": "https://baseballsavant.mlb.com/savant-player/646240",
+  "fangraphs": "https://www.fangraphs.com/players/rafael-devers/17350/stats"
+ }
+}

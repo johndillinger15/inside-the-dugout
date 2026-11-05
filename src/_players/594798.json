@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": 594798,
+ "slug": "jacob-degrom-594798",
+ "name": "Jacob deGrom",
+ "team": "TEX",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-09-25",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Entwicklung",
+     "wert": "3.11",
+     "titel": "FIP klar besser als 2025",
+     "text": "FIP 3.11 gegenüber 3.64 in 2025."
+    },
+    {
+     "kicker": "Gesamtbild",
+     "wert": "+10.0",
+     "titel": "K-BB% weit über Liga-Durchschnitt",
+     "text": "K-BB% 23.2 %, Liga-Durchschnitt 13.3 %. Das sind 10.0 Prozentpunkte mehr."
+    },
+    {
+     "kicker": "Glück-Check",
+     "wert": "3.11",
+     "titel": "Mehr drin als die ERA zeigt",
+     "text": "FIP 3.11, ERA 4.20. Die ERA liegt 1.09 über dem FIP, die Leistung war besser als das Ergebnis."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "4.20",
+     "v25": "2.97",
+     "car": "2.73",
+     "delta": "▲ +1.23",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "3.11",
+     "v25": "3.64",
+     "car": "2.69",
+     "delta": "▼ −0.53",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "1.14",
+     "v25": "0.92",
+     "car": "1.00",
+     "delta": "▲ +0.22",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "30.1",
+     "v25": "27.7",
+     "car": "30.6",
+     "delta": "▲ +2.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "6.9",
+     "v25": "5.5",
+     "car": "5.8",
+     "delta": "▲ +1.4",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "23.2",
+     "v25": "22.1",
+     "car": "24.7",
+     "delta": "▲ +1.1",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "1.11",
+     "v25": "1.36",
+     "car": "0.88",
+     "delta": "▼ −0.25",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "162.2",
+     "v25": "172.2",
+     "car": "1702.1",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 52\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><path d=\"M52,220 L52.0,145.3 L86.1,112.0 L120.2,126.7 L154.3,117.3 L188.4,92.0 L222.5,90.7 L256.6,85.3 L290.7,106.7 L324.8,137.3 L358.9,122.7 L393.1,173.3 L427.2,180.0 L461.3,146.7 L495.4,173.3 L529.5,133.3 L563.6,82.7 L597.7,60.0 L631.8,85.3 L665.9,52.0 L700.0,141.3 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"52\" y1=\"128.9\" x2=\"700\" y2=\"128.9\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"132.9\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 54</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"157.3\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,145.3 86.1,112.0 120.2,126.7 154.3,117.3 188.4,92.0 222.5,90.7 256.6,85.3 290.7,106.7 324.8,137.3 358.9,122.7 393.1,173.3 427.2,180.0 461.3,146.7 495.4,173.3 529.5,133.3 563.6,82.7 597.7,60.0 631.8,85.3 665.9,52.0 700.0,141.3\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"141.3\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">27.5.</text><text x=\"393.1\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">1.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">25.9.</text></svg>"
+   },
+   "split": null
+  }
+ ],
+ "links": {
+  "mlb": "https://www.mlb.com/player/jacob-degrom-594798",
+  "savant": "https://baseballsavant.mlb.com/savant-player/594798",
+  "fangraphs": "https://www.fangraphs.com/players/jacob-degrom/10954/stats"
+ }
+}

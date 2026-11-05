@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": 668227,
+ "slug": "randy-arozarena-668227",
+ "name": "Randy Arozarena",
+ "team": "SEA",
+ "position": "LF",
+ "season": 2026,
+ "dataThrough": "2026-09-27",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "151",
+     "titel": "wRC+ deutlich über Liga-Durchschnitt",
+     "text": "wRC+ 151 heißt 51 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 120, Karriere 128."
+    },
+    {
+     "kicker": "Strikeouts",
+     "wert": "21.6 %",
+     "titel": "Weniger Strikeouts als in der Vorsaison",
+     "text": "K-Rate 21.6 %, Vorsaison 26.9 %, Karriere 25.1 %. Das sind 5.3 Prozentpunkte weniger als 2025."
+    },
+    {
+     "kicker": "Contact",
+     "wert": "0.281",
+     "titel": "Mehr Treffer als in der Vorsaison",
+     "text": "AVG 0.281, Vorsaison 0.238. Das sind 0.043 Punkte mehr."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.281",
+     "v25": "0.238",
+     "car": "0.255",
+     "delta": "▲ +0.043",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.381",
+     "v25": "0.334",
+     "car": "0.350",
+     "delta": "▲ +0.046",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.484",
+     "v25": "0.426",
+     "car": "0.442",
+     "delta": "▲ +0.058",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.865",
+     "v25": "0.760",
+     "car": "0.792",
+     "delta": "▲ +0.105",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "151",
+     "v25": "120",
+     "car": "128*",
+     "delta": "▲ +32",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "26",
+     "v25": "27",
+     "car": "144",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "21.6",
+     "v25": "26.9",
+     "car": "25.1",
+     "delta": "▼ −5.3",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.1",
+     "v25": "9.0",
+     "car": "9.8",
+     "delta": "▲ +1.1",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.435\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.500</text><path d=\"M52,220 L52.0,92.0 L58.5,93.3 L65.0,103.4 L71.4,86.3 L77.9,96.8 L84.4,93.5 L90.9,94.6 L97.4,111.0 L103.8,112.2 L110.3,112.4 L116.8,105.4 L123.3,130.7 L129.8,122.6 L136.2,106.6 L142.7,118.2 L149.2,126.3 L155.7,115.9 L162.2,132.5 L168.6,139.0 L175.1,133.5 L181.6,143.3 L188.1,124.2 L194.6,132.4 L201.0,153.3 L207.5,147.3 L214.0,136.2 L220.5,139.8 L227.0,121.9 L233.4,116.1 L239.9,101.2 L246.4,105.9 L252.9,89.2 L259.4,88.0 L265.8,83.2 L272.3,90.9 L278.8,90.3 L285.3,102.6 L291.8,110.4 L298.2,127.1 L304.7,108.8 L311.2,105.2 L317.7,99.4 L324.2,98.6 L330.6,103.1 L337.1,93.5 L343.6,101.4 L350.1,98.9 L356.6,103.6 L363.0,95.9 L369.5,106.2 L376.0,83.0 L382.5,100.1 L389.0,104.2 L395.4,108.5 L401.9,98.3 L408.4,118.2 L414.9,124.0 L421.4,138.8 L427.8,136.6 L434.3,122.1 L440.8,121.2 L447.3,110.5 L453.8,131.4 L460.2,118.7 L466.7,124.6 L473.2,119.8 L479.7,118.6 L486.2,137.8 L492.6,116.4 L499.1,91.1 L505.6,101.9 L512.1,106.5 L518.6,106.0 L525.0,114.8 L531.5,122.7 L538.0,128.4 L544.5,111.7 L551.0,101.2 L557.4,97.9 L563.9,83.0 L570.4,89.8 L576.9,94.8 L583.4,93.6 L589.8,102.0 L596.3,91.2 L602.8,101.2 L609.3,97.9 L615.8,89.1 L622.2,65.5 L628.7,54.3 L635.2,60.2 L641.7,82.1 L648.2,75.7 L654.6,73.1 L661.1,68.7 L667.6,65.2 L674.1,56.6 L680.6,48.3 L687.0,65.5 L693.5,65.0 L700.0,63.5 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"52\" y1=\"101.0\" x2=\"700\" y2=\"101.0\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"105.0\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.379</text><line x1=\"52\" y1=\"143.5\" x2=\"700\" y2=\"143.5\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"147.5\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,92.0 58.5,93.3 65.0,103.4 71.4,86.3 77.9,96.8 84.4,93.5 90.9,94.6 97.4,111.0 103.8,112.2 110.3,112.4 116.8,105.4 123.3,130.7 129.8,122.6 136.2,106.6 142.7,118.2 149.2,126.3 155.7,115.9 162.2,132.5 168.6,139.0 175.1,133.5 181.6,143.3 188.1,124.2 194.6,132.4 201.0,153.3 207.5,147.3 214.0,136.2 220.5,139.8 227.0,121.9 233.4,116.1 239.9,101.2 246.4,105.9 252.9,89.2 259.4,88.0 265.8,83.2 272.3,90.9 278.8,90.3 285.3,102.6 291.8,110.4 298.2,127.1 304.7,108.8 311.2,105.2 317.7,99.4 324.2,98.6 330.6,103.1 337.1,93.5 343.6,101.4 350.1,98.9 356.6,103.6 363.0,95.9 369.5,106.2 376.0,83.0 382.5,100.1 389.0,104.2 395.4,108.5 401.9,98.3 408.4,118.2 414.9,124.0 421.4,138.8 427.8,136.6 434.3,122.1 440.8,121.2 447.3,110.5 453.8,131.4 460.2,118.7 466.7,124.6 473.2,119.8 479.7,118.6 486.2,137.8 492.6,116.4 499.1,91.1 505.6,101.9 512.1,106.5 518.6,106.0 525.0,114.8 531.5,122.7 538.0,128.4 544.5,111.7 551.0,101.2 557.4,97.9 563.9,83.0 570.4,89.8 576.9,94.8 583.4,93.6 589.8,102.0 596.3,91.2 602.8,101.2 609.3,97.9 615.8,89.1 622.2,65.5 628.7,54.3 635.2,60.2 641.7,82.1 648.2,75.7 654.6,73.1 661.1,68.7 667.6,65.2 674.1,56.6 680.6,48.3 687.0,65.5 693.5,65.0 700.0,63.5\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"63.5\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">25.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">1.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">27.9.</text></svg>"
+   },
+   "split": null
+  }
+ ],
+ "links": {
+  "mlb": "https://www.mlb.com/player/randy-arozarena-668227",
+  "savant": "https://baseballsavant.mlb.com/savant-player/668227",
+  "fangraphs": "https://www.fangraphs.com/players/randy-arozarena/19290/stats"
+ }
+}

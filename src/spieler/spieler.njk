@@ -117,6 +117,7 @@ eleventyComputed:
 
   <h2>Weitere Daten</h2>
   <p class="links">
+    {% if p.links.mlb %}<a href="{{ p.links.mlb }}" rel="noopener">MLB.com</a>{% endif %}
     <a href="{{ p.links.savant }}" rel="noopener">Baseball Savant (Statcast)</a>
     {% if p.links.fangraphs %}<a href="{{ p.links.fangraphs }}" rel="noopener">FanGraphs</a>{% endif %}
   </p>

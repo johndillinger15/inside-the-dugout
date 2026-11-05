@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": 689414,
+ "slug": "liam-hicks-689414",
+ "name": "Liam Hicks",
+ "team": "TB",
+ "position": "C",
+ "season": 2026,
+ "dataThrough": "2026-10-28",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "123",
+     "titel": "wRC+ über Liga-Durchschnitt",
+     "text": "wRC+ 123 heißt 23 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 99, Karriere 113."
+    },
+    {
+     "kicker": "Power",
+     "wert": "0.434",
+     "titel": "Mehr Extra-Base-Power",
+     "text": "SLG 0.434, Vorsaison 0.346. 18 Homeruns in 2026, 6 in 2025."
+    },
+    {
+     "kicker": "Strikeouts",
+     "wert": "9.9 %",
+     "titel": "Weniger Strikeouts als in der Vorsaison",
+     "text": "K-Rate 9.9 %, Vorsaison 14.4 %, Karriere 11.8 %. Das sind 4.4 Prozentpunkte weniger als 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.284",
+     "v25": "0.247",
+     "car": "0.269",
+     "delta": "▲ +0.037",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.367",
+     "v25": "0.346",
+     "car": "0.359",
+     "delta": "▲ +0.021",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.434",
+     "v25": "0.346",
+     "car": "0.398",
+     "delta": "▲ +0.088",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.801",
+     "v25": "0.693",
+     "car": "0.757",
+     "delta": "▲ +0.109",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "123",
+     "v25": "99",
+     "car": "113*",
+     "delta": "▲ +24",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "18",
+     "v25": "6",
+     "car": "24",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "9.9",
+     "v25": "14.4",
+     "car": "11.8",
+     "delta": "▼ −4.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.1",
+     "v25": "11.0",
+     "car": "10.5",
+     "delta": "▼ −0.9",
+     "tone": "worse",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.314\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.450</text><path d=\"M52,220 L52.0,129.8 L58.2,134.6 L64.5,143.4 L70.7,170.8 L76.9,161.4 L83.2,150.8 L89.4,147.2 L95.6,166.3 L101.8,166.3 L108.1,166.9 L114.3,173.8 L120.5,171.0 L126.8,179.9 L133.0,170.6 L139.2,148.2 L145.5,154.9 L151.7,111.1 L157.9,119.5 L164.2,96.0 L170.4,107.9 L176.6,102.9 L182.8,76.2 L189.1,112.0 L195.3,118.5 L201.5,113.2 L207.8,104.5 L214.0,96.3 L220.2,100.8 L226.5,93.8 L232.7,91.1 L238.9,106.8 L245.2,115.2 L251.4,104.4 L257.6,96.1 L263.8,87.4 L270.1,87.3 L276.3,99.5 L282.5,108.4 L288.8,128.0 L295.0,134.6 L301.2,124.5 L307.5,145.0 L313.7,162.5 L319.9,157.2 L326.2,155.3 L332.4,143.4 L338.6,149.3 L344.8,136.3 L351.1,153.5 L357.3,134.7 L363.5,141.7 L369.8,131.7 L376.0,135.6 L382.2,133.1 L388.5,146.0 L394.7,128.3 L400.9,131.7 L407.2,126.8 L413.4,113.3 L419.6,104.5 L425.8,101.7 L432.1,113.8 L438.3,105.2 L444.5,113.2 L450.8,109.6 L457.0,96.6 L463.2,96.6 L469.5,82.7 L475.7,74.1 L481.9,84.2 L488.2,78.4 L494.4,75.4 L500.6,75.4 L506.8,82.3 L513.1,97.8 L519.3,80.4 L525.5,84.2 L531.8,81.1 L538.0,81.1 L544.2,84.9 L550.5,113.2 L556.7,111.5 L562.9,107.9 L569.2,111.5 L575.4,106.4 L581.6,106.7 L587.8,99.6 L594.1,110.3 L600.3,107.1 L606.5,147.7 L612.8,159.9 L619.0,138.4 L625.2,128.0 L631.5,142.1 L637.7,166.2 L643.9,172.2 L650.2,167.3 L656.4,185.6 L662.6,191.2 L668.8,166.9 L675.1,177.7 L681.3,195.5 L687.5,176.4 L693.8,158.6 L700.0,156.5 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"625.2\" y1=\"20\" x2=\"625.2\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"620.2\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"118.0\" x2=\"700\" y2=\"118.0\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"122.0\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.352</text><line x1=\"52\" y1=\"155.2\" x2=\"700\" y2=\"155.2\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"159.2\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,129.8 58.2,134.6 64.5,143.4 70.7,170.8 76.9,161.4 83.2,150.8 89.4,147.2 95.6,166.3 101.8,166.3 108.1,166.9 114.3,173.8 120.5,171.0 126.8,179.9 133.0,170.6 139.2,148.2 145.5,154.9 151.7,111.1 157.9,119.5 164.2,96.0 170.4,107.9 176.6,102.9 182.8,76.2 189.1,112.0 195.3,118.5 201.5,113.2 207.8,104.5 214.0,96.3 220.2,100.8 226.5,93.8 232.7,91.1 238.9,106.8 245.2,115.2 251.4,104.4 257.6,96.1 263.8,87.4 270.1,87.3 276.3,99.5 282.5,108.4 288.8,128.0 295.0,134.6 301.2,124.5 307.5,145.0 313.7,162.5 319.9,157.2 326.2,155.3 332.4,143.4 338.6,149.3 344.8,136.3 351.1,153.5 357.3,134.7 363.5,141.7 369.8,131.7 376.0,135.6 382.2,133.1 388.5,146.0 394.7,128.3 400.9,131.7 407.2,126.8 413.4,113.3 419.6,104.5 425.8,101.7 432.1,113.8 438.3,105.2 444.5,113.2 450.8,109.6 457.0,96.6 463.2,96.6 469.5,82.7 475.7,74.1 481.9,84.2 488.2,78.4 494.4,75.4 500.6,75.4 506.8,82.3 513.1,97.8 519.3,80.4 525.5,84.2 531.8,81.1 538.0,81.1 544.2,84.9 550.5,113.2 556.7,111.5 562.9,107.9 569.2,111.5 575.4,106.4 581.6,106.7 587.8,99.6 594.1,110.3 600.3,107.1 606.5,147.7 612.8,159.9 619.0,138.4 625.2,128.0 631.5,142.1 637.7,166.2 643.9,172.2 650.2,167.3 656.4,185.6 662.6,191.2 668.8,166.9 675.1,177.7 681.3,195.5 687.5,176.4 693.8,158.6 700.0,156.5\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"156.5\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">24.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">5.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">28.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "554 PA",
+     "pa": 554,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.801"
+      },
+      {
+       "label": "HR",
+       "value": "18"
+      },
+      {
+       "label": "K%",
+       "value": "9.9"
+      },
+      {
+       "label": "BB%",
+       "value": "10.1"
+      }
+     ]
+    },
+    "post": {
+     "sample": "47 PA · kleine Stichprobe",
+     "pa": 47,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.692"
+      },
+      {
+       "label": "HR",
+       "value": "1"
+      },
+      {
+       "label": "K%",
+       "value": "12.8"
+      },
+      {
+       "label": "BB%",
+       "value": "6.4"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/689414",
+  "fangraphs": "https://www.fangraphs.com/players/liam-hicks/29844/stats"
+ }
+}

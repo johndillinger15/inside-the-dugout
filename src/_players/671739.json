@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": 671739,
+ "slug": "michael-harris-ii-671739",
+ "name": "Michael Harris II",
+ "team": "ATL",
+ "position": "CF",
+ "season": 2026,
+ "dataThrough": "2026-10-07",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "121",
+     "titel": "wRC+ über Liga-Durchschnitt",
+     "text": "wRC+ 121 heißt 21 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 83, Karriere 110."
+    },
+    {
+     "kicker": "Power",
+     "wert": "0.491",
+     "titel": "Mehr Extra-Base-Power",
+     "text": "SLG 0.491, Vorsaison 0.409. 26 Homeruns in 2026, 20 in 2025."
+    },
+    {
+     "kicker": "Entwicklung",
+     "wert": "+37",
+     "titel": "wRC+ klar über 2025",
+     "text": "wRC+ 121 gegenüber 83 in 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.294",
+     "v25": "0.249",
+     "car": "0.278",
+     "delta": "▲ +0.046",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.321",
+     "v25": "0.268",
+     "car": "0.311",
+     "delta": "▲ +0.053",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.491",
+     "v25": "0.409",
+     "car": "0.460",
+     "delta": "▲ +0.082",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.812",
+     "v25": "0.678",
+     "car": "0.771",
+     "delta": "▲ +0.135",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "121",
+     "v25": "83",
+     "car": "110*",
+     "delta": "▲ +37",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "26",
+     "v25": "20",
+     "car": "99",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "19.2",
+     "v25": "20.0",
+     "car": "20.2",
+     "delta": "▼ −0.8",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "3.7",
+     "v25": "2.5",
+     "car": "4.0",
+     "delta": "▲ +1.2",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.386\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.450</text><path d=\"M52,220 L52.0,111.4 L58.1,135.0 L64.1,113.1 L70.2,101.0 L76.2,101.0 L82.3,116.3 L88.3,111.4 L94.4,96.9 L100.4,83.2 L106.5,99.2 L112.6,108.6 L118.6,95.0 L124.7,79.3 L130.7,74.5 L136.8,62.1 L142.8,74.8 L148.9,81.5 L155.0,66.0 L161.0,101.8 L167.1,101.8 L173.1,103.7 L179.2,110.7 L185.2,136.7 L191.3,141.1 L197.3,157.8 L203.4,151.9 L209.5,121.3 L215.5,134.8 L221.6,110.5 L227.6,112.2 L233.7,113.7 L239.7,143.8 L245.8,156.3 L251.9,144.8 L257.9,146.3 L264.0,156.6 L270.0,146.3 L276.1,144.5 L282.1,129.8 L288.2,147.5 L294.2,150.7 L300.3,127.2 L306.4,116.5 L312.4,104.2 L318.5,109.1 L324.5,105.5 L330.6,107.4 L336.6,136.4 L342.7,171.2 L348.7,154.5 L354.8,168.5 L360.9,189.6 L366.9,181.7 L373.0,178.9 L379.0,158.0 L385.1,154.3 L391.1,145.5 L397.2,145.5 L403.3,131.4 L409.3,129.3 L415.4,147.2 L421.4,161.2 L427.5,170.2 L433.5,175.9 L439.6,190.1 L445.6,169.4 L451.7,157.8 L457.8,174.3 L463.8,171.4 L469.9,162.7 L475.9,151.1 L482.0,154.2 L488.0,154.2 L494.1,142.4 L500.1,106.1 L506.2,114.1 L512.3,105.3 L518.3,79.9 L524.4,78.8 L530.4,93.1 L536.5,119.5 L542.5,126.5 L548.6,126.5 L554.7,123.0 L560.7,141.2 L566.8,150.2 L572.8,159.7 L578.9,162.3 L584.9,122.0 L591.0,102.3 L597.0,118.9 L603.1,127.9 L609.2,131.6 L615.2,118.1 L621.3,139.6 L627.3,143.1 L633.4,130.3 L639.4,143.6 L645.5,122.7 L651.6,155.7 L657.6,137.7 L663.7,116.8 L669.7,140.6 L675.8,133.5 L681.8,133.6 L687.9,99.8 L693.9,99.8 L700.0,84.3 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"663.7\" y1=\"20\" x2=\"663.7\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"658.7\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"120.6\" x2=\"700\" y2=\"120.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"124.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.349</text><line x1=\"52\" y1=\"155.2\" x2=\"700\" y2=\"155.2\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"159.2\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,111.4 58.1,135.0 64.1,113.1 70.2,101.0 76.2,101.0 82.3,116.3 88.3,111.4 94.4,96.9 100.4,83.2 106.5,99.2 112.6,108.6 118.6,95.0 124.7,79.3 130.7,74.5 136.8,62.1 142.8,74.8 148.9,81.5 155.0,66.0 161.0,101.8 167.1,101.8 173.1,103.7 179.2,110.7 185.2,136.7 191.3,141.1 197.3,157.8 203.4,151.9 209.5,121.3 215.5,134.8 221.6,110.5 227.6,112.2 233.7,113.7 239.7,143.8 245.8,156.3 251.9,144.8 257.9,146.3 264.0,156.6 270.0,146.3 276.1,144.5 282.1,129.8 288.2,147.5 294.2,150.7 300.3,127.2 306.4,116.5 312.4,104.2 318.5,109.1 324.5,105.5 330.6,107.4 336.6,136.4 342.7,171.2 348.7,154.5 354.8,168.5 360.9,189.6 366.9,181.7 373.0,178.9 379.0,158.0 385.1,154.3 391.1,145.5 397.2,145.5 403.3,131.4 409.3,129.3 415.4,147.2 421.4,161.2 427.5,170.2 433.5,175.9 439.6,190.1 445.6,169.4 451.7,157.8 457.8,174.3 463.8,171.4 469.9,162.7 475.9,151.1 482.0,154.2 488.0,154.2 494.1,142.4 500.1,106.1 506.2,114.1 512.3,105.3 518.3,79.9 524.4,78.8 530.4,93.1 536.5,119.5 542.5,126.5 548.6,126.5 554.7,123.0 560.7,141.2 566.8,150.2 572.8,159.7 578.9,162.3 584.9,122.0 591.0,102.3 597.0,118.9 603.1,127.9 609.2,131.6 615.2,118.1 621.3,139.6 627.3,143.1 633.4,130.3 639.4,143.6 645.5,122.7 651.6,155.7 657.6,137.7 663.7,116.8 669.7,140.6 675.8,133.5 681.8,133.6 687.9,99.8 693.9,99.8 700.0,84.3\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"84.3\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">29.5.</text><text x=\"379.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">6.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">7.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "621 PA",
+     "pa": 621,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.812"
+      },
+      {
+       "label": "HR",
+       "value": "26"
+      },
+      {
+       "label": "K%",
+       "value": "19.2"
+      },
+      {
+       "label": "BB%",
+       "value": "3.7"
+      }
+     ]
+    },
+    "post": {
+     "sample": "30 PA · kleine Stichprobe",
+     "pa": 30,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "1.115"
+      },
+      {
+       "label": "HR",
+       "value": "1"
+      },
+      {
+       "label": "K%",
+       "value": "13.3"
+      },
+      {
+       "label": "BB%",
+       "value": "3.3"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/671739",
+  "fangraphs": "https://www.fangraphs.com/players/michael-harris-ii/25931/stats"
+ }
+}

@@ -15,8 +15,8 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Brice Turang**](https://www.fangraphs.com/players/brice-turang/22186/stats) (MIL) | 3 H | 1 2B | 2 RBI
+- [**Brice Turang**](https://inside-the-dugout.de/spieler/brice-turang-668930/) (MIL) | 3 H | 1 2B | 2 RBI
 
 #### Top Pitcher
 
-- [**Robert Gasser**](https://www.fangraphs.com/players/robert-gasser/29812/stats) (MIL) | 6.0 IP | 0 ER | 3 K | 1 BB | GS 72
+- [**Robert Gasser**](https://inside-the-dugout.de/spieler/robert-gasser-688107/) (MIL) | 6.0 IP | 0 ER | 3 K | 1 BB | GS 72

@@ -19,11 +19,11 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Ben Rice**](https://www.fangraphs.com/players/ben-rice/29576/stats) (NYY) | 2 HR | 2 RBI
-- [**Jo Adell**](https://www.fangraphs.com/players/jo-adell/20220/stats) (CLE) | 1 3B | 1 RBI
-- **Braden Montgomery** (CWS) | 1 2B | 2 RBI
+- [**Ben Rice**](https://inside-the-dugout.de/spieler/ben-rice-700250/) (NYY) | 2 HR | 2 RBI
+- [**Jo Adell**](https://inside-the-dugout.de/spieler/jo-adell-666176/) (CLE) | 1 3B | 1 RBI
+- [**Braden Montgomery**](https://inside-the-dugout.de/spieler/braden-montgomery-695731/) (CWS) | 1 2B | 2 RBI
 
 #### Top Pitcher
 
-- [**Sean Burke**](https://www.fangraphs.com/players/sean-burke/29878/stats) (CWS) | 5.1 IP | 1 ER | 6 K | 1 BB | GS 67
-- [**Gavin Williams**](https://www.fangraphs.com/players/gavin-williams/30122/stats) (CLE) | 5.0 IP | 2 ER | 11 K | 3 BB | GS 59
+- [**Sean Burke**](https://inside-the-dugout.de/spieler/sean-burke-680732/) (CWS) | 5.1 IP | 1 ER | 6 K | 1 BB | GS 67
+- [**Gavin Williams**](https://inside-the-dugout.de/spieler/gavin-williams-668909/) (CLE) | 5.0 IP | 2 ER | 11 K | 3 BB | GS 59

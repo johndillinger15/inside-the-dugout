@@ -15,11 +15,11 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**José Ramírez**](https://www.fangraphs.com/players/josé-ramírez/13510/stats) (CLE) | 1 HR | 2 RBI
-- [**Petey Halpin**](https://www.fangraphs.com/players/petey-halpin/27931/stats) (CLE) | 2 2B | 0 RBI
-- **Chase DeLauter** (CLE) | 0 RBI
+- [**José Ramírez**](https://inside-the-dugout.de/spieler/jose-ramirez-608070/) (CLE) | 1 HR | 2 RBI
+- [**Petey Halpin**](https://inside-the-dugout.de/spieler/petey-halpin-690984/) (CLE) | 2 2B | 0 RBI
+- [**Chase DeLauter**](https://inside-the-dugout.de/spieler/chase-delauter-800050/) (CLE) | 0 RBI
 
 #### Top Pitcher
 
-- [**Gavin Williams**](https://www.fangraphs.com/players/gavin-williams/30122/stats) (CLE) | 5.2 IP | 0 ER | 12 K | 2 BB | GS 77
-- [**Sean Burke**](https://www.fangraphs.com/players/sean-burke/29878/stats) (CWS) | 5.0 IP | 2 ER | 4 K | 0 BB | GS 55
+- [**Gavin Williams**](https://inside-the-dugout.de/spieler/gavin-williams-668909/) (CLE) | 5.2 IP | 0 ER | 12 K | 2 BB | GS 77
+- [**Sean Burke**](https://inside-the-dugout.de/spieler/sean-burke-680732/) (CWS) | 5.0 IP | 2 ER | 4 K | 0 BB | GS 55

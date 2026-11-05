@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": 666018,
+ "slug": "jonathan-aranda-666018",
+ "name": "Jonathan Aranda",
+ "team": "TB",
+ "position": "1B",
+ "season": 2026,
+ "dataThrough": "2026-10-28",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "123",
+     "titel": "wRC+ über Liga-Durchschnitt",
+     "text": "wRC+ 123 heißt 23 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 146, Karriere 124."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.274",
+     "v25": "0.316",
+     "car": "0.274",
+     "delta": "▼ −0.042",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.358",
+     "v25": "0.393",
+     "car": "0.357",
+     "delta": "▼ −0.036",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.434",
+     "v25": "0.489",
+     "car": "0.438",
+     "delta": "▼ −0.055",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.792",
+     "v25": "0.883",
+     "car": "0.795",
+     "delta": "▼ −0.090",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "123",
+     "v25": "146",
+     "car": "124*",
+     "delta": "▼ −24",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "22",
+     "v25": "14",
+     "car": "46",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "24.4",
+     "v25": "25.4",
+     "car": "25.0",
+     "delta": "▼ −1.0",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.3",
+     "v25": "9.7",
+     "car": "10.0",
+     "delta": "▲ +0.6",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.322\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.500</text><path d=\"M52,220 L52.0,87.3 L57.6,63.4 L63.2,62.9 L68.8,68.0 L74.3,87.9 L79.9,101.7 L85.5,106.3 L91.1,91.7 L96.7,100.7 L102.3,116.4 L107.9,119.9 L113.4,125.5 L119.0,128.7 L124.6,133.2 L130.2,127.5 L135.8,111.5 L141.4,112.5 L147.0,103.3 L152.6,102.6 L158.1,102.8 L163.7,98.3 L169.3,109.2 L174.9,117.4 L180.5,121.7 L186.1,125.7 L191.7,125.4 L197.2,118.5 L202.8,111.6 L208.4,93.3 L214.0,86.0 L219.6,95.1 L225.2,97.1 L230.8,99.7 L236.3,99.7 L241.9,105.5 L247.5,110.1 L253.1,100.5 L258.7,98.4 L264.3,97.4 L269.9,75.1 L275.4,70.2 L281.0,83.9 L286.6,89.8 L292.2,89.9 L297.8,92.5 L303.4,99.6 L309.0,102.1 L314.6,115.9 L320.1,133.2 L325.7,137.9 L331.3,154.4 L336.9,147.5 L342.5,157.8 L348.1,168.3 L353.7,172.3 L359.2,168.3 L364.8,148.6 L370.4,139.9 L376.0,138.7 L381.6,133.3 L387.2,136.2 L392.8,146.2 L398.3,164.2 L403.9,179.8 L409.5,171.2 L415.1,170.0 L420.7,163.0 L426.3,166.9 L431.9,162.6 L437.4,158.7 L443.0,158.7 L448.6,161.3 L454.2,163.2 L459.8,164.5 L465.4,170.3 L471.0,165.0 L476.6,170.8 L482.1,152.0 L487.7,147.5 L493.3,157.7 L498.9,161.4 L504.5,163.4 L510.1,163.4 L515.7,177.9 L521.2,159.4 L526.8,146.3 L532.4,148.3 L538.0,142.7 L543.6,148.1 L549.2,145.8 L554.8,145.8 L560.3,150.7 L565.9,121.9 L571.5,127.8 L577.1,120.9 L582.7,111.5 L588.3,105.2 L593.9,102.4 L599.4,104.0 L605.0,109.7 L610.6,112.8 L616.2,117.8 L621.8,114.2 L627.4,108.8 L633.0,113.0 L638.6,105.9 L644.1,108.1 L649.7,109.1 L655.3,113.7 L660.9,118.2 L666.5,125.9 L672.1,135.2 L677.7,121.3 L683.2,115.4 L688.8,117.8 L694.4,128.4 L700.0,138.7 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"627.4\" y1=\"20\" x2=\"627.4\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"622.4\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"121.6\" x2=\"700\" y2=\"121.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"125.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.348</text><line x1=\"52\" y1=\"143.5\" x2=\"700\" y2=\"143.5\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"147.5\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,87.3 57.6,63.4 63.2,62.9 68.8,68.0 74.3,87.9 79.9,101.7 85.5,106.3 91.1,91.7 96.7,100.7 102.3,116.4 107.9,119.9 113.4,125.5 119.0,128.7 124.6,133.2 130.2,127.5 135.8,111.5 141.4,112.5 147.0,103.3 152.6,102.6 158.1,102.8 163.7,98.3 169.3,109.2 174.9,117.4 180.5,121.7 186.1,125.7 191.7,125.4 197.2,118.5 202.8,111.6 208.4,93.3 214.0,86.0 219.6,95.1 225.2,97.1 230.8,99.7 236.3,99.7 241.9,105.5 247.5,110.1 253.1,100.5 258.7,98.4 264.3,97.4 269.9,75.1 275.4,70.2 281.0,83.9 286.6,89.8 292.2,89.9 297.8,92.5 303.4,99.6 309.0,102.1 314.6,115.9 320.1,133.2 325.7,137.9 331.3,154.4 336.9,147.5 342.5,157.8 348.1,168.3 353.7,172.3 359.2,168.3 364.8,148.6 370.4,139.9 376.0,138.7 381.6,133.3 387.2,136.2 392.8,146.2 398.3,164.2 403.9,179.8 409.5,171.2 415.1,170.0 420.7,163.0 426.3,166.9 431.9,162.6 437.4,158.7 443.0,158.7 448.6,161.3 454.2,163.2 459.8,164.5 465.4,170.3 471.0,165.0 476.6,170.8 482.1,152.0 487.7,147.5 493.3,157.7 498.9,161.4 504.5,163.4 510.1,163.4 515.7,177.9 521.2,159.4 526.8,146.3 532.4,148.3 538.0,142.7 543.6,148.1 549.2,145.8 554.8,145.8 560.3,150.7 565.9,121.9 571.5,127.8 577.1,120.9 582.7,111.5 588.3,105.2 593.9,102.4 599.4,104.0 605.0,109.7 610.6,112.8 616.2,117.8 621.8,114.2 627.4,108.8 633.0,113.0 638.6,105.9 644.1,108.1 649.7,109.1 655.3,113.7 660.9,118.2 666.5,125.9 672.1,135.2 677.7,121.3 683.2,115.4 688.8,117.8 694.4,128.4 700.0,138.7\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"138.7\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">27.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">5.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">28.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "668 PA",
+     "pa": 668,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.792"
+      },
+      {
+       "label": "HR",
+       "value": "22"
+      },
+      {
+       "label": "K%",
+       "value": "24.4"
+      },
+      {
+       "label": "BB%",
+       "value": "10.3"
+      }
+     ]
+    },
+    "post": {
+     "sample": "59 PA",
+     "pa": 59,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.631"
+      },
+      {
+       "label": "HR",
+       "value": "1"
+      },
+      {
+       "label": "K%",
+       "value": "15.3"
+      },
+      {
+       "label": "BB%",
+       "value": "3.4"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/666018",
+  "fangraphs": "https://www.fangraphs.com/players/jonathan-aranda/21837/stats"
+ }
+}

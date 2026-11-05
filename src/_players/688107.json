@@ -1,0 +1,193 @@
+{
+ "schema": 1,
+ "id": 688107,
+ "slug": "robert-gasser-688107",
+ "name": "Robert Gasser",
+ "team": "MIL",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-10-26",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Form",
+     "wert": "67",
+     "titel": "Gerade stark in Form",
+     "text": "Game Score Ø 67 in den letzten 5 Starts, Saison Ø 53."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "3.87",
+     "v25": "3.18",
+     "car": "3.59",
+     "delta": "▲ +0.69",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "4.23",
+     "v25": "6.84",
+     "car": "4.15",
+     "delta": "▼ −2.61",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "1.19",
+     "v25": "1.59",
+     "car": "1.17",
+     "delta": "▼ −0.40",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "22.2",
+     "v25": "17.2",
+     "car": "20.5",
+     "delta": "▲ +5.0",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "7.6",
+     "v25": "13.8",
+     "car": "6.6",
+     "delta": "▼ −6.2",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "14.7",
+     "v25": "3.4",
+     "car": "13.9",
+     "delta": "▲ +11.2",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "1.23",
+     "v25": "1.59",
+     "car": "1.13",
+     "delta": "▼ −0.35",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "109.1",
+     "v25": "5.2",
+     "car": "143.0",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 67\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><path d=\"M52,220 L52.0,162.7 L86.1,142.7 L120.2,132.0 L154.3,120.0 L188.4,138.7 L222.5,146.7 L256.6,152.0 L290.7,136.0 L324.8,172.0 L358.9,128.0 L393.1,161.3 L427.2,164.0 L461.3,177.3 L495.4,153.3 L529.5,141.3 L563.6,97.3 L597.7,73.3 L631.8,66.7 L665.9,58.7 L700.0,42.7 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"631.8\" y1=\"20\" x2=\"631.8\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"626.8\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"134.9\" x2=\"700\" y2=\"134.9\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"138.9\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 53</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"157.3\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,162.7 86.1,142.7 120.2,132.0 154.3,120.0 188.4,138.7 222.5,146.7 256.6,152.0 290.7,136.0 324.8,172.0 358.9,128.0 393.1,161.3 427.2,164.0 461.3,177.3 495.4,153.3 529.5,141.3 563.6,97.3 597.7,73.3 631.8,66.7 665.9,58.7 700.0,42.7\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"42.7\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">16.6.</text><text x=\"393.1\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">20.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">26.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "109.1 IP · 20 Starts",
+     "ip": 109.33333333333333,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "3.87"
+      },
+      {
+       "label": "K/9",
+       "value": "8.5"
+      },
+      {
+       "label": "BB/9",
+       "value": "2.9"
+      },
+      {
+       "label": "Starts",
+       "value": "20"
+      }
+     ]
+    },
+    "post": {
+     "sample": "15.0 IP · 3 Starts",
+     "ip": 15.0,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "0.60"
+      },
+      {
+       "label": "K/9",
+       "value": "5.4"
+      },
+      {
+       "label": "BB/9",
+       "value": "1.8"
+      },
+      {
+       "label": "Starts",
+       "value": "3"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/688107",
+  "fangraphs": "https://www.fangraphs.com/players/robert-gasser/29812/stats"
+ }
+}

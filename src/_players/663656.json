@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": 663656,
+ "slug": "kyle-tucker-663656",
+ "name": "Kyle Tucker",
+ "team": "LAD",
+ "position": "RF",
+ "season": 2026,
+ "dataThrough": "2026-10-15",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Form",
+     "wert": "0.434",
+     "titel": "Gerade heiß gelaufen",
+     "text": "wOBA 0.434 in den letzten 100 PA, Saison 0.318."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.233",
+     "v25": "0.266",
+     "car": "0.266",
+     "delta": "▼ −0.033",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.330",
+     "v25": "0.377",
+     "car": "0.353",
+     "delta": "▼ −0.047",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.385",
+     "v25": "0.464",
+     "car": "0.487",
+     "delta": "▼ −0.079",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.715",
+     "v25": "0.841",
+     "car": "0.840",
+     "delta": "▼ −0.126",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "100",
+     "v25": "136",
+     "car": "132*",
+     "delta": "▼ −36",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "17",
+     "v25": "22",
+     "car": "164",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "16.7",
+     "v25": "14.7",
+     "car": "15.9",
+     "delta": "▲ +2.0",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "12.4",
+     "v25": "14.6",
+     "car": "11.7",
+     "delta": "▼ −2.1",
+     "tone": "worse",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.434\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.100</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.500</text><path d=\"M52,220 L52.0,91.7 L57.9,91.7 L63.8,92.6 L69.7,97.8 L75.6,107.2 L81.5,100.2 L87.3,101.2 L93.2,102.3 L99.1,97.9 L105.0,101.3 L110.9,112.1 L116.8,114.8 L122.7,121.3 L128.6,118.5 L134.5,128.6 L140.4,137.4 L146.3,125.5 L152.1,126.8 L158.0,125.8 L163.9,123.4 L169.8,115.7 L175.7,120.6 L181.6,123.9 L187.5,133.7 L193.4,131.7 L199.3,143.0 L205.2,125.5 L211.1,124.1 L216.9,115.0 L222.8,117.6 L228.7,107.3 L234.6,89.6 L240.5,106.8 L246.4,108.3 L252.3,105.0 L258.2,95.4 L264.1,97.1 L270.0,97.9 L275.9,93.4 L281.7,103.9 L287.6,106.6 L293.5,105.6 L299.4,115.5 L305.3,117.0 L311.2,130.1 L317.1,135.8 L323.0,125.7 L328.9,118.4 L334.8,114.8 L340.7,107.0 L346.5,110.4 L352.4,113.2 L358.3,122.6 L364.2,122.6 L370.1,119.2 L376.0,117.7 L381.9,103.5 L387.8,114.5 L393.7,128.0 L399.6,117.7 L405.5,114.8 L411.3,115.7 L417.2,125.3 L423.1,121.9 L429.0,127.7 L434.9,135.1 L440.8,133.8 L446.7,135.1 L452.6,133.3 L458.5,126.2 L464.4,122.9 L470.3,118.5 L476.1,128.7 L482.0,137.9 L487.9,142.7 L493.8,140.6 L499.7,131.2 L505.6,131.2 L511.5,139.2 L517.4,144.9 L523.3,157.1 L529.2,145.6 L535.1,150.0 L540.9,160.2 L546.8,168.1 L552.7,169.2 L558.6,155.3 L564.5,135.6 L570.4,138.9 L576.3,131.6 L582.2,115.9 L588.1,107.5 L594.0,109.4 L599.9,91.0 L605.7,80.5 L611.6,74.4 L617.5,72.9 L623.4,76.4 L629.3,71.9 L635.2,79.6 L641.1,77.7 L647.0,79.2 L652.9,86.2 L658.8,75.3 L664.7,72.5 L670.5,74.0 L676.4,69.6 L682.3,78.2 L688.2,73.6 L694.1,65.8 L700.0,53.1 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"658.8\" y1=\"20\" x2=\"658.8\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"653.8\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"110.9\" x2=\"700\" y2=\"110.9\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"114.9\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.318</text><line x1=\"52\" y1=\"112.6\" x2=\"700\" y2=\"112.6\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"129.9\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,91.7 57.9,91.7 63.8,92.6 69.7,97.8 75.6,107.2 81.5,100.2 87.3,101.2 93.2,102.3 99.1,97.9 105.0,101.3 110.9,112.1 116.8,114.8 122.7,121.3 128.6,118.5 134.5,128.6 140.4,137.4 146.3,125.5 152.1,126.8 158.0,125.8 163.9,123.4 169.8,115.7 175.7,120.6 181.6,123.9 187.5,133.7 193.4,131.7 199.3,143.0 205.2,125.5 211.1,124.1 216.9,115.0 222.8,117.6 228.7,107.3 234.6,89.6 240.5,106.8 246.4,108.3 252.3,105.0 258.2,95.4 264.1,97.1 270.0,97.9 275.9,93.4 281.7,103.9 287.6,106.6 293.5,105.6 299.4,115.5 305.3,117.0 311.2,130.1 317.1,135.8 323.0,125.7 328.9,118.4 334.8,114.8 340.7,107.0 346.5,110.4 352.4,113.2 358.3,122.6 364.2,122.6 370.1,119.2 376.0,117.7 381.9,103.5 387.8,114.5 393.7,128.0 399.6,117.7 405.5,114.8 411.3,115.7 417.2,125.3 423.1,121.9 429.0,127.7 434.9,135.1 440.8,133.8 446.7,135.1 452.6,133.3 458.5,126.2 464.4,122.9 470.3,118.5 476.1,128.7 482.0,137.9 487.9,142.7 493.8,140.6 499.7,131.2 505.6,131.2 511.5,139.2 517.4,144.9 523.3,157.1 529.2,145.6 535.1,150.0 540.9,160.2 546.8,168.1 552.7,169.2 558.6,155.3 564.5,135.6 570.4,138.9 576.3,131.6 582.2,115.9 588.1,107.5 594.0,109.4 599.9,91.0 605.7,80.5 611.6,74.4 617.5,72.9 623.4,76.4 629.3,71.9 635.2,79.6 641.1,77.7 647.0,79.2 652.9,86.2 658.8,75.3 664.7,72.5 670.5,74.0 676.4,69.6 682.3,78.2 688.2,73.6 694.1,65.8 700.0,53.1\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"53.1\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">24.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">3.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">15.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "627 PA",
+     "pa": 627,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.715"
+      },
+      {
+       "label": "HR",
+       "value": "17"
+      },
+      {
+       "label": "K%",
+       "value": "16.7"
+      },
+      {
+       "label": "BB%",
+       "value": "12.4"
+      }
+     ]
+    },
+    "post": {
+     "sample": "31 PA · kleine Stichprobe",
+     "pa": 31,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.938"
+      },
+      {
+       "label": "HR",
+       "value": "1"
+      },
+      {
+       "label": "K%",
+       "value": "16.1"
+      },
+      {
+       "label": "BB%",
+       "value": "12.9"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/663656",
+  "fangraphs": "https://www.fangraphs.com/players/kyle-tucker/18345/stats"
+ }
+}

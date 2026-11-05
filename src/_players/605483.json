@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "id": 605483,
+ "slug": "blake-snell-605483",
+ "name": "Blake Snell",
+ "team": "LAD",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-10-14",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Entwicklung",
+     "wert": "1.72",
+     "titel": "FIP klar besser als 2025",
+     "text": "FIP 1.72 gegenüber 2.69 in 2025."
+    },
+    {
+     "kicker": "Homeruns",
+     "wert": "0.00",
+     "titel": "Weniger Homeruns pro 9 Innings",
+     "text": "HR/9 0.00, Vorsaison 0.44, Karriere 0.83. Das sind 0.44 weniger als 2025."
+    },
+    {
+     "kicker": "Strikeouts und Walks",
+     "wert": "22.5 %",
+     "titel": "K-BB% über der Vorsaison",
+     "text": "K-Rate 31.8 % (Vorsaison 28.3 %), Walk-Rate 9.2 % (Vorsaison 10.2 %). K-BB% liegt 4.4 Punkte über 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "1.90",
+     "v25": "2.35",
+     "car": "3.10",
+     "delta": "▼ −0.45",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "1.72",
+     "v25": "2.69",
+     "car": "3.18",
+     "delta": "▼ −0.98",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "1.10",
+     "v25": "1.26",
+     "car": "1.22",
+     "delta": "▼ −0.15",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "31.8",
+     "v25": "28.3",
+     "car": "30.1",
+     "delta": "▲ +3.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "9.2",
+     "v25": "10.2",
+     "car": "10.8",
+     "delta": "▼ −1.0",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "22.5",
+     "v25": "18.1",
+     "car": "19.3",
+     "delta": "▲ +4.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "0.00",
+     "v25": "0.44",
+     "car": "0.83",
+     "delta": "▼ −0.44",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "42.2",
+     "v25": "61.1",
+     "car": "1200.2",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 57\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><path d=\"M52,220 L52.0,81.3 L181.6,34.7 L311.2,45.3 L440.8,65.3 L570.4,92.0 L700.0,104.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"570.4\" y1=\"20\" x2=\"570.4\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"565.4\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"82.5\" x2=\"700\" y2=\"82.5\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"86.5\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 61</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"157.3\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,81.3 181.6,34.7 311.2,45.3 440.8,65.3 570.4,92.0 700.0,104.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"104.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">29.8.</text><text x=\"440.8\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">26.9.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">14.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "42.2 IP · 9 Starts",
+     "ip": 42.666666666666664,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "1.90"
+      },
+      {
+       "label": "K/9",
+       "value": "11.6"
+      },
+      {
+       "label": "BB/9",
+       "value": "3.4"
+      },
+      {
+       "label": "Starts",
+       "value": "9"
+      }
+     ]
+    },
+    "post": {
+     "sample": "9.2 IP · 2 Starts · kleine Stichprobe",
+     "ip": 9.666666666666666,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "4.66"
+      },
+      {
+       "label": "K/9",
+       "value": "13.0"
+      },
+      {
+       "label": "BB/9",
+       "value": "6.5"
+      },
+      {
+       "label": "Starts",
+       "value": "2"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/605483",
+  "fangraphs": "https://www.fangraphs.com/players/blake-snell/13543/stats"
+ }
+}

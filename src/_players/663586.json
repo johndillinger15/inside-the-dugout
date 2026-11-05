@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": 663586,
+ "slug": "austin-riley-663586",
+ "name": "Austin Riley",
+ "team": "ATL",
+ "position": "3B",
+ "season": 2026,
+ "dataThrough": "2026-10-07",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Plate Discipline",
+     "wert": "7.6 %",
+     "titel": "Mehr Walks als in der Vorsaison",
+     "text": "BB-Rate 7.6 %, Vorsaison 6.0 %, Karriere 7.6 %. Das sind 1.6 Prozentpunkte mehr als 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.219",
+     "v25": "0.260",
+     "car": "0.263",
+     "delta": "▼ −0.041",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.290",
+     "v25": "0.309",
+     "car": "0.328",
+     "delta": "▼ −0.018",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.364",
+     "v25": "0.428",
+     "car": "0.473",
+     "delta": "▼ −0.064",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.654",
+     "v25": "0.737",
+     "car": "0.800",
+     "delta": "▼ −0.082",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "81",
+     "v25": "104",
+     "car": "116*",
+     "delta": "▼ −23",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "19",
+     "v25": "16",
+     "car": "188",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "31.9",
+     "v25": "28.6",
+     "car": "27.0",
+     "delta": "▲ +3.3",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "7.6",
+     "v25": "6.0",
+     "car": "7.6",
+     "delta": "▲ +1.6",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.265\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><path d=\"M52,220 L52.0,88.8 L57.9,92.1 L63.8,98.7 L69.7,101.8 L75.6,128.4 L81.5,131.4 L87.3,144.9 L93.2,144.9 L99.1,128.5 L105.0,128.5 L110.9,138.4 L116.8,134.4 L122.7,156.2 L128.6,133.0 L134.5,148.7 L140.4,150.6 L146.3,138.3 L152.1,147.5 L158.0,136.2 L163.9,137.7 L169.8,156.3 L175.7,129.9 L181.6,158.9 L187.5,147.9 L193.4,156.6 L199.3,176.5 L205.2,183.4 L211.1,181.0 L216.9,181.7 L222.8,182.3 L228.7,173.1 L234.6,151.0 L240.5,149.1 L246.4,153.5 L252.3,153.5 L258.2,153.5 L264.1,169.2 L270.0,161.3 L275.9,159.7 L281.7,164.1 L287.6,144.5 L293.5,141.0 L299.4,114.8 L305.3,116.7 L311.2,119.7 L317.1,114.0 L323.0,131.3 L328.9,117.8 L334.8,131.5 L340.7,123.9 L346.5,123.9 L352.4,123.9 L358.3,116.9 L364.2,110.1 L370.1,97.8 L376.0,92.4 L381.9,84.2 L387.8,80.5 L393.7,93.6 L399.6,70.5 L405.5,72.5 L411.3,82.6 L417.2,63.9 L423.1,79.3 L429.0,47.0 L434.9,53.6 L440.8,64.3 L446.7,68.6 L452.6,75.7 L458.5,124.5 L464.4,127.4 L470.3,106.7 L476.1,120.9 L482.0,122.7 L487.9,116.0 L493.8,113.0 L499.7,116.6 L505.6,116.6 L511.5,106.7 L517.4,101.4 L523.3,99.5 L529.2,120.8 L535.1,118.7 L540.9,141.8 L546.8,139.8 L552.7,124.1 L558.6,141.3 L564.5,140.9 L570.4,146.8 L576.3,138.1 L582.2,120.8 L588.1,146.9 L594.0,142.8 L599.9,136.9 L605.7,151.0 L611.6,151.0 L617.5,151.0 L623.4,149.1 L629.3,161.4 L635.2,132.6 L641.1,112.5 L647.0,133.8 L652.9,139.3 L658.8,145.2 L664.7,118.9 L670.5,118.7 L676.4,122.5 L682.3,122.5 L688.2,132.8 L694.1,138.7 L700.0,155.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"664.7\" y1=\"20\" x2=\"664.7\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"659.7\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"105.2\" x2=\"700\" y2=\"105.2\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"109.2\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><line x1=\"52\" y1=\"129.9\" x2=\"700\" y2=\"129.9\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"133.9\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.290</text><polyline points=\"52.0,88.8 57.9,92.1 63.8,98.7 69.7,101.8 75.6,128.4 81.5,131.4 87.3,144.9 93.2,144.9 99.1,128.5 105.0,128.5 110.9,138.4 116.8,134.4 122.7,156.2 128.6,133.0 134.5,148.7 140.4,150.6 146.3,138.3 152.1,147.5 158.0,136.2 163.9,137.7 169.8,156.3 175.7,129.9 181.6,158.9 187.5,147.9 193.4,156.6 199.3,176.5 205.2,183.4 211.1,181.0 216.9,181.7 222.8,182.3 228.7,173.1 234.6,151.0 240.5,149.1 246.4,153.5 252.3,153.5 258.2,153.5 264.1,169.2 270.0,161.3 275.9,159.7 281.7,164.1 287.6,144.5 293.5,141.0 299.4,114.8 305.3,116.7 311.2,119.7 317.1,114.0 323.0,131.3 328.9,117.8 334.8,131.5 340.7,123.9 346.5,123.9 352.4,123.9 358.3,116.9 364.2,110.1 370.1,97.8 376.0,92.4 381.9,84.2 387.8,80.5 393.7,93.6 399.6,70.5 405.5,72.5 411.3,82.6 417.2,63.9 423.1,79.3 429.0,47.0 434.9,53.6 440.8,64.3 446.7,68.6 452.6,75.7 458.5,124.5 464.4,127.4 470.3,106.7 476.1,120.9 482.0,122.7 487.9,116.0 493.8,113.0 499.7,116.6 505.6,116.6 511.5,106.7 517.4,101.4 523.3,99.5 529.2,120.8 535.1,118.7 540.9,141.8 546.8,139.8 552.7,124.1 558.6,141.3 564.5,140.9 570.4,146.8 576.3,138.1 582.2,120.8 588.1,146.9 594.0,142.8 599.9,136.9 605.7,151.0 611.6,151.0 617.5,151.0 623.4,149.1 629.3,161.4 635.2,132.6 641.1,112.5 647.0,133.8 652.9,139.3 658.8,145.2 664.7,118.9 670.5,118.7 676.4,122.5 682.3,122.5 688.2,132.8 694.1,138.7 700.0,155.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"155.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">27.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">2.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">7.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "630 PA",
+     "pa": 630,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.654"
+      },
+      {
+       "label": "HR",
+       "value": "19"
+      },
+      {
+       "label": "K%",
+       "value": "31.9"
+      },
+      {
+       "label": "BB%",
+       "value": "7.6"
+      }
+     ]
+    },
+    "post": {
+     "sample": "28 PA · kleine Stichprobe",
+     "pa": 28,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.513"
+      },
+      {
+       "label": "HR",
+       "value": "1"
+      },
+      {
+       "label": "K%",
+       "value": "25.0"
+      },
+      {
+       "label": "BB%",
+       "value": "14.3"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/663586",
+  "fangraphs": "https://www.fangraphs.com/players/austin-riley/18360/stats"
+ }
+}

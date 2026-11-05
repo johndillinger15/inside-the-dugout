@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "id": 608070,
+ "slug": "jose-ramirez-608070",
+ "name": "José Ramírez",
+ "team": "CLE",
+ "position": "3B",
+ "season": 2026,
+ "dataThrough": "2026-10-19",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [],
+   "findingsNote": "Keine auffälligen Veränderungen gegenüber Vorsaison und Karriere.",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.235",
+     "v25": "0.283",
+     "car": "0.276",
+     "delta": "▼ −0.049",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.320",
+     "v25": "0.360",
+     "car": "0.351",
+     "delta": "▼ −0.040",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.368",
+     "v25": "0.503",
+     "car": "0.494",
+     "delta": "▼ −0.135",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.688",
+     "v25": "0.863",
+     "car": "0.844",
+     "delta": "▼ −0.174",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "92",
+     "v25": "133",
+     "car": "127*",
+     "delta": "▼ −41",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "12",
+     "v25": "30",
+     "car": "297",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "12.7",
+     "v25": "11.0",
+     "car": "11.9",
+     "delta": "▲ +1.7",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "11.0",
+     "v25": "9.8",
+     "car": "9.9",
+     "delta": "▲ +1.2",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.339\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.100</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><path d=\"M52,220 L52.0,57.1 L59.9,65.5 L67.8,74.0 L75.7,73.1 L83.6,71.0 L91.5,76.8 L99.4,76.8 L107.3,64.0 L115.2,67.0 L123.1,57.3 L131.0,43.9 L138.9,50.6 L146.8,58.7 L154.7,35.8 L162.6,35.8 L170.5,39.3 L178.4,47.7 L186.3,55.8 L194.2,64.8 L202.1,74.8 L210.0,95.3 L218.0,92.7 L225.9,93.2 L233.8,99.0 L241.7,104.8 L249.6,95.1 L257.5,87.4 L265.4,84.5 L273.3,86.5 L281.2,86.5 L289.1,89.0 L297.0,86.9 L304.9,88.8 L312.8,97.3 L320.7,118.5 L328.6,106.2 L336.5,122.8 L344.4,114.4 L352.3,105.2 L360.2,93.3 L368.1,102.8 L376.0,102.8 L383.9,107.5 L391.8,111.5 L399.7,112.6 L407.6,97.6 L415.5,83.5 L423.4,83.5 L431.3,84.8 L439.2,70.4 L447.1,73.7 L455.0,79.9 L462.9,78.7 L470.8,79.7 L478.7,84.2 L486.6,90.6 L494.5,99.1 L502.4,97.8 L510.3,107.2 L518.2,113.5 L526.1,121.8 L534.0,132.1 L542.0,150.7 L549.9,134.0 L557.8,122.0 L565.7,105.8 L573.6,97.6 L581.5,99.4 L589.4,116.1 L597.3,111.3 L605.2,111.9 L613.1,121.8 L621.0,139.5 L628.9,140.8 L636.8,120.8 L644.7,107.5 L652.6,94.4 L660.5,76.9 L668.4,76.9 L676.3,69.3 L684.2,68.4 L692.1,65.0 L700.0,60.5 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"621.0\" y1=\"20\" x2=\"621.0\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"616.0\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"76.8\" x2=\"700\" y2=\"76.8\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"80.8\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><line x1=\"52\" y1=\"85.8\" x2=\"700\" y2=\"85.8\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"95.8\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.301</text><polyline points=\"52.0,57.1 59.9,65.5 67.8,74.0 75.7,73.1 83.6,71.0 91.5,76.8 99.4,76.8 107.3,64.0 115.2,67.0 123.1,57.3 131.0,43.9 138.9,50.6 146.8,58.7 154.7,35.8 162.6,35.8 170.5,39.3 178.4,47.7 186.3,55.8 194.2,64.8 202.1,74.8 210.0,95.3 218.0,92.7 225.9,93.2 233.8,99.0 241.7,104.8 249.6,95.1 257.5,87.4 265.4,84.5 273.3,86.5 281.2,86.5 289.1,89.0 297.0,86.9 304.9,88.8 312.8,97.3 320.7,118.5 328.6,106.2 336.5,122.8 344.4,114.4 352.3,105.2 360.2,93.3 368.1,102.8 376.0,102.8 383.9,107.5 391.8,111.5 399.7,112.6 407.6,97.6 415.5,83.5 423.4,83.5 431.3,84.8 439.2,70.4 447.1,73.7 455.0,79.9 462.9,78.7 470.8,79.7 478.7,84.2 486.6,90.6 494.5,99.1 502.4,97.8 510.3,107.2 518.2,113.5 526.1,121.8 534.0,132.1 542.0,150.7 549.9,134.0 557.8,122.0 565.7,105.8 573.6,97.6 581.5,99.4 589.4,116.1 597.3,111.3 605.2,111.9 613.1,121.8 621.0,139.5 628.9,140.8 636.8,120.8 644.7,107.5 652.6,94.4 660.5,76.9 668.4,76.9 676.3,69.3 684.2,68.4 692.1,65.0 700.0,60.5\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"60.5\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">22.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">20.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">19.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "544 PA",
+     "pa": 544,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.688"
+      },
+      {
+       "label": "HR",
+       "value": "12"
+      },
+      {
+       "label": "K%",
+       "value": "12.7"
+      },
+      {
+       "label": "BB%",
+       "value": "11.0"
+      }
+     ]
+    },
+    "post": {
+     "sample": "48 PA · kleine Stichprobe",
+     "pa": 48,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.908"
+      },
+      {
+       "label": "HR",
+       "value": "2"
+      },
+      {
+       "label": "K%",
+       "value": "12.5"
+      },
+      {
+       "label": "BB%",
+       "value": "14.6"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/608070",
+  "fangraphs": "https://www.fangraphs.com/players/jose-ramirez/13510/stats"
+ }
+}

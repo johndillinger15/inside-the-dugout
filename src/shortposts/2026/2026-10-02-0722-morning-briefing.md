@@ -15,6 +15,6 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Michael Harris II**](https://www.fangraphs.com/players/michael-harris-ii/25931/stats) (ATL) | 1 HR | 3 RBI
-- [**Ozzie Albies**](https://www.fangraphs.com/players/ozzie-albies/16556/stats) (ATL) | 1 HR | 2 RBI
-- [**Matt Olson**](https://www.fangraphs.com/players/matt-olson/14344/stats) (ATL) | 1 HR | 1 RBI
+- [**Michael Harris II**](https://inside-the-dugout.de/spieler/michael-harris-ii-671739/) (ATL) | 1 HR | 3 RBI
+- [**Ozzie Albies**](https://inside-the-dugout.de/spieler/ozzie-albies-645277/) (ATL) | 1 HR | 2 RBI
+- [**Matt Olson**](https://inside-the-dugout.de/spieler/matt-olson-621566/) (ATL) | 1 HR | 1 RBI

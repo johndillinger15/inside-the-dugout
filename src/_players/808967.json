@@ -1,0 +1,199 @@
+{
+ "schema": 1,
+ "id": 808967,
+ "slug": "yoshinobu-yamamoto-808967",
+ "name": "Yoshinobu Yamamoto",
+ "team": "LAD",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-10-12",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Kontrolle",
+     "wert": "5.9 %",
+     "titel": "Weniger Walks",
+     "text": "Walk-Rate 5.9 %, Vorsaison 8.6 %."
+    },
+    {
+     "kicker": "Glück-Check",
+     "wert": "2.53",
+     "titel": "Ergebnis besser als die Leistung",
+     "text": "ERA 2.53, FIP 3.33. Die ERA liegt 0.80 unter dem FIP, ein Teil davon dürfte Glück sein."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "2.53",
+     "v25": "2.49",
+     "car": "2.61",
+     "delta": "▲ +0.04",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "3.33",
+     "v25": "2.94",
+     "car": "3.00",
+     "delta": "▲ +0.39",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "0.87",
+     "v25": "0.99",
+     "car": "0.97",
+     "delta": "▼ −0.12",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "25.7",
+     "v25": "29.4",
+     "car": "27.7",
+     "delta": "▼ −3.7",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "5.9",
+     "v25": "8.6",
+     "car": "7.0",
+     "delta": "▼ −2.7",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "19.8",
+     "v25": "20.8",
+     "car": "20.7",
+     "delta": "▼ −1.0",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "0.97",
+     "v25": "0.73",
+     "car": "0.82",
+     "delta": "▲ +0.25",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "185.0",
+     "v25": "173.2",
+     "car": "448.2",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 68\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">80</text><path d=\"M52,220 L52.0,152.0 L86.1,112.0 L120.2,91.0 L154.3,56.0 L188.4,77.0 L222.5,82.0 L256.6,71.0 L290.7,109.0 L324.8,115.0 L358.9,107.0 L393.1,99.0 L427.2,112.0 L461.3,85.0 L495.4,100.0 L529.5,92.0 L563.6,99.0 L597.7,89.0 L631.8,76.0 L665.9,86.0 L700.0,80.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"700.0\" y1=\"20\" x2=\"700.0\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"695.0\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"103.3\" x2=\"700\" y2=\"103.3\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"107.3\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 63</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"174.0\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,152.0 86.1,112.0 120.2,91.0 154.3,56.0 188.4,77.0 222.5,82.0 256.6,71.0 290.7,109.0 324.8,115.0 358.9,107.0 393.1,99.0 427.2,112.0 461.3,85.0 495.4,100.0 529.5,92.0 563.6,99.0 597.7,89.0 631.8,76.0 665.9,86.0 700.0,80.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"80.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">24.5.</text><text x=\"393.1\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">1.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">6.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "185.0 IP · 28 Starts",
+     "ip": 185.0,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "2.53"
+      },
+      {
+       "label": "K/9",
+       "value": "8.9"
+      },
+      {
+       "label": "BB/9",
+       "value": "2.0"
+      },
+      {
+       "label": "Starts",
+       "value": "28"
+      }
+     ]
+    },
+    "post": {
+     "sample": "9.2 IP · 1 Starts · kleine Stichprobe",
+     "ip": 9.666666666666666,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "3.72"
+      },
+      {
+       "label": "K/9",
+       "value": "10.2"
+      },
+      {
+       "label": "BB/9",
+       "value": "2.8"
+      },
+      {
+       "label": "Starts",
+       "value": "1"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/808967",
+  "fangraphs": "https://www.fangraphs.com/players/yoshinobu-yamamoto/33825/stats"
+ }
+}

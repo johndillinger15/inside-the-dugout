@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "id": 695731,
+ "slug": "braden-montgomery-695731",
+ "name": "Braden Montgomery",
+ "team": "CWS",
+ "position": "RF",
+ "season": 2026,
+ "dataThrough": "2026-10-08",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [],
+   "findingsNote": "Keine auffälligen Veränderungen gegenüber Vorsaison und Karriere.",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.226",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.312",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.350",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.662",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "89",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "6",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "19.7",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.4",
+     "v25": "–",
+     "car": "–",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "Debütsaison: Vorsaison und Karriere haben noch keine eigenen Werte.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.257\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><path d=\"M52,220 L52.0,89.3 L60.9,93.3 L69.8,138.3 L78.6,139.1 L87.5,98.8 L96.4,93.3 L105.3,72.7 L114.1,60.9 L123.0,35.1 L131.9,60.9 L140.8,63.5 L149.6,74.9 L158.5,76.5 L167.4,80.9 L176.3,67.4 L185.2,36.4 L194.0,48.9 L202.9,74.8 L211.8,90.6 L220.7,89.4 L229.5,96.7 L238.4,122.1 L247.3,117.3 L256.2,85.1 L265.0,47.7 L273.9,50.3 L282.8,67.1 L291.7,59.9 L300.5,75.4 L309.4,52.2 L318.3,61.3 L327.2,67.9 L336.1,72.7 L344.9,72.7 L353.8,65.4 L362.7,91.9 L371.6,71.5 L380.4,80.9 L389.3,90.2 L398.2,114.4 L407.1,107.1 L415.9,74.8 L424.8,90.5 L433.7,88.0 L442.6,91.9 L451.5,94.4 L460.3,86.8 L469.2,103.4 L478.1,133.3 L487.0,127.8 L495.8,112.8 L504.7,89.9 L513.6,109.6 L522.5,124.1 L531.3,155.0 L540.2,156.8 L549.1,160.6 L558.0,171.7 L566.8,180.8 L575.7,192.4 L584.6,172.8 L593.5,172.8 L602.4,164.3 L611.2,162.4 L620.1,146.6 L629.0,140.7 L637.9,144.1 L646.7,140.7 L655.6,131.4 L664.5,144.1 L673.4,158.1 L682.2,141.6 L691.1,144.1 L700.0,144.1 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"655.6\" y1=\"20\" x2=\"655.6\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"650.6\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"66.9\" x2=\"700\" y2=\"66.9\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"70.9\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><line x1=\"52\" y1=\"89.6\" x2=\"700\" y2=\"89.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"93.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.298</text><polyline points=\"52.0,89.3 60.9,93.3 69.8,138.3 78.6,139.1 87.5,98.8 96.4,93.3 105.3,72.7 114.1,60.9 123.0,35.1 131.9,60.9 140.8,63.5 149.6,74.9 158.5,76.5 167.4,80.9 176.3,67.4 185.2,36.4 194.0,48.9 202.9,74.8 211.8,90.6 220.7,89.4 229.5,96.7 238.4,122.1 247.3,117.3 256.2,85.1 265.0,47.7 273.9,50.3 282.8,67.1 291.7,59.9 300.5,75.4 309.4,52.2 318.3,61.3 327.2,67.9 336.1,72.7 344.9,72.7 353.8,65.4 362.7,91.9 371.6,71.5 380.4,80.9 389.3,90.2 398.2,114.4 407.1,107.1 415.9,74.8 424.8,90.5 433.7,88.0 442.6,91.9 451.5,94.4 460.3,86.8 469.2,103.4 478.1,133.3 487.0,127.8 495.8,112.8 504.7,89.9 513.6,109.6 522.5,124.1 531.3,155.0 540.2,156.8 549.1,160.6 558.0,171.7 566.8,180.8 575.7,192.4 584.6,172.8 593.5,172.8 602.4,164.3 611.2,162.4 620.1,146.6 629.0,140.7 637.9,144.1 646.7,140.7 655.6,131.4 664.5,144.1 673.4,158.1 682.2,141.6 691.1,144.1 700.0,144.1\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"144.1\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">8.7.</text><text x=\"380.4\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">23.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">8.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "365 PA",
+     "pa": 365,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.662"
+      },
+      {
+       "label": "HR",
+       "value": "6"
+      },
+      {
+       "label": "K%",
+       "value": "19.7"
+      },
+      {
+       "label": "BB%",
+       "value": "10.4"
+      }
+     ]
+    },
+    "post": {
+     "sample": "24 PA · kleine Stichprobe",
+     "pa": 24,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.341"
+      },
+      {
+       "label": "HR",
+       "value": "0"
+      },
+      {
+       "label": "K%",
+       "value": "50.0"
+      },
+      {
+       "label": "BB%",
+       "value": "4.2"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/695731"
+ }
+}

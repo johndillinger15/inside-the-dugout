@@ -17,10 +17,10 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**William Contreras**](https://www.fangraphs.com/players/william-contreras/20503/stats) (MIL) | 1 HR | 3 RBI
-- **Chase DeLauter** (CLE) | 1 2B | 1 HR | 1 RBI
-- [**Patrick Bailey**](https://www.fangraphs.com/players/patrick-bailey/27478/stats) (CLE) | 1 HR | 1 RBI
+- [**William Contreras**](https://inside-the-dugout.de/spieler/william-contreras-661388/) (MIL) | 1 HR | 3 RBI
+- [**Chase DeLauter**](https://inside-the-dugout.de/spieler/chase-delauter-800050/) (CLE) | 1 2B | 1 HR | 1 RBI
+- [**Patrick Bailey**](https://inside-the-dugout.de/spieler/patrick-bailey-672275/) (CLE) | 1 HR | 1 RBI
 
 #### Top Pitcher
 
-- [**Drew Rasmussen**](https://www.fangraphs.com/players/drew-rasmussen/25385/stats) (TB) | 6.0 IP | 2 ER | 7 K | 0 BB | GS 55
+- [**Drew Rasmussen**](https://inside-the-dugout.de/spieler/drew-rasmussen-656876/) (TB) | 6.0 IP | 2 ER | 7 K | 0 BB | GS 55

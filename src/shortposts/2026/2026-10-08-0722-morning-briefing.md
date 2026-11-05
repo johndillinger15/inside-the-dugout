@@ -21,11 +21,11 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**José Ramírez**](https://www.fangraphs.com/players/josé-ramírez/13510/stats) (CLE) | 1 2B | 1 3B | 2 RBI
-- [**Jo Adell**](https://www.fangraphs.com/players/jo-adell/20220/stats) (CLE) | 1 3B | 3 RBI
-- [**Victor Mesa Jr.**](https://www.fangraphs.com/players/victor-mesa-jr./25999/stats) (TB) | 1 HR | 2 RBI
+- [**José Ramírez**](https://inside-the-dugout.de/spieler/jose-ramirez-608070/) (CLE) | 1 2B | 1 3B | 2 RBI
+- [**Jo Adell**](https://inside-the-dugout.de/spieler/jo-adell-666176/) (CLE) | 1 3B | 3 RBI
+- [**Victor Mesa Jr.**](https://inside-the-dugout.de/spieler/victor-mesa-jr-683748/) (TB) | 1 HR | 2 RBI
 
 #### Top Pitcher
 
-- [**Tyler Mahle**](https://www.fangraphs.com/players/tyler-mahle/16358/stats) (ATL) | 6.1 IP | 1 ER | 4 K | 1 BB | GS 64
-- [**Max Fried**](https://www.fangraphs.com/players/max-fried/13743/stats) (NYY) | 5.2 IP | 4 ER | 7 K | 0 BB | GS 46
+- [**Tyler Mahle**](https://inside-the-dugout.de/spieler/tyler-mahle-641816/) (ATL) | 6.1 IP | 1 ER | 4 K | 1 BB | GS 64
+- [**Max Fried**](https://inside-the-dugout.de/spieler/max-fried-608331/) (NYY) | 5.2 IP | 4 ER | 7 K | 0 BB | GS 46

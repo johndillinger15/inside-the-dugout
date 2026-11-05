@@ -17,10 +17,10 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**David Hamilton**](https://www.fangraphs.com/players/david-hamilton/27531/stats) (MIL) | 1 HR | 2 RBI
-- [**Shohei Ohtani**](https://www.fangraphs.com/players/shohei-ohtani/19755/stats) (LAD) | 1 HR | 3 RBI
-- [**Petey Halpin**](https://www.fangraphs.com/players/petey-halpin/27931/stats) (CLE) | 1 HR | 2 RBI
+- [**David Hamilton**](https://inside-the-dugout.de/spieler/david-hamilton-666152/) (MIL) | 1 HR | 2 RBI
+- [**Shohei Ohtani**](https://inside-the-dugout.de/spieler/shohei-ohtani-660271/) (LAD) | 1 HR | 3 RBI
+- [**Petey Halpin**](https://inside-the-dugout.de/spieler/petey-halpin-690984/) (CLE) | 1 HR | 2 RBI
 
 #### Top Pitcher
 
-- [**Gavin Williams**](https://www.fangraphs.com/players/gavin-williams/30122/stats) (CLE) | 5.0 IP | 2 ER | 9 K | 1 BB | GS 63
+- [**Gavin Williams**](https://inside-the-dugout.de/spieler/gavin-williams-668909/) (CLE) | 5.0 IP | 2 ER | 9 K | 1 BB | GS 63

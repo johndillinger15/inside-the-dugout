@@ -21,15 +21,15 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- **Munetaka Murakami** (CWS) | 1 HR | 2 RBI
-- [**Kyle Tucker**](https://www.fangraphs.com/players/kyle-tucker/18345/stats) (LAD) | 1 HR | 2 RBI
-- [**Teoscar Hernández**](https://www.fangraphs.com/players/teoscar-hernández/13066/stats) (LAD) | 1 HR | 2 RBI
+- [**Munetaka Murakami**](https://inside-the-dugout.de/spieler/munetaka-murakami-808959/) (CWS) | 1 HR | 2 RBI
+- [**Kyle Tucker**](https://inside-the-dugout.de/spieler/kyle-tucker-663656/) (LAD) | 1 HR | 2 RBI
+- [**Teoscar Hernández**](https://inside-the-dugout.de/spieler/teoscar-hernandez-606192/) (LAD) | 1 HR | 2 RBI
 
 #### Top Pitcher
 
-- [**Drew Rasmussen**](https://www.fangraphs.com/players/drew-rasmussen/25385/stats) (TB) | 8.0 IP | 0 ER | 10 K | 2 BB | GS 88
-- [**Tarik Skubal**](https://www.fangraphs.com/players/tarik-skubal/22267/stats) (LAD) | 6.0 IP | 1 ER | 7 K | 2 BB | GS 69
-- [**Gerrit Cole**](https://www.fangraphs.com/players/gerrit-cole/13125/stats) (NYY) | 5.0 IP | 1 ER | 5 K | 1 BB | GS 57
+- [**Drew Rasmussen**](https://inside-the-dugout.de/spieler/drew-rasmussen-656876/) (TB) | 8.0 IP | 0 ER | 10 K | 2 BB | GS 88
+- [**Tarik Skubal**](https://inside-the-dugout.de/spieler/tarik-skubal-669373/) (LAD) | 6.0 IP | 1 ER | 7 K | 2 BB | GS 69
+- [**Gerrit Cole**](https://inside-the-dugout.de/spieler/gerrit-cole-543037/) (NYY) | 5.0 IP | 1 ER | 5 K | 1 BB | GS 57
 
 #### Heute live in MESZ-tauglicher Zeit
 

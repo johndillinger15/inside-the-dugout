@@ -94,7 +94,7 @@ eleventyComputed:
       {% for l in b.chart.legend %}<li class="{{ l.tone }}"><b>{{ l.range }}</b> {{ l.label }}</li>{% endfor %}
     </ul>
     {% endif %}
-    <p class="note">{{ b.chart.note }}</p>
+    <p class="note">{{ b.chart.note }}{% if b.chart.defUrl %} <a href="{{ b.chart.defUrl }}" rel="noopener">{{ b.chart.defLabel }}</a>.{% endif %}</p>
     {% endif %}
 
     {% if b.split %}

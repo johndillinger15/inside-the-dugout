@@ -33,6 +33,15 @@ eleventyComputed:
   .pl .split{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr))}
   .pl .split dl{display:grid;grid-template-columns:1fr auto;gap:.2rem .8rem;margin:.5rem 0 0}
   .pl .split dd{margin:0;font-weight:600;text-align:right}.pl .split dt{opacity:.8}
+  .pl .split-regular{background:rgba(29,45,80,.06)}
+  .pl .split-regular .kick{color:var(--itd-navy);opacity:1;font-weight:600}
+  .pl .split-post{background:rgba(200,16,46,.08);border-color:rgba(200,16,46,.4)}
+  .pl .split-post .kick{color:var(--itd-red);opacity:1;font-weight:600}
+  .pl .legend{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0 0;padding:0;list-style:none;font-size:.82rem}
+  .pl .legend li{border:1px solid var(--pl-line);border-radius:1rem;padding:.15rem .6rem;white-space:nowrap}
+  .pl .legend b{font-variant-numeric:tabular-nums}
+  .pl .legend .top{background:rgba(23,128,61,.14)}.pl .legend .good{background:rgba(23,128,61,.07)}
+  .pl .legend .low{background:rgba(180,35,24,.07)}
   .pl .links a{margin-right:1rem}
   .pl .kindtag{display:inline-block;font-size:.75rem;padding:.1rem .5rem;border-radius:1rem;background:var(--itd-navy);color:#fff;margin-left:.5rem;vertical-align:middle}
 </style>
@@ -80,6 +89,11 @@ eleventyComputed:
     <h2>Formkurve</h2>
     <p class="note" style="margin-top:0">{{ b.chart.title }}</p>
     <div class="wrap">{{ b.chart.svg | safe }}</div>
+    {% if b.chart.legend %}
+    <ul class="legend" aria-label="Einordnung Game Score">
+      {% for l in b.chart.legend %}<li class="{{ l.tone }}"><b>{{ l.range }}</b> {{ l.label }}</li>{% endfor %}
+    </ul>
+    {% endif %}
     <p class="note">{{ b.chart.note }}</p>
     {% endif %}
 
@@ -89,7 +103,7 @@ eleventyComputed:
       {% for key, label in {"regular": "Regular Season", "post": "Postseason"} %}
       {% set s = b.split[key] %}
       {% if s %}
-      <div class="card">
+      <div class="card split-{{ key }}">
         <div class="kick">{{ label }}</div>
         <p class="note" style="margin:.1rem 0 0">{{ s.sample }}</p>
         <dl>{% for m in s.metrics %}<dt>{{ m.label }}</dt><dd>{{ m.value }}</dd>{% endfor %}</dl>

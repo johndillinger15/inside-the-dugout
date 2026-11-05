@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": 666152,
+ "slug": "david-hamilton-666152",
+ "name": "David Hamilton",
+ "team": "MIL",
+ "position": "3B",
+ "season": 2026,
+ "dataThrough": "2026-10-28",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "On-Base",
+     "wert": "0.314",
+     "titel": "Öfter auf Base",
+     "text": "OBP 0.314, Vorsaison 0.257."
+    },
+    {
+     "kicker": "Contact",
+     "wert": "0.245",
+     "titel": "Mehr Treffer als in der Vorsaison",
+     "text": "AVG 0.245, Vorsaison 0.198. Das sind 0.047 Punkte mehr."
+    },
+    {
+     "kicker": "Entwicklung",
+     "wert": "+23",
+     "titel": "wRC+ klar über 2025",
+     "text": "wRC+ 84 gegenüber 61 in 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.245",
+     "v25": "0.198",
+     "car": "0.231",
+     "delta": "▲ +0.047",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.314",
+     "v25": "0.257",
+     "car": "0.296",
+     "delta": "▲ +0.057",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.336",
+     "v25": "0.333",
+     "car": "0.350",
+     "delta": "▲ +0.003",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.650",
+     "v25": "0.590",
+     "car": "0.646",
+     "delta": "▲ +0.060",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "84",
+     "v25": "61",
+     "car": "81*",
+     "delta": "▲ +23",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "4",
+     "v25": "6",
+     "car": "18",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "22.2",
+     "v25": "24.2",
+     "car": "23.8",
+     "delta": "▼ −2.0",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "8.3",
+     "v25": "6.7",
+     "car": "7.8",
+     "delta": "▲ +1.6",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.314\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><path d=\"M52,220 L52.0,134.4 L61.0,114.9 L70.0,126.8 L79.0,144.6 L88.0,164.9 L97.0,170.5 L106.0,141.0 L115.0,115.3 L124.0,109.0 L133.0,127.3 L142.0,108.5 L151.0,100.6 L160.0,90.2 L169.0,90.2 L178.0,116.6 L187.0,110.9 L196.0,141.7 L205.0,141.7 L214.0,97.3 L223.0,116.2 L232.0,85.6 L241.0,87.8 L250.0,62.9 L259.0,108.4 L268.0,129.6 L277.0,123.7 L286.0,107.3 L295.0,125.9 L304.0,155.9 L313.0,120.0 L322.0,118.2 L331.0,165.7 L340.0,182.9 L349.0,188.3 L358.0,185.0 L367.0,158.1 L376.0,131.8 L385.0,137.9 L394.0,143.9 L403.0,121.2 L412.0,90.0 L421.0,83.5 L430.0,96.4 L439.0,148.7 L448.0,123.2 L457.0,99.4 L466.0,131.1 L475.0,125.1 L484.0,156.4 L493.0,138.6 L502.0,112.6 L511.0,116.2 L520.0,131.8 L529.0,113.9 L538.0,147.6 L547.0,158.8 L556.0,147.6 L565.0,153.3 L574.0,153.3 L583.0,149.5 L592.0,172.6 L601.0,141.0 L610.0,123.4 L619.0,123.7 L628.0,135.2 L637.0,123.7 L646.0,82.4 L655.0,55.4 L664.0,41.6 L673.0,61.8 L682.0,107.7 L691.0,103.1 L700.0,91.5 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"628.0\" y1=\"20\" x2=\"628.0\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"623.0\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"90.4\" x2=\"700\" y2=\"90.4\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"94.4\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><line x1=\"52\" y1=\"134.2\" x2=\"700\" y2=\"134.2\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"138.2\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.293</text><polyline points=\"52.0,134.4 61.0,114.9 70.0,126.8 79.0,144.6 88.0,164.9 97.0,170.5 106.0,141.0 115.0,115.3 124.0,109.0 133.0,127.3 142.0,108.5 151.0,100.6 160.0,90.2 169.0,90.2 178.0,116.6 187.0,110.9 196.0,141.7 205.0,141.7 214.0,97.3 223.0,116.2 232.0,85.6 241.0,87.8 250.0,62.9 259.0,108.4 268.0,129.6 277.0,123.7 286.0,107.3 295.0,125.9 304.0,155.9 313.0,120.0 322.0,118.2 331.0,165.7 340.0,182.9 349.0,188.3 358.0,185.0 367.0,158.1 376.0,131.8 385.0,137.9 394.0,143.9 403.0,121.2 412.0,90.0 421.0,83.5 430.0,96.4 439.0,148.7 448.0,123.2 457.0,99.4 466.0,131.1 475.0,125.1 484.0,156.4 493.0,138.6 502.0,112.6 511.0,116.2 520.0,131.8 529.0,113.9 538.0,147.6 547.0,158.8 556.0,147.6 565.0,153.3 574.0,153.3 583.0,149.5 592.0,172.6 601.0,141.0 610.0,123.4 619.0,123.7 628.0,135.2 637.0,123.7 646.0,82.4 655.0,55.4 664.0,41.6 673.0,61.8 682.0,107.7 691.0,103.1 700.0,91.5\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"91.5\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">9.6.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">14.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">28.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "387 PA",
+     "pa": 387,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.650"
+      },
+      {
+       "label": "HR",
+       "value": "4"
+      },
+      {
+       "label": "K%",
+       "value": "22.2"
+      },
+      {
+       "label": "BB%",
+       "value": "8.3"
+      }
+     ]
+    },
+    "post": {
+     "sample": "29 PA · kleine Stichprobe",
+     "pa": 29,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.950"
+      },
+      {
+       "label": "HR",
+       "value": "2"
+      },
+      {
+       "label": "K%",
+       "value": "20.7"
+      },
+      {
+       "label": "BB%",
+       "value": "0.0"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/666152",
+  "fangraphs": "https://www.fangraphs.com/players/david-hamilton/27531/stats"
+ }
+}

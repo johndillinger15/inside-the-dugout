@@ -21,12 +21,12 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Cody Bellinger**](https://www.fangraphs.com/players/cody-bellinger/15998/stats) (NYY) | 1 HR | 4 RBI
-- [**Chase Meidroth**](https://www.fangraphs.com/players/chase-meidroth/31580/stats) (CWS) | 1 HR | 3 RBI
-- [**Luis García Jr.**](https://www.fangraphs.com/players/luis-garcía-jr./20391/stats) (NYY) | 1 HR | 1 RBI
+- [**Cody Bellinger**](https://inside-the-dugout.de/spieler/cody-bellinger-641355/) (NYY) | 1 HR | 4 RBI
+- [**Chase Meidroth**](https://inside-the-dugout.de/spieler/chase-meidroth-805367/) (CWS) | 1 HR | 3 RBI
+- [**Luis García Jr.**](https://inside-the-dugout.de/spieler/luis-garcia-jr-671277/) (NYY) | 1 HR | 1 RBI
 
 #### Top Pitcher
 
-- [**Max Fried**](https://www.fangraphs.com/players/max-fried/13743/stats) (NYY) | 6.0 IP | 1 ER | 6 K | 1 BB | GS 67
-- [**Tyler Mahle**](https://www.fangraphs.com/players/tyler-mahle/16358/stats) (ATL) | 7.0 IP | 1 ER | 6 K | 1 BB | GS 66
-- [**Cristopher Sánchez**](https://www.fangraphs.com/players/cristopher-sánchez/20778/stats) (PHI) | 6.2 IP | 3 ER | 6 K | 5 BB | GS 51
+- [**Max Fried**](https://inside-the-dugout.de/spieler/max-fried-608331/) (NYY) | 6.0 IP | 1 ER | 6 K | 1 BB | GS 67
+- [**Tyler Mahle**](https://inside-the-dugout.de/spieler/tyler-mahle-641816/) (ATL) | 7.0 IP | 1 ER | 6 K | 1 BB | GS 66
+- [**Cristopher Sánchez**](https://inside-the-dugout.de/spieler/cristopher-sanchez-650911/) (PHI) | 6.2 IP | 3 ER | 6 K | 5 BB | GS 51

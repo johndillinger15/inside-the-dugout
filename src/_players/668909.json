@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "id": 668909,
+ "slug": "gavin-williams-668909",
+ "name": "Gavin Williams",
+ "team": "CLE",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-10-15",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Strikeouts und Walks",
+     "wert": "25.1 %",
+     "titel": "K-BB% über der Vorsaison",
+     "text": "K-Rate 33.2 % (Vorsaison 24.6 %), Walk-Rate 8.2 % (Vorsaison 11.8 %). K-BB% liegt 12.3 Punkte über 2025."
+    },
+    {
+     "kicker": "Entwicklung",
+     "wert": "3.47",
+     "titel": "FIP klar besser als 2025",
+     "text": "FIP 3.47 gegenüber 4.39 in 2025."
+    },
+    {
+     "kicker": "Gesamtbild",
+     "wert": "+11.8",
+     "titel": "K-BB% weit über Liga-Durchschnitt",
+     "text": "K-BB% 25.1 %, Liga-Durchschnitt 13.3 %. Das sind 11.8 Prozentpunkte mehr."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "3.76",
+     "v25": "3.06",
+     "car": "3.62",
+     "delta": "▲ +0.70",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "3.47",
+     "v25": "4.39",
+     "car": "3.84",
+     "delta": "▼ −0.92",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "1.11",
+     "v25": "1.27",
+     "car": "1.23",
+     "delta": "▼ −0.16",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "33.2",
+     "v25": "24.6",
+     "car": "27.3",
+     "delta": "▲ +8.7",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "8.2",
+     "v25": "11.8",
+     "car": "10.0",
+     "delta": "▼ −3.6",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "25.1",
+     "v25": "12.8",
+     "car": "17.3",
+     "delta": "▲ +12.3",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "1.37",
+     "v25": "1.23",
+     "car": "1.16",
+     "delta": "▲ +0.13",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "184.1",
+     "v25": "167.2",
+     "car": "510.0",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 62\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">80</text><path d=\"M52,220 L52.0,126.0 L80.2,133.0 L108.3,121.0 L136.5,111.0 L164.7,139.0 L192.9,168.0 L221.0,189.0 L249.2,196.0 L277.4,170.0 L305.6,148.0 L333.7,120.0 L361.9,94.0 L390.1,64.0 L418.3,77.0 L446.4,96.0 L474.6,119.0 L502.8,110.0 L531.0,122.0 L559.1,127.0 L587.3,78.0 L615.5,105.0 L643.7,129.0 L671.8,116.0 L700.0,108.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"643.7\" y1=\"20\" x2=\"643.7\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"638.7\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"127.6\" x2=\"700\" y2=\"127.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"131.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 58</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"174.0\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,126.0 80.2,133.0 108.3,121.0 136.5,111.0 164.7,139.0 192.9,168.0 221.0,189.0 249.2,196.0 277.4,170.0 305.6,148.0 333.7,120.0 361.9,94.0 390.1,64.0 418.3,77.0 446.4,96.0 474.6,119.0 502.8,110.0 531.0,122.0 559.1,127.0 587.3,78.0 615.5,105.0 643.7,129.0 671.8,116.0 700.0,108.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"108.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">22.5.</text><text x=\"390.1\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">2.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">15.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "184.1 IP · 32 Starts",
+     "ip": 184.33333333333334,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "3.76"
+      },
+      {
+       "label": "K/9",
+       "value": "12.1"
+      },
+      {
+       "label": "BB/9",
+       "value": "3.0"
+      },
+      {
+       "label": "Starts",
+       "value": "32"
+      }
+     ]
+    },
+    "post": {
+     "sample": "16.2 IP · 3 Starts",
+     "ip": 16.666666666666668,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "2.16"
+      },
+      {
+       "label": "K/9",
+       "value": "17.8"
+      },
+      {
+       "label": "BB/9",
+       "value": "3.2"
+      },
+      {
+       "label": "Starts",
+       "value": "3"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/668909",
+  "fangraphs": "https://www.fangraphs.com/players/gavin-williams/30122/stats"
+ }
+}

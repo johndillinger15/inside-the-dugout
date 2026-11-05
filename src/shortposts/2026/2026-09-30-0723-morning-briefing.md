@@ -21,15 +21,15 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Ben Rice**](https://www.fangraphs.com/players/ben-rice/29576/stats) (NYY) | 1 2B | 2 HR | 6 RBI
-- [**Manny Machado**](https://www.fangraphs.com/players/manny-machado/11493/stats) (SD) | 1 2B | 1 HR | 2 RBI
-- [**Austin Riley**](https://www.fangraphs.com/players/austin-riley/18360/stats) (ATL) | 1 HR | 3 RBI
+- [**Ben Rice**](https://inside-the-dugout.de/spieler/ben-rice-700250/) (NYY) | 1 2B | 2 HR | 6 RBI
+- [**Manny Machado**](https://inside-the-dugout.de/spieler/manny-machado-592518/) (SD) | 1 2B | 1 HR | 2 RBI
+- [**Austin Riley**](https://inside-the-dugout.de/spieler/austin-riley-663586/) (ATL) | 1 HR | 3 RBI
 
 #### Top Pitcher
 
-- [**Michael King**](https://www.fangraphs.com/players/michael-king/19853/stats) (SD) | 7.0 IP | 0 ER | 8 K | 3 BB | GS 80
-- [**Cam Schlittler**](https://www.fangraphs.com/players/cam-schlittler/32095/stats) (NYY) | 6.1 IP | 0 ER | 10 K | 1 BB | GS 78
-- [**Jesús Luzardo**](https://www.fangraphs.com/players/jesús-luzardo/19959/stats) (PHI) | 5.0 IP | 1 ER | 6 K | 1 BB | GS 62
+- [**Michael King**](https://inside-the-dugout.de/spieler/michael-king-650633/) (SD) | 7.0 IP | 0 ER | 8 K | 3 BB | GS 80
+- [**Cam Schlittler**](https://inside-the-dugout.de/spieler/cam-schlittler-693645/) (NYY) | 6.1 IP | 0 ER | 10 K | 1 BB | GS 78
+- [**Jesús Luzardo**](https://inside-the-dugout.de/spieler/jesus-luzardo-666200/) (PHI) | 5.0 IP | 1 ER | 6 K | 1 BB | GS 62
 
 #### Heute live in MESZ-tauglicher Zeit
 

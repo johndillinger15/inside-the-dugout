@@ -15,5 +15,5 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Sal Frelick**](https://www.fangraphs.com/players/sal-frelick/29622/stats) (MIL) | 2 H | 1 HR | 1 RBI
-- [**Liam Hicks**](https://www.fangraphs.com/players/liam-hicks/29844/stats) (TB) | 1 H | 1 HR | 2 RBI
+- [**Sal Frelick**](https://inside-the-dugout.de/spieler/sal-frelick-686217/) (MIL) | 2 H | 1 HR | 1 RBI
+- [**Liam Hicks**](https://inside-the-dugout.de/spieler/liam-hicks-689414/) (TB) | 1 H | 1 HR | 2 RBI

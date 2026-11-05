@@ -15,6 +15,6 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**José Ramírez**](https://www.fangraphs.com/players/josé-ramírez/13510/stats) (CLE) | 1 HR | 3 RBI
-- [**Patrick Bailey**](https://www.fangraphs.com/players/patrick-bailey/27478/stats) (CLE) | 1 HR | 2 RBI
-- [**Miguel Vargas**](https://www.fangraphs.com/players/miguel-vargas/20178/stats) (CWS) | 1 HR | 1 RBI
+- [**José Ramírez**](https://inside-the-dugout.de/spieler/jose-ramirez-608070/) (CLE) | 1 HR | 3 RBI
+- [**Patrick Bailey**](https://inside-the-dugout.de/spieler/patrick-bailey-672275/) (CLE) | 1 HR | 2 RBI
+- [**Miguel Vargas**](https://inside-the-dugout.de/spieler/miguel-vargas-678246/) (CWS) | 1 HR | 1 RBI

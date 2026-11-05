@@ -15,8 +15,8 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- **Cooper Pratt** (MIL) | 2 H | 2 RBI
+- [**Cooper Pratt**](https://inside-the-dugout.de/spieler/cooper-pratt-806198/) (MIL) | 2 H | 2 RBI
 
 #### Top Pitcher
 
-- [**Jacob Misiorowski**](https://www.fangraphs.com/players/jacob-misiorowski/31623/stats) (MIL) | 5.2 IP | 0 ER | 2 K | 1 BB | GS 66
+- [**Jacob Misiorowski**](https://inside-the-dugout.de/spieler/jacob-misiorowski-694819/) (MIL) | 5.2 IP | 0 ER | 2 K | 1 BB | GS 66

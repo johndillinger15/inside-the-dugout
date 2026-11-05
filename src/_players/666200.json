@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "id": 666200,
+ "slug": "jesus-luzardo-666200",
+ "name": "Jesús Luzardo",
+ "team": "PHI",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-09-29",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Glück-Check",
+     "wert": "2.86",
+     "titel": "ERA passt zur Leistung",
+     "text": "ERA 2.86, FIP 2.78. Beide liegen nur 0.08 auseinander: Das Ergebnis stammt aus Strikeouts und Kontrolle, nicht aus Glück bei Bällen im Spiel."
+    },
+    {
+     "kicker": "Gesamtbild",
+     "wert": "+9.9",
+     "titel": "K-BB% weit über Liga-Durchschnitt",
+     "text": "K-BB% 23.2 %, Liga-Durchschnitt 13.3 %. Das sind 9.9 Prozentpunkte mehr."
+    },
+    {
+     "kicker": "Form",
+     "wert": "70",
+     "titel": "Gerade stark in Form",
+     "text": "Game Score Ø 70 in den letzten 5 Starts, Saison Ø 63."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "2.86",
+     "v25": "3.92",
+     "car": "3.92",
+     "delta": "▼ −1.06",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "2.78",
+     "v25": "2.90",
+     "car": "3.43",
+     "delta": "▼ −0.12",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "1.07",
+     "v25": "1.22",
+     "car": "1.21",
+     "delta": "▼ −0.15",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "30.3",
+     "v25": "28.5",
+     "car": "27.4",
+     "delta": "▲ +1.8",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "7.1",
+     "v25": "7.5",
+     "car": "8.0",
+     "delta": "▼ −0.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "23.2",
+     "v25": "21.0",
+     "car": "19.5",
+     "delta": "▲ +2.2",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "0.75",
+     "v25": "0.78",
+     "car": "1.05",
+     "delta": "▼ −0.03",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "179.2",
+     "v25": "183.2",
+     "car": "875.1",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 70\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">80</text><path d=\"M52,220 L52.0,128.0 L84.4,143.0 L116.8,152.0 L149.2,140.0 L181.6,146.0 L214.0,137.0 L246.4,153.0 L278.8,145.0 L311.2,114.0 L343.6,93.0 L376.0,95.0 L408.4,72.0 L440.8,91.0 L473.2,81.0 L505.6,91.0 L538.0,92.0 L570.4,118.0 L602.8,76.0 L635.2,92.0 L667.6,70.0 L700.0,71.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"700.0\" y1=\"20\" x2=\"700.0\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"695.0\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"104.4\" x2=\"700\" y2=\"104.4\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"108.4\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 63</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"174.0\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,128.0 84.4,143.0 116.8,152.0 149.2,140.0 181.6,146.0 214.0,137.0 246.4,153.0 278.8,145.0 311.2,114.0 343.6,93.0 376.0,95.0 408.4,72.0 440.8,91.0 473.2,81.0 505.6,91.0 538.0,92.0 570.4,118.0 602.8,76.0 635.2,92.0 667.6,70.0 700.0,71.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"71.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">19.5.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">18.7.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">29.9.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "179.2 IP · 29 Starts",
+     "ip": 179.66666666666666,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "2.86"
+      },
+      {
+       "label": "K/9",
+       "value": "11.1"
+      },
+      {
+       "label": "BB/9",
+       "value": "2.6"
+      },
+      {
+       "label": "Starts",
+       "value": "29"
+      }
+     ]
+    },
+    "post": {
+     "sample": "5.0 IP · 1 Starts · kleine Stichprobe",
+     "ip": 5.0,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "1.80"
+      },
+      {
+       "label": "K/9",
+       "value": "10.8"
+      },
+      {
+       "label": "BB/9",
+       "value": "1.8"
+      },
+      {
+       "label": "Starts",
+       "value": "1"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/666200",
+  "fangraphs": "https://www.fangraphs.com/players/jesus-luzardo/19959/stats"
+ }
+}

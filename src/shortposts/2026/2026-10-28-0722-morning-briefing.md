@@ -15,5 +15,5 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- **Cooper Pratt** (MIL) | 4 H | 1 2B | 1 HR | 2 RBI
-- [**David Hamilton**](https://www.fangraphs.com/players/david-hamilton/27531/stats) (MIL) | 1 H | 1 HR | 1 RBI
+- [**Cooper Pratt**](https://inside-the-dugout.de/spieler/cooper-pratt-806198/) (MIL) | 4 H | 1 2B | 1 HR | 2 RBI
+- [**David Hamilton**](https://inside-the-dugout.de/spieler/david-hamilton-666152/) (MIL) | 1 H | 1 HR | 1 RBI

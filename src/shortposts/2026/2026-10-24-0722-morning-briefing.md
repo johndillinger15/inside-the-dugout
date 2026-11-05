@@ -15,5 +15,5 @@ tags: [morning-briefing]
 
 #### Top Pitcher
 
-- [**Jacob Misiorowski**](https://www.fangraphs.com/players/jacob-misiorowski/31623/stats) (MIL) | 5.0 IP | 1 ER | 3 K | 1 BB | GS 57
-- [**Nick Martinez**](https://www.fangraphs.com/players/nick-martinez/12730/stats) (TB) | 5.0 IP | 2 ER | 5 K | 0 BB | GS 54
+- [**Jacob Misiorowski**](https://inside-the-dugout.de/spieler/jacob-misiorowski-694819/) (MIL) | 5.0 IP | 1 ER | 3 K | 1 BB | GS 57
+- [**Nick Martinez**](https://inside-the-dugout.de/spieler/nick-martinez-607259/) (TB) | 5.0 IP | 2 ER | 5 K | 0 BB | GS 54

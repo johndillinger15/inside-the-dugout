@@ -15,10 +15,10 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Junior Caminero**](https://www.fangraphs.com/players/junior-caminero/28163/stats) (TB) | 2 H | 1 HR | 2 RBI | 1 BB
-- [**Yandy Díaz**](https://www.fangraphs.com/players/yandy-díaz/16578/stats) (TB) | 1 H | 1 HR | 2 RBI
-- [**Richie Palacios**](https://www.fangraphs.com/players/richie-palacios/24589/stats) (TB) | 2 H | 1 2B | 2 RBI
+- [**Junior Caminero**](https://inside-the-dugout.de/spieler/junior-caminero-691406/) (TB) | 2 H | 1 HR | 2 RBI | 1 BB
+- [**Yandy Díaz**](https://inside-the-dugout.de/spieler/yandy-diaz-650490/) (TB) | 1 H | 1 HR | 2 RBI
+- [**Richie Palacios**](https://inside-the-dugout.de/spieler/richie-palacios-680700/) (TB) | 2 H | 1 2B | 2 RBI
 
 #### Top Pitcher
 
-- [**Freddy Peralta**](https://www.fangraphs.com/players/freddy-peralta/18679/stats) (TB) | 5.1 IP | 1 ER | 3 K | 3 BB | GS 54
+- [**Freddy Peralta**](https://inside-the-dugout.de/spieler/freddy-peralta-642547/) (TB) | 5.1 IP | 1 ER | 3 K | 3 BB | GS 54

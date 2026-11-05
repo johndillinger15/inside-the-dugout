@@ -15,11 +15,11 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Brice Turang**](https://www.fangraphs.com/players/brice-turang/22186/stats) (MIL) | 1 HR | 1 RBI
+- [**Brice Turang**](https://inside-the-dugout.de/spieler/brice-turang-668930/) (MIL) | 1 HR | 1 RBI
 
 #### Top Pitcher
 
-- [**Tarik Skubal**](https://www.fangraphs.com/players/tarik-skubal/22267/stats) (LAD) | 5.0 IP | 2 ER | 7 K | 2 BB | GS 54
+- [**Tarik Skubal**](https://inside-the-dugout.de/spieler/tarik-skubal-669373/) (LAD) | 5.0 IP | 2 ER | 7 K | 2 BB | GS 54
 
 #### Heute live in MESZ-tauglicher Zeit
 

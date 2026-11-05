@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "id": 608331,
+ "slug": "max-fried-608331",
+ "name": "Max Fried",
+ "team": "NYY",
+ "position": "P",
+ "season": 2026,
+ "dataThrough": "2026-10-07",
+ "kinds": [
+  "pitcher"
+ ],
+ "blocks": [
+  {
+   "kind": "pitcher",
+   "label": "Pitcher",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "FIP",
+   "findings": [
+    {
+     "kicker": "Homeruns",
+     "wert": "0.32",
+     "titel": "Weniger Homeruns pro 9 Innings",
+     "text": "HR/9 0.32, Vorsaison 0.65, Karriere 0.71. Das sind 0.33 weniger als 2025."
+    },
+    {
+     "kicker": "Glück-Check",
+     "wert": "2.80",
+     "titel": "ERA passt zur Leistung",
+     "text": "ERA 2.80, FIP 2.65. Beide liegen nur 0.15 auseinander: Das Ergebnis stammt aus Strikeouts und Kontrolle, nicht aus Glück bei Bällen im Spiel."
+    },
+    {
+     "kicker": "Entwicklung",
+     "wert": "2.65",
+     "titel": "FIP klar besser als 2025",
+     "text": "FIP 2.65 gegenüber 3.07 in 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "ERA",
+     "v26": "2.80",
+     "v25": "2.86",
+     "car": "3.01",
+     "delta": "▼ −0.06",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "FIP",
+     "v26": "2.65",
+     "v25": "3.07",
+     "car": "3.13",
+     "delta": "▼ −0.42",
+     "tone": "better",
+     "main": true
+    },
+    {
+     "name": "WHIP",
+     "v26": "0.99",
+     "v25": "1.10",
+     "car": "1.14",
+     "delta": "▼ −0.11",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "24.0",
+     "v25": "23.6",
+     "car": "23.8",
+     "delta": "▲ +0.4",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "7.6",
+     "v25": "6.4",
+     "car": "6.8",
+     "delta": "▲ +1.2",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "K-BB%",
+     "v26": "16.4",
+     "v25": "17.2",
+     "car": "17.0",
+     "delta": "▼ −0.9",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "HR/9",
+     "v26": "0.32",
+     "v25": "0.65",
+     "car": "0.71",
+     "delta": "▼ −0.33",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "IP",
+     "v26": "112.2",
+     "v25": "195.1",
+     "car": "1192.1",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    }
+   ],
+   "tableNote": "FIP bewertet nur Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus. Karriere-FIP ist selbst berechnet und eine Näherung.",
+   "chart": {
+    "title": "Game Score über die letzten 5 Starts, mit Saisondurchschnitt und neutralem Wert 50",
+    "legend": [
+     {
+      "range": "80+",
+      "label": "dominant",
+      "tone": "top"
+     },
+     {
+      "range": "70–79",
+      "label": "sehr gut",
+      "tone": "good"
+     },
+     {
+      "range": "60–69",
+      "label": "gut",
+      "tone": "good"
+     },
+     {
+      "range": "50–59",
+      "label": "solide",
+      "tone": "mid"
+     },
+     {
+      "range": "40–49",
+      "label": "schwach",
+      "tone": "low"
+     },
+     {
+      "range": "unter 40",
+      "label": "schlecht",
+      "tone": "low"
+     }
+    ],
+    "note": "Game Score (Bill James) startet bei 50 und bewertet einen einzelnen Start: Outs, Innings und Strikeouts erhöhen ihn, Hits, Runs und Walks senken ihn. Ein durchschnittlicher Start liegt bei etwa 50. Die Kurve zeigt den Schnitt der letzten 5 Starts, eine kleine Stichprobe und ein Trend, kein Beweis. Die Stufen sind Faustwerte, keine offizielle Einteilung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitender Game Score über 5 Starts, zuletzt 57\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">40</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">50</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">60</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">70</text><path d=\"M52,220 L52.0,130.7 L110.9,170.7 L169.8,145.3 L228.7,105.3 L287.6,82.7 L346.5,105.3 L405.5,77.3 L464.4,86.7 L523.3,93.3 L582.2,102.7 L641.1,85.3 L700.0,104.0 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"641.1\" y1=\"20\" x2=\"641.1\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"636.1\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"111.9\" x2=\"700\" y2=\"111.9\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"115.9\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison Ø 56</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"157.3\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Neutral 50</text><polyline points=\"52.0,130.7 110.9,170.7 169.8,145.3 228.7,105.3 287.6,82.7 346.5,105.3 405.5,77.3 464.4,86.7 523.3,93.3 582.2,102.7 641.1,85.3 700.0,104.0\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"104.0\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">22.7.</text><text x=\"405.5\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">4.9.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">7.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "112.2 IP · 20 Starts",
+     "ip": 112.66666666666667,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "2.80"
+      },
+      {
+       "label": "K/9",
+       "value": "8.3"
+      },
+      {
+       "label": "BB/9",
+       "value": "2.6"
+      },
+      {
+       "label": "Starts",
+       "value": "20"
+      }
+     ]
+    },
+    "post": {
+     "sample": "11.2 IP · 2 Starts · kleine Stichprobe",
+     "ip": 11.666666666666666,
+     "metrics": [
+      {
+       "label": "ERA",
+       "value": "3.86"
+      },
+      {
+       "label": "K/9",
+       "value": "10.0"
+      },
+      {
+       "label": "BB/9",
+       "value": "0.8"
+      },
+      {
+       "label": "Starts",
+       "value": "2"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/608331",
+  "fangraphs": "https://www.fangraphs.com/players/max-fried/13743/stats"
+ }
+}

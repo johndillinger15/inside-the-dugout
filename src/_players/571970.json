@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": 571970,
+ "slug": "max-muncy-571970",
+ "name": "Max Muncy",
+ "team": "LAD",
+ "position": "3B",
+ "season": 2026,
+ "dataThrough": "2026-10-15",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "129",
+     "titel": "wRC+ deutlich über Liga-Durchschnitt",
+     "text": "wRC+ 129 heißt 29 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 137, Karriere 126."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.252",
+     "v25": "0.243",
+     "car": "0.232",
+     "delta": "▲ +0.009",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.348",
+     "v25": "0.376",
+     "car": "0.353",
+     "delta": "▼ −0.029",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.490",
+     "v25": "0.470",
+     "car": "0.476",
+     "delta": "▲ +0.020",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.837",
+     "v25": "0.846",
+     "car": "0.830",
+     "delta": "▼ −0.009",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "129",
+     "v25": "137",
+     "car": "126*",
+     "delta": "▼ −8",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "29",
+     "v25": "19",
+     "car": "243",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "25.0",
+     "v25": "21.4",
+     "car": "24.4",
+     "delta": "▲ +3.6",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "11.6",
+     "v25": "16.5",
+     "car": "14.7",
+     "delta": "▼ −4.9",
+     "tone": "worse",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.368\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.450</text><path d=\"M52,220 L52.0,125.7 L58.2,129.1 L64.3,144.7 L70.5,146.0 L76.7,146.4 L82.9,149.6 L89.0,148.2 L95.2,166.8 L101.4,145.9 L107.5,137.1 L113.7,133.3 L119.9,128.2 L126.1,76.4 L132.2,89.6 L138.4,102.8 L144.6,99.2 L150.7,102.8 L156.9,112.3 L163.1,115.8 L169.3,117.6 L175.4,117.3 L181.6,101.1 L187.8,99.2 L193.9,110.0 L200.1,101.1 L206.3,94.2 L212.5,89.2 L218.6,105.8 L224.8,92.2 L231.0,77.0 L237.1,90.3 L243.3,95.3 L249.5,92.2 L255.7,97.2 L261.8,114.8 L268.0,134.2 L274.2,137.3 L280.3,141.4 L286.5,121.2 L292.7,124.7 L298.9,159.0 L305.0,147.3 L311.2,142.6 L317.4,125.7 L323.5,141.4 L329.7,146.5 L335.9,135.1 L342.1,132.1 L348.2,149.7 L354.4,149.2 L360.6,143.8 L366.7,147.5 L372.9,147.5 L379.1,153.1 L385.3,162.4 L391.4,167.6 L397.6,176.8 L403.8,180.0 L409.9,158.3 L416.1,167.3 L422.3,162.3 L428.5,149.9 L434.6,159.2 L440.8,148.3 L447.0,113.0 L453.1,128.0 L459.3,131.4 L465.5,114.6 L471.7,98.7 L477.8,111.4 L484.0,119.4 L490.2,119.0 L496.3,122.5 L502.5,139.5 L508.7,134.1 L514.9,139.5 L521.0,132.6 L527.2,132.6 L533.4,134.5 L539.5,122.0 L545.7,102.6 L551.9,101.8 L558.1,88.9 L564.2,63.0 L570.4,55.2 L576.6,72.5 L582.7,88.8 L588.9,94.1 L595.1,97.2 L601.3,96.7 L607.4,84.1 L613.6,94.9 L619.8,78.9 L625.9,105.8 L632.1,142.5 L638.3,146.1 L644.5,155.5 L650.6,136.7 L656.8,120.1 L663.0,99.5 L669.1,103.2 L675.3,94.7 L681.5,89.7 L687.7,92.8 L693.8,99.7 L700.0,101.9 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"656.8\" y1=\"20\" x2=\"656.8\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"651.8\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"108.8\" x2=\"700\" y2=\"108.8\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"112.8\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.361</text><line x1=\"52\" y1=\"155.2\" x2=\"700\" y2=\"155.2\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"159.2\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,125.7 58.2,129.1 64.3,144.7 70.5,146.0 76.7,146.4 82.9,149.6 89.0,148.2 95.2,166.8 101.4,145.9 107.5,137.1 113.7,133.3 119.9,128.2 126.1,76.4 132.2,89.6 138.4,102.8 144.6,99.2 150.7,102.8 156.9,112.3 163.1,115.8 169.3,117.6 175.4,117.3 181.6,101.1 187.8,99.2 193.9,110.0 200.1,101.1 206.3,94.2 212.5,89.2 218.6,105.8 224.8,92.2 231.0,77.0 237.1,90.3 243.3,95.3 249.5,92.2 255.7,97.2 261.8,114.8 268.0,134.2 274.2,137.3 280.3,141.4 286.5,121.2 292.7,124.7 298.9,159.0 305.0,147.3 311.2,142.6 317.4,125.7 323.5,141.4 329.7,146.5 335.9,135.1 342.1,132.1 348.2,149.7 354.4,149.2 360.6,143.8 366.7,147.5 372.9,147.5 379.1,153.1 385.3,162.4 391.4,167.6 397.6,176.8 403.8,180.0 409.9,158.3 416.1,167.3 422.3,162.3 428.5,149.9 434.6,159.2 440.8,148.3 447.0,113.0 453.1,128.0 459.3,131.4 465.5,114.6 471.7,98.7 477.8,111.4 484.0,119.4 490.2,119.0 496.3,122.5 502.5,139.5 508.7,134.1 514.9,139.5 521.0,132.6 527.2,132.6 533.4,134.5 539.5,122.0 545.7,102.6 551.9,101.8 558.1,88.9 564.2,63.0 570.4,55.2 576.6,72.5 582.7,88.8 588.9,94.1 595.1,97.2 601.3,96.7 607.4,84.1 613.6,94.9 619.8,78.9 625.9,105.8 632.1,142.5 638.3,146.1 644.5,155.5 650.6,136.7 656.8,120.1 663.0,99.5 669.1,103.2 675.3,94.7 681.5,89.7 687.7,92.8 693.8,99.7 700.0,101.9\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"101.9\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">31.5.</text><text x=\"379.1\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">5.8.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">15.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "561 PA",
+     "pa": 561,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.837"
+      },
+      {
+       "label": "HR",
+       "value": "29"
+      },
+      {
+       "label": "K%",
+       "value": "25.0"
+      },
+      {
+       "label": "BB%",
+       "value": "11.6"
+      }
+     ]
+    },
+    "post": {
+     "sample": "24 PA · kleine Stichprobe",
+     "pa": 24,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.792"
+      },
+      {
+       "label": "HR",
+       "value": "3"
+      },
+      {
+       "label": "K%",
+       "value": "33.3"
+      },
+      {
+       "label": "BB%",
+       "value": "0.0"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/571970",
+  "fangraphs": "https://www.fangraphs.com/players/max-muncy/13301/stats"
+ }
+}

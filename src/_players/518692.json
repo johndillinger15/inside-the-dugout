@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "id": 518692,
+ "slug": "freddie-freeman-518692",
+ "name": "Freddie Freeman",
+ "team": "LAD",
+ "position": "1B",
+ "season": 2026,
+ "dataThrough": "2026-10-15",
+ "kinds": [
+  "hitter"
+ ],
+ "blocks": [
+  {
+   "kind": "hitter",
+   "label": "Hitter",
+   "season": 2026,
+   "prevSeason": 2025,
+   "mainLabel": "wRC+",
+   "findings": [
+    {
+     "kicker": "Gesamtbild",
+     "wert": "120",
+     "titel": "wRC+ über Liga-Durchschnitt",
+     "text": "wRC+ 120 heißt 20 % mehr Run-Produktion als der Liga-Durchschnitt. Vorsaison 139, Karriere 140."
+    },
+    {
+     "kicker": "Strikeouts",
+     "wert": "17.7 %",
+     "titel": "Weniger Strikeouts als in der Vorsaison",
+     "text": "K-Rate 17.7 %, Vorsaison 20.4 %, Karriere 18.8 %. Das sind 2.8 Prozentpunkte weniger als 2025."
+    }
+   ],
+   "findingsNote": "",
+   "rows": [
+    {
+     "name": "AVG",
+     "v26": "0.288",
+     "v25": "0.295",
+     "car": "0.299",
+     "delta": "▼ −0.007",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OBP",
+     "v26": "0.362",
+     "v25": "0.367",
+     "car": "0.384",
+     "delta": "▼ −0.005",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "SLG",
+     "v26": "0.430",
+     "v25": "0.502",
+     "car": "0.505",
+     "delta": "▼ −0.072",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "OPS",
+     "v26": "0.792",
+     "v25": "0.869",
+     "car": "0.890",
+     "delta": "▼ −0.076",
+     "tone": "worse",
+     "main": false
+    },
+    {
+     "name": "wRC+",
+     "v26": "120",
+     "v25": "139",
+     "car": "140*",
+     "delta": "▼ −19",
+     "tone": "worse",
+     "main": true
+    },
+    {
+     "name": "HR",
+     "v26": "16",
+     "v25": "24",
+     "car": "383",
+     "delta": "–",
+     "tone": "none",
+     "main": false
+    },
+    {
+     "name": "K%",
+     "v26": "17.7",
+     "v25": "20.4",
+     "car": "18.8",
+     "delta": "▼ −2.8",
+     "tone": "better",
+     "main": false
+    },
+    {
+     "name": "BB%",
+     "v26": "10.0",
+     "v25": "9.6",
+     "car": "11.3",
+     "delta": "▲ +0.5",
+     "tone": "better",
+     "main": false
+    }
+   ],
+   "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
+   "chart": {
+    "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
+    "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.210\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.100</text><line x1=\"52\" y1=\"170.0\" x2=\"700\" y2=\"170.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"174.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"120.0\" x2=\"700\" y2=\"120.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"124.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"70.0\" x2=\"700\" y2=\"70.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"74.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.400</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.500</text><path d=\"M52,220 L52.0,84.3 L57.7,86.1 L63.5,88.6 L69.2,82.8 L74.9,66.7 L80.7,65.3 L86.4,65.3 L92.1,71.4 L97.9,78.1 L103.6,67.5 L109.3,78.0 L115.1,79.9 L120.8,65.5 L126.5,67.7 L132.3,72.1 L138.0,67.9 L143.8,60.5 L149.5,51.3 L155.2,50.4 L161.0,59.3 L166.7,67.8 L172.4,70.4 L178.2,66.6 L183.9,72.8 L189.6,76.2 L195.4,78.9 L201.1,82.9 L206.8,87.4 L212.6,81.0 L218.3,73.3 L224.0,61.8 L229.8,49.1 L235.5,62.3 L241.2,60.2 L247.0,48.4 L252.7,50.6 L258.4,53.6 L264.2,55.8 L269.9,49.7 L275.6,57.2 L281.4,63.1 L287.1,61.1 L292.8,48.4 L298.6,54.9 L304.3,59.8 L310.1,67.6 L315.8,70.9 L321.5,78.6 L327.3,83.3 L333.0,82.4 L338.7,80.2 L344.5,86.0 L350.2,75.4 L355.9,76.8 L361.7,75.9 L367.4,79.2 L373.1,89.6 L378.9,84.4 L384.6,86.9 L390.3,85.9 L396.1,88.2 L401.8,88.0 L407.5,88.0 L413.3,98.3 L419.0,99.0 L424.7,99.0 L430.5,101.7 L436.2,104.4 L441.9,101.8 L447.7,101.1 L453.4,98.4 L459.2,95.0 L464.9,95.0 L470.6,101.8 L476.4,89.5 L482.1,83.5 L487.8,83.5 L493.6,103.3 L499.3,110.3 L505.0,114.6 L510.8,126.3 L516.5,119.6 L522.2,119.6 L528.0,122.1 L533.7,130.8 L539.4,119.3 L545.2,118.7 L550.9,103.4 L556.6,109.3 L562.4,105.8 L568.1,101.5 L573.8,102.4 L579.6,115.2 L585.3,117.1 L591.0,121.7 L596.8,110.1 L602.5,111.7 L608.2,116.3 L614.0,126.9 L619.7,133.1 L625.5,122.9 L631.2,122.0 L636.9,132.1 L642.7,122.0 L648.4,127.6 L654.1,138.7 L659.9,135.3 L665.6,131.6 L671.3,123.8 L677.1,141.0 L682.8,141.4 L688.5,164.6 L694.3,164.6 L700.0,164.8 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"659.9\" y1=\"20\" x2=\"659.9\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"654.9\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"96.1\" x2=\"700\" y2=\"96.1\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"100.1\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.348</text><line x1=\"52\" y1=\"112.6\" x2=\"700\" y2=\"112.6\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"116.6\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><polyline points=\"52.0,84.3 57.7,86.1 63.5,88.6 69.2,82.8 74.9,66.7 80.7,65.3 86.4,65.3 92.1,71.4 97.9,78.1 103.6,67.5 109.3,78.0 115.1,79.9 120.8,65.5 126.5,67.7 132.3,72.1 138.0,67.9 143.8,60.5 149.5,51.3 155.2,50.4 161.0,59.3 166.7,67.8 172.4,70.4 178.2,66.6 183.9,72.8 189.6,76.2 195.4,78.9 201.1,82.9 206.8,87.4 212.6,81.0 218.3,73.3 224.0,61.8 229.8,49.1 235.5,62.3 241.2,60.2 247.0,48.4 252.7,50.6 258.4,53.6 264.2,55.8 269.9,49.7 275.6,57.2 281.4,63.1 287.1,61.1 292.8,48.4 298.6,54.9 304.3,59.8 310.1,67.6 315.8,70.9 321.5,78.6 327.3,83.3 333.0,82.4 338.7,80.2 344.5,86.0 350.2,75.4 355.9,76.8 361.7,75.9 367.4,79.2 373.1,89.6 378.9,84.4 384.6,86.9 390.3,85.9 396.1,88.2 401.8,88.0 407.5,88.0 413.3,98.3 419.0,99.0 424.7,99.0 430.5,101.7 436.2,104.4 441.9,101.8 447.7,101.1 453.4,98.4 459.2,95.0 464.9,95.0 470.6,101.8 476.4,89.5 482.1,83.5 487.8,83.5 493.6,103.3 499.3,110.3 505.0,114.6 510.8,126.3 516.5,119.6 522.2,119.6 528.0,122.1 533.7,130.8 539.4,119.3 545.2,118.7 550.9,103.4 556.6,109.3 562.4,105.8 568.1,101.5 573.8,102.4 579.6,115.2 585.3,117.1 591.0,121.7 596.8,110.1 602.5,111.7 608.2,116.3 614.0,126.9 619.7,133.1 625.5,122.9 631.2,122.0 636.9,132.1 642.7,122.0 648.4,127.6 654.1,138.7 659.9,135.3 665.6,131.6 671.3,123.8 677.1,141.0 682.8,141.4 688.5,164.6 694.3,164.6 700.0,164.8\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"164.8\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">23.5.</text><text x=\"378.9\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">29.7.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">15.10.</text></svg>"
+   },
+   "split": {
+    "regular": {
+     "sample": "657 PA",
+     "pa": 657,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.792"
+      },
+      {
+       "label": "HR",
+       "value": "16"
+      },
+      {
+       "label": "K%",
+       "value": "17.7"
+      },
+      {
+       "label": "BB%",
+       "value": "10.0"
+      }
+     ]
+    },
+    "post": {
+     "sample": "33 PA · kleine Stichprobe",
+     "pa": 33,
+     "metrics": [
+      {
+       "label": "OPS",
+       "value": "0.622"
+      },
+      {
+       "label": "HR",
+       "value": "2"
+      },
+      {
+       "label": "K%",
+       "value": "15.2"
+      },
+      {
+       "label": "BB%",
+       "value": "9.1"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "links": {
+  "savant": "https://baseballsavant.mlb.com/savant-player/518692",
+  "fangraphs": "https://www.fangraphs.com/players/freddie-freeman/5361/stats"
+ }
+}

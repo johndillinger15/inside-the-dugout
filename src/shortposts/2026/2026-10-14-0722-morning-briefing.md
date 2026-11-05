@@ -16,9 +16,9 @@ tags: [morning-briefing]
 
 #### Top Hitter
 
-- [**Liam Hicks**](https://www.fangraphs.com/players/liam-hicks/29844/stats) (TB) | 2 RBI
+- [**Liam Hicks**](https://inside-the-dugout.de/spieler/liam-hicks-689414/) (TB) | 2 RBI
 
 #### Top Pitcher
 
-- [**Freddy Peralta**](https://www.fangraphs.com/players/freddy-peralta/18679/stats) (TB) | 6.0 IP | 0 ER | 6 K | 2 BB | GS 68
-- [**Parker Messick**](https://www.fangraphs.com/players/parker-messick/31986/stats) (CLE) | 5.0 IP | 0 ER | 3 K | 2 BB | GS 50
+- [**Freddy Peralta**](https://inside-the-dugout.de/spieler/freddy-peralta-642547/) (TB) | 6.0 IP | 0 ER | 6 K | 2 BB | GS 68
+- [**Parker Messick**](https://inside-the-dugout.de/spieler/parker-messick-800048/) (CLE) | 5.0 IP | 0 ER | 3 K | 2 BB | GS 50

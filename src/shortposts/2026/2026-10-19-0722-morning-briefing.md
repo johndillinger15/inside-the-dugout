@@ -15,4 +15,4 @@ tags: [morning-briefing]
 
 #### Top Pitcher
 
-- [**Drew Rasmussen**](https://www.fangraphs.com/players/drew-rasmussen/25385/stats) (TB) | 7.0 IP | 1 ER | 6 K | 1 BB | GS 70
+- [**Drew Rasmussen**](https://inside-the-dugout.de/spieler/drew-rasmussen-656876/) (TB) | 7.0 IP | 1 ER | 6 K | 1 BB | GS 70

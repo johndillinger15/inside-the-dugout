@@ -53,6 +53,13 @@ eleventyComputed:
     {% if p.team %}{{ p.team }}{% endif %}{% if p.position %} · {{ p.position }}{% endif %}
     {% if p.dataThrough %} · Daten bis {{ p.dataThrough }}{% endif %}
   </p>
+  {% if p.mentions %}
+  <p class="sub">Im Blog {{ p.mentions.season }}: {{ p.mentions.total }} {% if p.mentions.total == 1 %}Morning Briefing{% else %}Morning Briefings{% endif %}
+    {%- set parts = [] -%}
+    {%- if p.mentions.hitter %}{% set parts = (parts.push(p.mentions.hitter + "× Top Hitter"), parts) %}{% endif -%}
+    {%- if p.mentions.pitcher %}{% set parts = (parts.push(p.mentions.pitcher + "× Top Pitcher"), parts) %}{% endif %}
+    ({{ parts | join(", ") }}), zuletzt am {{ p.mentions.lastDe }}</p>
+  {% endif %}
 
   {% for b in p.blocks %}
   <section>

@@ -66,19 +66,19 @@ eleventyExcludeFromCollections: true
   {% if leaders.stand %}<p class="note">Stand: {{ leaders.stand }}. Quelle: MLB Stats API.</p>{% endif %}
 
   <h2>Hitter mit Spielerseite</h2>
-  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen.</p>
+  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen. Zuerst die mit den meisten Briefing-Auftritten.</p>
   <ul class="all">
   {% for p in players %}{% if p.marquee.hitter %}
-    <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span></span><span class="mq"><span class="ml">{{ p.marquee.hitter.label }}</span> {{ p.marquee.hitter.value }}</span></li>
+    <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span>{% if p.mentions %} <span class="tm" title="Morning Briefings {{ p.mentions.season }}">· {{ p.mentions.total }}×</span>{% endif %}</span><span class="mq"><span class="ml">{{ p.marquee.hitter.label }}</span> {{ p.marquee.hitter.value }}</span></li>
   {% endif %}{% endfor %}
   </ul>
 
   <h2>Pitcher mit Spielerseite</h2>
-  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen.</p>
+  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen. Zuerst die mit den meisten Briefing-Auftritten.</p>
   <ul class="all">
   {% for p in players %}{% if p.marquee.pitcher %}
-    <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span></span><span class="mq"><span class="ml">{{ p.marquee.pitcher.label }}</span> {{ p.marquee.pitcher.value }}</span></li>
+    <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span>{% if p.mentions %} <span class="tm" title="Morning Briefings {{ p.mentions.season }}">· {{ p.mentions.total }}×</span>{% endif %}</span><span class="mq"><span class="ml">{{ p.marquee.pitcher.label }}</span> {{ p.marquee.pitcher.value }}</span></li>
   {% endif %}{% endfor %}
   </ul>
-  <p class="note">Die Liste wächst mit den Briefings. Alphabetisch nach Nachname. Die Kennzahl ist wRC+ (Hitter) bzw. FIP (Pitcher) der Saison {{ leaders.season }}, auch bei kleinen Stichproben.</p>
+  <p class="note">Die Zahl mit × gibt an, in wie vielen Morning Briefings {{ leaders.season }} der Spieler als Top Hitter oder Top Pitcher stand. Sortiert nach dieser Zahl, bei Gleichstand alphabetisch nach Nachname. Die Liste wächst mit den Briefings. Die Kennzahl ist wRC+ (Hitter) bzw. FIP (Pitcher) der Saison {{ leaders.season }}, auch bei kleinen Stichproben.</p>
 </div>

@@ -2,7 +2,7 @@
 permalink: /spieler/index.html
 layout: layouts/default
 title: Spieler
-description: Die besten Hitter und Pitcher der MLB-Saison nach wRC+ und FIP, dazu alle Spielerseiten von Inside The Dugout.
+description: Die besten Hitter und Pitcher der MLB-Saison nach wRC+ und FIP, dazu alle Spieler mit eigener Seite bei Inside The Dugout.
 eleventyExcludeFromCollections: true
 ---
 <style>
@@ -27,10 +27,10 @@ eleventyExcludeFromCollections: true
 </style>
 <div class="hub">
   <h1>Spieler</h1>
-  <p>Die besten Hitter und Pitcher der Saison {{ leaders.season }} und alle Spieler mit eigener Seite.</p>
+  <p>Zwei Listen: die besten Hitter und Pitcher der gesamten MLB in der Saison {{ leaders.season }}, und alle Spieler, die bei Inside The Dugout eine eigene Seite haben.</p>
 
   {% if leaders.hitters.length %}
-  <h2>Top {{ leaders.hitters.length }} Hitter nach wRC+</h2>
+  <h2>Top {{ leaders.hitters.length }} Hitter der MLB nach wRC+</h2>
   <div class="wrap">
   <table>
     <thead><tr><th>#</th><th>Spieler</th><th>Team</th><th>wRC+</th><th>OPS</th><th>HR</th><th>PA</th></tr></thead>
@@ -43,11 +43,11 @@ eleventyExcludeFromCollections: true
     </tbody>
   </table>
   </div>
-  <p class="note">Nur qualifizierte Hitter der Regular Season. wRC+ 100 ist Liga-Durchschnitt, jeder Punkt darüber ist ein Prozent mehr Run-Produktion.</p>
+  <p class="note">Alle qualifizierten Hitter der MLB, nicht nur Spieler aus dem Blog. Qualifiziert heißt mindestens 3,1 Plate Appearances pro Teamspiel (502 PA bei 162 Spielen). Zählt nur die Regular Season. wRC+ 100 ist Liga-Durchschnitt, jeder Punkt darüber ist ein Prozent mehr Run-Produktion.</p>
   {% endif %}
 
   {% if leaders.pitchers.length %}
-  <h2>Top {{ leaders.pitchers.length }} Pitcher nach FIP</h2>
+  <h2>Top {{ leaders.pitchers.length }} Pitcher der MLB nach FIP</h2>
   <div class="wrap">
   <table>
     <thead><tr><th>#</th><th>Spieler</th><th>Team</th><th>FIP</th><th>ERA</th><th>K%</th><th>IP</th></tr></thead>
@@ -60,23 +60,25 @@ eleventyExcludeFromCollections: true
     </tbody>
   </table>
   </div>
-  <p class="note">Nur qualifizierte Pitcher der Regular Season. FIP bewertet Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus.</p>
+  <p class="note">Alle qualifizierten Pitcher der MLB, nicht nur Spieler aus dem Blog. Qualifiziert heißt mindestens 1 Inning pro Teamspiel (162 IP bei 162 Spielen). Zählt nur die Regular Season. FIP bewertet Strikeouts, Walks und Homeruns und blendet Defense und Glück bei Bällen im Spiel aus.</p>
   {% endif %}
 
   {% if leaders.stand %}<p class="note">Stand: {{ leaders.stand }}. Quelle: MLB Stats API.</p>{% endif %}
 
-  <h2>Alle Hitter</h2>
+  <h2>Hitter mit Spielerseite</h2>
+  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen.</p>
   <ul class="all">
   {% for p in players %}{% if p.marquee.hitter %}
     <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span></span><span class="mq"><span class="ml">{{ p.marquee.hitter.label }}</span> {{ p.marquee.hitter.value }}</span></li>
   {% endif %}{% endfor %}
   </ul>
 
-  <h2>Alle Pitcher</h2>
+  <h2>Pitcher mit Spielerseite</h2>
+  <p class="note" style="margin-top:0">Spieler, die in einem Morning Briefing vorkamen oder in den Top 15 stehen.</p>
   <ul class="all">
   {% for p in players %}{% if p.marquee.pitcher %}
     <li><span><a href="/spieler/{{ p.slug }}/">{{ p.name }}</a> <span class="tm">{{ p.team }}</span></span><span class="mq"><span class="ml">{{ p.marquee.pitcher.label }}</span> {{ p.marquee.pitcher.value }}</span></li>
   {% endif %}{% endfor %}
   </ul>
-  <p class="note">Alphabetisch nach Nachname. Die Kennzahl ist wRC+ (Hitter) bzw. FIP (Pitcher) der aktuellen Saison, auch bei kleinen Stichproben.</p>
+  <p class="note">Die Liste wächst mit den Briefings. Alphabetisch nach Nachname. Die Kennzahl ist wRC+ (Hitter) bzw. FIP (Pitcher) der Saison {{ leaders.season }}, auch bei kleinen Stichproben.</p>
 </div>

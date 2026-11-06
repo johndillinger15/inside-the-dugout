@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 4,
+  "hitter": 0,
+  "pitcher": 4,
+  "first": "2026-07-28",
+  "last": "2026-10-08",
+  "lastDe": "8.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/tyler-mahle-641816",
   "savant": "https://baseballsavant.mlb.com/savant-player/641816",

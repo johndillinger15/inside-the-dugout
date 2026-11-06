@@ -179,6 +179,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 1,
+  "hitter": 0,
+  "pitcher": 1,
+  "first": "2026-10-04",
+  "last": "2026-10-04",
+  "lastDe": "4.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/gerrit-cole-543037",
   "savant": "https://baseballsavant.mlb.com/savant-player/543037",

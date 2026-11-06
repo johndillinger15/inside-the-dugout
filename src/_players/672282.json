@@ -147,6 +147,15 @@
    "split": null
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-08-11",
+  "last": "2026-09-09",
+  "lastDe": "9.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/reid-detmers-672282",
   "savant": "https://baseballsavant.mlb.com/savant-player/672282",

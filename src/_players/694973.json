@@ -134,6 +134,15 @@
    "split": null
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 1,
+  "hitter": 0,
+  "pitcher": 1,
+  "first": "2026-09-25",
+  "last": "2026-09-25",
+  "lastDe": "25.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/paul-skenes-694973",
   "savant": "https://baseballsavant.mlb.com/savant-player/694973",

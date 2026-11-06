@@ -186,6 +186,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 2,
+  "hitter": 0,
+  "pitcher": 2,
+  "first": "2026-07-27",
+  "last": "2026-10-14",
+  "lastDe": "14.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/parker-messick-800048",
   "savant": "https://baseballsavant.mlb.com/savant-player/800048",

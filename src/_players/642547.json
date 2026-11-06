@@ -186,6 +186,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 4,
+  "hitter": 0,
+  "pitcher": 4,
+  "first": "2026-08-27",
+  "last": "2026-10-20",
+  "lastDe": "20.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/freddy-peralta-642547",
   "savant": "https://baseballsavant.mlb.com/savant-player/642547",

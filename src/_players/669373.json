@@ -192,6 +192,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 6,
+  "hitter": 0,
+  "pitcher": 6,
+  "first": "2026-07-19",
+  "last": "2026-10-12",
+  "lastDe": "12.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/tarik-skubal-669373",
   "savant": "https://baseballsavant.mlb.com/savant-player/669373",

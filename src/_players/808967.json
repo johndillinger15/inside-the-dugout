@@ -192,6 +192,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 6,
+  "hitter": 0,
+  "pitcher": 6,
+  "first": "2026-07-05",
+  "last": "2026-10-07",
+  "lastDe": "7.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/yoshinobu-yamamoto-808967",
   "savant": "https://baseballsavant.mlb.com/savant-player/808967",

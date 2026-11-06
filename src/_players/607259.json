@@ -192,6 +192,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 4,
+  "hitter": 0,
+  "pitcher": 4,
+  "first": "2026-08-24",
+  "last": "2026-10-24",
+  "lastDe": "24.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/nick-martinez-607259",
   "savant": "https://baseballsavant.mlb.com/savant-player/607259",

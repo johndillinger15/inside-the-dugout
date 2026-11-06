@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 5,
+  "hitter": 0,
+  "pitcher": 5,
+  "first": "2026-07-18",
+  "last": "2026-10-07",
+  "lastDe": "7.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/chris-sale-519242",
   "savant": "https://baseballsavant.mlb.com/savant-player/519242",

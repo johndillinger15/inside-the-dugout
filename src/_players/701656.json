@@ -192,6 +192,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 5,
+  "hitter": 0,
+  "pitcher": 5,
+  "first": "2026-08-17",
+  "last": "2026-10-05",
+  "lastDe": "5.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/logan-henderson-701656",
   "savant": "https://baseballsavant.mlb.com/savant-player/701656",

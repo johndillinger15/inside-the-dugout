@@ -147,6 +147,15 @@
    "split": null
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-08-06",
+  "last": "2026-09-13",
+  "lastDe": "13.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/bryan-woo-693433",
   "savant": "https://baseballsavant.mlb.com/savant-player/693433",

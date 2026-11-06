@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-07-23",
+  "last": "2026-10-08",
+  "lastDe": "8.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/max-fried-608331",
   "savant": "https://baseballsavant.mlb.com/savant-player/608331",

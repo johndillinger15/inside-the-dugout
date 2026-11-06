@@ -153,6 +153,15 @@
    "split": null
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-08-21",
+  "last": "2026-09-11",
+  "lastDe": "11.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/jacob-degrom-594798",
   "savant": "https://baseballsavant.mlb.com/savant-player/594798",

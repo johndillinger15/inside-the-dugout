@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 6,
+  "hitter": 0,
+  "pitcher": 6,
+  "first": "2026-07-11",
+  "last": "2026-10-11",
+  "lastDe": "11.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/sean-burke-680732",
   "savant": "https://baseballsavant.mlb.com/savant-player/680732",

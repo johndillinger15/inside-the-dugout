@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 9,
+  "hitter": 0,
+  "pitcher": 9,
+  "first": "2026-07-10",
+  "last": "2026-10-16",
+  "lastDe": "16.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/gavin-williams-668909",
   "savant": "https://baseballsavant.mlb.com/savant-player/668909",

@@ -153,6 +153,15 @@
    "split": null
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-07-23",
+  "last": "2026-08-20",
+  "lastDe": "20.8."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/cade-cavalli-676917",
   "savant": "https://baseballsavant.mlb.com/savant-player/676917",

@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 6,
+  "hitter": 0,
+  "pitcher": 6,
+  "first": "2026-07-10",
+  "last": "2026-09-30",
+  "lastDe": "30.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/jesus-luzardo-666200",
   "savant": "https://baseballsavant.mlb.com/savant-player/666200",

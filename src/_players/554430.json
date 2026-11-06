@@ -186,6 +186,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 4,
+  "hitter": 0,
+  "pitcher": 4,
+  "first": "2026-07-08",
+  "last": "2026-09-17",
+  "lastDe": "17.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/zack-wheeler-554430",
   "savant": "https://baseballsavant.mlb.com/savant-player/554430",

@@ -198,6 +198,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 7,
+  "hitter": 0,
+  "pitcher": 7,
+  "first": "2026-07-07",
+  "last": "2026-09-30",
+  "lastDe": "30.9."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/cam-schlittler-693645",
   "savant": "https://baseballsavant.mlb.com/savant-player/693645",

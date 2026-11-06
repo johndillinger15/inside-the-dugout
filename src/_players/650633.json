@@ -192,6 +192,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 0,
+  "pitcher": 3,
+  "first": "2026-08-26",
+  "last": "2026-10-05",
+  "lastDe": "5.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/michael-king-650633",
   "savant": "https://baseballsavant.mlb.com/savant-player/650633",

@@ -96,6 +96,8 @@
    "tableNote": "* Karriere-wRC+ ist aus den Einzeljahren PA-gewichtet berechnet und kann vom FanGraphs-Wert abweichen.",
    "chart": {
     "title": "wOBA über jeweils die letzten 100 Plate Appearances, mit Saisonwert und Liga-Durchschnitt als Referenz",
+    "defUrl": "https://library.fangraphs.com/offense/woba/",
+    "defLabel": "Definition von wOBA bei FanGraphs",
     "note": "Jeder Punkt fasst die letzten 100 PA zusammen (etwa 25 Spiele). Die Kurve beginnt nach den ersten 100 PA und zeigt einen Trend, keinen Beweis. wOBA ist die Grundlage von wRC+, nur ohne Park-Anpassung.",
     "svg": "<svg viewBox=\"0 0 820 270\" role=\"img\" aria-label=\"Liniendiagramm: gleitende wOBA über 100 PA, zuletzt 0.301\" style=\"width:100%;min-width:560px;height:auto;display:block\"><line x1=\"52\" y1=\"220.0\" x2=\"700\" y2=\"220.0\" stroke=\"currentColor\" stroke-opacity=\"0.45\" stroke-width=\"1\"/><text x=\"44\" y=\"224.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.200</text><line x1=\"52\" y1=\"153.3\" x2=\"700\" y2=\"153.3\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"157.3\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.250</text><line x1=\"52\" y1=\"86.7\" x2=\"700\" y2=\"86.7\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"90.7\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.300</text><line x1=\"52\" y1=\"20.0\" x2=\"700\" y2=\"20.0\" stroke=\"currentColor\" stroke-opacity=\"0.14\" stroke-width=\"1\"/><text x=\"44\" y=\"24.0\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">0.350</text><path d=\"M52,220 L52.0,175.6 L68.2,161.5 L84.4,151.4 L100.6,158.2 L116.8,148.8 L133.0,147.2 L149.2,136.7 L165.4,120.1 L181.6,107.4 L197.8,124.6 L214.0,124.6 L230.2,124.6 L246.4,123.7 L262.6,116.4 L278.8,107.1 L295.0,113.5 L311.2,101.7 L327.4,86.0 L343.6,90.0 L359.8,93.9 L376.0,97.8 L392.2,111.4 L408.4,128.6 L424.6,114.7 L440.8,183.7 L457.0,147.3 L473.2,147.3 L489.4,138.9 L505.6,123.6 L521.8,118.0 L538.0,112.5 L554.2,93.1 L570.4,89.5 L586.6,93.5 L602.8,74.7 L619.0,82.9 L635.2,90.7 L651.4,75.6 L667.6,65.7 L683.8,65.7 L700.0,85.3 L700,220 Z\" style=\"fill:var(--itd-navy,#1D2D50)\" fill-opacity=\"0.07\"/><line x1=\"570.4\" y1=\"20\" x2=\"570.4\" y2=\"220\" stroke=\"currentColor\" stroke-opacity=\"0.35\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><text x=\"565.4\" y=\"32\" text-anchor=\"end\" font-size=\"12\" fill=\"currentColor\" fill-opacity=\"0.65\">Playoffs</text><line x1=\"52\" y1=\"66.9\" x2=\"700\" y2=\"66.9\" stroke=\"currentColor\" stroke-opacity=\"0.55\" stroke-width=\"1.5\" stroke-dasharray=\"2 4\"/><text x=\"708\" y=\"70.9\" font-size=\"13\" font-weight=\"400\" fill=\"currentColor\">Liga 0.315</text><line x1=\"52\" y1=\"134.6\" x2=\"700\" y2=\"134.6\" stroke=\"#1d5fa8\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><text x=\"708\" y=\"138.6\" font-size=\"13\" font-weight=\"700\" fill=\"#1d5fa8\">Saison 0.264</text><polyline points=\"52.0,175.6 68.2,161.5 84.4,151.4 100.6,158.2 116.8,148.8 133.0,147.2 149.2,136.7 165.4,120.1 181.6,107.4 197.8,124.6 214.0,124.6 230.2,124.6 246.4,123.7 262.6,116.4 278.8,107.1 295.0,113.5 311.2,101.7 327.4,86.0 343.6,90.0 359.8,93.9 376.0,97.8 392.2,111.4 408.4,128.6 424.6,114.7 440.8,183.7 457.0,147.3 473.2,147.3 489.4,138.9 505.6,123.6 521.8,118.0 538.0,112.5 554.2,93.1 570.4,89.5 586.6,93.5 602.8,74.7 619.0,82.9 635.2,90.7 651.4,75.6 667.6,65.7 683.8,65.7 700.0,85.3\" fill=\"none\" style=\"stroke:var(--itd-navy,#1D2D50)\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"700.0\" cy=\"85.3\" r=\"6\" style=\"fill:var(--itd-red,#C8102E)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"52.0\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">28.7.</text><text x=\"376.0\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">5.9.</text><text x=\"700.0\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"currentColor\" fill-opacity=\"0.65\">19.10.</text></svg>"
    },
@@ -147,6 +149,15 @@
    }
   }
  ],
+ "mentions": {
+  "season": 2026,
+  "total": 3,
+  "hitter": 3,
+  "pitcher": 0,
+  "first": "2026-07-21",
+  "last": "2026-10-16",
+  "lastDe": "16.10."
+ },
  "links": {
   "mlb": "https://www.mlb.com/player/petey-halpin-690984",
   "savant": "https://baseballsavant.mlb.com/savant-player/690984",

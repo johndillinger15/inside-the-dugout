@@ -113,6 +113,15 @@ module.exports = (config) => {
   config.addFilter("berlinDateTime", require("./lib/filters/berlinDateTime"));
 
   // Transforms
+  // Spielerlinks im HTML relativ machen (Test über andere Domain, z.B. Uberspace).
+  // Die Markdown-Quellen bleiben absolut, damit RSS, Discord und POSSE funktionieren.
+  config.addTransform("relativePlayerLinks", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(
+      /<a href="https:\/\/inside-the-dugout\.de\/spieler\//g,
+      '<a href="/spieler/',
+    );
+  });
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));
 
   // Wordcount
@@ -176,24 +185,24 @@ module.exports = (config) => {
   });
 
   config.addCollection("combinedFeed", function (collectionApi) {
-  return [
-    ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
-    ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
-  ]
-    .sort((a, b) => {
-      const dateA = a.date instanceof Date ? a.date.getTime() : 0;
-      const dateB = b.date instanceof Date ? b.date.getTime() : 0;
-      return dateB - dateA;
-    })
-    .slice(0, 50);
-});
+    return [
+      ...collectionApi.getFilteredByGlob("./src/posts/**/*.md"),
+      ...collectionApi.getFilteredByGlob("./src/shortposts/**/*.md"),
+    ]
+      .sort((a, b) => {
+        const dateA = a.date instanceof Date ? a.date.getTime() : 0;
+        const dateB = b.date instanceof Date ? b.date.getTime() : 0;
+        return dateB - dateA;
+      })
+      .slice(0, 50);
+  });
 
   config.addCollection("shortpostsFeed", function (collectionApi) {
-  return collectionApi
-    .getFilteredByGlob("./src/shortposts/**/*.md")
-    .sort((a, b) => b.date - a.date)
-    .slice(0, 50);
-});
+    return collectionApi
+      .getFilteredByGlob("./src/shortposts/**/*.md")
+      .sort((a, b) => b.date - a.date)
+      .slice(0, 50);
+  });
 
   config.addFilter("plainExcerpt", function (html, length = 700) {
     if (!html) return "";

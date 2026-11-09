@@ -2,13 +2,12 @@
 title: MLB Preview – 2026
 date: 2026-03-24T20:00:00Z
 layout: post
-tags:
-  - Vorschau
 description: Eine kleine, kompakte Vorschau auf die Saison 2026
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26_MLB_preview.png
 ---
+
 <img src='../../img/thumbnail_26_MLB_preview.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, das WBC ist Geschichte und die MLB-Saison 2026 steht kurz vor der Tür. Ich will hier auf dem Blog eine kleine, kompakte Vorschau auf die Saison 2026 liefern. Eine ausführliche Vorschau in Podcastform findet ihr bei [Just Baseball](https://www.justbaseball.de). Das hier soll eine Vorschau aus der Vogelperspektive sein und ich will das Ganze wie immer kompakt halten. Da mein Team, die Giants, in der National League spielen, werde ich auch mit der National League beginnen. Es geht also endlich wieder los und auch hier auf dem Blog wird es nun wieder regelmäßig, jeden Montag, einen Artikel geben. Wenn ihr den nicht verpassen wollt, könnt ihr gerne den Newsletter (Link unten) oder den RSS-Feed abonnieren.

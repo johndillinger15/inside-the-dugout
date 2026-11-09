@@ -2,15 +2,10 @@
 title: Ein Blick auf das Playoff-Rennen in der American League
 date: 2025-07-16T14:00:00Z
 layout: post
-tags:
-  - special
-  - American League
 description: Im All-Star Break werfe ich einen kurzen Blick auf das Playoff-Rennen in den beiden Ligen
 author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_al.png
-syndication:
-  - https://www.instagram.com/p/DMK9qFgKbZw
 ---
 
 <img src='../../img/thumbnail_state_of_al.png' style='display:none'>

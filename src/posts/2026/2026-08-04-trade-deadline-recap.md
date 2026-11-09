@@ -2,8 +2,6 @@
 title: Trade Deadline Recap
 date: 2026-08-04T16:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Tarik Skubal zu den Dodgers, Adley Rutschman zu den Red Sox und ein Giants-Umbau: die größten Trades der Deadline im Überblick samt Bewertung der Giants-Deals."
 metaTitle: "MLB Trade Deadline 2026 – Skubal, Rutschman, Giants-Umbau"
 metaDesc: "Tarik Skubal wechselt zu den Dodgers, Adley Rutschman zu den Red Sox. Die Giants holen mit Marcelo Mayer Ersatz für Arraez. – MLB Trade Deadline 2026."
@@ -11,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_trade_deadline.png
 ---
+
 <img src='../../img/thumbnail_trade_deadline.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, die Trade Deadline ist also Geschichte und in meiner Wahrnehmung war sie doch relativ spektakulär. In diesem Artikel will ich kurz einen Überblick über die Top Trades der Deadline geben und auch, weiter unten, die Trades der Giants bewerten. Ihr könnt wie immer über das Inhaltsverzeichnis zu den einzelnen Spielern springen.

@@ -2,9 +2,6 @@
 title: Vorschau auf die World Series 2025
 date: 2025-10-24T10:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Die Vorschau auf die World Series 2025 zwischen den Blue Jays und den Dodgers.
 author:
   name: Stefan Dillinger

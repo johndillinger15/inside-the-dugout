@@ -2,15 +2,10 @@
 title: The State of the San Francisco Giants
 date: 2025-07-03T16:00:00Z
 layout: post
-tags:
-  - Team Highlight
-  - San Francisco Giants
 description: Ein Blick auf die San Francisco Giants zur Halbzeit der Saison
 author:
   name: Stefan Dillinger
 thumb: thumbnail_giants_review.png
-syndication:
-  - https://www.instagram.com/p/DLpsrYeKHZG
 ---
 
 <img src='../../img/thumbnail_giants_review.png' style='display:none'>

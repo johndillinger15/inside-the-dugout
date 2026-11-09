@@ -2,12 +2,6 @@
 title: Woche 15 Recap
 date: 2026-07-06T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
-  - "Chicago Cubs"
-  - "Dansby Swanson"
-  - "San Francisco Giants"
-  - "Logan Webb"
 description: "Dansby Swanson stellt MLB-Rekord mit fünf Homeruns in 24h beim Cubs-Sweep der Padres auf, AL-Central-Duell zwischen White Sox und Guardians sowie Contreras' Suspension nach dem Brawl."
 metaTitle: "MLB Wochenrückblick Woche 15 2026 – Cubs, Swanson, Guardians, White Sox"
 metaDesc: "Die Chicago Cubs sweepen die Padres, Dansby Swanson stellt mit fünf Homeruns einen MLB-Rekord auf. White Sox und Guardians teilen ihre Serie. – MLB Woche 15."

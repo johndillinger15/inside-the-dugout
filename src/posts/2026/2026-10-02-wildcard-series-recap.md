@@ -2,8 +2,6 @@
 title: Wildcard Series Recap 2026
 date: 2026-10-02T13:00:00Z
 layout: post
-tags:
-  - Playoffs
 description: Der Rückblick auf die Wildcard Series 2026 in der Major League Baseball.
 author:
   name: Stefan Dillinger

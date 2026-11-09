@@ -2,8 +2,6 @@
 title: Woche 13 Recap
 date: 2026-06-22T21:15:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Dodgers vs. Rays als WS-2020-Rematch, Albies' Walk-off gegen Milwaukee, Eldridges On-Base-Streak endet, Giants kämpfen nach Miami-Sweep.
 metaTitle: MLB Wochenrückblick Woche 13 2026 – Dodgers Sweep, Albies Walk-off
 metaDesc: Dodgers sweepen Rays im Corona-Rematch, Ozzie Albies trifft zum Walk-off gegen Brewers, Eldridges On-Base-Streak endet bei 22 – MLB Woche 13

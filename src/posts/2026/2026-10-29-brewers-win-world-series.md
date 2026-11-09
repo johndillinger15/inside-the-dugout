@@ -2,9 +2,6 @@
 title: Die Brewers sind World Series Champions 2026!
 date: 2026-10-29T22:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Die Brewers haben eindrucksvoll die World Series 2026 gewonnen.
 author:
   name: Stefan Dillinger

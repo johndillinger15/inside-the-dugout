@@ -2,20 +2,19 @@
 title: "Offeason News #3"
 date: 2026-01-19T09:00:00Z
 layout: post
-tags:
-  - News
 description: Seit dem letzten News-Artikel gab es viele News und Trades, ich versuche hier nur die Wichtigsten zu erwähnen.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26_offseason_news_3.png
 ---
+
 <img src='../../img/thumbnail_26_offseason_news_3.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, seit dem letzten News-Artikel, der leider auch schon wieder 4 Wochen her ist, ist viel passiert, gab es viele Trades und einige der Top Free Agents haben eine neue Heimat gefunden. Da es so viele News gab, versuche ich hier nur die - meiner Meinung nach - Wichtigsten zu erwähnen.
 
 ### Los Angeles Dodgers
 
-Das neue "Evil Empire" hat wieder zugeschlagen und sich die Dienste einiger der Top Free Agents gesichert. Nachdem sich die Dodgers im Dezember schon mit Edwin Diaz verstärkt hatten, haben sie nun Kyle Tucker für 4 Jahre und 240 Millionen verpflichtet und setzten sich damit gegen die Mets und Blue Jays durch. Der 29-jährige Outfielder übertraf in den letzten fünf Saisons jeweils vier Wins Above Replacement und avancierte mit durchschnittlich 5,1 bWAR sowie 4,7 fWAR (2021-2025) zum konstantesten Produzenten des Marktes. Nach seinem Trade von Houston zu den Cubs 2025 schlug Tucker .266/.377/.464 mit einem 136 wRC+, 22 Home Runs, 25 Doubles und 25 Stolen Bases über 136 Spiele. Seine primäre Position bleibt Right Field, wo er bisher 90,5 Prozent seiner Karrierespiele absolviert hat. Manager Dave Roberts erwägt, Teoscar Hernández nach Left Field zu verschieben, lobte jedoch dessen defensive Arbeit in Right Field als mindestens Average. Tucker und Center Fielder Andy Pages (25) bilden nun die einzigen regulären Position Player unter 30 Jahren im Dodgers-Kader. 
+Das neue "Evil Empire" hat wieder zugeschlagen und sich die Dienste einiger der Top Free Agents gesichert. Nachdem sich die Dodgers im Dezember schon mit Edwin Diaz verstärkt hatten, haben sie nun Kyle Tucker für 4 Jahre und 240 Millionen verpflichtet und setzten sich damit gegen die Mets und Blue Jays durch. Der 29-jährige Outfielder übertraf in den letzten fünf Saisons jeweils vier Wins Above Replacement und avancierte mit durchschnittlich 5,1 bWAR sowie 4,7 fWAR (2021-2025) zum konstantesten Produzenten des Marktes. Nach seinem Trade von Houston zu den Cubs 2025 schlug Tucker .266/.377/.464 mit einem 136 wRC+, 22 Home Runs, 25 Doubles und 25 Stolen Bases über 136 Spiele. Seine primäre Position bleibt Right Field, wo er bisher 90,5 Prozent seiner Karrierespiele absolviert hat. Manager Dave Roberts erwägt, Teoscar Hernández nach Left Field zu verschieben, lobte jedoch dessen defensive Arbeit in Right Field als mindestens Average. Tucker und Center Fielder Andy Pages (25) bilden nun die einzigen regulären Position Player unter 30 Jahren im Dodgers-Kader.
 
 ### Bo Bichette
 
@@ -59,4 +58,4 @@ Die Astros verpflichteten NPB-Pitcher Tatsuya Imai für drei Jahre und 19 Millio
 
 ### Kazuma Okamoto
 
-Nachdem die Blue Jays letztes Jahr Vladimir Guerrero Jr. und Dylan Cease verlängert bzw verpflichtet hatten, verstärkten sie sich nun mit NPB-Slugger Kazuma Okamoto für vier Jahre und 60 Millionen Dollar, deutlich unter den erwarteten 20 Millionen jährlich. Ben Clemens hatte 72 Millionen über vier Jahre prognostiziert. Der Corner Infielder übertraf in den letzten drei Jahren sogar Munetaka Murakami offensiv und kombiniert Power mit hohen Walk-Raten bei minimalen Strikeouts. Clemens hebt hervor, dass Okamoto den Ball konstant mit Authority in die Luft bringt, ohne exzessive Strikeouts anzuhäufen, und sich gegen High-Velocity-Fastballs verbessert hat. 
+Nachdem die Blue Jays letztes Jahr Vladimir Guerrero Jr. und Dylan Cease verlängert bzw verpflichtet hatten, verstärkten sie sich nun mit NPB-Slugger Kazuma Okamoto für vier Jahre und 60 Millionen Dollar, deutlich unter den erwarteten 20 Millionen jährlich. Ben Clemens hatte 72 Millionen über vier Jahre prognostiziert. Der Corner Infielder übertraf in den letzten drei Jahren sogar Munetaka Murakami offensiv und kombiniert Power mit hohen Walk-Raten bei minimalen Strikeouts. Clemens hebt hervor, dass Okamoto den Ball konstant mit Authority in die Luft bringt, ohne exzessive Strikeouts anzuhäufen, und sich gegen High-Velocity-Fastballs verbessert hat.

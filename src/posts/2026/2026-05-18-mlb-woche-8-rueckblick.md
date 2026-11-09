@@ -2,12 +2,6 @@
 title: Woche 8 Recap
 date: 2026-05-18T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
-  - "Atlanta Braves"
-  - "Philadelphia Phillies"
-  - "Chicago White Sox"
-  - "San Francisco Giants"
 description: Braves bauen Vorsprung in der NL East aus, Phillies klettern erstmals über .500, White Sox setzen sich per Walk-Off gegen die Cubs durch. Start der CBA-Verhandlungen, IL-News zu Cal Raleigh und Blake Snell sowie ein Defense-Feuerwerk der Giants gegen die A's.
 metaTitle: MLB Wochenrückblick Woche 8 2026 – Braves Spitze, White Sox
 metaDesc: Die Atlanta Braves sind mit 32-15 das beste Team der MLB. Die Phillies klettern über .500. Die White Sox gewinnen die Crosstown Series. – MLB Woche 8.
@@ -15,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk8.png
 ---
+
 <img src='../../img/thumbnail_26wk8.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 8 in der Major League Baseball.
@@ -65,7 +60,7 @@ Die Braves konnte die Serie also gewinnen, das dominante Rubbermatch der Cubs wi
 
 Weiter ging es für die Cubs dann in die erste Crosstown Series der Saison, nachdem sie 13 der letzten 15 Duelle gegen die White Sox gewonnen hatten. Die Ausgangslage wirkte diesmal jedoch etwas ausgeglichener, da die White Sox erstmals seit 2022 deutlich über .500 lagen und nur ein Spiel Rückstand in der AL Central hatten. Besonders die junge Offensive um Munetaka Murakami, Colson Montgomery und Miguel Vargas macht Hoffnungen.
 
-Die Cubs beendeten ihre Offensivschwäche aus der Serie gegen die Braves (nur 5 Runs in 3 Spielen) mit einem 10:5-Sieg. Nach früher 1:0-Führung durch einen Ian-Happ-RBI-Single glichen die Sox per Colson-Montgomery-Homerun aus. Chicago baute die Führung im fünften Inning auf 4:1 aus, ehe Edward Cabrera mit drei Walks in Serie einen Two-Run-Double von Drew Romo zuließ und die Sox auf 4:3 verkürzten. Miguel Vargas egalisierte per Homerun im sechsten. Den entscheidenden Hit brachte dann das achte Inning, in dem Jordan Hicks vier Walks abgab, Carson Kelly ein Two-Run-Double  schlug und den Abend mit drei Hits und vier RBI beendete. Trent Thornton stabilisierte das Bullpen mit 1⅔ scoreless Innings.
+Die Cubs beendeten ihre Offensivschwäche aus der Serie gegen die Braves (nur 5 Runs in 3 Spielen) mit einem 10:5-Sieg. Nach früher 1:0-Führung durch einen Ian-Happ-RBI-Single glichen die Sox per Colson-Montgomery-Homerun aus. Chicago baute die Führung im fünften Inning auf 4:1 aus, ehe Edward Cabrera mit drei Walks in Serie einen Two-Run-Double von Drew Romo zuließ und die Sox auf 4:3 verkürzten. Miguel Vargas egalisierte per Homerun im sechsten. Den entscheidenden Hit brachte dann das achte Inning, in dem Jordan Hicks vier Walks abgab, Carson Kelly ein Two-Run-Double schlug und den Abend mit drei Hits und vier RBI beendete. Trent Thornton stabilisierte das Bullpen mit 1⅔ scoreless Innings.
 
 Im zweiten Spiel konnten die White Sox dann in person von Davis Martin zurückschlagen, der die Cubs über sechs Innings mit nur einem ER, sieben Strikeouts dominierte. Im ersten Inning eröffnete Miguel Vargas mit einem Three-Run-Homer (108,4 mph, 421 Fuß) das Scoring. Munetaka Murakami erzielte mit zwei Homeruns (391 und 428 Fuß) sein erstes Multi-Homer-Game der Karriere, während Colson Montgomery mit einem 112,4-mph-Moonshot über 442 Fuß seinen 13. Saisonhomer markierte. Vargas, Murakami und Montgomery homerten damit zum vierten Mal gemeinsam in einer Partie. Die White Sox gewannen 8:3 und verbesserten ihre Bilanz auf 23-22.​​​​​​​​​​​​​​​​
 
@@ -91,26 +86,31 @@ Ein weiteres Thema bleibt natürlich Bryce Eldridge. Seit dem 8. Mai wurde er nu
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 20-27 (#23 in MLB) | L10: 6-4 | Streak: W2
 - NL West: #4 | GB: 9.0 | WCGB: 7.5
 - Home: 10-12 | Away: 10-15
 - Run Differential: -37 (#26 in MLB)
 
 ### Offense
+
 - AVG: .244 (#10 in MLB) | OPS: .668 (#27 in MLB)
 - HRs: 37 (#27 in MLB) | HR-Leader: Casey Schmitt (8)
 - Runs: 165 (#30 in MLB) | SB: 12 (#30 in MLB)
 
 ### Pitching
+
 - ERA: 3.97 (#14 in MLB) | WHIP: 1.32 (#18 in MLB)
 - Strikeouts: 372 (#20 in MLB)
 
 ### Best Hitters – Last 7 Days
+
 - Harrison Bader | 5/20 (0.250) | OPS 1.036 | 1 2B | 3 HR | 6 RBI
 - Casey Schmitt | 8/22 (0.364) | OPS 1.053 | 2 HR | 3 RBI
 - Jung Hoo Lee | 7/29 (0.241) | OPS .670 | 1 2B | 1 HR | 5 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - Trevor McDonald (16.5.) | 6.2 IP | 1 ER | 5 K | 1 BB | GS 64
 - Adrian Houser (17.5.) | 6.0 IP | 1 ER | 3 K | 5 BB | GS 58
 - Adrian Houser (12.5.) | 5.2 IP | 2 ER | 4 K | 3 BB | GS 56
@@ -118,6 +118,7 @@ Ein weiteres Thema bleibt natürlich Bryce Eldridge. Seit dem 8. Mai wurde er nu
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Tampa Bay Rays | 12-3 | 0.800
 2. Milwaukee Brewers | 11-4 | 0.733
 3. Philadelphia Phillies | 11-4 | 0.733
@@ -125,6 +126,7 @@ Ein weiteres Thema bleibt natürlich Bryce Eldridge. Seit dem 8. Mai wurde er nu
 5. Atlanta Braves | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. Cincinnati Reds | 4-11 | 0.267
 2. Detroit Tigers | 4-11 | 0.267
 3. Colorado Rockies | 4-11 | 0.267
@@ -132,6 +134,7 @@ Ein weiteres Thema bleibt natürlich Bryce Eldridge. Seit dem 8. Mai wurde er nu
 5. Baltimore Orioles | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. Daylen Lile (WSH) | OPS 1.255 | 4 HR | 10 RBI | 27 PA
 2. Kyle Schwarber (PHI) | OPS 1.171 | 4 HR | 9 RBI | 29 PA
 3. Gavin Sheets (SD) | OPS 2.177 | 4 HR | 8 RBI | 23 PA
@@ -139,6 +142,7 @@ Ein weiteres Thema bleibt natürlich Bryce Eldridge. Seit dem 8. Mai wurde er nu
 5. Nick Kurtz (ATH) | OPS 1.501 | 3 HR | 9 RBI | 25 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. Bailey Ober (MIN, 12.05.) | 9.0 IP | 0 ER | 7 K | 0 BB | GS 90
 2. Cristopher Sánchez (PHI, 16.05.) | 9.0 IP | 0 ER | 13 K | 0 BB | GS 88
 3. Paul Skenes (PIT, 12.05.) | 8.0 IP | 0 ER | 10 K | 0 BB | GS 88
@@ -151,4 +155,4 @@ Heute ist ein Montag an dem tatsächlich mal viel los ist und 14 Spiele stattfin
 
 Zum Wochenende steht für mich dann die Serie der Rays bei den Yankees in Fokus, da hier die zwei Top Teams der AL East aufeinander treffen. Außerdem spielen die Dodgers bei den Brewers und die Cardinals gegen die Reds.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

@@ -2,8 +2,6 @@
 title: Fantasy Baseball
 date: 2026-03-04T16:00:00Z
 layout: post
-tags:
-  - Wochenrückblick
 description: Inside The Dugout Fantasy Baseball
 author:
   name: Stefan Dillinger

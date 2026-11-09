@@ -2,16 +2,15 @@
 title: "Offseason News #2"
 date: 2025-12-02T16:00:00Z
 layout: post
-tags:
-  - News
 description: Ich versuche die aktuelle Newslage zusammen zu fassen, bevor die Teams zu den Wintermeetings zusammenkommen.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_25_offseason_02.png
 ---
+
 <img src='../../img/thumbnail_25_offseason_02.png' style='display:none'>
 
-**Liebe Baseballgemeinde**, willkommen zur zweiten Edition der Offseason News. Ich versuche die aktuelle Newslage zusammen zu fassen, bevor die Teams zu den Wintermeetings zusammenkommen. 
+**Liebe Baseballgemeinde**, willkommen zur zweiten Edition der Offseason News. Ich versuche die aktuelle Newslage zusammen zu fassen, bevor die Teams zu den Wintermeetings zusammenkommen.
 
 ## Trades / Signings
 
@@ -27,7 +26,7 @@ Die Boston Red Sox haben Sonny Gray von den St. Louis Cardinals für Richard Fit
 
 ### Taylor Ward
 
-Die Orioles setzen in dieser Offseason klar auf mehr Offensive gegen Lefties und sind sehr aktiv auf dem Trademarkt. Der Trade von Grayson Rodriguez für Taylor Ward ist eine überraschende, aber strategisch nachvollziehbare Entscheidung. Rodriguez zeigte in 2024 mit einem 3.86 ERA über 20 Starts zwar eine positive Entwicklungsrichtung, war jedoch seit August 2024 nicht mehr einsatzfähig. Die Ausfallzeiten machten eine Planung für 2026 kaum realistisch. Ward liefert dagegen sofortigen Value, insbesondere mit seinem .262 AVG und .918 OPS gegen LHP sowie 36 HR, 103 RBI und einem .792 OPS in 2025. Er stabilisiert das Corner-Outfield und erlaubt eine klarere Rollenzuteilung um Colton Cowser im Center Field. Die Offensive der O’s, die 2025 nur Rang 23 in AVG (.231) und 22 in OPS (.661) gegen Lefties belegte, erhält damit dringend benötigte Balance. 
+Die Orioles setzen in dieser Offseason klar auf mehr Offensive gegen Lefties und sind sehr aktiv auf dem Trademarkt. Der Trade von Grayson Rodriguez für Taylor Ward ist eine überraschende, aber strategisch nachvollziehbare Entscheidung. Rodriguez zeigte in 2024 mit einem 3.86 ERA über 20 Starts zwar eine positive Entwicklungsrichtung, war jedoch seit August 2024 nicht mehr einsatzfähig. Die Ausfallzeiten machten eine Planung für 2026 kaum realistisch. Ward liefert dagegen sofortigen Value, insbesondere mit seinem .262 AVG und .918 OPS gegen LHP sowie 36 HR, 103 RBI und einem .792 OPS in 2025. Er stabilisiert das Corner-Outfield und erlaubt eine klarere Rollenzuteilung um Colton Cowser im Center Field. Die Offensive der O’s, die 2025 nur Rang 23 in AVG (.231) und 22 in OPS (.661) gegen Lefties belegte, erhält damit dringend benötigte Balance.
 
 ### Trent Grisham
 
@@ -49,7 +48,7 @@ Shōta Imanaga hat seine Player Option für 2026 angenommen und bleibt damit min
 
 Die Baltimore Orioles haben den zweifachen All-Star Closer Ryan Helsley mit einem Zweijahresvertrag über 28 Millionen Dollar ausgestattet, der eine Opt-out-Klausel nach 2026 enthält. Helsley, der trotz Interesse mehrerer Teams als Starter bei seiner Reliever-Rolle bleibt, soll das neunte Inning für Baltimore übernehmen, nachdem Felix Bautista die komplette Saison 2026 nach Rotatorenmanschetten- und Labrum-Operationen verpassen wird. Mit einem Karriere-ERA von 2.96 über 319.2 Innings, 377 Strikeouts und 105 Saves bringt der 31-jährige Rechtshänder Elite-Stuff mit. Sein Fastball rangierte 2025 mit durchschnittlich 99.3 mph im 99. Perzentil aller Pitcher. Allerdings endete Helsleys Saison problematisch, denn nach dem Trade von St. Louis zu den Mets zur Deadline postete er in zwei Monaten einen 7.20 ERA und erlaubte 36 Baserunner in nur 20 Innings. Drei konsekutive Blown Saves Mitte August verbannten ihn in Low-Leverage-Situationen. Baltimore sieht diese Phase als Ausreißer und vertraut den Pitch-Quality-Metriken. Die Orioles, nach 75-87 und dem letzten Platz in der AL East dringend pitching-bedürftig, holten bereits Andrew Kittredge zurück und suchen weitere Rotation-Verstärkungen.​​​​​​​​​​​​​​​​
 
-### Devin Williams 
+### Devin Williams
 
 Die New York Mets haben Reliever Devin Williams mit einem Dreijahresvertrag über 45 Millionen Dollar plus Deferrals und Boni ausgestattet. Der 31-jährige Rechtshänder kehrt damit nach einer enttäuschenden Saison bei den Yankees zurück in die National League, wo er zwischen 2019 und 2024 für Milwaukee zu den dominantesten Relievern der Liga gehörte. In sechs Brewers-Jahren produzierte Williams einen herausragenden 1.83 ERA mit 2.39 FIP über 235.2 Innings und wurde 2020 NL Rookie of the Year, nachdem er in 27.0 Innings ein 0.33 ERA aufgelegt hatte. Als zweifacher All-Star (2022, 2023) schloss er diese Saisons sowie 2024 mit ERAs zwischen 1.25 und 1.93 ab. Nach dem Trade zu den Yankees zur Deadline 2025 brach diese Konstanz jedoch ein. In 62.0 Innings postete Williams ein 4.79 ERA bei weiterhin starker 34.7 Prozent Strikeout Rate und 9.7 Prozent Walk Rate. Sein 2.68 FIP deutet auf Pech und sequencing-Probleme hin. Die Mets setzen auf Regression zur Mean und darauf, dass Williams an seine Milwaukee-Form anknüpft. Mit über 50 Millionen Dollar guaranteed investiert New York in Late-Inning-Stabilität nach dem Kollaps Ende 2025.​​​​​​​​​​​​​​​​
 
@@ -67,9 +66,9 @@ Die Colorado Rockies haben Warren Schaeffer zum permanenten Manager ernannt, nac
 
 ### San Diego Padres
 
-Die San Diego Padres könnten bald einen Besitzerwechsel erleben, denn die Seidler family prüft einen Verkauf der Franchise. Seit dem Kauf 2012 stieg die Payroll von 62,9 Mio. auf 257,2 Mio. USD im Jahr 2023. Unter der Führung der Familie qualifizierten sich die Padres vier Mal in den letzten sechs Jahren für die Playoffs.  Entscheidender Auslöser für den möglichen Verkauf sind interne Streitigkeiten innerhalb der Familie, zuletzt eine Klage der Witwe Sheel Seidler gegen andere Trust-Mitglieder. Trotz der anstehenden Ownership-Frage soll der Spielbetrieb für 2026 unverändert weiterlaufen und das Payroll-Niveau stabil bleiben. 
+Die San Diego Padres könnten bald einen Besitzerwechsel erleben, denn die Seidler family prüft einen Verkauf der Franchise. Seit dem Kauf 2012 stieg die Payroll von 62,9 Mio. auf 257,2 Mio. USD im Jahr 2023. Unter der Führung der Familie qualifizierten sich die Padres vier Mal in den letzten sechs Jahren für die Playoffs. Entscheidender Auslöser für den möglichen Verkauf sind interne Streitigkeiten innerhalb der Familie, zuletzt eine Klage der Witwe Sheel Seidler gegen andere Trust-Mitglieder. Trotz der anstehenden Ownership-Frage soll der Spielbetrieb für 2026 unverändert weiterlaufen und das Payroll-Niveau stabil bleiben.
 
-### Medienrechte 
+### Medienrechte
 
 Major League Baseball hat neue dreijährige TV-Verträge mit ESPN, NBC und Netflix abgeschlossen, die durchschnittlich 800 Millionen Dollar pro Jahr einbringen. ESPN zahlt weiterhin 550 Millionen Dollar, verliert aber die Postseason und das Home Run Derby, gewinnt jedoch die Out-of-Market-Streaming-Rechte für MLB.TV, das künftig in der ESPN App verfügbar sein wird. Zusätzlich erhält ESPN die In-Market-Rechte für sechs Teams, deren Produktion MLB selbst übernimmt: Padres, Rockies, Diamondbacks, Guardians, Twins und Mariners. Das Paket umfasst 30 Spiele, primär unter der Woche und in den Sommermonaten. NBC kehrt nach längerer Absenz zurück und übernimmt Sunday Night Baseball sowie die Wild Card Series für 200 Millionen Dollar jährlich. Die 25 Sunday-Night-Spiele laufen überwiegend auf NBC und dem neuen NBC Sports Network, alle streamen auf Peacock. Der erste Broadcast findet am 26. März statt, wenn die Dodgers gegen Arizona antreten. NBC komplettiert damit sein Sonntagsprogramm ganzjährig mit NFL, NBA und nun MLB. Netflix investiert 50 Millionen Dollar für das Home Run Derby, das Season-Opening am 25. März (Yankees in San Francisco) und MLB at Field of Dreams.​​​​​​​​​​​​​​​​ Wie die Rechtelage für den deutschen Markt aussieht ist mir nicht ganz klar. Das wird sich dann wohl Anfang 2026 ergeben und ich werde euch darüber informieren.
 

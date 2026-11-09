@@ -2,8 +2,6 @@
 title: Rückblick auf die Championship Series in der MLB
 date: 2025-10-21T16:00:00Z
 layout: post
-tags:
-  - Playoffs
 description: Der Ausführliche Rückblick auf die Championship Series in der MLB
 author:
   name: Stefan Dillinger

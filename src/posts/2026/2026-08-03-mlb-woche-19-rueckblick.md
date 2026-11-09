@@ -2,8 +2,6 @@
 title: Woche 19 Recap
 date: 2026-08-03T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Skubal wechselt vor der Trade Deadline zu den Dodgers, die Yankees setzen sich in Chicago gegen die Cubs durch, und bei den Giants sorgen mehrere Verletzungen für Sorgen."
 metaTitle: "MLB Wochenrückblick MLB Woche 19 2026 – Skubal-Trade, Giants"
 metaDesc: "Tarik Skubal wechselt vor der Deadline zu den Dodgers, die Yankees gewinnen die Serie gegen die Cubs, und die Giants kämpfen mit Verletzungen – MLB Woche 19."

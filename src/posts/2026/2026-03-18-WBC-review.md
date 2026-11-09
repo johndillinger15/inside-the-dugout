@@ -2,8 +2,6 @@
 title: Venezuela gewinnt das WBC 26
 date: 2026-03-18T12:00:00Z
 layout: post
-tags:
-  - WBC
 description: Eine kleine Rückschau auf das Finale und die KO-Runde des WBC.
 author:
   name: Stefan Dillinger

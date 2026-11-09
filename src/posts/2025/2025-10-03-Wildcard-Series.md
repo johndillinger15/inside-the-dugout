@@ -2,8 +2,6 @@
 title: Rückblick auf die Wildcard Series in der MLB
 date: 2025-10-03T08:00:00Z
 layout: post
-tags:
-  - Playoffs
 description: Der Rückblick auf die Wildcard Series in der Major League Baseball.
 author:
   name: Stefan Dillinger

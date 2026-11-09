@@ -2,8 +2,6 @@
 title: Woche 14 Recap
 date: 2026-06-29T16:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "AL-Central-Duell White Sox vs. Guardians, Dodgers schlagen die Padres, Giants mit positiver Woche, Mendoza und Minasian gefeuert."
 metaTitle: "MLB Wochenrückblick Woche 14 2026 – White Sox, Dodgers, Salary Cap"
 metaDesc: "White Sox gewinnen den AL-Central-Krimi gegen Cleveland. Dodgers schlagen die Padres deutlich. MLB legt weiteres Salary-Cap-Angebot vor. – MLB Woche 14."
@@ -11,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk14.png
 ---
+
 <img src='../../img/thumbnail_26wk14.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 14 in der Major League Baseball.
@@ -72,8 +71,8 @@ Die Dodgers gewinnen die Serie also mit 2-1 und festigen damit ihre Spitzenposit
 - Ziemlich unauffällig haben die Diamondbacks Max Kepler nach seiner 80-Spiele-Sperre aktiviert und er hat die ersten beiden Spiele der Serie gegen die Rays als Starter absolviert. Ein Hit gelang ihm dabei nicht. Ich muss sagen, ich hätte es nicht geglaubt, dass Max nochmal einen Verein findet und seine Karriere in der MLB fortsetzen kann.
 - Die MLB legte der MLBPA in einer Verhandlung am Donnerstag mehrere Vorschläge zu einem Salary-Cap-System vor, die nach 2027 greifen sollen. Wechselnde Free Agents sollen danach für maximal fünf Jahre und 15% der Payroll unterschreiben dürfen, eigene Spieler über die Cornerstone Player Provision sechs Jahre. Das Mindestgehalt stiege von 780.000 auf eine Million Dollar, der größte Sprung der Liga-Geschichte. Spieler mit fünf Jahren Service Time bis Alter 30 würden früher Free Agents. MLB schlug zudem vor, Deferrals und die Qualifying Offer zu streichen. Die MLBPA wies die Angebote natürlich zurück, da sie an den Cap gekoppelt seien und Geld lediglich umverteilten. Es bleibt also spannend.
 - Letzte Woche wurden auch zwei Coaches/Manager gefeuert:
-	- Die Mets feuern endlich Carlos Mendoza, nachdem sie ihm eigentlich mehrfach das Vertrauen ausgesprochen hatten. Interimsweise übernimmt Andy Green, früherer Padres-Manager und Senior Vice President für Player Development.
-	- Die Angels haben ihren General Manager Perry Minasian entlassen, der in seiner sechsten Saison auf das Ende seines Vertrags zusteuerte. Parallel holten sie den langjährigen Cardinals-Funktionär John Mozeliak als Consultant, der die day-to-day baseball operations überwachen soll. Unter Minasian, der nach der Saison 2020 übernahm, kamen die Angels nie über 77 Siege hinaus.
+  - Die Mets feuern endlich Carlos Mendoza, nachdem sie ihm eigentlich mehrfach das Vertrauen ausgesprochen hatten. Interimsweise übernimmt Andy Green, früherer Padres-Manager und Senior Vice President für Player Development.
+  - Die Angels haben ihren General Manager Perry Minasian entlassen, der in seiner sechsten Saison auf das Ende seines Vertrags zusteuerte. Parallel holten sie den langjährigen Cardinals-Funktionär John Mozeliak als Consultant, der die day-to-day baseball operations überwachen soll. Unter Minasian, der nach der Saison 2020 übernahm, kamen die Angels nie über 77 Siege hinaus.
 
 ## Giants Corner
 
@@ -82,36 +81,42 @@ Die Themen Off-the-Field nehmen einfach kein Ende und ich muss sagen, dass diese
 Sportlich startete die Woche für die Giants mit einer Serie zu Hause gegen die Athletics, die die Giants mit 2-1 [gewinnen konnten](https://inside-the-dugout.de/shortposts/2026/06/26/0955-recap/). Und es gab neben dem starken Start von Robbie Ray im ersten Spiel (8.0 IP | 0 ER | 6 K | 4 BB | GS 78) auch die starke Leistung von Victor Bericoto. Er hatte in 2 aufeinanderfolgenden Spielen jeweils einen Outfield Assist und einen Homerun. Im zweiten Spiel war sein Homerun sogar ein [Walk-off Homerun](https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/d1db18b1-56571f55-f9e3225f-csvm-diamondgcp-asset_1280x720_59_16000K.mp4). Das dritte Spiel verlief dann enttäuschend, da die 6:2 Führung nach 7 Innings nach einem bases clearing 3 RBI Triple von Jung Hoo Lee und eine 2R HR von Bericoto im 9. Inning durch Caleb Kilian (4 ER) wieder hergegeben wurde.
 
 Nach dem Seriensieg gegen die A's kam es nun drauf an das Momentum mit in die Serie gegen die Braves zu nehmen. Und in der Tat konnten die Giants die Serie mit [2-1 gewinnen](https://inside-the-dugout.de/shortposts/2026/06/29/0955-recap/), obwohl es sich ehrlich gesagt nicht so anfühlt als hätten die Giants damit eine 4-2 Woche gehabt. Das Wichtigste in der Serie gegen die Braves war das Starting Pitching. Robbie Ray und Logan Webb lieferten überragende Performances ab:
+
 - Logan Webb (27.6.) | 7.0 IP | 0 ER | 6 K | 2 BB | GS 79
 - Robbie Ray (28.6.) | 8.0 IP | 0 ER | 2 K | 1 BB | GS 73
-und gaben dem Team so eine Chance die Spiele zu gewinnen. Am Sonntag machte es Caleb Kilian dann doch nochmal spannend aber ein Swinging Strikeout gegen Mike Yastrzemski besiegelte den Sieg dann doch. Für die Giants kam auch Heliot Ramos ins Lineup zurück, was die Situation im Outfield mit Bericoto, Lee, Hader (noch Verletzt), Cox, Gilbert und auch Schmitt nicht einfacher macht. Wenn Schmitt wieder ins Infield wechselt, wird es dort auch eng.
+  und gaben dem Team so eine Chance die Spiele zu gewinnen. Am Sonntag machte es Caleb Kilian dann doch nochmal spannend aber ein Swinging Strikeout gegen Mike Yastrzemski besiegelte den Sieg dann doch. Für die Giants kam auch Heliot Ramos ins Lineup zurück, was die Situation im Outfield mit Bericoto, Lee, Hader (noch Verletzt), Cox, Gilbert und auch Schmitt nicht einfacher macht. Wenn Schmitt wieder ins Infield wechselt, wird es dort auch eng.
 
 Die Giants haben in den nächsten 14 Tagen bis zum Allstar Break das einfachste Programm der MLB. Ihr "Strength of Schedule" beträgt nur .450, zum Vergleich, die Cardinals haben mit .594 das härteste Programm. Sie Spielen gegen die D-Backs, Rockies, Blue Jays und nochmal die Rockies. Entweder sie sind dann wirklich absolut letzter und sogar von den Rockies überholt worden, oder sie haben es tatsächlich mal geschafft eine Serie zu starten. Danach folgt dann das All-Star Break und Buster Posey hat ein paar Tage Zeit sich zu überlegen wie es weitergehen soll...
 
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 35-48 (#26 in MLB) | L10: 5-5 | Streak: W2
 - NL West: #4 | GB: 18.5 | WCGB: 9.0
 - Home: 18-22 | Away: 17-26
 - Run Differential: -50 (#26 in MLB) / -0.60 pG
 
 ### Offense
+
 - AVG: .256 (#4 in MLB) | OPS: .725 (#13 in MLB)
 - HRs: 88 (#21 in MLB) | HR-Leader: Casey Schmitt (16)
 - Runs: 337 (#27 in MLB) / 4.06 pG | SB: 26 (#30 in MLB)
 
 ### Pitching
+
 - ERA: 4.31 (#20 in MLB) | WHIP: 1.36 (#21 in MLB)
 - Strikeouts: 647 (#26 in MLB)
 - Runs Against: 387 / 4.66 pG
 
 ### Best Hitters – Last 7 Days
+
 - Rafael Devers | 6/23 (0.261) | OPS .957 | 1 2B | 3 HR | 7 RBI
 - Victor Bericoto | 5/14 (0.357) | OPS 1.186 | 2 HR | 3 RBI
 - Jung Hoo Lee | 6/23 (0.261) | OPS .813 | 1 2B | 1 3B | 1 HR | 5 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - Logan Webb (27.6.) | 7.0 IP | 0 ER | 6 K | 2 BB | GS 79
 - Robbie Ray (23.6.) | 8.0 IP | 0 ER | 6 K | 4 BB | GS 78
 - Robbie Ray (28.6.) | 8.0 IP | 0 ER | 2 K | 1 BB | GS 73
@@ -119,6 +124,7 @@ Die Giants haben in den nächsten 14 Tagen bis zum Allstar Break das einfachste 
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Chicago Cubs | 11-4 | 0.733
 2. Philadelphia Phillies | 10-5 | 0.667
 3. Miami Marlins | 10-5 | 0.667
@@ -126,6 +132,7 @@ Die Giants haben in den nächsten 14 Tagen bis zum Allstar Break das einfachste 
 5. Houston Astros | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. New York Mets | 4-11 | 0.267
 2. Atlanta Braves | 4-11 | 0.267
 3. Toronto Blue Jays | 6-9 | 0.400
@@ -133,6 +140,7 @@ Die Giants haben in den nächsten 14 Tagen bis zum Allstar Break das einfachste 
 5. Seattle Mariners | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. Junior Caminero (TB) | OPS 1.731 | 7 HR | 15 RBI | 30 PA
 2. Luis García Jr. (WSH) | OPS 2.170 | 6 HR | 9 RBI | 22 PA
 3. Dansby Swanson (CHC) | OPS 0.920 | 3 HR | 15 RBI | 29 PA
@@ -140,6 +148,7 @@ Die Giants haben in den nächsten 14 Tagen bis zum Allstar Break das einfachste 
 5. Miguel Vargas (CWS) | OPS 1.432 | 3 HR | 8 RBI | 27 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. Sonny Gray (BOS, vs NYY) | 7.1 IP | 0 ER | 9 K | 1 BB | GS 84
 2. Brandon Woodruff (MIL, @ CIN) | 6.0 IP | 0 ER | 10 K | 0 BB | GS 80
 3. Brandon Sproat (MIL, @ CIN) | 6.0 IP | 0 ER | 10 K | 0 BB | GS 80
@@ -152,5 +161,4 @@ Am Anfang der Woche gibt der Spielplan nicht viele Highlightserien her. Es spiel
 
 Zum Wochenende steht dann am Samstag der 250. Amerikanische Unabhängigkeitstag "4th of July" an. Da wird es sicher einiges an Pathos und Aktionen in den Stadien geben. Wir hatten die Serie der Guardians bei den White Sox ja erst diese Woche im Fokus, am kommenden Wochenende spielen die White Sox dann bei den Guardians. Ansonsten spielen die Padres bei den Dodgers, die Brewers bei den D-Backs und die Rays bei den Astros.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
-
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

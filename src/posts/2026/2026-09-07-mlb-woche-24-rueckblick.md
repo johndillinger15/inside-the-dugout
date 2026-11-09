@@ -2,15 +2,14 @@
 title: Woche 24 Recap
 date: 2026-09-07T22:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Rafael Devers explodiert bei den Giants, Braves und Phillies liefern sich einen NL-East-Krimi, und die Angels bekommen mit Stan Kroenke einen neuen Besitzer."
 metaTitle: “MLB Wochenrückblick Woche 24 2026 – Devers, Braves-Krimi”
 metaDesc: “Rafael Devers schlägt sechs Homeruns für die Giants. Braves und Phillies teilen sich die NL-East-Serie 2:2. Kroenke kauft die Angels. – MLB Woche 24.”
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_26wk24.png
 ---
+
 <img src='../../img/thumbnail_26wk24.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 24 in der Major League Baseball.
@@ -23,7 +22,7 @@ Auf Platz eins der AL East liegen die **Tampa Bay Rays** (85-58, +47), die aktue
 
 ### <span style=background-color:#ffcccc>American League Central</span>
 
-Die **Chicago White Sox** (75-68) führen die Division an, aber sie trennen nur 2.5 Spiele von Platz zwei. Auf diesem liegen die **Cleveland Guardians** (73-71, -14): Gavin Williams lieferte mit 7 IP, 0 ER, 13 K und nur 1 BB den zweitbesten Pitching-Start der gesamten Liga in dieser Woche, und mit einer 10-5-Bilanz in den letzten 15 Spielen zählen die Guardians trotz negativem Run Differential zu den drei besten Teams der Liga. Die Division wird wohl unter anderem auch im letzten verbleibenden direkten Matchup der beiden Team ab dem 15. September entschieden. Auf Platz drei folgen die **Minnesota Twins** (68-75, -48), bei denen Ryan Jeffers mit einem Average von .261 schlug, einen OPS von 1.233 auflegte und vier Homeruns und 11 RBI ablieferte,  doch mit nur 5-10 in den letzten 15 Spielen zählen die Twins zugleich zu den fünf schwächsten Teams der Liga. Den vierten Platz belegen die **Detroit Tigers** (65-78, +50), die trotz positivem Run Differential 11.9 Siege unter ihrer erwarteten Bilanz liegen; mit 2-5 in der letzten Woche und 4-11 in den letzten 15 Spielen zählen auch sie zu den beiden schwächsten Teams der Liga. Schlusslicht der Division sind die **Kansas City Royals** (64-80, -88).
+Die **Chicago White Sox** (75-68) führen die Division an, aber sie trennen nur 2.5 Spiele von Platz zwei. Auf diesem liegen die **Cleveland Guardians** (73-71, -14): Gavin Williams lieferte mit 7 IP, 0 ER, 13 K und nur 1 BB den zweitbesten Pitching-Start der gesamten Liga in dieser Woche, und mit einer 10-5-Bilanz in den letzten 15 Spielen zählen die Guardians trotz negativem Run Differential zu den drei besten Teams der Liga. Die Division wird wohl unter anderem auch im letzten verbleibenden direkten Matchup der beiden Team ab dem 15. September entschieden. Auf Platz drei folgen die **Minnesota Twins** (68-75, -48), bei denen Ryan Jeffers mit einem Average von .261 schlug, einen OPS von 1.233 auflegte und vier Homeruns und 11 RBI ablieferte, doch mit nur 5-10 in den letzten 15 Spielen zählen die Twins zugleich zu den fünf schwächsten Teams der Liga. Den vierten Platz belegen die **Detroit Tigers** (65-78, +50), die trotz positivem Run Differential 11.9 Siege unter ihrer erwarteten Bilanz liegen; mit 2-5 in der letzten Woche und 4-11 in den letzten 15 Spielen zählen auch sie zu den beiden schwächsten Teams der Liga. Schlusslicht der Division sind die **Kansas City Royals** (64-80, -88).
 
 ### <span style=background-color:#ffcccc>American League West</span>
 
@@ -63,7 +62,7 @@ Durch den Seriensieg konnten die Blue Jays den Abstand zu den Guardians auf ein 
 
 ### Atlanta Braves @ Philadelphia Phillies
 
-Über den Sieg in der NL East entscheiden womöglich die nächsten 10 Tage, denn da spielen die Braves und Phillies 7 mal gegeneinander. Zuerst [4 Spiele dieses Wochenende](https://inside-the-dugout.de/shortposts/2026/09/04/1750-spotlight/) mit dem Rubbermatch am Montag (Labor Day) und dann für 3 Spiele nächstes Wochenende. Aktuell führen die Braves die NL East mit 4 Spielen Vorsprung an. 
+Über den Sieg in der NL East entscheiden womöglich die nächsten 10 Tage, denn da spielen die Braves und Phillies 7 mal gegeneinander. Zuerst [4 Spiele dieses Wochenende](https://inside-the-dugout.de/shortposts/2026/09/04/1750-spotlight/) mit dem Rubbermatch am Montag (Labor Day) und dann für 3 Spiele nächstes Wochenende. Aktuell führen die Braves die NL East mit 4 Spielen Vorsprung an.
 
 Die Braves gewannen gleich das erste Spiel bei den Phillies mit 5:2. Mauricio Dubón startete anstelle von Harris II gegen den Linkshänder Sánchez, und legte eine gute Leistung an den Tag mit einem Catch und einem Two-Run-Homer nach einem Walk von Yastrzemski. Dubón kam insgesamt auf zwei Hits, zwei Runs und zwei RBIs. Im zweiten Inning sorgten zudem RBI-Singles von Riley und Acuña für eine 3:0-Führung. Sánchez erlaubte über sechs Innings drei Runs bei fünf Strikeouts und kassierte seine zweite Saisonniederlage gegen Atlanta. Bohm verkürzte zwischenzeitlich mit einem RBI-Double und einem Solo-Homer im vierten Inning, dem ersten, den Sale seit dem 4. Juli zuließ. Sale, auf Seiten der Braves kam auf sechs Innings mit zwei Runs, sechs Hits und sieben Strikeouts.
 
@@ -71,7 +70,7 @@ Im zweiten Spiel war es dann Wheeler der durchwachsen startete und Singles der e
 
 Am Sonntag verwandelte Ronald Acuña Jr. dann im dritten Spiel der Serie einen 4:1-Rückstand in einen 5:4-Sieg der Braves. Er schlug im achten Inning einen Three-Run-Homer, seinem 16. der Saison, und schlug zuvor bereits ein Sacrifice Fly und kam so auf vier RBIs, seinem Season-High. In den letzten neun Spielen stand er bei 17-for-34 mit drei Doubles, zwei Homeruns und sieben RBIs. Austin Rileys RBI-Triple im neunten Inning brachte Ozzie Albies nach Hause und sicherte den Sieg. Tyler Mahle senkte seinen ERA auf 1.24, nachdem er über sechs Innings elf Batter in Folge retirete, obwohl ein Fehler von Mauricio Dubón zwei unearned Runs ermöglichte. Raisel Iglesias rettete trotz eines schwierigen neunten Innings seinen 31. Save, während Dylan Lee mit einem scorelosen achten Inning seinen sechsten Sieg einfuhr.
 
-Im Rubbergame am Labor Day am Montag war dann einmal mehr Kyle Schwarber der entscheidende Mann; mit seinem 43. Homerun der Saison sorgte er im 8. Inning für den entscheidenden Run zum 1:0. Bis dahin hatte hatte sich ein Pitcher's Duell zwischen Grant Holmes und Jesús Luzardo entwickelt. Holmes ging dabei 6 scoreless Innings bei 2 Walks und 6 Strikeouts. Sein Gegenüber pitchte einen Complete Game Shutout mit 1 Walk, 12 Strikeouts und 109 Pitches. Den entscheidenden Homerun gab dann Didier Fuentes im 8. Inning ab. 
+Im Rubbergame am Labor Day am Montag war dann einmal mehr Kyle Schwarber der entscheidende Mann; mit seinem 43. Homerun der Saison sorgte er im 8. Inning für den entscheidenden Run zum 1:0. Bis dahin hatte hatte sich ein Pitcher's Duell zwischen Grant Holmes und Jesús Luzardo entwickelt. Holmes ging dabei 6 scoreless Innings bei 2 Walks und 6 Strikeouts. Sein Gegenüber pitchte einen Complete Game Shutout mit 1 Walk, 12 Strikeouts und 109 Pitches. Den entscheidenden Homerun gab dann Didier Fuentes im 8. Inning ab.
 
 Durch den 2-2 Split bleibt an der Spitze der NL East also erstmal alles beim Gleichen und die Braves führen mit 4 Spielen Vorsprung. Offensiv konnte Ronald Acuña Jr. mit einem OPS von 1.471, 2 HR und 6 RBI überzeugen. Pitching MVP wurde natürlich Jesús Luzardo mit seinem Complete Game Shoutout und einem Game Score von 94.
 
@@ -81,11 +80,11 @@ Durch den 2-2 Split bleibt an der Spitze der NL East also erstmal alles beim Gle
 
 ## Giants Corner
 
-Diese Woche stand eine volle Woche für die Giants auf dem Plan, mit einem [verspäteten Sweep gegen die Braves](https://inside-the-dugout.de/shortposts/2026/09/01/1530-recap/). Die Saison-Serie gegen die Braves gewannen die Giants überraschenderweise mit 5-1. Überhaupt Performern die Giants gegen die Top Teams der Liga garnicht so schlecht. Gegen die Brewers z.B. haben sie die Saison-Serie auch 4-3 gewonnen. 
+Diese Woche stand eine volle Woche für die Giants auf dem Plan, mit einem [verspäteten Sweep gegen die Braves](https://inside-the-dugout.de/shortposts/2026/09/01/1530-recap/). Die Saison-Serie gegen die Braves gewannen die Giants überraschenderweise mit 5-1. Überhaupt Performern die Giants gegen die Top Teams der Liga garnicht so schlecht. Gegen die Brewers z.B. haben sie die Saison-Serie auch 4-3 gewonnen.
 
-Dann stand die [Serie bei den Pirates](https://inside-the-dugout.de/shortposts/2026/09/04/0955-recap/) an und das erste Spiel wurde durch einen Walk-Off-Error verloren. Spiel 2 werden sich dann alle Coaches oder Franchise-Besitzer genau angesehen haben, denn Logan Webb und Paul Skenes standen sich gegenüber. Beide hatten Anfang des Jahres im WBC gepitcht und beide sahen die ganze Saison schon nicht so gut aus und in diesem Spiel ganz besonders. Webb gab in 2 IP 9 ER ab und Skenes schaffte 4.2 IP bei 5 ER. Am Ende gewannen die Giants mit 13:12 in extra Innings. 
+Dann stand die [Serie bei den Pirates](https://inside-the-dugout.de/shortposts/2026/09/04/0955-recap/) an und das erste Spiel wurde durch einen Walk-Off-Error verloren. Spiel 2 werden sich dann alle Coaches oder Franchise-Besitzer genau angesehen haben, denn Logan Webb und Paul Skenes standen sich gegenüber. Beide hatten Anfang des Jahres im WBC gepitcht und beide sahen die ganze Saison schon nicht so gut aus und in diesem Spiel ganz besonders. Webb gab in 2 IP 9 ER ab und Skenes schaffte 4.2 IP bei 5 ER. Am Ende gewannen die Giants mit 13:12 in extra Innings.
 
- [Zur Serie bei den Mets](https://inside-the-dugout.de/shortposts/2026/09/07/0955-recap/) könnte man viel sagen aber am Ende spielten zwei Teams gegeneinander bei denen dieses Jahr wenig zusammenläuft. Der einzige Lichtblick ist weiterhin Rafael Devers, der seine gewohnten Zahlen auflegt und dieses Jahr sogar die Marke von 40 HR knacken könnte. Wenn er das in einer eventuellen 2027er oder dann 2028 von Anfang an an die Platte bringt könnte das für die Giants wirklich was werden...
+[Zur Serie bei den Mets](https://inside-the-dugout.de/shortposts/2026/09/07/0955-recap/) könnte man viel sagen aber am Ende spielten zwei Teams gegeneinander bei denen dieses Jahr wenig zusammenläuft. Der einzige Lichtblick ist weiterhin Rafael Devers, der seine gewohnten Zahlen auflegt und dieses Jahr sogar die Marke von 40 HR knacken könnte. Wenn er das in einer eventuellen 2027er oder dann 2028 von Anfang an an die Platte bringt könnte das für die Giants wirklich was werden...
 
 ## Giants Stats
 
@@ -159,5 +158,4 @@ Dann stand die [Serie bei den Pirates](https://inside-the-dugout.de/shortposts/2
 
 Vom 7. bis 9. September reisen die Chicago Cubs zu den Milwaukee Brewers, während die Cincinnati Reds bei den Los Angeles Dodgers zu Gast sind. Parallel treffen die Tampa Bay Rays und die Atlanta Braves aufeinander, beide Teams haben 85 Wins. Ab dem 11. September treffen dann die Philadelphia Phillies wieder auf die Atlanta Braves um die Spitze in der NL East. Ebenfalls ab dem 11. treffen Texas Rangers und Arizona Diamondbacks aufeinander, beide liegen innerhalb von zwei Spielen um den Cutoff-Platz der NL-Wild-Card. Dazu empfangen die Rays die Houston Astros, während die Dodgers bei den Miami Marlins gastieren und die Subway-Series in New York gespielt wird.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
-
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

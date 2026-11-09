@@ -2,9 +2,6 @@
 title: Rückblick auf Game 1 & 2 der World Series
 date: 2026-10-25T16:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Heute ist Travel-Day in der World Series also möchte ich die Zeit nutzen und auf die beiden Spiele in Milwaukee zurückblicken.
 author:
   name: Stefan Dillinger
@@ -27,4 +24,4 @@ Im zweiten Spiel der World Series fanden die Brewers dann wieder zu ihrem Modus 
 
 ### Vorschau
 
-Für die Rays war eigentlich Spiel 2 schon ein must-win, umso mehr ist es Spiel 3 zu Hause im Tropicana Field. Für die Rays geht Freddy Peralta an den Start, für die Brewers Robert Gasser. Die Rays haben nun 3 Spiele in Folge zu Hause und die Brewers müssen nur ein Spiel gewinnen um zu Hause 2 Spiele zu haben um die World Series zu gewinnen. Die aggressive Spielweise der Rays auf den Bases ging in den ersten beiden Spielen nicht so auf wie gewohnt und im ersten Spiel wurden sie 2x beim Stehlen der Bases erwischt. Vor allem der missglückte Steal an third, der das Inning beendete darf so eigentlich nicht passieren. Auch im zweiten Spiel konnte Aranda dann einen Ball in Foul Territory nicht fangen, was sich kurz darauf rächte und die Brewers auf 3:4 heran brachte. Wenn die Rays ihre Fehler abstellen können, könnte die Serie nochmal spannend werden. 
+Für die Rays war eigentlich Spiel 2 schon ein must-win, umso mehr ist es Spiel 3 zu Hause im Tropicana Field. Für die Rays geht Freddy Peralta an den Start, für die Brewers Robert Gasser. Die Rays haben nun 3 Spiele in Folge zu Hause und die Brewers müssen nur ein Spiel gewinnen um zu Hause 2 Spiele zu haben um die World Series zu gewinnen. Die aggressive Spielweise der Rays auf den Bases ging in den ersten beiden Spielen nicht so auf wie gewohnt und im ersten Spiel wurden sie 2x beim Stehlen der Bases erwischt. Vor allem der missglückte Steal an third, der das Inning beendete darf so eigentlich nicht passieren. Auch im zweiten Spiel konnte Aranda dann einen Ball in Foul Territory nicht fangen, was sich kurz darauf rächte und die Brewers auf 3:4 heran brachte. Wenn die Rays ihre Fehler abstellen können, könnte die Serie nochmal spannend werden.

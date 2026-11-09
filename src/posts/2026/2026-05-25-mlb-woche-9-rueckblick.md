@@ -2,8 +2,6 @@
 title: Woche 9 Recap
 date: 2026-05-25T22:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Rays bauen AL-East-Führung aus, Dodgers gewinnen Spitzenserie in San Diego, Ketel Marte sweept Giants im Alleingang und die Cubs verlieren acht in Serie.
 metaTitle: MLB Wochenrückblick MLB Woche 9 2026 – Marte, Ohtani, Cubs
 metaDesc: Rays bauen AL-East-Führung aus. Dodgers gewinnen Spitzenserie in San Diego durch Ohtani. Marte deklassiert Giants mit OPS 1.562. – MLB Woche 9.

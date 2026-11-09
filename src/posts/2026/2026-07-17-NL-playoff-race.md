@@ -2,9 +2,6 @@
 title: Ein Blick auf das Playoff-Rennen in der National League
 date: 2026-07-17T12:00:00+02:00
 layout: post
-tags:
-  - special
-  - National League
 description: Zum All-Star Break führen die Dodgers souverän die NL West an, Braves, Phillies und Marlins kämpfen um die NL East, und die Brewers dominieren die NL Central.
 metaTitle: Ein Blick auf das Playoff-Rennen in der National League
 metaDesc: Zum All-Star Break dominieren die Dodgers die NL West, während sich Braves, Phillies und Marlins ein enges Rennen um die NL East liefern – NL-Playoffrace 2026.
@@ -12,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_nl.png
 ---
+
 <img src='../../img/thumbnail_state_of_nl.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, nachdem ich am Mittwoch auf das Playoffrennen in der [American League](https://inside-the-dugout.de/posts/2026/AL-playoff-race/) geblickt habe, ist nun die National League dran.
@@ -69,4 +67,3 @@ Die **San Francisco Giants** (41-55, -64) und **Colorado Rockies** (39-59, -89
 
 [<img src='/assets/img/26_NL_WC.png' class='w-4/5 mx-auto block' />](/assets/img/26_NL_WC.png)<br><br>
 Aktuell halten die Cubs, Phillies und Marlins die Wildcards inne. Dahinter folgen die Cardinals (1 WCGB), Pirates (2 WCGB), D-Backs (2.5 WCGB), Padres (3.5 WCGB) und Nationals (4 WCGB) in Reichweite. Die Reds, Giants, Mets und Rockies sind schon mehr als eine Woche Baseball zurück. Laut Fangraphs haben die Cardinals eine 31%-ige Chance auf die Playoffs die Pirates rund 42%, die D-Backs 24%, und die Padres 11%. Ehrlicherweise rechne ich nicht damit, dass ein Team das aktuell außerhalb der Wildcard liegt es noch schafft die Cubs, Phillies oder Marlins einzuholen. Der Abstand ist zwar noch nicht groß, aber die drei genannten Teams sind aktuell einfach zu gut drauf als dass ich dagegen wetten wollen würde.
-

@@ -2,11 +2,6 @@
 title: Woche 5 Recap
 date: 2026-04-27T16:00:00Z
 layout: post
-tags:
-  - Wochenrückblick
-  - Atlanta Braves
-  - New York Mets
-  - Spencer Torkelson
 description: Mexico Series Split, Torkelsons historischer HR-Streak, die Mets-Krise und die dominanten Braves.
 metaTitle: MLB Wochenrückblick Woche 5 2026 – Torkelson, Mets, Braves
 metaDesc: Spencer Torkelson schlägt je einen HR in 5 aufeinanderfolgenden Spielen. Die Mets kassieren 12 Niederlagen in Serie. Atlanta führt die MLB mit 20-9 an. – MLB Woche 5.

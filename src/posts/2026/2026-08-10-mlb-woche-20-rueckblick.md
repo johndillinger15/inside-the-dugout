@@ -2,8 +2,6 @@
 title: Woche 20 Recap
 date: 2026-08-10T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Die Cubs sweepen die Dodgers, die White Sox verteidigen die AL-Central-Spitze gegen Cleveland, und Mike Krukow kündigt seinen Rücktritt als Giants-Broadcaster an."
 metaTitle: "MLB Wochenrückblick MLB Woche 20 2026 – Cubs-Sweep, Krukow"
 metaDesc: "Die Cubs sweepen die Dodgers und nähern sich der NL-Central-Spitze, die White Sox verteidigen knapp gegen Cleveland, Krukow kündigt Rücktritt an – MLB Woche 20."
@@ -11,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk20.png
 ---
+
 <img src='../../img/thumbnail_26wk20.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 20 in der Major League Baseball.
@@ -91,23 +90,27 @@ Sportlich standen die [Serie bei den Rangers](https://inside-the-dugout.de/short
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 49-69 (#26 in MLB) | L10: 3-7 | Streak: L2
 - NL West: #4 | GB: 21.0 | WCGB: 13.5
 - Home: 27-29 | Away: 22-40
 - Run Differential: -63 (#25 in MLB) / -0.53 pG
 
 ### Offense
+
 - AVG: .249 (#9 in MLB) | OPS: .716 (#17 in MLB)
 - HRs: 131 (#19 in MLB) | HR-Leader: Rafael Devers (24)
 - RBIs: 466 (#25 in MLB) | BB: 309 (#30 in MLB)
 - Runs: 485 (#25 in MLB) / 4.11 pG | SB: 53 (#27 in MLB)
 
 ### Pitching
+
 - ERA: 4.37 (#22 in MLB) | WHIP: 1.36 (#22 in MLB)
 - Strikeouts: 893 (#27 in MLB)
 - Runs Against: 548 / 4.64 pG
 
 ### Best Hitters – Last 7 Days
+
 - **[Jung Hoo Lee](https://www.fangraphs.com/players/jung-hoo-lee/33824/stats)** | 6/24 (0.250) | OPS .811 | 1 2B | 2 HR | 5 RBI
 - **[Osleivis Basabe](https://www.fangraphs.com/players/osleivis-basabe/23985/stats)** | 5/22 (0.227) | OPS .581 | 1 HR | 3 RBI
 - **[Rafael Devers](https://www.fangraphs.com/players/rafael-devers/17350/stats)** | 5/22 (0.227) | OPS .625 | 1 HR | 2 RBI
@@ -158,4 +161,4 @@ Die Woche ist wieder voll von spannenden und playoffrelevanten Spielen. Am Anfan
 
 Zum Wochenende geht es dann nahtlos weiter. Direkte Divisionsduelle haben wir bei den Phillies gegen die Twins (okay beide im Wildcard-Rennen, aber nicht in der gleichen Liga) und bei Padres bei den Guardians (gleiches gilt auch hier). Die White Sox spielen gegen die Tigers und die Mariners bei den Astros um die Spitze der AL West. Sonst spielen die Brewers gegen die Dodgers im Spitzenspiel und die D-Backs gegen die Braves.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

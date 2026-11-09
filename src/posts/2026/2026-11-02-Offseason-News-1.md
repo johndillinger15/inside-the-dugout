@@ -2,8 +2,6 @@
 title: "Offseason News #1"
 date: 2026-11-02T21:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Die Gold Glove Gewinner wurden gestern bekannt gegeben, außerdem alle News die seit dem Ende der Regular Season aufgelaufen waren.
 author:
   name: Stefan Dillinger

@@ -2,8 +2,6 @@
 title: Championship Series Recap 2026
 date: 2026-10-20T23:00:00Z
 layout: post
-tags:
-  - Playoffs
 description: Der Ausführliche Rückblick auf die Championship Series in der MLB
 author:
   name: Stefan Dillinger

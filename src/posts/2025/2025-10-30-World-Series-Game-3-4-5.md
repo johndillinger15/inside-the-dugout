@@ -2,9 +2,6 @@
 title: Rückblick auf Games 3-5 der World Series
 date: 2025-10-30T12:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Heute ist wieder Travel-Day in der World Series also möchte ich die Zeit nutzen und auf die drei Spiele in Los Angeles zurückblicken.
 author:
   name: Stefan Dillinger
@@ -23,7 +20,7 @@ Die Dodgers kehrten nach dem Split der Spiele in Toronto mit dem Heimvorteil nac
 
 Nach sechs Stunden und 49 Minuten beendete Freddie Freeman mit einem Walk-Off Home Run eines der längsten World Series Games der Geschichte. Die Dodgers siegten gegen die Blue Jays 6-5 nach 18 Innings und führen die Serie nach [Game 3](https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-10/27/086aa8d3-bd44e84f-9c4d2dac-csvm-diamondgcp-asset_1280x720_59_16000K.mp4) nun 2-1.
 
-Das Spiel entwickelte sich zu einem Marathon, der beide Bullpens bis an die Grenze brachte. Tyler Glasnow kam für die Dodgers nur auf 4.1 Innings, nachdem Alejandro Kirk im vierten Inning einen Three-Run Homer zur 4:2 Führung der Blue Jays schlug. Max Scherzer auf der Gegenseite erlaubte ebenfalls nach 4.1 Innings den Ausgleich durch Freeman. Von diesem Zeitpunkt an übernahmen die Relievers für weitere 13 Innings. 
+Das Spiel entwickelte sich zu einem Marathon, der beide Bullpens bis an die Grenze brachte. Tyler Glasnow kam für die Dodgers nur auf 4.1 Innings, nachdem Alejandro Kirk im vierten Inning einen Three-Run Homer zur 4:2 Führung der Blue Jays schlug. Max Scherzer auf der Gegenseite erlaubte ebenfalls nach 4.1 Innings den Ausgleich durch Freeman. Von diesem Zeitpunkt an übernahmen die Relievers für weitere 13 Innings.
 
 Shohei Ohtani stellte mehrere Postseason-Rekorde auf. Er kam neunmal auf Base, darunter zwei Home Runs und zwei Doubles, was Frank Isbell als einzigem anderen Spieler seit 1906 mit vier Extra-Base Hits in einem World Series Game gelang. Blue Jays Manager John Schneider wich Ohtani nach dem siebten Inning konsequent aus und erteilte ihm viermal den Intentional Walk, teilweise ohne Läufer auf Base.
 
@@ -49,6 +46,6 @@ Die Dodgers Offense bleibt aber das größere Problem. In den letzten 27 Innings
 
 ### Ausblick
 
-Nun ist es also soweit und die Blue Jays sind nur noch einen Sieg vom Titel entfernt. Spiel 6 findet morgen, an Halloween, statt und wir das Matchup Yamamoto gegen Gausman liefern. Die Offensive der Dodgers bleibt weiterhin das Sorgenkind und einer der entscheidenden Faktoren. Zu Hause in Los Angeles wurden sie von den Blue Jays 18:8 outgescored. Sollten die Schläger endlich aufwachen, wir es schwer für Toronto. Sie selbst standen in der ALCS in der gleichen Situation wie die Dodgers jetzt und konnten sich letzendlich noch durchsetzen. Andererseits wirken die Dodgers seltsam leblos und die Blue Jays sind energetisiert und können die angeschlagenen bzw. verletzen Bo Bichette und George Springer bisher gut verkraften. Wir das auch noch für ein weiteres Spiel reichen? 
+Nun ist es also soweit und die Blue Jays sind nur noch einen Sieg vom Titel entfernt. Spiel 6 findet morgen, an Halloween, statt und wir das Matchup Yamamoto gegen Gausman liefern. Die Offensive der Dodgers bleibt weiterhin das Sorgenkind und einer der entscheidenden Faktoren. Zu Hause in Los Angeles wurden sie von den Blue Jays 18:8 outgescored. Sollten die Schläger endlich aufwachen, wir es schwer für Toronto. Sie selbst standen in der ALCS in der gleichen Situation wie die Dodgers jetzt und konnten sich letzendlich noch durchsetzen. Andererseits wirken die Dodgers seltsam leblos und die Blue Jays sind energetisiert und können die angeschlagenen bzw. verletzen Bo Bichette und George Springer bisher gut verkraften. Wir das auch noch für ein weiteres Spiel reichen?
 
 Ich glaube schon, dass die Energie die sie in Toronto spüren werden, nicht nur aus der ganzen Stadt, sondern vermutlich aus dem ganzen Land, ihnen zum Titel verhelfen wird. Wir werden es sehen und ich werde mich dann wieder melden, wenn es eine Entscheidung gibt.

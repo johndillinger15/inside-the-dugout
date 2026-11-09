@@ -2,15 +2,14 @@
 title: Woche 27 Recap
 date: 2026-09-28T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Phillies lösen am letzten Tag das Playoff-Ticket, Astros gewinnen AL West mit .500, Verlander beendet seine Karriere und Crow-Armstrong schafft 40/40.
 metaTitle: MLB Wochenrückblick MLB Woche 27 2026 – Phillies, Verlander
 metaDesc: Die Phillies sichern sich am letzten Spieltag den NL-Wild-Card-Platz. Verlander beendet seine Karriere. Pete Crow-Armstrong erreicht 40/40 – MLB Woche 27.
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_26wk27.png
 ---
+
 <img src='../../img/thumbnail_26wk27.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf die letzte Woche der regular Season in der Major League Baseball.
@@ -50,17 +49,17 @@ So sieht dann das finale Feld für die Playoffs 2026 aus:
 1. Rays (Sieger AL East)
 2. Guardians (Sieger AL Central)
 3. Astros (Sieger AL West, host White Sox in Wild Card Series)
-4. Yankees (AL Wild Card, host Red Sox in Wild Card Series)  
-5. Red Sox (AL Wild Card, play at Yankees in Wild Card Series)  
+4. Yankees (AL Wild Card, host Red Sox in Wild Card Series)
+5. Red Sox (AL Wild Card, play at Yankees in Wild Card Series)
 6. White Sox (AL Wild Card, play at Astros in Wild Card Series)
 
 #### National League
 
-1. Brewers (Sieger NL Central)  
-2. Dodgers (Sieger NL West champ)  
-3. Braves (Sieger NL East, host Phillies in Wild Card Series)  
-4. Padres (NL Wild Card, host Cubs in Wild Card Series)  
-5. Cubs (NL Wild Card, play at Padres in Wild Card Series)  
+1. Brewers (Sieger NL Central)
+2. Dodgers (Sieger NL West champ)
+3. Braves (Sieger NL East, host Phillies in Wild Card Series)
+4. Padres (NL Wild Card, host Cubs in Wild Card Series)
+5. Cubs (NL Wild Card, play at Padres in Wild Card Series)
 6. Phillies (NL Wild Card, play at Braves in Wild Card Series)
 
 ## Serien der Woche
@@ -109,28 +108,33 @@ Damit ist die Saison der Giants in den Büchern, mit einer Bilanz von 65-97 war 
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 65-97 (#27 in MLB) | L10: 2-8 | Streak: L5
 - NL West: #4 | GB: 35.0 | WCGB: 23.0
 - Home: 37-44 | Away: 28-53
 - Run Differential: -91 (#25 in MLB) / -0.56 pG
 
 ### Offense
+
 - AVG: .245 (#13 in MLB) | OPS: .706 (#23 in MLB)
 - HRs: 178 (#20 in MLB) | HR-Leader: Rafael Devers (37)
 - RBIs: 646 (#26 in MLB) | BB: 449 (#30 in MLB)
 - Runs: 669 (#26 in MLB) / 4.13 pG | SB: 88 (#22 in MLB)
 
 ### Pitching
+
 - ERA: 4.33 (#23 in MLB) | WHIP: 1.36 (#23 in MLB)
 - Strikeouts: 1204 (#27 in MLB)
 - Runs Against: 760 / 4.69 pG
 
 ### Best Hitters – Last 7 Days
+
 - [**Drew Gilbert**](https://www.fangraphs.com/players/drew-gilbert/31545/stats) | 5/11 (0.455) | OPS 1.266 | 1 HR | 3 RBI
 - **Bo Davidson** | 7/20 (0.350) | OPS .714 | 1 RBI
 - [**Shay Whitcomb**](https://www.fangraphs.com/players/shay-whitcomb/27789/stats) | 6/13 (0.462) | OPS .962 | 2 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - [**Anthony Molina**](https://www.fangraphs.com/players/anthony-molina/26952/stats) (22.9.) | 6.0 IP | 2 ER | 6 K | 1 BB | GS 61
 - **Cesar Perdomo** (23.9.) | 5.1 IP | 2 ER | 2 K | 0 BB | GS 52
 - [**Yunior Marte**](https://www.fangraphs.com/players/yunior-marte/14416/stats) (25.9.) | 5.0 IP | 2 ER | 4 K | 1 BB | GS 50
@@ -138,6 +142,7 @@ Damit ist die Saison der Giants in den Büchern, mit einer Bilanz von 65-97 war 
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. San Diego Padres | 12-3 | 0.800
 2. Milwaukee Brewers | 12-3 | 0.800
 3. Cleveland Guardians | 11-4 | 0.733
@@ -145,6 +150,7 @@ Damit ist die Saison der Giants in den Büchern, mit einer Bilanz von 65-97 war 
 5. Washington Nationals | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. San Francisco Giants | 3-12 | 0.200
 2. Colorado Rockies | 3-12 | 0.200
 3. Kansas City Royals | 4-11 | 0.267
@@ -152,6 +158,7 @@ Damit ist die Saison der Giants in den Büchern, mit einer Bilanz von 65-97 war 
 5. Athletics | 5-10 | 0.333
 
 ### Top Hitters – Last 7 Days
+
 1. [**Pete Alonso**](https://www.fangraphs.com/players/pete-alonso/19251/stats) (BAL) | OPS 1.722 | 5 HR | 8 RBI | 22 PA
 2. **Lucas Spence** (HOU) | OPS 1.621 | 4 HR | 9 RBI | 22 PA
 3. [**Nolan Arenado**](https://www.fangraphs.com/players/nolan-arenado/9777/stats) (AZ) | OPS 1.432 | 3 HR | 8 RBI | 27 PA
@@ -159,6 +166,7 @@ Damit ist die Saison der Giants in den Büchern, mit einer Bilanz von 65-97 war 
 5. [**Vinnie Pasquantino**](https://www.fangraphs.com/players/vinnie-pasquantino/27676/stats) (KC) | OPS 1.176 | 3 HR | 9 RBI | 26 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. [**Eury Pérez**](https://www.fangraphs.com/players/eury-pérez/27768/stats) (MIA, vs ATL) | 9.0 IP | 0 ER | 8 K | 1 BB | GS 92
 2. [**Jared Jones**](https://www.fangraphs.com/players/jared-jones/27863/stats) (PIT, vs STL) | 7.0 IP | 0 ER | 9 K | 0 BB | GS 84
 3. [**Carlos Rodón**](https://www.fangraphs.com/players/carlos-rodón/16137/stats) (NYY, vs TB) | 8.0 IP | 0 ER | 8 K | 0 BB | GS 84
@@ -176,4 +184,4 @@ In der kommenden Woche stehen also nun die Wildcard-Serien an, sie beginnen am D
 
 Hierbei finde ich die Serien spannend und schwer zu prognostizieren, okay bis auf die Serie der Astros gegen die White Sox... Meine Tipps sind dass die Braves, White Sox, Yankees und Padres weiterkommen.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

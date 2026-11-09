@@ -2,8 +2,6 @@
 title: Woche 18 Recap
 date: 2026-07-27T22:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Dodgers schlagen die Phillies im Playoff-Preview, Rangers und Mariners kämpfen um die AL West, CJ Abrams offensiv stark und die Giants gewinnen dank Devers gegen die Angels."
 metaTitle: "MLB Wochenrückblick MLB Woche 18 2026 – Dodgers, Devers"
 metaDesc: "Die Dodgers gewinnen die Playoff-Vorschau gegen die Phillies. CJ Abrams explodiert offensiv. Die Giants schlagen dank Devers die Angels – MLB Woche 18."
@@ -11,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk18.png
 ---
+
 <img src='../../img/thumbnail_26wk18.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 18 in der Major League Baseball.
@@ -61,11 +60,11 @@ Die **Los Angeles Dodgers** (67-39, +155) führen die NL West mit dem besten R
 
 #### American League
 
-Die **New York Yankees** liegen mit sechs Spielen Vorsprung komfortabel an der Spitze und bauten den Vorsprung um ein weiteres Spiel aus. Die **Boston Red Sox** halten den zweiten Platz und liegen 1.5 Spiele vor den **Cleveland Guardians** die aktuell auf dem 3. Wildcardplatz stehen. Dahinter folgen die **Minnesota Twins** mit einem Spiel Rückstand und die **Seattle Mariners** mit 1.5 Spielen Rückstand. Die **Houston Astros** (-2) und  **Baltimore Orioles** (-2.5) folgen dahinter. Die **Tigers** folgen dann mit 3.5 Spielen Rückstand.
+Die **New York Yankees** liegen mit sechs Spielen Vorsprung komfortabel an der Spitze und bauten den Vorsprung um ein weiteres Spiel aus. Die **Boston Red Sox** halten den zweiten Platz und liegen 1.5 Spiele vor den **Cleveland Guardians** die aktuell auf dem 3. Wildcardplatz stehen. Dahinter folgen die **Minnesota Twins** mit einem Spiel Rückstand und die **Seattle Mariners** mit 1.5 Spielen Rückstand. Die **Houston Astros** (-2) und **Baltimore Orioles** (-2.5) folgen dahinter. Die **Tigers** folgen dann mit 3.5 Spielen Rückstand.
 
 #### National League
 
-Die **Chicago Cubs** führen das NL-Wildcard Race mit 4.5 Spielen Vorsprung an. Die **Philadelphia Phillies** folgen 2 Spiele dahinter, verloren dabei aber etwas an Boden. Die **Arizona Diamondbacks** halten die dritte Wildcard. Aktuell ein spiel außerhalb der Playoffs liegen die **Pittsburgh Pirates**  und **Washington Nationals**. Ein weiteres halbes Spiel dahinter liegen die **St. Louis Cardinals**.  Die **San Diego Padres** liegen zwei Spiele zurück, währen die **Miami Marlins** jetzt 3 Spiele außerhalb der Wildcard liegen. Ob die Reds mit 5 Spielen Rückstand nochmal ins Playoffrennen eingreifen können, zweifle ich an.
+Die **Chicago Cubs** führen das NL-Wildcard Race mit 4.5 Spielen Vorsprung an. Die **Philadelphia Phillies** folgen 2 Spiele dahinter, verloren dabei aber etwas an Boden. Die **Arizona Diamondbacks** halten die dritte Wildcard. Aktuell ein spiel außerhalb der Playoffs liegen die **Pittsburgh Pirates**  und **Washington Nationals**. Ein weiteres halbes Spiel dahinter liegen die **St. Louis Cardinals**. Die **San Diego Padres** liegen zwei Spiele zurück, währen die **Miami Marlins** jetzt 3 Spiele außerhalb der Wildcard liegen. Ob die Reds mit 5 Spielen Rückstand nochmal ins Playoffrennen eingreifen können, zweifle ich an.
 
 ## Serien der Woche
 
@@ -79,7 +78,7 @@ Im zweiten Spiel führten Justin Wrobleski und Max Muncy die Dodgers zu einem 2:
 
 Das dritte Spiel gewannen dann die Dodgers mit 9:5 und sicherten sich so die Serie. Alec Bohm eröffnete das Scoring mit einem Two-Run-Homer gegen Eric Lauer im ersten Inning. Aaron Nola, mit einem ERA von 5.68, retirierte zunächst acht Batter in Folge, doch Dalton Rushing durchbrach dessen Serie mit einem Homer im dritten Inning und sorgte im fünften mit einem Two-Run-Double für die Führung. Bryan De La Cruz glich mit seinem ersten Homer seit 2024 in seinem Phillies-Debüt zum 3:3 aus. Freddie Freeman schlug zum 572. Mal in seiner Karriere ein Double. Max Muncy erzielte mit seinem 229. Homer als Dodger den entscheidenden Run und überholte damit Ron Cey als Nummer zwei der Franchise-Geschichte. Eric Lauer verbesserte seine Bilanz auf 4-0, die Dodgers gewannen alle acht seiner Starts. Kyle Tucker und Tommy Edman erhöhten spät, letzterer mit einem bases-clearing Triple.
 
-Die Dodgers gewannen damit die Season Series gegen die Phillies mit 4-2. Die Achillesferse der Phillies in dieser Serie war aber das fragwürdige Baserunning, vorallem im zweiten Spiel. Diese Serie war schonmal eine Vorschau auf die Playoffs, in denen die beiden Teams vermutlich auch wieder aufeinander treffen könnten. MVPs der Serie waren offensiv Trea Turner  (OPS 1.203, 2 HR, 5 RBI) und auf dem Mound Zack Wheeler (7.0 IP, 2 ER, 9 K, 0 BB, GS 68).
+Die Dodgers gewannen damit die Season Series gegen die Phillies mit 4-2. Die Achillesferse der Phillies in dieser Serie war aber das fragwürdige Baserunning, vorallem im zweiten Spiel. Diese Serie war schonmal eine Vorschau auf die Playoffs, in denen die beiden Teams vermutlich auch wieder aufeinander treffen könnten. MVPs der Serie waren offensiv Trea Turner (OPS 1.203, 2 HR, 5 RBI) und auf dem Mound Zack Wheeler (7.0 IP, 2 ER, 9 K, 0 BB, GS 68).
 
 ### Seattle Mariners @ Texas Rangers
 
@@ -106,35 +105,40 @@ Die Rangers konnten die Serie also mit 3-1 gewinnen und stehen nun auf Platz 1 d
 
 Diese Woche Standen für die Giants die [Serie bei den Royals](https://inside-the-dugout.de/shortposts/2026/07/23/0955-recap/) und die [Serie zu Hause gegen die Angels](https://inside-the-dugout.de/shortposts/2026/07/27/0955-recap/) an. Die Serie gegen die Royal schloss den Roadtrip nach Seattle und Kansas City ab, den die Giants mit 1-5 absolvierten. Auf diesem Roadtrip schlugen sie nur mit einen Average von .196 bei 22 Runs und 8 HRs, also nicht mal 4 Runs per Game. So kann man natürlich auch keine Spiele gewinnen. einzelne Spieler wie z.B. Willy Adames, der in Spiel 1 bei den Royals einen game-tying 2-R-HR im Top of the Ninth schlug, stachen offensiv heraus. Allerdings verloren wir das Spiel dann per Walk-Off. Dabei trug Adames dazu bei indem er nicht auf Base stand um nach einem Bunt das Force Play zu machen. Eldridge konnte dann den finalen Bunt auch nicht klar fielden. In Spiel 3 waren wir eigentlich gut im Spiel, aber nach einem falschen call der Umpires an Second Base wurde [Vitello ejected](https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/22/f6e3ca72-0d373ae6-902e349c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4) und die Räder fielen ab und die Royals scorten 5 Runs in diesem Inning.
 
-Übers Wochenende kamen dann die Angels in die Stadt und zumindest diese Serie konnte man gewinnen. In den ersten beiden Spielen überragend Rafael Devers mit einem Walk-Off Hit, im zweiten Spiel dann Schlug er einen 3R-HR. Insgesamt schlug er gegen die Angels mit einem OPS von 1.720 bei  2 HR und 8 RBI. Leider konnten die Giants den Schwung aus den ersten beiden Spielen nicht nutzen und verpassten den Sweep, weil Heliot Ramos als Winning Run, [keine ABS Challenge mehr übrig](https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/26/91a9e7d8-70ae8834-a0df17a0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4) hatte um einen klaren Ball nicht Challengen zu können.
+Übers Wochenende kamen dann die Angels in die Stadt und zumindest diese Serie konnte man gewinnen. In den ersten beiden Spielen überragend Rafael Devers mit einem Walk-Off Hit, im zweiten Spiel dann Schlug er einen 3R-HR. Insgesamt schlug er gegen die Angels mit einem OPS von 1.720 bei 2 HR und 8 RBI. Leider konnten die Giants den Schwung aus den ersten beiden Spielen nicht nutzen und verpassten den Sweep, weil Heliot Ramos als Winning Run, [keine ABS Challenge mehr übrig](https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/26/91a9e7d8-70ae8834-a0df17a0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4) hatte um einen klaren Ball nicht Challengen zu können.
 
-Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Diego. 
+Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Diego.
 
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 44-61 (#26 in MLB) | L10: 4-6 | Streak: L1
 - NL West: #4 | GB: 22.5 | WCGB: 10.5
 - Home: 24-26 | Away: 20-35
 - Run Differential: -57 (#23 in MLB) / -0.54 pG
 
 ### Offense
+
 - AVG: .253 (#7 in MLB) | OPS: .725 (#15 in MLB)
 - HRs: 118 (#19 in MLB) | HR-Leader: Rafael Devers (22)
 - RBIs: 419 (#25 in MLB)
 - Runs: 436 (#25 in MLB) / 4.15 pG | SB: 40 (#28 in MLB)
 
 ### Pitching
+
 - ERA: 4.38 (#22 in MLB) | WHIP: 1.35 (#22 in MLB)
 - Strikeouts: 797 (#28 in MLB)
 - Runs Against: 493 / 4.70 pG
 
 ### Best Hitters – Last 7 Days
+
 - [**Rafael Devers**](https://www.fangraphs.com/players/rafael-devers/17350/stats) | 7/21 (0.333) | OPS 1.202 | 3 2B | 2 HR | 8 RBI
 - [**Jung Hoo Lee**](https://www.fangraphs.com/players/jung-hoo-lee/33824/stats) | 5/18 (0.278) | OPS .961 | 1 2B | 1 3B | 1 HR | 4 RBI
 - [**Casey Schmitt**](https://www.fangraphs.com/players/casey-schmitt/27577/stats) | 3/23 (0.130) | OPS .558 | 2 HR | 5 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - [**Landen Roupp**](https://www.fangraphs.com/players/landen-roupp/30076/stats) (22.7.) | 6.0 IP | 2 ER | 7 K | 0 BB | GS 63
 - [**Robbie Ray**](https://www.fangraphs.com/players/robbie-ray/11486/stats) (25.7.) | 6.0 IP | 0 ER | 5 K | 2 BB | GS 63
 - [**Tyler Mahle**](https://www.fangraphs.com/players/tyler-mahle/16358/stats) (21.7.) | 5.0 IP | 3 ER | 4 K | 1 BB | GS 48
@@ -142,6 +146,7 @@ Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Dieg
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Boston Red Sox | 13-2 | 0.867
 2. Atlanta Braves | 10-5 | 0.667
 3. Arizona Diamondbacks | 10-5 | 0.667
@@ -149,6 +154,7 @@ Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Dieg
 5. Chicago Cubs | 9-6 | 0.600
 
 ### Worst 5 Teams – Last 15 Games
+
 1. Miami Marlins | 3-12 | 0.200
 2. Athletics | 3-12 | 0.200
 3. Seattle Mariners | 5-10 | 0.333
@@ -156,6 +162,7 @@ Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Dieg
 5. San Francisco Giants | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. [**CJ Abrams**](https://www.fangraphs.com/players/cj-abrams/25768/stats) (WSH) | OPS 1.939 | 6 HR | 12 RBI | 27 PA
 2. [**Jeremy Peña**](https://www.fangraphs.com/players/jeremy-peña/21636/stats) (HOU) | OPS 1.577 | 5 HR | 8 RBI | 26 PA
 3. [**Manny Machado**](https://www.fangraphs.com/players/manny-machado/11493/stats) (SD) | OPS 1.145 | 4 HR | 7 RBI | 33 PA
@@ -163,6 +170,7 @@ Nun geht es erst zu Hause gegen die Brewers und dann am Wochenende nach San Dieg
 5. [**Pete Crow-Armstrong**](https://www.fangraphs.com/players/pete-crow-armstrong/27769/stats) (CHC) | OPS 1.474 | 2 HR | 7 RBI | 29 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. [**Dylan Cease**](https://www.fangraphs.com/players/dylan-cease/18525/stats) (TOR, @ BOS) | 9.0 IP | 0 ER | 12 K | 3 BB | GS 94
 2. [**Cam Schlittler**](https://www.fangraphs.com/players/cam-schlittler/32095/stats) (NYY, @ PHI) | 7.1 IP | 0 ER | 12 K | 0 BB | GS 84
 3. [**Gavin Williams**](https://www.fangraphs.com/players/gavin-williams/30122/stats) (CLE, vs MIN) | 7.0 IP | 0 ER | 11 K | 0 BB | GS 84
@@ -175,4 +183,4 @@ Zum Anfang der Woche spielen die Mariners bei den Dodgers, die Rangers bei den R
 
 Zum Wochenende gibt es viele spannende Serien. Die Red Sox spielen Bei den Dodgers, die Yankees bei den Cubs und die White Sox bei den Rays. Diese Serien haben alle Implikationen für die Playoffs. Es gibt aber auch Duelle die sich direkt in der Wildcard auswirken: die D-Backs spielen bei den Guardians, die Phillies bei den Orioles und die Twins bei den Mariners. Die Rangers spielen bei den Astros mal wieder um die Spitze der AL West.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

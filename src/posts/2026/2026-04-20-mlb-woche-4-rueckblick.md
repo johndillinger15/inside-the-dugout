@@ -2,12 +2,6 @@
 title: Woche 4 Recap
 date: 2026-04-20T16:00:00Z
 layout: post
-tags:
-  - Wochenrückblick
-  - San Diego Padres
-  - Mike Trout
-  - Aaron Judge
-  - New York Mets
 description: Mets mit historischem 11-Spiele Losing Streak, Dodgers und Padres regieren die NL West, Trout und Judge liefern sich einen HR-Showdown und die Padres wechseln für $3,9 Milliarden den Besitzer.
 metaTitle: MLB Wochenrückblick KW17 2026 – Mets L11, Dodgers, Padres-Deal
 metaDesc: Die Mets stecken in einem 11-Spiele Losing Streak. Die Dodgers (15-6) dominieren die NL mit +48 Run Differential. Die Padres wechseln für $3,9 Mrd. den Besitzer. – MLB Woche 4.
@@ -15,11 +9,13 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk4.png
 ---
+
 <img src='../../img/thumbnail_26wk4.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 4 in der Major League Baseball.
 
 Nochmal eine kurze Meldung aus dem Maschinenraum:
+
 1. Die Statistiktabellen sind jetzt in Listen umgewandelt, sie sehen damit im Blog und im Newsletter gleichermaßen sauber und lesbar aus, egal auf welcher Plattform oder in welchem Browser.
 2. Ab sofort erscheint jeden Morgen um 7:30 Uhr automatisch ein neuer Shortpost auf der Website: das **MLB Morning Briefing**. Darin findet ihr die Ergebnisse der Nacht, die Top 3 Hitters und Top 3 Pitchers sowie direkte Links zu den Highlight-Videos der jeweiligen Spiele. Ihr könnt einfach auf ein Ergebnis klicken und ihr landet direkt bei den Highlights und Condensed Games.
 
@@ -59,19 +55,19 @@ Diese Woche werden die Serien der Woche etwas Mets-lastig, denn sie spielen bei 
 
 Die Mets (7-9) reisten also mit einer fünf Spiele Niederlagenserie zu den Dodgers (11-4). Während des Losing Streaks erzielte New York lediglich neun Runs, sechs davon in einem einzigen Spiel. Trotz eines 2,44 FIP kämpfte David Peterson in seinen letzen drei Starts mit einem 6,14 ERA. Nolan McLean (2,70 ERA, 2,76 FIP) präsentierte sich hingegen als verlässliche Stütze der Rotation. Auf der Gegenseite warteten Justin Wrobleski, Yoshinobu Yamamoto sowie Shohei Ohtani, der mit einem makellosen 0,00 ERA in die Serie ging.​​​​​​​​​​​​​​​​
 
-Und besser hätte man die Einleitung nicht schreiben, bzw. auf das erste Spiel münzen können. Justin Wrobleski lieferte die beste Leistung seiner Karriere ab, als er die Mets über acht scoreless Innings mit lediglich zwei Hits und 90 Pitches dominierte und die Dodgers zu einem 4:0-Sieg führte, während David Peterson auf der Gegenseite von Beginn an kämpfte. Nachdem Peterson die ersten vier Dodgers auf Base lies, rettete er sich durch drei Strikeouts, kassierte jedoch im dritten Inning einen Three-Run Homerun von Andy Pages (5). Peterson verließ das Spiel nach fünf Innings mit vier zugelassenen Runs bei elf Dodgers, die sicher die Bases erreichten.​​​​​​​​​​​​​​​​ *Mets Losing Streak: 6*
+Und besser hätte man die Einleitung nicht schreiben, bzw. auf das erste Spiel münzen können. Justin Wrobleski lieferte die beste Leistung seiner Karriere ab, als er die Mets über acht scoreless Innings mit lediglich zwei Hits und 90 Pitches dominierte und die Dodgers zu einem 4:0-Sieg führte, während David Peterson auf der Gegenseite von Beginn an kämpfte. Nachdem Peterson die ersten vier Dodgers auf Base lies, rettete er sich durch drei Strikeouts, kassierte jedoch im dritten Inning einen Three-Run Homerun von Andy Pages (5). Peterson verließ das Spiel nach fünf Innings mit vier zugelassenen Runs bei elf Dodgers, die sicher die Bases erreichten.​​​​​​​​​​​​​​​​ _Mets Losing Streak: 6_
 
-Yoshinobu Yamamoto und Nolan McLean lieferten sich am Dienstagabend dann ein beeindruckendes Pitchers’ Duel. Beide Starter kassierten im ersten Inning je einen Run, Francisco Lindor traf per Leadoff-Homerun, Will Smith leitete den Dodgers-Run per Double ein, und ließen danach kaum noch etwas zu. Yamamoto warf 7⅔ Innings mit sieben Strikeouts bei vier Hits und einem Walk (104 Pitches), McLean acht Strikeouts in sieben Innings bei zwei Hits (95 Pitches). Den entscheidenden Moment lieferte Kyle Tucker im achten Inning, als er nach einem intentional Walk für Shohei Ohtani (On-base-Streak: 48 Spiele) einen RBI-Single hinter die dritte Base dunkte. Blake Treinen hielt die Mets in Schach, Alex Vesia schloss mit einem perfekten neunten Inning (3 Strikeouts, 10 Pitches) zum 2:1-Sieg ab.​​​​​​​​​​​​​​​​ *Mets Losing Streak: 7*
+Yoshinobu Yamamoto und Nolan McLean lieferten sich am Dienstagabend dann ein beeindruckendes Pitchers’ Duel. Beide Starter kassierten im ersten Inning je einen Run, Francisco Lindor traf per Leadoff-Homerun, Will Smith leitete den Dodgers-Run per Double ein, und ließen danach kaum noch etwas zu. Yamamoto warf 7⅔ Innings mit sieben Strikeouts bei vier Hits und einem Walk (104 Pitches), McLean acht Strikeouts in sieben Innings bei zwei Hits (95 Pitches). Den entscheidenden Moment lieferte Kyle Tucker im achten Inning, als er nach einem intentional Walk für Shohei Ohtani (On-base-Streak: 48 Spiele) einen RBI-Single hinter die dritte Base dunkte. Blake Treinen hielt die Mets in Schach, Alex Vesia schloss mit einem perfekten neunten Inning (3 Strikeouts, 10 Pitches) zum 2:1-Sieg ab.​​​​​​​​​​​​​​​​ _Mets Losing Streak: 7_
 
-Die Dodgers feierten dann im letzten Spiel der Serie am Jackie Robinson Day mit einem dominanten 8:2-Sieg den Sweep gegen die Mets. Shohei Ohtani lieferte einen makellosen Start ab: sechs Innings, zwei Hits, ein Earned Run, zehn Strikeouts. Den einzigen Makel ließ er im fünften Inning zu, nachdem ein Baserunning-Fehler der Mets eine größere Gefahr zunächst entschärft hatte. Offensiv trugen Hyeseong Kim, Teoscar Hernández, Dalton Rushing mit einem Grand Slam gegen Devin Williams sowie Kyle Tucker je einen Home Run bei. *Mets Losing Streak: 8*
+Die Dodgers feierten dann im letzten Spiel der Serie am Jackie Robinson Day mit einem dominanten 8:2-Sieg den Sweep gegen die Mets. Shohei Ohtani lieferte einen makellosen Start ab: sechs Innings, zwei Hits, ein Earned Run, zehn Strikeouts. Den einzigen Makel ließ er im fünften Inning zu, nachdem ein Baserunning-Fehler der Mets eine größere Gefahr zunächst entschärft hatte. Offensiv trugen Hyeseong Kim, Teoscar Hernández, Dalton Rushing mit einem Grand Slam gegen Devin Williams sowie Kyle Tucker je einen Home Run bei. _Mets Losing Streak: 8_
 
 ### New York Mets @ Chicago Cubs
 
-Dann ging es für die Mets nach Chicago, wo die Cubs die Mets zu einer dreiteiligen Heimserie in Wrigley Field empfingen. Und die Cubs demontierten die Mets gleich im ersten Spiel mit 12:4 und verlängerten deren Niederlagenserie auf neun Spiele. In diesem Zeitraum wurden die Mets mit 56:16 Runs outgescored. Chicago startete gleich explosiv. Ein 3R HR von Moisés Ballesteros machte aus einem 1:0 bereits ein 4:0 nach dem ersten Inning. Nico Hoerner ergänzte mit seinem dritten Saisonhomer und glänzte defensiv mit zwei spektakulären Plays. Ian Happ stellte im achten Inning mit einem Towering Shot auf 12:3. Edward Cabrera überstand sechs Innings mit acht Hits und drei Runs. *Mets Losing Streak: 9*
+Dann ging es für die Mets nach Chicago, wo die Cubs die Mets zu einer dreiteiligen Heimserie in Wrigley Field empfingen. Und die Cubs demontierten die Mets gleich im ersten Spiel mit 12:4 und verlängerten deren Niederlagenserie auf neun Spiele. In diesem Zeitraum wurden die Mets mit 56:16 Runs outgescored. Chicago startete gleich explosiv. Ein 3R HR von Moisés Ballesteros machte aus einem 1:0 bereits ein 4:0 nach dem ersten Inning. Nico Hoerner ergänzte mit seinem dritten Saisonhomer und glänzte defensiv mit zwei spektakulären Plays. Ian Happ stellte im achten Inning mit einem Towering Shot auf 12:3. Edward Cabrera überstand sechs Innings mit acht Hits und drei Runs. _Mets Losing Streak: 9_
 
-Am Samstag verloren die Mets dann auch ihr zehntes Spiel in Folge mit 2:4. Freddy Peralta und Jameson Taillon lieferten sich über weite Strecken ein ausgeglichenes Duell, ehe im sechsten Inning die Entscheidung fiel. Nach zwei Walks an Ian Happ und Seiya Suzuki brachte sie Carson Kelly mit einen Three-Run Home Run nach Hause. Im achten Inning verpassten die Mets trotz eines Throwing Errors von Nico Hoerner die Chance zur Aufholjagd, als Mark Vientos mit einem Double-Play die Rally beendete.​​​​​​​​​​​​​​​​ *Mets Losing Streak: 10*
+Am Samstag verloren die Mets dann auch ihr zehntes Spiel in Folge mit 2:4. Freddy Peralta und Jameson Taillon lieferten sich über weite Strecken ein ausgeglichenes Duell, ehe im sechsten Inning die Entscheidung fiel. Nach zwei Walks an Ian Happ und Seiya Suzuki brachte sie Carson Kelly mit einen Three-Run Home Run nach Hause. Im achten Inning verpassten die Mets trotz eines Throwing Errors von Nico Hoerner die Chance zur Aufholjagd, als Mark Vientos mit einem Double-Play die Rally beendete.​​​​​​​​​​​​​​​​ _Mets Losing Streak: 10_
 
-Und gestern sah es lange Zeit so aus, als könnten die Mets ihren Losing-Streak endlich beenden. Aber natürlich kam es anders und die Cubs feierten ihrererseits beim 2:1-Walkoff-Sieg nach zehn Innings ihren fünften Erfolg in Serie. Pete Crow-Armstrong erzielte den entscheidenden Run, nachdem Michael Conforto im neunten Inning mit einem First-Pitch-Double den Ausgleich gegen Closer Devin Williams erzwungen hatte. Nico Hoerner beendete die Partie mit einem Sacrifice Fly. *Mets Losing Streak: 11*
+Und gestern sah es lange Zeit so aus, als könnten die Mets ihren Losing-Streak endlich beenden. Aber natürlich kam es anders und die Cubs feierten ihrererseits beim 2:1-Walkoff-Sieg nach zehn Innings ihren fünften Erfolg in Serie. Pete Crow-Armstrong erzielte den entscheidenden Run, nachdem Michael Conforto im neunten Inning mit einem First-Pitch-Double den Ausgleich gegen Closer Devin Williams erzwungen hatte. Nico Hoerner beendete die Partie mit einem Sacrifice Fly. _Mets Losing Streak: 11_
 
 ## Around the League
 
@@ -86,25 +82,30 @@ Und gestern sah es lange Zeit so aus, als könnten die Mets ihren Losing-Streak 
 ## Giants Corner
 
 ### Standings
+
 - Gesamt: 9-13 (#22 in MLB) | L10: 5-5 | Streak: L1
 - GB: 6.5 | Home: 3-7 | Away: 6-6
 - Run Differential: -21 (#25 in MLB)
 
 ### Offense
+
 - AVG: .251 (#9 in MLB) | OPS: .658 (#26 in MLB)
 - HRs: 13 (#29 in MLB) | HR-Leader: Willy Adames (3)
 - SB: 5 (#30 in MLB)
 
 ### Pitching
+
 - ERA: 4.15 (#20 in MLB) | WHIP: 1.32 (#15 in MLB)
 - Strikeouts: 195 (#12 in MLB)
 
 ### Best Hitters – Last 7 Days
+
 - Heliot Ramos | 6/20 | 2 2B | 2 HR | 7 RBI
 - Casey Schmitt | 6/26 | 2 2B | 1 HR | 3 RBI
 - Matt Chapman | 8/27 | 1 2B | 5 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - Landen Roupp (16.4.) | 6.0 IP | 0 ER | 6 K | 2 BB | GS 74
 - Robbie Ray (14.4.) | 5.0 IP | 2 ER | 6 K | 4 BB | GS 57
 - Robbie Ray (19.4.) | 6.0 IP | 3 ER | 7 K | 1 BB | GS 52
@@ -122,6 +123,7 @@ Diese Woche geht es dann zu Hause gegen die Dodgers (15-5) und die Marlins (9-12
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. San Diego Padres | 13-2 | 0.867
 2. Los Angeles Dodgers | 11-4 | 0.733
 3. Cincinnati Reds | 10-5 | 0.667
@@ -129,6 +131,7 @@ Diese Woche geht es dann zu Hause gegen die Dodgers (15-5) und die Marlins (9-12
 5. Arizona Diamondbacks | 10-5 | 0.667
 
 ### Top Hitters – Last 7 Days
+
 1. Mike Trout (LAA) | OPS 1.427 | 5 HR | 9 RBI | 32 PA
 2. Jeremiah Jackson (BAL) | OPS 1.217 | 4 HR | 11 RBI | 27 PA
 3. Aaron Judge (NYY) | OPS 1.222 | 5 HR | 7 RBI | 30 PA
@@ -136,6 +139,7 @@ Diese Woche geht es dann zu Hause gegen die Dodgers (15-5) und die Marlins (9-12
 5. Trent Grisham (NYY) | OPS 0.971 | 3 HR | 10 RBI | 23 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. Ranger Suarez (BOS, 17.04.) | 8.0 IP | 0 ER | 4 K | 1 BB | GS 81
 2. Justin Wrobleski (LAD, 13.04.) | 8.0 IP | 0 ER | 2 K | 0 BB | GS 80
 3. Mick Abel (MIN, 14.04.) | 7.0 IP | 0 ER | 10 K | 0 BB | GS 79
@@ -148,5 +152,4 @@ Am Anfang der nächsten Woche stehen, wenn man nur nach der Summe der Siege geht
 
 Zum Wochenende spielen dann die San Diego Padres (15W) @ Arizona Diamondbacks (13W), Chicago Cubs (12W) @ Los Angeles Dodgers (15W) und die Mets zu Hause gegen die Rockies (werden sie dann ihren Losingstreak beenden können?) und die Yankees bei den Astros.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
-
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

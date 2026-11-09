@@ -2,8 +2,6 @@
 title: Woche 21 Recap
 date: 2026-08-17T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Die Brewers gewinnen die Serie gegen die Dodgers und bauen ihren Vorsprung in der NL Central aus, Kyle Schwarber schlägt beim Field of Dreams Game zwei Homers und die Twins setzen sich im Wildcard-Krimi gegen die Orioles durch."
 metaTitle: "MLB Wochenrückblick Woche 21 2026 – Brewers, Schwarber"
 metaDesc: "Die Brewers gewinnen die Spitzenserie bei den Dodgers, Schwarber trifft beim Field of Dreams Game zweimal und die Giants bleiben im Formtief – MLB Woche 21."

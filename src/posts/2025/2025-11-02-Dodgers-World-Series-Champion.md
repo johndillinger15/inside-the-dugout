@@ -2,9 +2,6 @@
 title: Die Dodgers sind World Series Champions
 date: 2025-11-02T07:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Die Los Angeles Dodgers sind World Series Champions 2025.
 author:
   name: Stefan Dillinger

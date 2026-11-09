@@ -2,15 +2,10 @@
 title: Ein Blick auf das Playoff-Rennen in der National League
 date: 2025-07-18T13:00:00Z
 layout: post
-tags:
-  - special
-  - National League
 description: Im All-Star Break werfe ich einen kurzen Blick auf das Playoff-Rennen in den beiden Ligen
 author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_nl.png
-syndication:
-  - https://www.instagram.com/p/DMP6fprKFfM/
 ---
 
 <img src='../../img/thumbnail_state_of_nl.png' style='display:none'>

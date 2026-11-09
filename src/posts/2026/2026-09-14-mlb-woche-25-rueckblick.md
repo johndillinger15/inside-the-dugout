@@ -2,15 +2,14 @@
 title: Woche 25 Recap
 date: 2026-09-14T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Padres und D-Backs liefern sich ein enges NL-Wildcard-Rennen, Guerrero trifft endlich daheim, Rafael Devers muss verletzt auf die 60-Tage-IL."
 metaTitle: "MLB Wochenrückblick MLB Woche 25 2026 – Guerrero, Wildcard"
 metaDesc: "Cleveland und Toronto liefern sich ein AL-Wildcard-Duell, Guerrero trifft endlich zu Hause und Devers landet verletzt auf der 60-Tage-IL. – MLB Woche 25."
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_26wk25.png
 ---
+
 <img src='../../img/thumbnail_26wk25.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 25 in der Major League Baseball. Jetzt beginnt die Zeit in der die Teams aus den Playoffs eliminiert werden und sich Playoff-Spots sichern. Sicher in den Playoffs sind aktuell die Brewers und Rays. Eliminiert sind die Nationals, Rockies und Giants in der NL und die Angels und Athletics in der AL.
@@ -67,12 +66,12 @@ Die Orioles schlugen die Guardians dann im dritten Spiel 9:5 und sicherten sich 
 
 Zum Ende der Serie sah das Wildcard-Rennen der American League nun so aus:
 
-| WC#   | Team                | W-L   | +/- .500 | WCGB |
-| ----- | ------------------- | ----- | -------- | ---- |
+| WC#  | Team                | W-L   | +/- .500 | WCGB |
+| ---- | ------------------- | ----- | -------- | ---- |
 | 3 🎟️ | Cleveland Guardians | 74-73 | +1       | —    |
-| 4     | Toronto Blue Jays   | 73-74 | -1       | 1    |
-| 5     | Texas Rangers       | 72-74 | -2       | 1.5  |
-| 6     | Baltimore Orioles   | 71-76 | -5       | 3    |
+| 4    | Toronto Blue Jays   | 73-74 | -1       | 1    |
+| 5    | Texas Rangers       | 72-74 | -2       | 1.5  |
+| 6    | Baltimore Orioles   | 71-76 | -5       | 3    |
 
 Die MVPs der Serie kamen beide von den Orioles. In der Offensive war es Coby Mayo mit einem OPS von 1.476, 3 HR und 4 RBI. Auf der Pitching-Seite war es Trevor Rogers (7.1 IP, 1 ER, 6 K, 0 BB, GS 68).
 
@@ -102,28 +101,33 @@ Rafael Devers wurde jetzt mit einer "Core Muscle Injury", die ihn wohl schon die
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 62-88 (#27 in MLB) | L10: 4-6 | Streak: L3
 - NL West: #4 | GB: 28.5 | WCGB: 19.5
 - Home: 36-39 | Away: 26-49
 - Run Differential: -77 (#26 in MLB) / -0.51 pG
 
 ### Offense
+
 - AVG: .247 (#11 in MLB) | OPS: .715 (#17 in MLB)
 - HRs: 172 (#16 in MLB) | HR-Leader: Rafael Devers (37)
 - RBIs: 611 (#23 in MLB) | BB: 416 (#30 in MLB)
 - Runs: 632 (#24 in MLB) / 4.21 pG | SB: 73 (#26 in MLB)
 
 ### Pitching
+
 - ERA: 4.38 (#23 in MLB) | WHIP: 1.36 (#24 in MLB)
 - Strikeouts: 1121 (#27 in MLB)
 - Runs Against: 709 / 4.73 pG
 
 ### Best Hitters – Last 7 Days
+
 - [**Bryce Eldridge**](https://www.fangraphs.com/players/bryce-eldridge/33390/stats) | 9/25 (0.360) | OPS .930 | 2 2B | 1 HR | 9 RBI
 - [**Rafael Devers**](https://www.fangraphs.com/players/rafael-devers/17350/stats) | 4/15 (0.267) | OPS 1.189 | 2 2B | 2 HR | 7 RBI
 - [**Shay Whitcomb**](https://www.fangraphs.com/players/shay-whitcomb/27789/stats) | 7/23 (0.304) | OPS .783 | 1 2B | 1 HR | 3 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - [**Logan Webb**](https://www.fangraphs.com/players/logan-webb/17995/stats) (7.9.) | 6.0 IP | 1 ER | 8 K | 2 BB | GS 68
 - [**Landen Roupp**](https://www.fangraphs.com/players/landen-roupp/30076/stats) (8.9.) | 6.0 IP | 0 ER | 2 K | 4 BB | GS 66
 - [**Yunior Marte**](https://www.fangraphs.com/players/yunior-marte/14416/stats) (11.9.) | 5.0 IP | 0 ER | 4 K | 2 BB | GS 63
@@ -131,6 +135,7 @@ Rafael Devers wurde jetzt mit einer "Core Muscle Injury", die ihn wohl schon die
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Los Angeles Dodgers | 10-5 | 0.667
 2. Toronto Blue Jays | 10-5 | 0.667
 3. Pittsburgh Pirates | 10-5 | 0.667
@@ -138,6 +143,7 @@ Rafael Devers wurde jetzt mit einer "Core Muscle Injury", die ihn wohl schon die
 5. Tampa Bay Rays | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. Colorado Rockies | 3-12 | 0.200
 2. Los Angeles Angels | 4-11 | 0.267
 3. Chicago White Sox | 5-10 | 0.333
@@ -145,6 +151,7 @@ Rafael Devers wurde jetzt mit einer "Core Muscle Injury", die ihn wohl schon die
 5. Baltimore Orioles | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. [**Jackson Merrill**](https://www.fangraphs.com/players/jackson-merrill/29490/stats) (SD) | OPS 1.521 | 3 HR | 12 RBI | 27 PA
 2. [**Jackson Chourio**](https://www.fangraphs.com/players/jackson-chourio/28806/stats) (MIL) | OPS 1.332 | 2 HR | 8 RBI | 29 PA
 3. [**Victor Mesa Jr.**](https://www.fangraphs.com/players/victor-mesa-jr./25999/stats) (TB) | OPS 1.914 | 3 HR | 6 RBI | 22 PA
@@ -152,6 +159,7 @@ Rafael Devers wurde jetzt mit einer "Core Muscle Injury", die ihn wohl schon die
 5. [**Riley Greene**](https://www.fangraphs.com/players/riley-greene/25976/stats) (DET) | OPS 1.306 | 2 HR | 9 RBI | 25 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. [**Jesús Luzardo**](https://www.fangraphs.com/players/jesús-luzardo/19959/stats) (PHI, vs ATL) | 9.0 IP | 0 ER | 12 K | 1 BB | GS 94
 2. [**Jacob deGrom**](https://www.fangraphs.com/players/jacob-degrom/10954/stats) (TEX, @ SEA) | 6.0 IP | 0 ER | 12 K | 0 BB | GS 82
 3. [**Jared Jones**](https://www.fangraphs.com/players/jared-jones/27863/stats) (PIT, @ CWS) | 7.0 IP | 0 ER | 8 K | 2 BB | GS 81
@@ -164,5 +172,4 @@ Die Woche beginnt nun mit dem Matchup der Braves bei den Cubs. Außerdem spielen
 
 Zum Wochenende spielen dann die Red Sox bei den Rays, die Brewers bei den Orioles, die Yankees bei den D-Backs und in der American League spielen die Blue Jays bei den Rangers um den Anschluss im Wildcard-Rennen. Die Guardians und White Sox werden sich am Anfang der Woche die Siege gegenseitig wegnehmen, daher könnte sich da eine Option auftun.
 
-
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

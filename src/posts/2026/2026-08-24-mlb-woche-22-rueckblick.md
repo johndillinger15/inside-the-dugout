@@ -2,15 +2,14 @@
 title: Woche 22 Recap
 date: 2026-08-24T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: "Pete Crow-Armstrongs Walk-off-Homerun für die Cubs, die Brewers bestehen den Braves-Härtetest und Jacob deGrom knackt die 2.000-Strikeout-Marke."
 metaTitle: "MLB Wochenrückblick MLB Woche 22 2026 – PCA, Brewers, deGrom"
 metaDesc: "Pete Crow-Armstrong trifft als Walk-off-Held, die Brewers gewinnen erneut gegen die Braves und Jacob deGrom knackt 2.000 Strikeouts – MLB Woche 22."
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_26wk22.png
 ---
+
 <img src='../../img/thumbnail_26wk22.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 22 in der Major League Baseball.
@@ -82,7 +81,7 @@ Die Brewers konnten die Prüfung in dieser Spitzenserie also bestehen und unters
 
 ## Giants Corner
 
-Nicht, dass es noch wichtig wäre, aber die Giants hatten wieder eine enttäuschende Woche und schlossen den Roadtrip mit [Serien in Cleveland](https://inside-the-dugout.de/shortposts/2026/08/21/0955-recap/) und [in Boston](https://inside-the-dugout.de/shortposts/2026/08/24/0955-recap/) mit einer Bilanz von 1-5 ab. 
+Nicht, dass es noch wichtig wäre, aber die Giants hatten wieder eine enttäuschende Woche und schlossen den Roadtrip mit [Serien in Cleveland](https://inside-the-dugout.de/shortposts/2026/08/21/0955-recap/) und [in Boston](https://inside-the-dugout.de/shortposts/2026/08/24/0955-recap/) mit einer Bilanz von 1-5 ab.
 
 Es gab aber auch ein paar Highlights. Zum Beispiel beförderten die Giants Matt Tugboat Wilkinson in die Big Leagues. Sie hatten ihn im Mai im Rahmen des Patrick-Bailey-Trades von den Guardians erhalten. In der AA dominierte Wilkinson, doch in der AAA bei Sacramento zeigte er in 10 Starts einen ERA von 5.15 und ein FIP von 5.38, bei nur 43 Strikeouts in 43.2 Innings und 17 Walks. In Cleveland gab er dann ein starkes MLB-Debüt mit zwei shutout Innings gegen das lefty-lastige Guardians-Lineup. In Boston pitchte er dann als Opener 3.2IP bei 7 Hits, 4 ER, 2 SO und 1 HR.
 
@@ -91,28 +90,33 @@ Außerdem sind Bryce Eldridges 14 Homeruns die Meisten eines Giants Spielers unt
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 52-78 (#27 in MLB) | L10: 2-8 | Streak: L4
 - NL West: #4 | GB: 27.5 | WCGB: 18.5
 - Home: 29-33 | Away: 23-45
 - Run Differential: -80 (#26 in MLB) / -0.62 pG
 
 ### Offense
+
 - AVG: .247 (#10 in MLB) | OPS: .709 (#21 in MLB)
 - HRs: 144 (#18 in MLB) | HR-Leader: Rafael Devers (26)
 - RBIs: 502 (#27 in MLB) | BB: 344 (#30 in MLB)
 - Runs: 523 (#27 in MLB) / 4.02 pG | SB: 57 (#27 in MLB)
 
 ### Pitching
+
 - ERA: 4.36 (#23 in MLB) | WHIP: 1.36 (#23 in MLB)
 - Strikeouts: 976 (#27 in MLB)
 - Runs Against: 603 / 4.64 pG
 
 ### Best Hitters – Last 7 Days
+
 - [**Willy Adames**](https://www.fangraphs.com/players/willy-adames/15986/stats) | 7/19 (0.368) | OPS 1.084 | 2 HR | 3 RBI
 - [**Bryce Eldridge**](https://www.fangraphs.com/players/bryce-eldridge/33390/stats) | 7/22 (0.318) | OPS .855 | 1 HR | 3 RBI
 - **Jonah Cox** | 4/16 (0.250) | OPS .688 | 1 HR | 1 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - [**Blade Tidwell**](https://www.fangraphs.com/players/blade-tidwell/31701/stats) (22.8.) | 5.2 IP | 0 ER | 7 K | 2 BB | GS 68
 - [**Adrian Houser**](https://www.fangraphs.com/players/adrian-houser/12718/stats) (19.8.) | 5.0 IP | 0 ER | 3 K | 2 BB | GS 60
 - [**Landen Roupp**](https://www.fangraphs.com/players/landen-roupp/30076/stats) (20.8.) | 5.1 IP | 3 ER | 2 K | 4 BB | GS 42
@@ -120,6 +124,7 @@ Außerdem sind Bryce Eldridges 14 Homeruns die Meisten eines Giants Spielers unt
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. San Diego Padres | 11-4 | 0.733
 2. Philadelphia Phillies | 11-4 | 0.733
 3. Los Angeles Dodgers | 11-4 | 0.733
@@ -127,6 +132,7 @@ Außerdem sind Bryce Eldridges 14 Homeruns die Meisten eines Giants Spielers unt
 5. New York Yankees | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. San Francisco Giants | 4-11 | 0.267
 2. Washington Nationals | 5-10 | 0.333
 3. Detroit Tigers | 5-10 | 0.333
@@ -134,6 +140,7 @@ Außerdem sind Bryce Eldridges 14 Homeruns die Meisten eines Giants Spielers unt
 5. Seattle Mariners | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. [**Fernando Tatis Jr.**](https://www.fangraphs.com/players/fernando-tatis-jr./19709/stats) (SD) | OPS 1.521 | 4 HR | 11 RBI | 27 PA
 2. [**Max Muncy**](https://www.fangraphs.com/players/max-muncy/13301/stats) (LAD) | OPS 1.076 | 4 HR | 11 RBI | 45 PA
 3. [**Zach Neto**](https://www.fangraphs.com/players/zach-neto/31347/stats) (LAA) | OPS 1.429 | 2 HR | 9 RBI | 28 PA
@@ -141,6 +148,7 @@ Außerdem sind Bryce Eldridges 14 Homeruns die Meisten eines Giants Spielers unt
 5. [**Jordan Walker**](https://www.fangraphs.com/players/jordan-walker/27475/stats) (STL) | OPS 1.065 | 3 HR | 8 RBI | 36 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. [**Jacob deGrom**](https://www.fangraphs.com/players/jacob-degrom/10954/stats) (TEX, vs WSH) | 6.0 IP | 0 ER | 10 K | 1 BB | GS 79
 2. **George Klassen** (LAA, @ HOU) | 7.0 IP | 0 ER | 7 K | 3 BB | GS 79
 3. [**Cade Cavalli**](https://www.fangraphs.com/players/cade-cavalli/27473/stats) (WSH, @ TEX) | 6.0 IP | 0 ER | 11 K | 1 BB | GS 76
@@ -153,4 +161,4 @@ Zum Anfang der Woche spielen die Dodgers bei den Braves und schließen so wieder
 
 Zum Wochenende spielen dann die Padres bei den Rays, die Rangers bei den Brewers und die Red Sox bei den Yankees. Interessant im Kontext der Wildcard wird die Serie der Mariners bei den Blue Jays. Ein Sweep könnte hier entscheidende Bewegungen verursachen.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

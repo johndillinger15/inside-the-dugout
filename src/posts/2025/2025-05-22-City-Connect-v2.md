@@ -2,14 +2,10 @@
 title: Die City Connect Jerseys 2025
 date: 2025-05-22T11:00:00Z
 layout: post
-tags:
-  - City Connect
 description: "Das Ranking zum 2025er Jahrgang der City Connect Uniforms v2.0"
 author:
   name: "Stefan Dillinger"
 thumb: thumbnail_25_city_connect.png
-syndication:
-  - https://www.instagram.com/p/DJ9FyBsKQOP
 ---
 
 <img src="../../img/thumbnail_25_city_connect.png" style="display:none"/>

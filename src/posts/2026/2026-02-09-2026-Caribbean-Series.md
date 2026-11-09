@@ -2,13 +2,12 @@
 title: 2026 Caribbean Series
 date: 2026-02-09T16:00:00Z
 layout: post
-tags:
-  - Caribbean-Series
 description: Die Caribbean Series ist der sportliche Höhepunkt des internationalen Winter-Baseballs, hier ein kleiner Rückblick.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26_caribbean_series.png
 ---
+
 <img src='../../img/thumbnail_26_caribbean_series.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, diese Woche möchte ich über die Caribbean Series berichten. Die Caribbean Series ist der sportliche Höhepunkt des internationalen Winter-Baseballs und vereint die besten Teams und Spieler der Winterligen aus der Karibik, bevor dann ab Ende Februar das Spring Training startet, im März das World Baseball Classic gespielt wird um am 25.3. die Reguläre Saison beginnt.
@@ -27,10 +26,11 @@ Teilnehmer der diesjähringen Caribbean Series waren die Leones del Escogido aus
 
 ### Gruppenphase
 
-Die Gruppenphase fand vom 1. - 5. Februar mit 2 Spielen pro Tag statt. Ich möchte euch nicht mit den einzelnen Spielzusammenfassungen und Ergebnissen der Vorrunde langweilen und versuche die Highlights etwas zusammenzufassen, denn die Vorrunde hatte es in sich. Die Leones del Escogido aus der DomRep reisten als Titelverteidiger an und spielten auch lange so. Starke Offense, viel Traffic auf den Bases und ein Lineup, das fast jeden Mist in Runs zu verwandeln schien. Die beiden mexikanischen Teams legten eine ziemlich unterschiedliche Vorrunde hin: Die Charros de Jalisco spielten konstant und verloren nur ihr erstes Spie, die Tomateros de Culiacán spielten streaky, aber mit dieser typisch mexikanischen „wir geben kein At‑Bat auf“-Mentalität. Panama mit den Federales de Chiriquí und Puerto Rico mit den Cangrejeros de Santurce waren offensiv jederzeit gefährlich, hatten aber immer wieder Issues im Bullpen und ließen einige Führungen liegen, die am Ende in der Tabelle richtig weh taten. Insgesamt war die Round Robin extrem ausgeglichen, es gab kaum Blowouts, viele One‑Run‑Games und ständig das Gefühl, dass ein einziges At‑Bat oder ein wilder Pitch die komplette Semifinal‑Paarung umschmeißen kann. Das Spiel der Federales de Chiriqui gegen die Leones del Escogido am Mittwoch war mit 31 Runs und einem 16:15 Sieg der Leones das Spiel mit den meisten Runs. 
+Die Gruppenphase fand vom 1. - 5. Februar mit 2 Spielen pro Tag statt. Ich möchte euch nicht mit den einzelnen Spielzusammenfassungen und Ergebnissen der Vorrunde langweilen und versuche die Highlights etwas zusammenzufassen, denn die Vorrunde hatte es in sich. Die Leones del Escogido aus der DomRep reisten als Titelverteidiger an und spielten auch lange so. Starke Offense, viel Traffic auf den Bases und ein Lineup, das fast jeden Mist in Runs zu verwandeln schien. Die beiden mexikanischen Teams legten eine ziemlich unterschiedliche Vorrunde hin: Die Charros de Jalisco spielten konstant und verloren nur ihr erstes Spie, die Tomateros de Culiacán spielten streaky, aber mit dieser typisch mexikanischen „wir geben kein At‑Bat auf“-Mentalität. Panama mit den Federales de Chiriquí und Puerto Rico mit den Cangrejeros de Santurce waren offensiv jederzeit gefährlich, hatten aber immer wieder Issues im Bullpen und ließen einige Führungen liegen, die am Ende in der Tabelle richtig weh taten. Insgesamt war die Round Robin extrem ausgeglichen, es gab kaum Blowouts, viele One‑Run‑Games und ständig das Gefühl, dass ein einziges At‑Bat oder ein wilder Pitch die komplette Semifinal‑Paarung umschmeißen kann. Das Spiel der Federales de Chiriqui gegen die Leones del Escogido am Mittwoch war mit 31 Runs und einem 16:15 Sieg der Leones das Spiel mit den meisten Runs.
 
-Am Ende setzte sich die Tabelle wie folgt zusammen: 
-1. Leones del Escogido 3-1 
+Am Ende setzte sich die Tabelle wie folgt zusammen:
+
+1. Leones del Escogido 3-1
 2. Charros de Jalisco 3-1
 3. Cangrejeros de Santurce 2-2
 4. Tomateros de Culiacán 2-2

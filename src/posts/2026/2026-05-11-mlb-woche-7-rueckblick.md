@@ -2,11 +2,6 @@
 title: Woche 7 Recap
 date: 2026-05-11T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
-  - "Patrick Bailey"
-  - "San Francisco Giants"
-  - "Atlanta Braves"
 description: "Patrick Bailey wechselt zu den Guardians, Logan Webb landet auf der IL, die Braves gewinnen das Top-Duell gegen die Dodgers, und Tampa Bay übernimmt die Tabellenspitze in der AL East."
 metaDesc: "Patrick Bailey wird zu Cleveland getradet, die Braves schlagen die Dodgers, Tarik Skubal landet auf der IL. Rays führen die AL East. – MLB Woche 7."
 author:

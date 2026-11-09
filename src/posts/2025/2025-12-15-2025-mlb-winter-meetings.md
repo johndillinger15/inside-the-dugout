@@ -2,30 +2,29 @@
 title: 2025 MLB Winter Meetings
 date: 2025-12-15T16:00:00Z
 layout: post
-tags:
-  - News
 description: Die neusten Nachrichten, Trades und Free Agent Signings.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_25_offseason_03.png
 ---
+
 <img src='../../img/thumbnail_25_offseason_03.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, die Winter Meetings der MLB dieses Jahr sind vorbei, und mit ihnen kamen auch einige Nachrichten, Trades und Free Agent Signings. Ich will euch die wichtigsten, in chronologischer Reihenfolge, zusammenfassen. Für jede News gibt es eine Unterüberschrift, so dass ihr die anschließende Gliederung nutzen könnt um nur das zu lesen, was euch interessiert (Ich hoffe das klappt auch).
 
 ### Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Rockies](#rockies)
 - [Athletics](#athletics)
 - [Kyle Schwarber](#kyle-schwarber)
-- [Edwin Díaz](#edwin-díaz)
+- [Edwin Diaz](#edwin-diaz)
 - [Pete Alonso](#pete-alonso)
 - [Mike Yastrzemski](#mike-yastrzemski)
 - [Robert Suarez](#robert-suarez)
 - [Tyler Rogers](#tyler-rogers)
 - [Jorge Polanco](#jorge-polanco)
 - [Merill Kelly](#merill-kelly)
-
 
 ### Rockies
 
@@ -49,11 +48,11 @@ Pete Alonso wechselte zu den Baltimore Orioles und bekommt einen Fünfjahresvert
 
 ### Mike Yastrzemski
 
-Die Atlanta Braves verpflichten den 35-jährigen Outfielder Mike Yastrzemski und statten ihn mit einem Zweijahresvertrag über 23 Millionen Dollar, inklusive Cluboption für 2028, aus. Insgesamt könnte das Gesamtpaket 26 Millionen umfassen. Yastrzemski, Enkel von Hall of Famer Carl Yastrzemski, kommt von San Francisco und Kansas City, wo er 2025 in 146 Spielen .233/.307/.421 mit 17 Home Runs und 46 RBIs schlug. Seine Karriere-Slash-Line liegt bei .238, wobei die verkürzte 2020-Saison mit .297 und einem Top-10-MVP-Finish sein bestes Jahr markiert. Die Vielseitigkeit des defensiv soliden Außenfeldspielers, der alle drei Outfield-Positionen abdeckt, verleiht Atlanta mehr Tiefe. 
+Die Atlanta Braves verpflichten den 35-jährigen Outfielder Mike Yastrzemski und statten ihn mit einem Zweijahresvertrag über 23 Millionen Dollar, inklusive Cluboption für 2028, aus. Insgesamt könnte das Gesamtpaket 26 Millionen umfassen. Yastrzemski, Enkel von Hall of Famer Carl Yastrzemski, kommt von San Francisco und Kansas City, wo er 2025 in 146 Spielen .233/.307/.421 mit 17 Home Runs und 46 RBIs schlug. Seine Karriere-Slash-Line liegt bei .238, wobei die verkürzte 2020-Saison mit .297 und einem Top-10-MVP-Finish sein bestes Jahr markiert. Die Vielseitigkeit des defensiv soliden Außenfeldspielers, der alle drei Outfield-Positionen abdeckt, verleiht Atlanta mehr Tiefe.
 
 ### Robert Suarez
 
-Die Atlanta Braves sichern sich außerdem Reliever Robert Suarez mit einem Dreijahresvertrag über 45 Millionen Dollar. Der 35-jährige Rechtshänder kommt nach seiner besten Saison, in der er 2025 einen 2.97 ERA, 2.88 FIP sowie karrierebeste 5.9 Prozent Walk Rate bei soliden 28 Prozent Strikeouts vorlegte. Seine elite Fastball mit durchschnittlich 99 mph macht ihn zu einer guten Option für die späten Innings. Atlanta adressiert damit gezielt die Schwäche im Bullpen und formt mit Suarez und Iglesias ein formidables Backend. 
+Die Atlanta Braves sichern sich außerdem Reliever Robert Suarez mit einem Dreijahresvertrag über 45 Millionen Dollar. Der 35-jährige Rechtshänder kommt nach seiner besten Saison, in der er 2025 einen 2.97 ERA, 2.88 FIP sowie karrierebeste 5.9 Prozent Walk Rate bei soliden 28 Prozent Strikeouts vorlegte. Seine elite Fastball mit durchschnittlich 99 mph macht ihn zu einer guten Option für die späten Innings. Atlanta adressiert damit gezielt die Schwäche im Bullpen und formt mit Suarez und Iglesias ein formidables Backend.
 
 ### Tyler Rogers
 
@@ -61,7 +60,7 @@ Tyler Rogers wechselt zu den Toronto Blue Jays, viele Giants-Fans, inklusive mir
 
 ### Jorge Polanco
 
-Die New York Mets verstärkten sich dann doch noch und verpflichteten Infielder Jorge Polanco mit einem Zweijahresvertrag über 40 Millionen Dollar. Der 32-jährige Switch-Hitter ersetzt Pete Alonso an First Base, nachdem dieser zu Baltimore (5 Jahre, 155 Millionen, siehe oben) wechselte. Polanco, ursprünglich Shortstop bei Minnesota und zuletzt hauptsächlich Second Baseman/DH in Seattle, wird erstmals MLB-Innings an der ersten Base sammeln. Seine Offensive überzeugt, denn 2025 schlug er .265/.343/.478 mit 26 Home Runs und .821 OPS in 138 Spielen. 
+Die New York Mets verstärkten sich dann doch noch und verpflichteten Infielder Jorge Polanco mit einem Zweijahresvertrag über 40 Millionen Dollar. Der 32-jährige Switch-Hitter ersetzt Pete Alonso an First Base, nachdem dieser zu Baltimore (5 Jahre, 155 Millionen, siehe oben) wechselte. Polanco, ursprünglich Shortstop bei Minnesota und zuletzt hauptsächlich Second Baseman/DH in Seattle, wird erstmals MLB-Innings an der ersten Base sammeln. Seine Offensive überzeugt, denn 2025 schlug er .265/.343/.478 mit 26 Home Runs und .821 OPS in 138 Spielen.
 
 ### Merill Kelly
 

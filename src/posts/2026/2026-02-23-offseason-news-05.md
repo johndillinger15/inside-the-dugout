@@ -2,8 +2,6 @@
 title: "Offeason News #5"
 date: 2026-02-23T19:00:00Z
 layout: post
-tags:
-  - News
 description: Die Detroit Tigers verstärken ihr Pitching und das Spring Training ist gestartet.
 author:
   name: Stefan Dillinger

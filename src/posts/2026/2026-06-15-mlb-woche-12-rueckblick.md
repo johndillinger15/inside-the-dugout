@@ -2,8 +2,6 @@
 title: Woche 12 Recap
 date: 2026-06-15T16:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: White Sox schlagen die Dodgers und Braves, Eldridge mit Walk-Off Grand-Slam, Misiorowski mit Game Score 100.
 metaTitle: MLB Wochenrückblick Woche 12 2026 – White Sox vs. Dodgers, Eldridge, Misiorowski
 metaDesc: Die White Sox besiegen die Dodgers in der Serie, Bryce Eldridge schlägt einen historischen Walk-Off Grand-Slam. Misiorowski dominiert mit GS 100. – MLB Woche 12."

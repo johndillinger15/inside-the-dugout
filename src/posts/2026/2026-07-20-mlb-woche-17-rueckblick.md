@@ -2,8 +2,6 @@
 title: Woche 17 Recap
 date: 2026-07-20T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Boston gewinnt 13 Spiele in Serie, Aaron Judge fällt doch länger aus, Milwaukee sweepte Miami und die Giants verlieren nach gutem Start ihre erste Serie nach der Pause.
 metaTitle: MLB Wochenrückblick MLB Woche 17 2026 – Red Sox, Judge, Brewers
 metaDesc: Boston gewinnt 13 Spiele in Serie. Aaron Judge landet auf der 60-Day-IL und Milwaukee sweepte Miami. Die Giants verlieren ihre Serie in Seattle – MLB Woche 17.
@@ -11,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk17.png
 ---
+
 <img src='../../img/thumbnail_26wk17.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zurück aus dem All-Star Break zum Rückblick auf Woche 17 in der Major League Baseball.
@@ -74,34 +73,40 @@ Diese Woche stehen nun die Serien gegen die Royals und Angels an. Wenn man hier 
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 42-57 (#25 in MLB) | L10: 5-5 | Streak: L2
 - NL West: #4 | GB: 20.5 | WCGB: 9.5
 - Home: 22-25 | Away: 20-32
 - Run Differential: -61 (#25 in MLB) / -0.62 pG
 
 ### Offense
+
 - AVG: .255 (#4 in MLB) | OPS: .727 (#14 in MLB)
 - HRs: 111 (#19 in MLB) | HR-Leader: Rafael Devers (20)
 - RBIs: 392 (#26 in MLB)
 - Runs: 408 (#26 in MLB) / 4.12 pG | SB: 38 (#27 in MLB)
 
 ### Pitching
+
 - ERA: 4.40 (#22 in MLB) | WHIP: 1.35 (#21 in MLB)
 - Strikeouts: 751 (#27 in MLB)
 - Runs Against: 469 / 4.74 pG
 
 ### Best Hitters – Last 7 Days
+
 - [**Bryce Eldridge**](https://www.fangraphs.com/players/bryce-eldridge/33390/stats) | 4/12 (0.333) | OPS 1.262 | 2 HR | 3 RBI
 - [**Willy Adames**](https://www.fangraphs.com/players/willy-adames/15986/stats) | 2/12 (0.167) | OPS .897 | 2 HR | 5 RBI
 - [**Heliot Ramos**](https://www.fangraphs.com/players/heliot-ramos/22515/stats) | 4/13 (0.308) | OPS .615 | 1 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - [**Landen Roupp**](https://www.fangraphs.com/players/landen-roupp/30076/stats) (17.7.) | 7.0 IP | 0 ER | 2 K | 3 BB | GS 72
 - [**Logan Webb**](https://www.fangraphs.com/players/logan-webb/17995/stats) (18.7.) | 6.2 IP | 3 ER | 5 K | 1 BB | GS 62
 
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Boston Red Sox | 13-2 | 0.867
 2. Detroit Tigers | 11-4 | 0.733
 3. Chicago Cubs | 10-5 | 0.667
@@ -109,6 +114,7 @@ Diese Woche stehen nun die Serien gegen die Royals und Angels an. Wenn man hier 
 5. Milwaukee Brewers | 9-6 | 0.600
 
 ### Worst 5 Teams – Last 15 Games
+
 1. Athletics | 2-13 | 0.133
 2. Los Angeles Angels | 3-12 | 0.200
 3. Houston Astros | 5-10 | 0.333
@@ -116,6 +122,7 @@ Diese Woche stehen nun die Serien gegen die Royals und Angels an. Wenn man hier 
 5. San Diego Padres | 6-9 | 0.400
 
 ### Top Hitters – Last 7 Days
+
 1. [**Drake Baldwin**](https://www.fangraphs.com/players/drake-baldwin/31539/stats) (ATL) | OPS 1.954 | 3 HR | 8 RBI | 16 PA
 2. [**Wilyer Abreu**](https://www.fangraphs.com/players/wilyer-abreu/23772/stats) (BOS) | OPS 1.685 | 4 HR | 6 RBI | 17 PA
 3. [**Michael Harris II**](https://www.fangraphs.com/players/michael-harris-ii/25931/stats) (ATL) | OPS 1.108 | 1 HR | 5 RBI | 16 PA
@@ -123,6 +130,7 @@ Diese Woche stehen nun die Serien gegen die Royals und Angels an. Wenn man hier 
 5. [**Jackson Merrill**](https://www.fangraphs.com/players/jackson-merrill/29490/stats) (SD) | OPS 0.933 | 2 HR | 4 RBI | 15 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. [**Chris Sale**](https://www.fangraphs.com/players/chris-sale/10603/stats) (ATL, vs TEX) | 7.0 IP | 0 ER | 6 K | 0 BB | GS 79
 2. [**Yoshinobu Yamamoto**](https://www.fangraphs.com/players/yoshinobu-yamamoto/33825/stats) (LAD, @ NYY) | 9.0 IP | 2 ER | 7 K | 0 BB | GS 78
 3. [**Nolan McLean**](https://www.fangraphs.com/players/nolan-mclean/33703/stats) (NYM, @ PHI) | 6.0 IP | 0 ER | 10 K | 2 BB | GS 76
@@ -135,5 +143,4 @@ Zu Beginn der Woche spielen die Dodgers bei den Phillies, mal sehen, wie gut die
 
 Zum Wochenende empfangen die Phillies dann nach den Dodgers die Yankees. Da haben sich die Spielplanmacher einen netten Stretch an Spielen überlegt. Erst Yankees-Dodgers, dann Dodgers-Phillies und nun Yankees-Phillies. Evtl bastle ich für nächste Woche da mal eine 3er Tabelle ... Die Cubs müssen bei den Pirates ran und die Guardians bei den Rays. Im Wildcard-Rennen spielen die Padres gegen die Marlins, die Marlins liegen aktuell 2.5 Spiele vor den Padres und halten die letzte Wildcard. Außerdem spielen die D-Backs bei den Nationals und die Mariners bei den Rangers.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
-
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

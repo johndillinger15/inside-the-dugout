@@ -2,11 +2,6 @@
 title: "Boston Red Sox 2026: Siegesserie als Wendepunkt einer wechselhaften Saison"
 date: 2026-07-23T18:00:00+02:00
 layout: post
-tags:
-  - Gastbeitrag
-  - Special
-  - "Team Highlight"
-  - "Boston Red Sox"
 description: "Die Boston Red Sox sind nach 15 Siegen in Folge zurück im Playoff-Rennen, Willson Contreras in MVP-Form, dominanter Bullpen um Chapman, enges Division Race vor der Trade Deadline."
 metaTitle: "The State of the Boston Red Sox: 15-Siege-Serie, Contreras dominiert"
 metaDesc: "Boston Red Sox gewinnen 15 Spiele in Folge und kämpfen sich zurück ins Playoff-Rennen. Contreras liefert eine MVP-reife Saison, der Bullpen dominiert."

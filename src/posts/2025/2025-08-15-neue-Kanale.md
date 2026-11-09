@@ -2,8 +2,6 @@
 title: Neue Kanäle
 date: 2025-08-15T12:00:00Z
 layout: post
-tags:
-  - Housekeeping
 description: Newsletter und WhatsApp Channel
 author:
   name: Stefan Dillinger

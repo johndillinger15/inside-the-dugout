@@ -2,12 +2,6 @@
 title: Woche 6 Recap
 date: 2026-05-04T16:00:00Z
 layout: post
-tags:
-  - Wochenrückblick
-  - "Atlanta Braves"
-  - "Pittsburgh Pirates"
-  - "Chicago Cubs"
-  - "Philadelphia Phillies"
 description: "Die Braves dominieren die NL East mit 25-10 und +81 Run Differential, die Pirates sweepen die Reds, Philadelphia feuert Manager Thomson und die Giants liefern einen desaströsen 0-6-Roadtrip."
 metaTitle: "MLB Wochenrückblick KW19 2026 – Braves, Pirates Sweep, Giants"
 metaDesc: "Die Braves starten 25-10 – ihr bester Saisonbeginn seit 1892. Pittsburgh sweept Cincinnati, die Phillies feuern Thomson. Die Giants verlieren alle sechs Auswärtsspiele. – MLB Woche 6."

@@ -2,10 +2,6 @@
 title: Ein Jahr Inside The Dugout
 date: 2026-05-02T18:00:00Z
 layout: post
-tags:
-  - Meta
-  - Inside The Dugout
-  - Housekeeping
 metaTitle: "Ein Jahr Inside The Dugout – 62 Artikel, WBC, Newsletter"
 metaDesc: "Inside The Dugout wird ein Jahr alt: 62 Artikel, 94 Shortposts und volle WBC-2026-Coverage. Neu: Morning Briefing, Fantasy League. – Ein Jahr ITD."
 description: "Rückblick auf zwölf Monate Inside The Dugout mit 62 Artikeln, 94 Shortposts, WBC-Coverage, neuen Formaten wie Morning Briefing und der ersten Fantasy Baseball Liga."

@@ -2,12 +2,6 @@
 title: Woche 11 Recap
 date: 2026-06-08T16:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
-  - "San Francisco Giants"
-  - "Atlanta Braves"
-  - "Cleveland Guardians"
-  - "Matt Chapman"
 description: Giants-Offense explodiert auf dem Roadtrip, Braves sweepen die Pirates, Guardians demontieren die Yankees und Aaron Judge fällt 4-6 Wochen aus.
 metaTitle: MLB Woche 11 2026 – Giants Roadtrip, Braves Sweep, Judge verletzt
 metaDesc: Die Giants beenden ihren Roadtrip 5-5 mit 68 Runs. Atlanta sweept Pittsburgh, Cleveland bezwingt New York. Aaron Judge fällt mit Stressfraktur aus – MLB Woche 11.

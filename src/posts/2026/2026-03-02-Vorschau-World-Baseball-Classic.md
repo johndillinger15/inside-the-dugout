@@ -2,8 +2,6 @@
 title: Vorschau auf das 2026 World Baseball Classic
 date: 2026-03-02T16:00:00Z
 layout: post
-tags:
-  - WBC
 description: Eine kurze Vorschau auf das World Baseball Classic.
 author:
   name: Stefan Dillinger

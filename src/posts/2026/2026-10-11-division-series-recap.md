@@ -2,8 +2,6 @@
 title: Division Series Recap 2026
 date: 2026-10-11T09:00:00Z
 layout: post
-tags:
-  - Playoffs
 description: Der ausführliche Rückblick auf die Division Series der Playoffs in der MLB
 author:
   name: Stefan Dillinger

@@ -2,8 +2,6 @@
 title: Baseball vor 100 Jahren - Die MLB Saison 1925
 date: 2025-12-29T16:00:00Z
 layout: post
-tags:
-  - Geschichte
 description: Wie wurde Baseball vor 100 Jahren gespielt, wie verlief die Saison 1925 und wer wurde Champion?
 author:
   name: Stefan Dillinger

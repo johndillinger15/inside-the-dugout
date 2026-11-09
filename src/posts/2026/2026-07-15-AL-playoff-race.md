@@ -2,9 +2,6 @@
 title: Ein Blick auf das Playoff-Rennen in der American League
 date: 2026-07-15T18:00:00+02:00
 layout: post
-tags:
-  - special
-  - American League
 description: "Die Rays führen knapp vor den Yankees, White Sox und Guardians ringen um die AL Central, und in der West liegen drei Teams eng beieinander."
 metaTitle: Ein Blick auf das Playoff-Rennen in der American League
 metaDesc: "Zum All-Star Break liegt die AL enger zusammen als je zuvor. Rays knapp vor Yankees, White Sox gegen Guardians, und in der West kämpfen drei Teams um die Spitze."
@@ -12,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_state_of_al.png
 ---
+
 <img src='../../img/thumbnail_state_of_al.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum All-Star Break. Die spielfreie Zeit nutze ich, um einen kurzen Überblick über das Playoffrennen zu geben.

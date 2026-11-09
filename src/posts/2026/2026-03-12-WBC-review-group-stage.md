@@ -2,8 +2,6 @@
 title: World Baseball Classic - Rückblick Gruppenphase
 date: 2026-03-12T16:00:00Z
 layout: post
-tags:
-  - WBC
 description: Kurze Zusammenfassung der Gruppenphase der WBC.
 author:
   name: Stefan Dillinger

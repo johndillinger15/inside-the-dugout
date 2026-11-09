@@ -2,9 +2,6 @@
 title: Rückblick auf Game 1 & 2 der World Series
 date: 2025-10-26T16:00:00Z
 layout: post
-tags:
-  - Playoffs
-  - World Series
 description: Heute ist Travel-Day in der World Series also möchte ich die Zeit nutzen und auf die beiden Spiele in Toronto zurückblicken.
 author:
   name: Stefan Dillinger

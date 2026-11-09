@@ -2,8 +2,6 @@
 title: Woche 16 Recap
 date: 2026-07-13T18:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
 description: Die Rangers übernehmen vor dem All-Star-Break die Führung in der AL-West, Yankees und Rays liefern sich einen intensiven Split, und die Giants entgehen dem Tabellenkeller.
 metaTitle: MLB Wochenrückblick Woche 16 2026 – Rangers vorn, Rays-Split vs Yankees
 metaDesc: Die Rangers übernehmen vor dem All-Star-Break die AL-West-Führung, Yankees und Rays teilen sich ihre Serie, die Giants schlagen die Rockies. – MLB Woche 16.

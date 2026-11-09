@@ -2,13 +2,12 @@
 title: "Offeason News #4"
 date: 2026-02-02T16:00:00Z
 layout: post
-tags:
-  - News
 description: Bald gibt es wieder "echte" Baseballaktion, aber heute will ich die News der letzten Wochen zusammenfassen.
 author:
   name: Stefan Dillinger
 thumb: thumbnail_26_offseason_news_4.png
 ---
+
 <img src='../../img/thumbnail_26_offseason_news_4.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, das Newsgeschehen kühlt spürbar ab, denn die meisten Free Agents haben schon neue Verträge unterschrieben. Dennoch gab es seit dem letzten Update vor 2 Wochen ein paar neue News. Es dauert nicht mehr lange, bis Baseball wieder losgeht. Pitcher's and Cather's Report ist zwischen dem 10. und 13. Februar, also nur noch eine Woche entfernt. Die Cactus und Grapefruit Leagues starten am 20. Februar und das WBC startet am 4. März, also in gut einem Monat. Baseball ist also wirklich "right around the corner".
@@ -27,9 +26,9 @@ Die New York Yankees einigten sich mit Cody Bellinger auf einen Fünfjahresvertr
 
 ### New York Mets
 
-Die New York Mets akquirierten Right-Hander Freddy Peralta und Tobias Myers von den Brewers für die Prospects Jett Williams und Brandon Sproat. Peralta verfügt über einen Career-ERA von 3.59 in 931.0 Innings, warf in den letzten drei Saisons jeweils über 165 Innings und produzierte 2025 einen exzellente 2.70 ERA. Myers bringt einen 3.15 ERA in 188.2 MLB-Innings mit. 
+Die New York Mets akquirierten Right-Hander Freddy Peralta und Tobias Myers von den Brewers für die Prospects Jett Williams und Brandon Sproat. Peralta verfügt über einen Career-ERA von 3.59 in 931.0 Innings, warf in den letzten drei Saisons jeweils über 165 Innings und produzierte 2025 einen exzellente 2.70 ERA. Myers bringt einen 3.15 ERA in 188.2 MLB-Innings mit.
 
-### José Ramirez 
+### José Ramirez
 
 José Ramírez unterzeichnete eine siebenjährige Vertragsverlängerung über 175 Millionen Dollar bis 2032 mit den Cleveland Guardians. Der Deal ergänzt seinen bestehenden Vertrag um vier Jahre und 106 Millionen Dollar, wovon 70 Millionen aufgeschoben (deferred) werden. In der Saison 2025 produzierte der Switch-Hitter 30 Home Runs, 85 RBIs, 44 Stolen Bases und eine Slash Line von .283/.360/.503 in 593 At-Bats. Der 33-jährige Dominikaner ist der einzige MLB-Spieler mit 150 Home Runs und 150 Stolen Bases in den letzten fünf Saisons. In seiner 13-jährigen Karriere akkumulierte Ramírez 285 Home Runs, 949 RBIs, 287 Stolen Bases, 57.7 fWAR und .279/.353/.504 in 5.970 At-Bats. Die Stadt Cleveland ehrte ihn 2025 mit der José Ramírez Way, eine Auszeichnung, die nur Larry Doby unter Cleveland-Baseballspielern erhielt.​​​​​​​​​​​​​​​​
 

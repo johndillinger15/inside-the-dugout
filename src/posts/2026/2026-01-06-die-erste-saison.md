@@ -2,8 +2,6 @@
 title: Die erste Saison Inside The Dugout
 date: 2026-01-06T07:00:00Z
 layout: post
-tags:
-  - Housekeeping
 description: Ein kleiner Rückblick auf die erste Saison und geplante Änderungen.
 author:
   name: Stefan Dillinger

@@ -2,8 +2,6 @@
 title: Die City Connect Jerseys 2026
 date: 2026-04-10T20:00:00Z
 layout: post
-tags:
-  - City Connect
 description: Das Ranking zum 2026er Jahrgang der City Connect Uniforms v2.0
 author:
   name: Stefan Dillinger

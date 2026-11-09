@@ -2,12 +2,6 @@
 title: Woche 10 Recap
 date: 2026-06-01T16:00:00+02:00
 layout: post
-tags:
-  - Wochenrückblick
-  - "Milwaukee Brewers"
-  - "Los Angeles Dodgers"
-  - "Jacob Misiorowski"
-  - "San Francisco Giants"
 description: "Mariners dominieren mit 2 Sweeps, Misiorowski historische Miz-Show, Dodgers bauen NL-West-Führung aus, Giants-Blowout als möglicher Turning Point?"
 metaTitle: "MLB Wochenrückblick Woche 10 2026 – Misiorowski, Mariners, Dodgers"
 metaDesc: "Jacob Misiorowski setzt Pitch-Tracking-Rekord, die Mariners dominieren mit zwei Sweeps, die Dodgers führen die NL West mit 5,5 Spielen an – MLB Woche 10."
@@ -15,6 +9,7 @@ author:
   name: Stefan Dillinger
 thumb: thumbnail_26wk10.png
 ---
+
 <img src='../../img/thumbnail_26wk10.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, willkommen zum Rückblick auf Woche 10 in der Major League Baseball. Anfang letzter Woche gab es in 7 der 15 Serien einen Sweep. Mariners, Phillies, D-Backs, Dodgers, Yankees, Brewers, Orioles konnten ihre Serien per Sweep gewinnen. Bei den Wochenendserien endeten dann 5 Serien mit einem Sweep, die Rangers, Mariners, White Sox, Pirates und Mets konnten ihre Serien per Sweep gewinnen. Ihr seht schon, dass die Mariners das einzige Team mit 2 Sweeps ist und konsequenterweise haben sie auch den längsten Winning Streak der Liga mit 6 Spielen.
@@ -91,27 +86,32 @@ Nach dem Blowout-Sieg gegen die Rockies gestern geht es nun heute in Milwaukee m
 ## Giants Stats
 
 ### Standings
+
 - Gesamt: 23-36 (#26 in MLB) | L10: 3-7 | Streak: W1
 - NL West: #4 | GB: 15.0 | WCGB: 8.5
 - Home: 12-16 | Away: 11-20
 - Run Differential: -48 (#27 in MLB) / -0.81 pG
 
 ### Offense
+
 - AVG: .254 (#4 in MLB) | OPS: .705 (#14 in MLB)
 - HRs: 53 (#23 in MLB) | HR-Leader: Casey Schmitt (12)
 - Runs: 232 (#25 in MLB) / 3.93 pG | SB: 15 (#30 in MLB)
 
 ### Pitching
+
 - ERA: 4.33 (#20 in MLB) | WHIP: 1.37 (#22 in MLB)
 - Strikeouts: 468 (#25 in MLB)
 - Runs Against: 280 / 4.75 pG
 
 ### Best Hitters – Last 7 Days
+
 - Willy Adames | 8/25 (0.320) | OPS 1.077 | 2 2B | 1 3B | 2 HR | 6 RBI
 - Casey Schmitt | 8/28 (0.286) | OPS .786 | 3 2B | 1 HR | 4 RBI
 - Drew Gilbert | 5/16 (0.312) | OPS 1.062 | 2 2B | 1 3B | 1 HR | 3 RBI
 
 ### Best Pitchers – Last 7 Days
+
 - Trevor McDonald (27.5.) | 6.1 IP | 2 ER | 6 K | 2 BB | GS 55
 - Tyler Mahle (26.5.) | 5.0 IP | 3 ER | 3 K | 3 BB | GS 49
 - Landen Roupp (25.5.) | 5.0 IP | 2 ER | 7 K | 1 BB | GS 47
@@ -119,6 +119,7 @@ Nach dem Blowout-Sieg gegen die Rockies gestern geht es nun heute in Milwaukee m
 ## Stats Corner
 
 ### Top 5 Teams – Last 15 Games
+
 1. Los Angeles Dodgers | 12-3 | 0.800
 2. Milwaukee Brewers | 11-4 | 0.733
 3. Arizona Diamondbacks | 10-5 | 0.667
@@ -126,6 +127,7 @@ Nach dem Blowout-Sieg gegen die Rockies gestern geht es nun heute in Milwaukee m
 5. Cleveland Guardians | 10-5 | 0.667
 
 ### Worst 5 Teams – Last 15 Games
+
 1. Detroit Tigers | 2-13 | 0.133
 2. Chicago Cubs | 3-12 | 0.200
 3. Kansas City Royals | 3-12 | 0.200
@@ -133,6 +135,7 @@ Nach dem Blowout-Sieg gegen die Rockies gestern geht es nun heute in Milwaukee m
 5. Colorado Rockies | 5-10 | 0.333
 
 ### Top Hitters – Last 7 Days
+
 1. Ronald Acuña Jr. (ATL) | OPS 1.565 | 5 HR | 10 RBI | 29 PA
 2. Yordan Alvarez (HOU) | OPS 1.347 | 5 HR | 8 RBI | 33 PA
 3. Joc Pederson (TEX) | OPS 1.141 | 5 HR | 7 RBI | 30 PA
@@ -140,6 +143,7 @@ Nach dem Blowout-Sieg gegen die Rockies gestern geht es nun heute in Milwaukee m
 5. Jarren Duran (BOS) | OPS 1.241 | 4 HR | 8 RBI | 31 PA
 
 ### Top Pitchers – Last 7 Days
+
 1. Bryan Woo (SEA, 30.05.) | 7.0 IP | 0 ER | 9 K | 0 BB | GS 82
 2. Jacob Misiorowski (MIL, 25.05.) | 7.0 IP | 1 ER | 12 K | 1 BB | GS 80
 3. Justin Wrobleski (LAD, 29.05.) | 7.0 IP | 1 ER | 9 K | 0 BB | GS 80
@@ -152,4 +156,4 @@ Anfang nächster Woche Spielen die Guardians bei den Yankees, die Guardians steh
 
 Zum Wochenende spielen dann die Pirates bei den Braves, die Red Sox bei den Yankees und die White Sox bei den Phillies.
 
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_

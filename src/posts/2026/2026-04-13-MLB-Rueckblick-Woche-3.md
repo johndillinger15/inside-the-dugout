@@ -2,8 +2,6 @@
 title: Woche 3 Recap
 date: 2026-04-13T18:00:00Z
 layout: post
-tags:
-  - Wochenrückblick
 metaTitle: "MLB Wochenrückblick KW15 2026 – Brawl Anaheim, Mariners, Griffin-Deal"
 metaDesc: "Brawl zwischen Soler und López in Anaheim, Mariners sweepen die Astros nach 1-7-Slump, Pirates binden Griffin mit 140 Mio. $ – MLB Woche 3."
 description: "Brawl in Anaheim, Braves als einziges Team ohne Series Loss, Mariners brechen den Slump mit einem Astros-Sweep, Griffin unterschreibt Mega-Deal mit 19."
@@ -79,7 +77,7 @@ Die Serie wird komischerweise erst am Montag abgeschlossen, ich werde den Artike
 
 --- Update Dienstag 14.04. ---
 
-Die Mariners konnten dann die Serie erfolgreich abschließen, mit 6:2 gewinnen und die Astros sweepen. George Kirby dominierte über 7,2 Innings, ließ nur zwei Runs zu und arbeitete Houston mit Slidern konsequent in den Boden. Eine Performance, die eher an Logan Webb oder Marcus Stroman erinnerte als an den bekannten Fly-Ball-Pitcher. Josh Naylor schlug zwei Home Runs, darunter einen Two-Run-Shot im dritten Inning. Luke Raley steuerte drei Line Drives bei, während Brendan Donovan, Cal Raleigh und Julio Rodríguez je zwei Hits sammelten. Houston, durch Verletzungen dezimiert, steht jetzt bei einer Bilanz von 6-11 und reiten einen Losingstreak von 8 Spielen. 
+Die Mariners konnten dann die Serie erfolgreich abschließen, mit 6:2 gewinnen und die Astros sweepen. George Kirby dominierte über 7,2 Innings, ließ nur zwei Runs zu und arbeitete Houston mit Slidern konsequent in den Boden. Eine Performance, die eher an Logan Webb oder Marcus Stroman erinnerte als an den bekannten Fly-Ball-Pitcher. Josh Naylor schlug zwei Home Runs, darunter einen Two-Run-Shot im dritten Inning. Luke Raley steuerte drei Line Drives bei, während Brendan Donovan, Cal Raleigh und Julio Rodríguez je zwei Hits sammelten. Houston, durch Verletzungen dezimiert, steht jetzt bei einer Bilanz von 6-11 und reiten einen Losingstreak von 8 Spielen.
 
 ## Around the League
 

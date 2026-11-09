@@ -2,10 +2,6 @@
 title: The State of the San Francisco Giants
 date: 2026-07-09T23:00:00+02:00
 layout: post
-tags:
-  - Special
-  - "Team Highlight"
-  - "San Francisco Giants"
 description: "Die Halbzeitbilanz der Giants: Bei 38-54 ist die Saison gelaufen, doch Eldridge, Schmitt und Arraez machen Hoffnung, das Pitching bleibt die große Schwachstelle."
 metaTitle: Giants Halbzeitbilanz 2026 – Pitching-Krise, Eldridge
 metaDesc: Die Giants stehen bei 38-54, die Playoffs sind außer Reichweite. Eldridge, Schmitt und Arraez überzeugen, Pitching bleibt Schwachstelle – Halbzeitbilanz 2026.

@@ -122,6 +122,7 @@ module.exports = (config) => {
       '<a href="/spieler/',
     );
   });
+  config.addTransform("linkPlayers", require("./lib/transforms/linkPlayers"));
   config.addTransform("minifyHtml", require("./lib/transforms/minifyHtml"));
 
   // Wordcount

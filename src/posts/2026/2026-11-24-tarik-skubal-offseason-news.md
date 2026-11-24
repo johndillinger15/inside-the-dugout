@@ -1,12 +1,13 @@
 ---
-title: "Trakik Skubal geht zu den Mets und andere Offseason News"
+title: "Tarik Skubal geht zu den Mets und andere Offseason News"
 date: 2026-11-24T16:00:00+02:00
 layout: post
 description: Tarik Skubal zu den Mets, die Offseason der Giants und die News der letzen Wochen.
 author:
-   name: Stefan Dillinger
+  name: Stefan Dillinger
 thumb: thumbnail_25_offseason_02.png
 ---
+
 <img src='../../img/thumbnail_25_offseason_02.png' style='display:none'>
 
 **Liebe Baseballgemeinde**, nun ist der größte Dominostein also gefallen und Tarik Skubal geht zu den Mets, außerdem weitere News der MLB aus den letzten Wochen und natürlich, was die Giants so gemacht haben.
@@ -71,6 +72,4 @@ Die Tigers verpflichteten Luis Gil, den die Yankees am Freitag per Non-Tender fr
 
 Die Cubs einigten sich mit Trevor Rogers auf einen Fünfjahresvertrag über 120 Millionen Dollar, nachdem ihre komplette Rotation in die Free Agency gegangen war. Der 29-Jährige hatte die Qualifying Offer der Orioles über 23,15 Millionen Dollar abgelehnt, weshalb die Cubs als CBT-Zahler zwei Draft Picks verloren. Nach einem 1.81 ERA im Jahr 2025 startete Rogers 2026 mit 6.84 ERA in zehn Einsätzen eher schwach. Ab Juni verbuchte er in 20 Starts einen 2.90 ERA bei 2.89 FIP sowie 119 Strikeouts gegen 21 Walks. Am Ende standen 4.03 ERA in 169.2 Innings. Seine Ground-Ball-Rate sank zwar von 46.0 auf 38.3 Prozent, doch die Gold-Glove-Defense der Cubs sollte ihm helfen.
 
-
-Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: *Inside the Dugout – der deutsche MLB-Wochenrückblick!*
-
+Das war’s für diese Woche – wir lesen uns nächsten Montag wieder, wenn es wieder heißt: _Inside the Dugout – der deutsche MLB-Wochenrückblick!_
